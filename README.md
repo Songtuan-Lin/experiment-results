@@ -5,7 +5,7 @@ You can access the benchmark sets without those outputs of the experiments via t
 # Structure of the Folders
 
 The experiments were run on two benchmark sets (G1 and G2). The two folders "benchmarks-G1" and "benchmarks-G2" contain the outputs of the experiments together with the two benchmark sets. The structures of these two folds are as follows.
-```bash
+```
 |-- benchamrks-G1
 |   |-- domain-1
 |   |   |-- task-1
