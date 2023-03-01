@@ -1,8 +1,75 @@
 Here you find all outputs of the experiments described in the paper "Towards Automated Modeling Assistance: An Efficient Approach for Repairing Flawed Planning Domains" by Songtuan Lin, Alban Grastien, and Pascal Bercher, accepted by AAAI 2023.
 
- The experiments were run on two benchmark sets (G1 and G2). For each flawed domain (a domain repair problem instance) in the sets, you can find a repaired domain (named "domain-repaired.pddl") together with the repairs for the original (flawed) domain, which are recorded in the file named "diagnosis". The file "diagnosis" also records the runtime and the memory consumption for finding those repairs. You can also find the plots for depicting these runtime results (runtime-G1.png and runtime-G2.png).
-
 You can access the benchmark sets without those outputs of the experiments via the URL: https://github.com/Songtuan-Lin/repairing-domains-benchmarks. There, you can also find the description about how these two benchmark sets are structured. Any new benchmark we might create in the future will also be added to this repository.   
+
+# Structure of the Folders
+
+The experiments were run on two benchmark sets (G1 and G2). The two folders "benchmarks-G1" and "benchmarks-G2" contain the outputs of the experiments together with the two benchmark sets. The structures of these two folds are as follows.
+```bash
+|-- benchamrks-G1
+|   |-- domain-1
+|   |   |-- task-1
+|   |   |   |-- err-rate-0.1
+|   |   |   |   |-- domain.pddl
+|   |   |   |   |-- fuzz_ops.txt
+|   |   |   |   |-- diagnosis
+|   |   |   |   |-- domain-repaired.pddl
+|   |   |   |-- err-rate-0.3
+|   |   |   |   |-- domain.pddl
+|   |   |   |   |-- fuzz_ops.txt
+|   |   |   |   |-- diagnosis
+|   |   |   |   |-- domain-repaired.pddl
+|   |   |   |-- err-rate-0.5
+|   |   |   |   |-- domain.pddl
+|   |   |   |   |-- fuzz_ops.txt
+|   |   |   |   |-- diagnosis
+|   |   |   |   |-- domain-repaired.pddl
+|   |   |   |-- task_file.pddl
+|   |   |   |-- sas_plan
+|   |   |-- task-2
+|   |   |   |-- ...
+|   |   |   |
+|   |   |   |-- ...   
+│   |-- domain-2
+|   |   |-- ...
+|   |   |
+|   |   |-- ...
+|   |
+|   |-- ...
+```
+```
+|-- benchamrks-G2
+|   |-- domain-1
+|   |   |-- err-rate-0.1
+|   |   |   |-- domain.pddl
+|   |   |   |-- fuzz_ops.txt
+|   |   |   |-- diagnosis
+|   |   |   |-- domain-repaired.pddl
+|   |   |-- err-rate-0.3
+|   |   |   |-- domain.pddl
+|   |   |   |-- fuzz_ops.txt
+|   |   |   |-- diagnosis
+|   |   |   |-- domain-repaired.pddl
+|   |   |-- err-rate-0.5
+|   |   |   |-- domain.pddl
+|   |   |   |-- fuzz_ops.txt
+|   |   |   |-- diagnosis
+|   |   |   |-- domain-repaired.pddl
+│   │   |-- task_1
+|   |   |   |-- task_file.pddl
+|   |   |   |-- sas_plan
+|   |   |-- task_2
+|   |   |   |-- task_file.pddl
+|   |   |   |-- sas_plan   
+│   |-- domain-2
+|   |   |-- ...
+|   |   |
+|   |   |-- ...
+|   |-- ...
+```
+In both folders, a directory err-rate-X (where X is 0.1, 0.3, or 0.5) contains a flawed domain PDDL file (domain.pddl) with the respective error rate (see the paper for how errors are introduced to the domain model), a file named fuzz_ops.txt which indicates what errors are introduced to the domain, a file named diagnosis which records the repairs to the flawed domain found in the experiments together with the runtime and the memory consumption for finding these repairs, and the repaired domain PDDL file (domain-repaired.pddl). The file sas_plan in each task directory (in both benchmark folders) records the plan that is supposed to be the solution to the respective planning task.
+
+Further, the plots runtime-G1.png and runtime-G2.png summarize the runtime for repairing flawed domain on the benchmark sets G1 and G2, respectively.
 
 # Reproducing the Experiment Results
 
