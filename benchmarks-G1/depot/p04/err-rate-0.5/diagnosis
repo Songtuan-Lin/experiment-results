@@ -1,0 +1,5 @@
+<Component: Remove Atom on(?y, ?x) from Precondition: drive | Condition: False>
+<Component: Remove Atom at(?z, ?y) from Precondition: load | Condition: False>
+<Component: Add Atom depot(?y) to Effects: lift | Condition: False>
+0.008168449000000001
+memory: 14.53515625

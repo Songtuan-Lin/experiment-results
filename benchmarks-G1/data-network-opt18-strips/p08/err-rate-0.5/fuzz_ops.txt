@@ -1,0 +1,3 @@
+<Remove NegatedAtom usage(?to, ?before) from Effs: send>
+<Add Atom sum(?before, ?size, ?after) to Effs: release>
+<Add Atom sum(?limit, ?limit, ?size) to Neg-effs: load>

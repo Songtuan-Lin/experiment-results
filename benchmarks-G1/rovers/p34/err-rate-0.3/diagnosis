@@ -1,0 +1,5 @@
+<Component: Remove Atom equipped_for_imaging(?x) from Precondition: navigate | Condition: False>
+<Component: Remove Atom communicated_rock_data(?x) from Precondition: communicate_image_data | Condition: False>
+<Component: Remove Atom equipped_for_rock_analysis(?x) from Precondition: drop | Condition: False>
+0.055967053999999995
+memory: 13.5703125

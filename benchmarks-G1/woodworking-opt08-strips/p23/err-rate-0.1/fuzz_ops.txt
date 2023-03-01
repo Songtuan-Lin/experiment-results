@@ -1,0 +1,2 @@
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Prec: do-plane>
+<Add Atom boardsize(?b, ?size_before) to Prec: cut-board-small>

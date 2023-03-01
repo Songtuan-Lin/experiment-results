@@ -1,0 +1,2 @@
+<Add Atom food(?c) to Effs: succumb>
+<Remove NegatedAtom locale(?n1, ?l11) from Effs: drink>

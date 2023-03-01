@@ -1,0 +1,4 @@
+<Component: Remove Atom value(?homecard, ?vcard) from Precondition: col-to-home-b | Condition: False>
+<Component: Remove Atom canstack(?oldcard, ?oldcard) from Precondition: tal-to-col-e | Condition: False>
+0.030549850000000003
+memory: 12.30078125

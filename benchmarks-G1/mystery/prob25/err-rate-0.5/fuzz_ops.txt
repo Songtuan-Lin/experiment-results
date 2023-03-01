@@ -1,0 +1,2 @@
+<Add Atom =(?l2, ?v) to Prec: feast>
+<Add Atom =(?c, ?s1) to Prec: overcome>

@@ -1,0 +1,2 @@
+<Add Atom isadjacent(?newtail, ?newtail) to Effs: move>
+<Add Atom spawn(?head) to Effs: move-and-eat-no-spawn>

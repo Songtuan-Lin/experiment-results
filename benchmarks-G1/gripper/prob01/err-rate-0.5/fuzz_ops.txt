@@ -1,0 +1,2 @@
+<Add Atom at(?gripper, ?room) to Neg-effs: pick>
+<Add Atom =(?to, ?to) to Neg-effs: move>

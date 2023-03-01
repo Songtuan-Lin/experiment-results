@@ -1,0 +1,5 @@
+<Remove Atom at(?x, ?z) from Pos-effs: navigate>
+<Remove Atom empty(?y) from Pos-effs: drop>
+<Remove Atom communicated_image_data(?o, ?m) from Pos-effs: communicate_image_data>
+<Remove Atom calibrated(?i, ?r) from Pos-effs: calibrate>
+<Remove Atom communicated_rock_data(?p) from Pos-effs: communicate_rock_data>

@@ -1,0 +1,1 @@
+<Remove Atom at_person(?x3, ?x2) from Pos-effs: walk_together>

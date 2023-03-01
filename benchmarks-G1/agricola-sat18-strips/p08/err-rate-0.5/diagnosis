@@ -1,0 +1,4 @@
+<Component: Add Atom harvest_phase(?s, harvest_feeding) to Effects: ag__harvest_collect_end | Condition: False>
+<Component: Add Atom current_round(?r) to Effects: ag__harvest_collect_end | Condition: False>
+0.027566165999999996
+memory: 14.5390625

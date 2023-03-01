@@ -1,0 +1,1 @@
+<Remove Atom empty(?truck) from Pos-effs: disembark-truck>

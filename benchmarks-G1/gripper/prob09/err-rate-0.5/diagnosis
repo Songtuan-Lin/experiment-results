@@ -1,0 +1,4 @@
+<Component: Remove Atom ball(?room) from Precondition: drop | Condition: False>
+<Component: Remove Atom carry(?to, ?from) from Precondition: move | Condition: False>
+0.005866540000000003
+memory: 14.53125

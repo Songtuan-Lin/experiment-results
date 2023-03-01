@@ -1,0 +1,2 @@
+<Remove Atom in(?obj, ?truck) from Pos-effs: load-truck>
+<Remove Atom at(?driver, ?loc-to) from Pos-effs: walk>

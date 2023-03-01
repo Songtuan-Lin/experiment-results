@@ -1,0 +1,3 @@
+<Add Atom on(?card, ?oldcard) to Prec: sendtofree>
+<Add Atom successor(?ncols, ?card) to Prec: move-b>
+<Add Atom suit(?ncells, ?card) to Prec: newcolfromfreecell>

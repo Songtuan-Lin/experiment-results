@@ -1,0 +1,2 @@
+<Add Atom in(?p, ?v) to Neg-effs: pick-up>
+<Add Atom capacity-predecessor(?s2, ?s1) to Neg-effs: drop>

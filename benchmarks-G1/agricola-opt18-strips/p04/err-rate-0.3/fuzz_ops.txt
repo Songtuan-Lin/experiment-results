@@ -1,0 +1,7 @@
+<Remove Atom hold_round(?r, backhome) from Pos-effs: ag__finish_round_backhome_withchild>
+<Add Atom next_worker(?w1, ?wmax) to Effs: take_grain>
+<Remove Atom fences_for(?a) from Pos-effs: build_fences>
+<Remove Atom current_worker(?w2) from Pos-effs: collect_resource>
+<Remove Atom owned_animals(?a) from Pos-effs: collect_animal>
+<Add Atom newborn() to Prec: ag__finish_stage>
+<Remove Atom harvest_phase(?s, harvest_end) from Pos-effs: ag__harvest_breed_end>

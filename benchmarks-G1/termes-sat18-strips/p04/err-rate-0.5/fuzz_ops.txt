@@ -1,0 +1,4 @@
+<Add Atom succ(?hbefore, ?hbefore) to Effs: place-block>
+<Add Atom has-block() to Effs: move>
+<Add Atom neighbor(?p, ?p) to Effs: destroy-block>
+<Add Atom height(?to, ?hfrom) to Effs: move-up>

@@ -1,0 +1,6 @@
+<Component: Remove Atom at_rock_sample(?w) from Precondition: calibrate | Condition: False>
+<Component: Remove Atom can_traverse(?x, ?y, ?y) from Precondition: navigate | Condition: False>
+<Component: Remove Atom have_soil_analysis(?x, ?p) from Precondition: sample_rock | Condition: False>
+<Component: Add Atom equipped_for_soil_analysis(?x) to Effects: sample_rock | Condition: False>
+0.013547060999999992
+memory: 14.5390625

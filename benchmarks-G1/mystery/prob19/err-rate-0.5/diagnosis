@@ -1,0 +1,4 @@
+<Component: Add Atom craves(?c, ?n) to Effects: succumb | Condition: False>
+<Component: Remove Atom fears(?c, ?v) from Precondition: succumb | Condition: False>
+0.008217429999999998
+memory: 14.52734375

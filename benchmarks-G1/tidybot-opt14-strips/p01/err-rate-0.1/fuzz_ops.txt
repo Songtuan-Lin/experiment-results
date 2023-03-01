@@ -1,0 +1,3 @@
+<Remove Atom pushing(?r, ?c) from Pos-effs: grasp-cart-left>
+<Remove Atom parked(?r) from Pos-effs: park>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-up>

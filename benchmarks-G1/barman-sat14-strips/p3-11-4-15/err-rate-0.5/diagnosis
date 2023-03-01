@@ -1,0 +1,5 @@
+<Component: Remove Atom clean(?c) from Precondition: grasp | Condition: False>
+<Component: Remove Atom next(?l1, ?l) from Precondition: empty-shaker | Condition: False>
+<Component: Remove Atom shaker-level(?s, ?l1) from Precondition: pour-shaker-to-shot | Condition: False>
+0.03815318799999999
+memory: 14.5390625

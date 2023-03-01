@@ -1,0 +1,4 @@
+<Remove NegatedAtom at(?from) from Effs: move-down>
+<Add Atom height(?rpos, ?hbefore) to Effs: place-block>
+<Add Atom is-depot(?from) to Prec: move>
+<Add Atom neighbor(?from, ?from) to Prec: move-up>

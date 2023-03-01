@@ -1,0 +1,4 @@
+<Component: Remove Atom served(?c) from Precondition: serve_sandwich_no_gluten | Condition: False>
+<Component: Remove Atom ontray(?s, ?t) from Precondition: put_on_tray | Condition: False>
+0.008441295000000001
+memory: 13.16796875

@@ -1,0 +1,2 @@
+<Add Atom ontable(?x) to Neg-effs: put-down>
+<Add Atom ontable(?x) to Neg-effs: stack>

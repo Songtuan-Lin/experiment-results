@@ -1,0 +1,4 @@
+<Component: Add Atom parked(?r) to Effects: park | Condition: False>
+<Component: Add Atom gripper-rel(?r, ?gxrel, ?dgyrel) to Effects: gripper-down | Condition: False>
+0.012463956999999998
+memory: 12.02734375

@@ -1,0 +1,2 @@
+<Add Atom behind-car(?cardest, ?car) to Neg-effs: move-curb-to-car>
+<Add Atom at-curb-num(?car, ?curbdest) to Neg-effs: move-car-to-curb>

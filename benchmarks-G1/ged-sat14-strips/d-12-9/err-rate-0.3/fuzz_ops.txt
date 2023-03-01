@@ -1,0 +1,7 @@
+<Remove NegatedAtom splice-point-1(?y) from Effs: continue-inverse-splice-2>
+<Add Atom splicing() to Effs: reset-1>
+<Remove Atom splice-point-1(?x) from Pos-effs: begin-inverse-splice>
+<Add Atom have-cut() to Prec: end-cut-2>
+<Add Atom present(?x) to Effs: continue-splice-1>
+<Add Atom splice-point-1(?y) to Effs: begin-transverse-splice>
+<Add Atom have-cut() to Effs: end-inverse-splice-1a>

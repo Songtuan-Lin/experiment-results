@@ -1,0 +1,2 @@
+<Add Atom =(?x, ?x) to Prec: stack>
+<Add Atom ontable(?x) to Prec: pick-up>

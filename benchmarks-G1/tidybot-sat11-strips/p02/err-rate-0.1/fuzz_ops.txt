@@ -1,0 +1,3 @@
+<Add Atom leftof(?ox, ?gxabs) to Prec: get-right>
+<Add Atom leftof(?x, ?x) to Prec: base-down>
+<Add Atom base-obstacle(?basex, ?gyabs) to Prec: put-up>

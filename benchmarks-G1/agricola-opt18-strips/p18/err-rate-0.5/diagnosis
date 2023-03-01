@@ -1,0 +1,6 @@
+<Component: Add Atom harvest_phase(?s, harvest_end) to Effects: ag__harvest_feed | Condition: False>
+<Component: Add Atom next_worker(?wmax, ?w1) to Effects: take_food | Condition: False>
+<Component: Add NegatedAtom newborn() to Effects: ag__finish_round_renew | Condition: False>
+<Component: Remove Atom num_food(?i1) from Precondition: collect_cook_animal | Condition: False>
+0.10408425799999999
+memory: 15.90625

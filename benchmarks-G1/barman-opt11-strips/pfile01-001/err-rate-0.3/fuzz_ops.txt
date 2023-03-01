@@ -1,0 +1,4 @@
+<Add Atom holding(?h, ?c) to Prec: grasp>
+<Add Atom handempty(?h1) to Prec: refill-shot>
+<Add Atom shaker-level(?d, ?l1) to Prec: pour-shot-to-used-shaker>
+<Add Atom holding(?h, ?c) to Prec: leave>

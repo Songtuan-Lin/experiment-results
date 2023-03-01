@@ -1,0 +1,4 @@
+<Component: Remove Atom at_person(?x5, ?x2) from Precondition: walk_together | Condition: False>
+<Component: Add Atom down(?x5) to Effects: drive_tent | Condition: False>
+0.007299276999999993
+memory: 14.53515625

@@ -1,0 +1,2 @@
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-immersion-varnish>
+<Add Atom boardsize-successor(?s1, ?size_after) to Prec: cut-board-medium>

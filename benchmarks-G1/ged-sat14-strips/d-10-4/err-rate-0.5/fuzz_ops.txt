@@ -1,0 +1,11 @@
+<Add Atom normal(?y) to Effs: begin-transverse-splice>
+<Add Atom splicing-last() to Prec: end-inverse-splice-2>
+<Add Atom cw(?x, ?x) to Effs: invert-single-gene-b>
+<Remove Atom s-last(?y) from Pos-effs: continue-cut>
+<Remove NegatedAtom splice-point-1(?y) from Effs: continue-splice-2>
+<Add Atom splice-point-1(?y) to Effs: continue-splice-1>
+<Add Atom cut-point-1(?x) to Effs: reset-1>
+<Add Atom s-first(?x) to Effs: end-splice-2>
+<Remove NegatedAtom cw(?x, ?x) from Effs: begin-inverse-splice-special-case>
+<Add Atom swappable(?y, ?y) to Effs: end-inverse-splice-1b>
+<Remove NegatedAtom cutting() from Effs: end-cut-2>

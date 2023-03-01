@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom succ(?hbefore, ?hafter) from Effects: remove-block | Condition: False>
+<Component: Add Atom height(?bpos, ?hafter) to Effects: place-block | Condition: False>
+0.022215844999999998
+memory: 13.17578125

@@ -1,0 +1,3 @@
+<Add Atom leftof(?dx, ?cx) to Neg-effs: base-left>
+<Add Atom gripper-empty(?r) to Neg-effs: grasp-cart-right>
+<Add Atom gripper-obstacle(?gxabs, ?basey) to Neg-effs: get-down>

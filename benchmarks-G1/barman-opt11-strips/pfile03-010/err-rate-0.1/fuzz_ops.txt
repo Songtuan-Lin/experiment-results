@@ -1,0 +1,2 @@
+<Add Atom handempty(?h) to Neg-effs: empty-shot>
+<Add Atom holding(?h, ?c) to Neg-effs: grasp>

@@ -1,0 +1,6 @@
+<Component: Remove NegatedAtom handempty(?h) from Effects: grasp | Condition: False>
+<Component: Remove Atom cocktail-part2(?b, ?d1) from Precondition: shake | Condition: False>
+<Component: Remove Atom shaker-level(?s, ?l1) from Precondition: pour-shaker-to-shot | Condition: False>
+<Component: Remove Atom next(?l, ?l) from Precondition: empty-shaker | Condition: False>
+0.010860085000000005
+memory: 14.5390625

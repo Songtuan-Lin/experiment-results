@@ -1,0 +1,2 @@
+<Add Atom locale(?c, ?v) to Effs: succumb>
+<Remove NegatedAtom harmony(?v, ?s2) from Effs: overcome>

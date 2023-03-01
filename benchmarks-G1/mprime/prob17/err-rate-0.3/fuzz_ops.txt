@@ -1,0 +1,2 @@
+<Remove Atom harmony(?v, ?s2) from Pos-effs: succumb>
+<Add Atom eats(?c, ?s2) to Effs: overcome>

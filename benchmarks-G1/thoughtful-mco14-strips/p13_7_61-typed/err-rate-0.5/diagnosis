@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom value(?cardabove, ?vcard) from Effects: tal-to-home | Condition: False>
+<Component: Remove NegatedAtom value(?card, ?vcard) from Effects: col-to-home-b | Condition: False>
+0.03088898300000001
+memory: 14.5390625

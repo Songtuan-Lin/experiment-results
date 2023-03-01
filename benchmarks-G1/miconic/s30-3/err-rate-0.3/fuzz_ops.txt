@@ -1,0 +1,2 @@
+<Add Atom boarded(?f2) to Prec: up>
+<Add Atom passenger(?p) to Prec: depart>

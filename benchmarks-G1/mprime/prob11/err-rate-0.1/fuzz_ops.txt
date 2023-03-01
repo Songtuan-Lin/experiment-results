@@ -1,0 +1,1 @@
+<Remove NegatedAtom fears(?c, ?v) from Effs: succumb>

@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom has-block() from Precondition: remove-block | Condition: False>
+<Component: Add Atom has-block() to Effects: place-block | Condition: False>
+<Component: Remove NegatedAtom has-block() from Precondition: create-block | Condition: False>
+0.04701481800000001
+memory: 14.53515625

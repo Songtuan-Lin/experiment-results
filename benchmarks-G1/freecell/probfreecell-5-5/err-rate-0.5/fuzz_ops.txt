@@ -1,0 +1,5 @@
+<Add Atom successor(?vcard, ?vhomecard) to Neg-effs: homefromfreecell>
+<Add Atom value(?newcard, ?card) to Neg-effs: move>
+<Add Atom canstack(?cols, ?ncols) to Neg-effs: newcolfromfreecell>
+<Add Atom successor(?cols, ?ncols) to Neg-effs: sendtonewcol>
+<Add Atom value(?cols, ?cols) to Neg-effs: sendtohome-b>

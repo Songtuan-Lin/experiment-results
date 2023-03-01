@@ -1,0 +1,11 @@
+<Add Atom =(?y, ?x) to Neg-effs: end-inverse-splice-1b>
+<Remove NegatedAtom cw(?x, ?y) from Effs: continue-cut>
+<Add Atom inverted(?y) to Prec: end-splice-1>
+<Add Atom normal(?x) to Neg-effs: continue-splice-1>
+<Remove NegatedAtom have-cut() from Effs: begin-inverse-splice-special-case>
+<Add Atom splicing() to Prec: continue-inverse-splice-2>
+<Add Atom =(?x, ?y) to Effs: continue-splice-2>
+<Add Atom s-first(?y) to Prec: continue-inverse-splice-1b>
+<Add Atom splicing-last() to Effs: begin-cut>
+<Add Atom idle() to Prec: invert-single-gene-a>
+<Add Atom cutting() to Prec: end-inverse-splice-1a>

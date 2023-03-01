@@ -1,0 +1,2 @@
+<Add Atom capacity(?v, ?s1) to Prec: drop>
+<Add Atom road(?l, ?l) to Prec: pick-up>

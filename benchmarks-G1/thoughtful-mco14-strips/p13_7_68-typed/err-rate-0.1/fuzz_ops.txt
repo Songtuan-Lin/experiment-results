@@ -1,0 +1,3 @@
+<Add Atom home(?homecard) to Prec: tal-to-home-b>
+<Add Atom bottomtalon(?cardabove) to Prec: tal-to-col-e>
+<Add Atom clear(?homecard) to Prec: tal-to-home-d>

@@ -1,0 +1,4 @@
+<Component: Add Atom passengers(?lift, ?n1) to Effects: board | Condition: False>
+<Component: Add Atom lift-at(?lift, ?n1) to Effects: board | Condition: False>
+0.008013821000000004
+memory: 13.16796875

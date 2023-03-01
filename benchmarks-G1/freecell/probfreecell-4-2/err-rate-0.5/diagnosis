@@ -1,0 +1,5 @@
+<Component: Add Atom home(?card) to Effects: sendtohome-b | Condition: False>
+<Component: Add Atom clear(?oldcard) to Effects: sendtohome | Condition: False>
+<Component: Remove Atom clear(?card) from Precondition: sendtohome | Condition: False>
+0.009992545999999998
+memory: 14.53125

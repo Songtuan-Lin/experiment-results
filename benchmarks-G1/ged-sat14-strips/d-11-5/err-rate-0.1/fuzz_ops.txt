@@ -1,0 +1,3 @@
+<Add Atom splicing-last() to Neg-effs: continue-splice-1>
+<Add Atom cw(?x, ?x) to Neg-effs: begin-inverse-splice>
+<Add Atom splice-point-2(?x) to Neg-effs: continue-cut>

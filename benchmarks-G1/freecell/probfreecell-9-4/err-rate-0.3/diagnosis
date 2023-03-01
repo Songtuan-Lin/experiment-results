@@ -1,0 +1,4 @@
+<Component: Remove Atom value(?vhomecard, ?ncols) from Precondition: sendtohome-b | Condition: False>
+<Component: Remove Atom on(?card, ?card) from Precondition: sendtofree | Condition: False>
+0.013224670999999993
+memory: 13.17578125

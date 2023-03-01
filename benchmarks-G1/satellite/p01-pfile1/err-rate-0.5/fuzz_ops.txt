@@ -1,0 +1,3 @@
+<Add Atom pointing(?d, ?i) to Prec: calibrate>
+<Add Atom have_image(?i, ?i) to Prec: switch_off>
+<Add Atom calibrated(?i) to Prec: switch_on>

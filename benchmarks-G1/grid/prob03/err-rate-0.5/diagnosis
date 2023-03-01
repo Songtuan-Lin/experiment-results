@@ -1,0 +1,5 @@
+<Component: Remove Atom lock-shape(?key, ?key) from Precondition: pickup | Condition: False>
+<Component: Remove Atom lock-shape(?nextpos, ?nextpos) from Precondition: move | Condition: False>
+<Component: Remove Atom at-robot(?newkey) from Precondition: pickup-and-loose | Condition: False>
+0.007919800000000005
+memory: 14.5390625

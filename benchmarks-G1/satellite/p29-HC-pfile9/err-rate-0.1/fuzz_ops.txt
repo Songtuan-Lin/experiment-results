@@ -1,0 +1,1 @@
+<Add Atom on_board(?s, ?m) to Prec: take_image>

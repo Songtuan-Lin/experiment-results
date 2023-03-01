@@ -1,0 +1,2 @@
+<Remove Atom holding(?x) from Pos-effs: pick-up>
+<Remove Atom ontable(?x) from Pos-effs: put-down>

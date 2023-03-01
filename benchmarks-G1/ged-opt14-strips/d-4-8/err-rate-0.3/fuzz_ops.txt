@@ -1,0 +1,7 @@
+<Add Atom present(?x) to Neg-effs: continue-splice-2>
+<Add Atom splicing() to Effs: continue-inverse-splice-1a>
+<Remove Atom s-first(?y) from Pos-effs: begin-cut>
+<Add Atom s-next(?x, ?y) to Neg-effs: continue-cut>
+<Add Atom =(?x, ?y) to Effs: end-inverse-splice-2>
+<Add Atom inverse-splicing-last() to Effs: end-cut-1>
+<Add Atom gone(?x) to Effs: reset-1>

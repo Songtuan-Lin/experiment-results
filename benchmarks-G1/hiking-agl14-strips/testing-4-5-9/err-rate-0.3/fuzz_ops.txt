@@ -1,0 +1,3 @@
+<Add Atom next(?x2, ?x2) to Effs: drive>
+<Add Atom at_person(?x1, ?x2) to Effs: put_up>
+<Add Atom next(?x3, ?x3) to Effs: drive_passenger>

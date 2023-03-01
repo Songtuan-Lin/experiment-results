@@ -1,0 +1,2 @@
+<Add Atom handempty(?h) to Prec: empty-shot>
+<Add Atom ontable(?c) to Prec: leave>

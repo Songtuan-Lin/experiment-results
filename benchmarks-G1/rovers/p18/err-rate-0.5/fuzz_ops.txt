@@ -1,0 +1,5 @@
+<Add Atom visible(?p, ?p) to Neg-effs: take_image>
+<Add Atom equipped_for_rock_analysis(?r) to Neg-effs: communicate_soil_data>
+<Add Atom visible_from(?t, ?w) to Neg-effs: calibrate>
+<Add Atom can_traverse(?r, ?x, ?y) to Neg-effs: communicate_image_data>
+<Add Atom visible(?x, ?x) to Neg-effs: communicate_rock_data>

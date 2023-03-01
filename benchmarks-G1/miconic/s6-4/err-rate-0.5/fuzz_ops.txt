@@ -1,0 +1,2 @@
+<Add Atom destin(?p, ?p) to Neg-effs: depart>
+<Add Atom served(?p) to Neg-effs: board>

@@ -1,0 +1,2 @@
+<Add Atom unitary(?pipe) to Neg-effs: pop-unitarypipe>
+<Add Atom may-interface(?product-first-batch, ?product-first-batch) to Neg-effs: push-start>

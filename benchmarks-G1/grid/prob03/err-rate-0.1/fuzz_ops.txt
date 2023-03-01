@@ -1,0 +1,1 @@
+<Add Atom place(?curpos) to Neg-effs: pickup-and-loose>

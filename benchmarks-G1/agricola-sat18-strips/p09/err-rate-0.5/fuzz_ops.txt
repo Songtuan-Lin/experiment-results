@@ -1,0 +1,11 @@
+<Add Atom max_worker(?w1) to Effs: family_growth>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_veg>
+<Add Atom current_worker(?wmax) to Neg-effs: collect_animal>
+<Remove Atom current_worker(?w2) from Pos-effs: take_food>
+<Add Atom available_action(?act) to Effs: ag__advance_round_normal>
+<Remove NegatedAtom harvest_phase(?s, harvest_init) from Effs: ag__harvest_collect_end>
+<Remove Atom current_worker(?w2) from Pos-effs: collect_cook_animal>
+<Remove Atom num_food(?i2) from Pos-effs: ag__harvest_breeding_animal>
+<Add Atom next_num(?i1, ?i2) to Effs: ag__harvest_collecting_fromoven>
+<Add Atom next_round(?r, ?r) to Effs: ag__harvest_breed_end>
+<Add Atom next_worker(?w2, ?w2) to Effs: collect_resource>

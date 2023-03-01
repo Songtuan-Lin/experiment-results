@@ -1,0 +1,1 @@
+<Remove NegatedAtom at_person(?x3, ?x4) from Effs: walk_together>

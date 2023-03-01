@@ -1,0 +1,6 @@
+<Component: Remove NegatedAtom king(?card) from Effects: turn-deck | Condition: False>
+<Component: Remove NegatedAtom faceup(?newcard) from Effects: move-col-to-col-b | Condition: False>
+<Component: Add Atom suit(?cardbelow, ?cardsuit) to Effects: tal-to-home | Condition: False>
+<Component: Add Atom faceup(?newcard) to Effects: tal-to-col | Condition: False>
+0.08527501099999998
+memory: 14.5390625

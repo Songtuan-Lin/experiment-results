@@ -1,0 +1,4 @@
+<Component: Remove Atom empty(?s) from Precondition: sample_rock | Condition: False>
+<Component: Add Atom at(?x, ?z) to Effects: navigate | Condition: False>
+0.007431823999999997
+memory: 13.16796875

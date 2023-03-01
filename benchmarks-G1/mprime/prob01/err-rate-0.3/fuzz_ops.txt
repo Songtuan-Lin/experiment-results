@@ -1,0 +1,2 @@
+<Add Atom locale(?l12, ?l13) to Effs: drink>
+<Add Atom fears(?n2, ?v) to Effs: feast>

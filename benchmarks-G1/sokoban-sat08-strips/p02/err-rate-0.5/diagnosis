@@ -1,0 +1,4 @@
+<Component: Add Atom at(?p, ?to) to Effects: move | Condition: False>
+<Component: Add Atom at(?s, ?to) to Effects: push-to-goal | Condition: False>
+0.027624452999999993
+memory: 14.5390625

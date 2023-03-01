@@ -1,0 +1,3 @@
+<Add Atom in-city(?obj, ?obj) to Prec: unload-airplane>
+<Add Atom location(?airplane) to Prec: load-airplane>
+<Add Atom airplane(?truck) to Prec: load-truck>

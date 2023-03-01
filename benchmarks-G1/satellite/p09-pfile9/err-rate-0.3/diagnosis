@@ -1,0 +1,4 @@
+<Component: Add Atom power_avail(?s) to Effects: switch_on | Condition: False>
+<Component: Remove Atom power_on(?s) from Precondition: switch_on | Condition: False>
+0.004653823000000001
+memory: 13.17578125

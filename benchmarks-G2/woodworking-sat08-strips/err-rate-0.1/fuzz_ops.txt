@@ -1,0 +1,2 @@
+<Add Atom unused(?x) to Neg-effs: do-glaze>
+<Remove Atom wood(?p, ?w) from Pos-effs: cut-board-medium>

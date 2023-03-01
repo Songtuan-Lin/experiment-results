@@ -1,0 +1,7 @@
+<Add Atom treatment(?x, ?oldtreatment) to Prec: do-plane>
+<Add Atom boardsize-successor(?size_after, ?size_after) to Prec: do-saw-large>
+<Add Atom boardsize(?b, ?size_after) to Prec: do-saw-medium>
+<Add Atom empty(?m) to Prec: cut-board-small>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: load-highspeed-saw>
+<Add Atom colour(?x, ?newcolour) to Prec: do-glaze>
+<Add Atom empty(?m) to Prec: unload-highspeed-saw>

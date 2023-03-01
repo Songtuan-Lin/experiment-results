@@ -1,0 +1,2 @@
+<Add Atom supports(?i, ?s) to Prec: switch_on>
+<Add Atom instrument(?s) to Prec: calibrate>

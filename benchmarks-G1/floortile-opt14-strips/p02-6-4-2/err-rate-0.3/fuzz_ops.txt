@@ -1,0 +1,3 @@
+<Remove Atom clear(?x) from Pos-effs: down>
+<Remove Atom robot-at(?r, ?y) from Pos-effs: left>
+<Remove Atom clear(?x) from Pos-effs: right>

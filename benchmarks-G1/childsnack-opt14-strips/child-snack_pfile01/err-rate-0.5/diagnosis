@@ -1,0 +1,5 @@
+<Component: Add Atom at_kitchen_sandwich(?s) to Effects: make_sandwich_no_gluten | Condition: False>
+<Component: Add Atom served(?c) to Effects: serve_sandwich_no_gluten | Condition: False>
+<Component: Add Atom served(?c) to Effects: serve_sandwich | Condition: False>
+0.008238677
+memory: 14.53125

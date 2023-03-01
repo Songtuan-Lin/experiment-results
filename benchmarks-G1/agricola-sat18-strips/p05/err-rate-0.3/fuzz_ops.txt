@@ -1,0 +1,7 @@
+<Remove Atom current_round(?r2) from Pos-effs: ag__finish_stage>
+<Add Atom next_worker(?wmax, ?wmax) to Neg-effs: build_room>
+<Add Atom newborn() to Effs: ag__harvest_breeding_animal>
+<Remove Atom stored_resource(?res) from Pos-effs: collect_resource>
+<Add Atom next_worker(?wmax, ?w1) to Effs: take_food>
+<Add Atom plowed_fields() to Effs: ag__advance_round_normal>
+<Add Atom next_round(?r, ?r) to Effs: ag__finish_round_renew>

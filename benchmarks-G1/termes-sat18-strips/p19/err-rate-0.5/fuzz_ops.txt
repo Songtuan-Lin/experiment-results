@@ -1,0 +1,4 @@
+<Add Atom neighbor(?to, ?to) to Effs: move>
+<Add Atom at(?from) to Effs: move-up>
+<Add Atom at(?to) to Prec: move-down>
+<Add Atom neighbor(?rpos, ?rpos) to Effs: place-block>

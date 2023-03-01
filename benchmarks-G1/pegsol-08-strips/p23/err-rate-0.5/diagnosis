@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom occupied(?from) from Effects: jump-new-move | Condition: False>
+<Component: Add Atom free(?over) to Effects: jump-new-move | Condition: False>
+0.008571265000000002
+memory: 14.5390625

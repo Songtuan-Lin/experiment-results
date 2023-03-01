@@ -1,0 +1,2 @@
+<Remove Atom capacity(?v, ?s2) from Pos-effs: drop>
+<Remove Atom capacity(?v, ?s1) from Pos-effs: pick-up>

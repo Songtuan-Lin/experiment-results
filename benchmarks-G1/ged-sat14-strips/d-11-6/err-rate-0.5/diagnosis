@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom s-last(?x) from Effects: end-splice-1 | Condition: False>
+<Component: Add Atom cw(?y, ?x) to Effects: end-splice-1 | Condition: False>
+0.016786826000000005
+memory: 14.5390625

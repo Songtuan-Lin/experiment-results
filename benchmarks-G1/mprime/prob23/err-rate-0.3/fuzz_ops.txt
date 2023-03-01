@@ -1,0 +1,2 @@
+<Add Atom attacks(?l2, ?n2) to Effs: feast>
+<Add Atom orbits(?c, ?n) to Effs: succumb>

@@ -1,0 +1,5 @@
+<Component: Add Atom gripper-empty(?r) to Effects: gripper-down | Condition: False>
+<Component: Add Atom holding(?r, ?o) to Effects: get-down | Condition: False>
+<Component: Remove Atom base-obstacle(?dgxabs, ?gyabs) from Effects: gripper-right | Condition: False>
+0.031307836
+memory: 14.53515625

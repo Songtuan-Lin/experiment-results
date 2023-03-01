@@ -1,0 +1,5 @@
+<Component: Add Atom next(?f, ?f) to Effects: board | Condition: False>
+<Component: Remove Atom above(?n2, ?n2) from Precondition: board | Condition: False>
+<Component: Remove Atom above(?f1, ?f2) from Precondition: move-down-fast | Condition: False>
+0.012975014
+memory: 14.53125

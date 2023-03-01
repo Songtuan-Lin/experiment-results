@@ -1,0 +1,11 @@
+<Add Atom on(?card, ?homecard) to Prec: tal-to-home-d>
+<Add Atom on(?homecard, ?card) to Prec: tal-to-home-b>
+<Add Atom on(?oldcard, ?newcard) to Prec: move-col-to-col>
+<Add Atom canstack(?cardbelow, ?newcard) to Prec: home-to-col>
+<Add Atom canstack(?card, ?card) to Prec: home-to-col-a>
+<Add Atom on(?oldcard, ?newcard) to Prec: tal-to-col-c>
+<Add Atom canstack(?card, ?c1) to Prec: turn-deck>
+<Add Atom bottomcol(?oldcard) to Prec: tal-to-col-e>
+<Add Atom canstack(?cardbelow, ?cardbelow) to Prec: tal-to-home-c>
+<Add Atom home(?card) to Prec: turn-deck-a>
+<Add Atom canstack(?oldcard, ?card) to Prec: tal-to-col-g>

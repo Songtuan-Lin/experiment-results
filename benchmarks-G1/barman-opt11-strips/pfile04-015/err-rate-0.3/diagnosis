@@ -1,0 +1,5 @@
+<Component: Add Atom holding(?h, ?c) to Effects: grasp | Condition: False>
+<Component: Add Atom empty(?s) to Effects: pour-shot-to-used-shaker | Condition: False>
+<Component: Remove NegatedAtom ontable(?c) from Effects: grasp | Condition: False>
+0.007202687999999999
+memory: 13.17578125

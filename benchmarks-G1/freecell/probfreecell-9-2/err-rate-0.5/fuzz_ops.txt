@@ -1,0 +1,5 @@
+<Add Atom canstack(?card, ?card) to Neg-effs: newcolfromfreecell>
+<Add Atom successor(?card, ?cells) to Neg-effs: sendtofree-b>
+<Add Atom cellspace(?card) to Neg-effs: sendtonewcol>
+<Add Atom value(?oldcard, ?newcard) to Neg-effs: move>
+<Add Atom =(?newcard, ?ncols) to Neg-effs: move-b>

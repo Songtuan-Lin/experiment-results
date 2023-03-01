@@ -1,0 +1,2 @@
+<Remove Atom at(?obj, ?loc) from Pos-effs: unload-airplane>
+<Remove Atom in(?obj, ?truck) from Pos-effs: load-truck>

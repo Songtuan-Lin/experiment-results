@@ -1,0 +1,1 @@
+<Add Atom have_image(?s, ?i) to Neg-effs: switch_on>

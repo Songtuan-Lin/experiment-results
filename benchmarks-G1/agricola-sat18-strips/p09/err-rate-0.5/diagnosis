@@ -1,0 +1,5 @@
+<Component: Add Atom current_worker(?w2) to Effects: collect_cook_animal | Condition: False>
+<Component: Add Atom current_worker(?w2) to Effects: take_food | Condition: False>
+<Component: Add Atom num_food(?i1) to Effects: collect_cook_animal | Condition: False>
+0.040527515
+memory: 14.5390625

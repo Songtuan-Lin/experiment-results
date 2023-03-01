@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom stored(?g, ?l3) from Effects: unload | Condition: False>
+<Component: Remove Atom loaded(?g, ?t, ?l2) from Precondition: buy | Condition: False>
+0.02686267700000001
+memory: 13.17578125

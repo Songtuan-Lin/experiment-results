@@ -1,0 +1,5 @@
+<Component: Remove Atom right(?x, ?x) from Precondition: left | Condition: False>
+<Component: Add Atom painted(?y, ?c) to Effects: paint-up | Condition: False>
+<Component: Remove Atom free-color(?r) from Precondition: up | Condition: False>
+0.061816695
+memory: 13.0546875

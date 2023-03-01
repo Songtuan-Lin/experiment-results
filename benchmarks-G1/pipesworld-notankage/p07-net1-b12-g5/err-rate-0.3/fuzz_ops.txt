@@ -1,0 +1,2 @@
+<Add Atom is-product(?last-batch-atom, ?product-last-batch) to Prec: pop-unitarypipe>
+<Add Atom follow(?first-batch-atom, ?first-batch-atom) to Prec: push-start>

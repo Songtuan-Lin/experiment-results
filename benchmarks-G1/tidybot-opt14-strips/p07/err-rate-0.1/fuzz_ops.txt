@@ -1,0 +1,3 @@
+<Add Atom leftof-rel(?cgxrel, ?dgxrel) to Effs: gripper-left>
+<Add Atom gripper-obstacle(?dx, ?y) to Effs: base-right>
+<Add Atom base-pos(?r, ?x, ?cy) to Effs: base-up>

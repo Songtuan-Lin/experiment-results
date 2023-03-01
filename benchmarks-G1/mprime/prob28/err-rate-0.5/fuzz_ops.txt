@@ -1,0 +1,2 @@
+<Add Atom eats(?v, ?n2) to Effs: feast>
+<Add Atom harmony(?n1, ?l11) to Effs: drink>

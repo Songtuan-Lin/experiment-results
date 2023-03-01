@@ -1,0 +1,3 @@
+<Add Atom on(?cells, ?card) to Prec: sendtofree-b>
+<Add Atom colspace(?card) to Prec: sendtohome>
+<Add Atom on(?card, ?ncells) to Prec: colfromfreecell>

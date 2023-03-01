@@ -1,0 +1,2 @@
+<Remove Atom ready-to-load(?g, ?m, ?l1) from Pos-effs: load>
+<Remove Atom on-sale(?g, ?m, ?l1) from Pos-effs: buy>

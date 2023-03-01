@@ -1,0 +1,5 @@
+<Add Atom successor(?ncells, ?cells) to Prec: sendtofree-b>
+<Add Atom suit(?card, ?newcard) to Prec: move>
+<Add Atom on(?card, ?cells) to Prec: sendtofree>
+<Add Atom successor(?vhomecard, ?cols) to Prec: sendtohome-b>
+<Add Atom value(?card, ?ncells) to Prec: colfromfreecell>

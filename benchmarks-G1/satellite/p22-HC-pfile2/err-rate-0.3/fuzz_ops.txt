@@ -1,0 +1,2 @@
+<Add Atom power_avail(?s) to Prec: switch_on>
+<Add Atom calibrated(?s) to Prec: turn_to>

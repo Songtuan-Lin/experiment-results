@@ -1,0 +1,5 @@
+<Component: Remove Atom suit(?cols, ?suit) from Precondition: sendtohome-b | Condition: False>
+<Component: Remove Atom suit(?newcard, ?ncols) from Precondition: move-b | Condition: False>
+<Component: Remove Atom =(?vhomecard, ?vcard) from Precondition: sendtohome | Condition: False>
+0.017673046999999997
+memory: 13.16796875

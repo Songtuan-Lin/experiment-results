@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom contains(?s, ?i) from Effects: pour-shot-to-clean-shaker | Condition: False>
+<Component: Add Atom empty(?p) to Effects: empty-shot | Condition: False>
+0.018669568000000004
+memory: 12.04296875

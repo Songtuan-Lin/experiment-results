@@ -1,0 +1,2 @@
+<Add Atom locale(?n, ?s2) to Effs: overcome>
+<Add Atom harmony(?v, ?v) to Effs: feast>

@@ -1,0 +1,5 @@
+<Component: Remove Atom calibrated(?i, ?r) from Precondition: take_image | Condition: False>
+<Component: Add Atom have_image(?r, ?o, ?m) to Effects: take_image | Condition: False>
+<Component: Remove Atom full(?y) from Precondition: drop | Condition: False>
+0.026325177999999998
+memory: 13.171875

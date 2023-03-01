@@ -1,0 +1,4 @@
+<Component: Remove Atom handempty(?h1) from Precondition: clean-shot | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: refill-shot | Condition: False>
+0.21263306199999998
+memory: 15.7734375

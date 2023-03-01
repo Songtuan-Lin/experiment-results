@@ -1,0 +1,4 @@
+<Component: Add Atom capacity-predecessor(?s2, ?s1) to Effects: pick-up | Condition: False>
+<Component: Remove Atom capacity-predecessor(?s2, ?s1) from Precondition: pick-up | Condition: False>
+0.013271429999999994
+memory: 14.53125

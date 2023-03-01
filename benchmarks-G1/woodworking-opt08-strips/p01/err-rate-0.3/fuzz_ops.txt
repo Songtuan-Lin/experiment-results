@@ -1,0 +1,4 @@
+<Add Atom treatment(?x, ?oldtreatment) to Prec: do-plane>
+<Add Atom colour(?x, ?newcolour) to Prec: do-glaze>
+<Add Atom colour(?x, ?newcolour) to Prec: do-spray-varnish>
+<Add Atom boardsize-successor(?size_after, ?size_before) to Prec: cut-board-medium>

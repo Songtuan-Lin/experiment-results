@@ -1,0 +1,4 @@
+<Component: Remove Atom base-pos(?r, ?basex, ?gyabs) from Precondition: get-up | Condition: False>
+<Component: Remove Atom gripper-obstacle(?x, ?cy) from Effects: base-up | Condition: False>
+0.246934567
+memory: 20.8046875

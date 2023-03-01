@@ -1,0 +1,2 @@
+<Add Atom is-nongoal(?to) to Neg-effs: push-to-nongoal>
+<Add Atom clear(?from) to Neg-effs: move>

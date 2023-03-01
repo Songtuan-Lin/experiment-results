@@ -1,0 +1,3 @@
+<Remove NegatedAtom gripper-empty(?r) from Effs: get-right>
+<Remove NegatedAtom on-cart(?o, ?c) from Effs: get-from-cart>
+<Remove NegatedAtom not-pushing(?r) from Effs: grasp-cart-right>

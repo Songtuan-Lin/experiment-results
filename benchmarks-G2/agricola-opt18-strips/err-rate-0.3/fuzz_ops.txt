@@ -1,0 +1,7 @@
+<Add Atom current_round(?r) to Effs: improve_home>
+<Remove Atom current_worker(?maxw) from Pos-effs: ag__finish_round_backhome>
+<Remove NegatedAtom max_worker(?maxw) from Effs: ag__finish_round_backhome_withchild>
+<Add Atom ok() to Prec: plow_field>
+<Add Atom next_worker(?wmax, ?w1) to Effs: collect_resource>
+<Remove Atom current_worker(?w2) from Pos-effs: build_fences>
+<Remove NegatedAtom available_action(act_plow) from Effs: sow>

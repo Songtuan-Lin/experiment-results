@@ -1,0 +1,4 @@
+<Component: Add Atom last-visited(?to) to Effects: jump-continue-move | Condition: False>
+<Component: Remove Atom move-ended() from Precondition: jump-new-move | Condition: False>
+0.0068371719999999955
+memory: 14.5390625

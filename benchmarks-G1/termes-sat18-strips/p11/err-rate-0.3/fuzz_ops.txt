@@ -1,0 +1,3 @@
+<Add Atom is-depot(?p) to Neg-effs: create-block>
+<Add Atom height(?rpos, ?hbefore) to Effs: remove-block>
+<Add Atom is-depot(?rpos) to Prec: place-block>

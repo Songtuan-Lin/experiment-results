@@ -1,0 +1,2 @@
+<Add Atom move-dir(?to, ?to, ?dir) to Prec: move>
+<Add Atom move-dir(?from, ?to, ?dir) to Prec: push-to-goal>

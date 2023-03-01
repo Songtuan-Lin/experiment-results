@@ -1,0 +1,2 @@
+<Add Atom isadjacent(?nextspawnpoint, ?newhead) to Effs: move-and-eat-spawn>
+<Add Atom headsnake(?newtail) to Effs: move>

@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom at_tent(?x3, ?x2) from Effects: put_up | Condition: False>
+<Component: Add Atom down(?x3) to Effects: put_down | Condition: False>
+0.007292355
+memory: 13.17578125

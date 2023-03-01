@@ -1,0 +1,2 @@
+<Add Atom in(?l, ?c) to Neg-effs: refuel>
+<Add Atom flevel(?p) to Neg-effs: debark>

@@ -1,0 +1,4 @@
+<Add Atom at(?from) to Effs: move-down>
+<Add Atom at(?p) to Effs: destroy-block>
+<Remove Atom at(?to) from Pos-effs: move-up>
+<Add Atom succ(?hafter, ?hafter) to Prec: remove-block>

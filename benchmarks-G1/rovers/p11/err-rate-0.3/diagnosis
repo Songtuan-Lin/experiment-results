@@ -1,0 +1,5 @@
+<Component: Remove Atom calibrated(?i, ?r) from Precondition: take_image | Condition: False>
+<Component: Add Atom have_rock_analysis(?x, ?p) to Effects: sample_rock | Condition: False>
+<Component: Add Atom at(?x, ?z) to Effects: navigate | Condition: False>
+0.007908273000000007
+memory: 13.171875

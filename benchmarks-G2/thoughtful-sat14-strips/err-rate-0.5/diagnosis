@@ -1,0 +1,8 @@
+<Component: Add Atom talonplayable(?c1) to Effects: turn-deck-a | Condition: False>
+<Component: Add Atom home(?card) to Effects: col-to-home-b | Condition: False>
+<Component: Add Atom clear(?oldcard) to Effects: col-to-home | Condition: False>
+<Component: Add Atom home(?card) to Effects: tal-to-home-d | Condition: False>
+<Component: Remove Atom ace(?oldcard) from Precondition: tal-to-col-e | Condition: False>
+<Component: Remove Atom faceup(?card) from Precondition: move-col-to-col | Condition: False>
+0.377119531
+memory: 19.14453125

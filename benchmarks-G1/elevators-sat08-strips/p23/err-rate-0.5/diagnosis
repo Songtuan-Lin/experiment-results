@@ -1,0 +1,4 @@
+<Component: Add Atom above(?f1, ?f2) to Effects: move-up-slow | Condition: False>
+<Component: Add Atom reachable-floor(?lift, ?n1) to Effects: leave | Condition: False>
+0.021596745999999993
+memory: 14.5390625

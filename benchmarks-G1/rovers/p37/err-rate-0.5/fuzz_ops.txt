@@ -1,0 +1,5 @@
+<Remove Atom available(?r) from Pos-effs: communicate_soil_data>
+<Remove Atom calibrated(?i, ?r) from Pos-effs: calibrate>
+<Remove Atom communicated_rock_data(?p) from Pos-effs: communicate_rock_data>
+<Remove Atom have_image(?r, ?o, ?m) from Pos-effs: take_image>
+<Remove Atom communicated_image_data(?o, ?m) from Pos-effs: communicate_image_data>

@@ -1,0 +1,1 @@
+<Remove Atom have_image(?r, ?o, ?m) from Pos-effs: take_image>

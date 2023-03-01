@@ -1,0 +1,1 @@
+<Add Atom successor(?card, ?oldcard) to Neg-effs: move>

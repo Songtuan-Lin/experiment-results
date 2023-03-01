@@ -1,0 +1,1 @@
+<Remove Atom incell(?card) from Pos-effs: sendtofree-b>

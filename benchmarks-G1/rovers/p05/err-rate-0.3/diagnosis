@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom equipped_for_soil_analysis(?x) from Effects: sample_soil | Condition: False>
+<Component: Add Atom visible(?y, ?z) to Effects: navigate | Condition: False>
+0.005934335999999998
+memory: 13.16796875

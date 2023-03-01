@@ -1,0 +1,2 @@
+<Add Atom lift-at(?f) to Prec: depart>
+<Add Atom origin(?f1, ?f1) to Prec: up>

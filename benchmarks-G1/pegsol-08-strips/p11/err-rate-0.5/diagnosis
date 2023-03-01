@@ -1,0 +1,4 @@
+<Component: Remove Atom last-visited(?loc) from Precondition: end-move | Condition: False>
+<Component: Add Atom free(?over) to Effects: jump-new-move | Condition: False>
+0.004454567999999999
+memory: 14.5390625

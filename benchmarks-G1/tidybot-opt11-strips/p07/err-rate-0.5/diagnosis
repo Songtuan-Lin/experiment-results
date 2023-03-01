@@ -1,0 +1,5 @@
+<Component: Remove Atom base-obstacle(?x, ?y) from Effects: finish-object | Condition: False>
+<Component: Add Atom sum-y(?gyabs, ?gyrel, ?oy) to Effects: get-down | Condition: False>
+<Component: Add Atom sum-x(?basex, ?gxrel, ?gxabs) to Effects: get-up | Condition: False>
+0.018194744000000006
+memory: 14.5390625

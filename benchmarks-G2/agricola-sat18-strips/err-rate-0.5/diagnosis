@@ -1,0 +1,4 @@
+<Component: Add Atom stored_veg(carrot) to Effects: take_food | Condition: False>
+<Component: Add Atom current_worker(?newmax) to Effects: ag__finish_round_backhome_withchild | Condition: False>
+0.21273223599999996
+memory: 20.37890625

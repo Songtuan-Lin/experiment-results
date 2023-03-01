@@ -1,0 +1,2 @@
+<Add Atom passenger(?f1) to Neg-effs: down>
+<Add Atom destin(?f, ?f) to Neg-effs: depart>

@@ -1,0 +1,7 @@
+<Add Atom bottomtalon(?newcard) to Neg-effs: tal-to-col-b>
+<Add Atom king(?homecard) to Neg-effs: col-to-home-b>
+<Add Atom bottomcol(?card) to Neg-effs: tal-to-col-h>
+<Add Atom ontalon(?c1, ?c1) to Neg-effs: turn-deck-a>
+<Add Atom ace(?card) to Neg-effs: move-col-to-col-b>
+<Add Atom clear(?homecard) to Neg-effs: tal-to-home-c>
+<Add Atom bottomcol(?card) to Neg-effs: tal-to-col-d>

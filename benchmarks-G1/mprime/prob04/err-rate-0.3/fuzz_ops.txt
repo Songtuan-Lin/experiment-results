@@ -1,0 +1,2 @@
+<Add Atom =(?v, ?c) to Effs: succumb>
+<Add Atom harmony(?v, ?l2) to Effs: feast>

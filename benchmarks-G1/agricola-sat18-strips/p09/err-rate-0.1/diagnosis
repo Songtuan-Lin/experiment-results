@@ -1,0 +1,4 @@
+<Component: Remove Atom newborn() from Precondition: collect_cook_animal | Condition: False>
+<Component: Remove Atom next_num(?i, ?i2) from Precondition: ag__harvest_breeding_animal | Condition: False>
+0.044100569000000006
+memory: 12.77734375

@@ -1,0 +1,2 @@
+<Add Atom next(?l1, ?l1) to Neg-effs: buy>
+<Add Atom next(?l1, ?l3) to Neg-effs: load>

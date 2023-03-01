@@ -1,0 +1,4 @@
+<Component: Remove Atom next(?l1, ?l1) from Precondition: pour-shot-to-used-shaker | Condition: False>
+<Component: Remove NegatedAtom ontable(?c) from Effects: grasp | Condition: False>
+0.010926600999999994
+memory: 14.5390625

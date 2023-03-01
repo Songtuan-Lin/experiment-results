@@ -1,0 +1,3 @@
+<Add Atom suit(?ncells, ?cols) to Neg-effs: sendtofree-b>
+<Add Atom =(?suit, ?homecard) to Neg-effs: sendtohome>
+<Add Atom on(?cols, ?ncols) to Neg-effs: move-b>

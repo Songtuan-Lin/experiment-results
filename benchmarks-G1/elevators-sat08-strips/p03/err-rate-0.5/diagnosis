@@ -1,0 +1,4 @@
+<Component: Remove Atom passenger-at(?p, ?n2) from Precondition: board | Condition: False>
+<Component: Add Atom next(?n1, ?n2) to Effects: leave | Condition: False>
+0.005413055
+memory: 14.53515625

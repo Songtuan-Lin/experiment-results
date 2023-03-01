@@ -1,0 +1,3 @@
+<Add Atom neighbor(?p, ?p) to Effs: create-block>
+<Add Atom neighbor(?from, ?to) to Neg-effs: move-up>
+<Remove NegatedAtom height(?bpos, ?hbefore) from Effs: place-block>

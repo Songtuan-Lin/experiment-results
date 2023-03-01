@@ -1,0 +1,1 @@
+<Add Atom on(?oldcard, ?card) to Neg-effs: sendtofree>

@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom gripper-rel(?r, ?x, ?y) from Effects: unpark | Condition: False>
+<Component: Add Atom gripper-rel(?r, ?dgxrel, ?gyrel) to Effects: gripper-left | Condition: False>
+0.019586488000000006
+memory: 14.5390625

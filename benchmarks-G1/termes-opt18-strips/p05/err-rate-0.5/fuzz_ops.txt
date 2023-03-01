@@ -1,0 +1,4 @@
+<Add Atom height(?from, ?h) to Effs: move>
+<Add Atom is-depot(?p) to Effs: create-block>
+<Remove NegatedAtom has-block() from Effs: place-block>
+<Remove NegatedAtom height(?bpos, ?hbefore) from Effs: remove-block>

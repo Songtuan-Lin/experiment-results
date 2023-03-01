@@ -1,0 +1,4 @@
+<Component: Remove Atom sum-x(?dgxabs, ?cgxrel, ?basex) from Precondition: gripper-right | Condition: False>
+<Component: Add Atom not-pushing(?r) to Effects: park | Condition: False>
+0.045120315999999994
+memory: 14.53125

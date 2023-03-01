@@ -1,0 +1,2 @@
+<Add Atom food(?v) to Effs: succumb>
+<Remove Atom locale(?n1, ?l1) from Pos-effs: feast>

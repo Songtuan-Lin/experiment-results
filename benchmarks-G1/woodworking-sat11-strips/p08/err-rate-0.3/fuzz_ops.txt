@@ -1,0 +1,4 @@
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: do-saw-large>
+<Remove Atom treatment(?x, ?newtreatment) from Pos-effs: do-grind>
+<Remove Atom treatment(?p, untreated) from Pos-effs: cut-board-small>

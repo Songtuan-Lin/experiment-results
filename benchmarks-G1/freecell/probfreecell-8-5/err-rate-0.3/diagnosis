@@ -1,0 +1,4 @@
+<Component: Remove Atom on(?card, ?oldcard) from Precondition: sendtonewcol | Condition: False>
+<Component: Add Atom home(?card) to Effects: sendtohome | Condition: False>
+0.014099592999999994
+memory: 13.16796875

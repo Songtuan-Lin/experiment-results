@@ -1,0 +1,3 @@
+<Remove Atom clear(?oldcard) from Pos-effs: sendtofree>
+<Remove Atom colspace(?ncols) from Pos-effs: move-b>
+<Remove Atom home(?card) from Pos-effs: sendtohome>

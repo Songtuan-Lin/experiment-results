@@ -1,0 +1,2 @@
+<Add Atom is-smooth(?surface) to Neg-effs: do-immersion-varnish>
+<Add Atom boardsize-successor(?size_before, ?s1) to Neg-effs: do-saw-medium>

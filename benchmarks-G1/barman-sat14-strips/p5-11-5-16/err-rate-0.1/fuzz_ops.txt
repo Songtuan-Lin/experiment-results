@@ -1,0 +1,2 @@
+<Remove Atom ontable(?c) from Pos-effs: leave>
+<Remove Atom empty(?s) from Pos-effs: empty-shaker>

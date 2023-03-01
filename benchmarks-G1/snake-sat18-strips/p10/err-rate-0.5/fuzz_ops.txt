@@ -1,0 +1,2 @@
+<Add Atom headsnake(?tail) to Prec: move>
+<Add Atom isadjacent(?newhead, ?head) to Effs: move-and-eat-no-spawn>

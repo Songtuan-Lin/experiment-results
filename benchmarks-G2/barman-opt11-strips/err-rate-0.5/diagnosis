@@ -1,0 +1,6 @@
+<Component: Remove NegatedAtom unshaked(?s) from Effects: shake | Condition: False>
+<Component: Remove NegatedAtom shaked(?s) from Effects: empty-shaker | Condition: False>
+<Component: Add Atom empty(?c) to Effects: leave | Condition: False>
+<Component: Remove NegatedAtom handempty(?h2) from Effects: refill-shot | Condition: False>
+0.325721341
+memory: 16.19140625

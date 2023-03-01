@@ -1,0 +1,2 @@
+<Add Atom reachable-floor(?lift, ?n2) to Prec: leave>
+<Add Atom next(?f1, ?f1) to Prec: move-up-fast>

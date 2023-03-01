@@ -1,0 +1,4 @@
+<Component: Remove Atom =(?p, ?y) from Precondition: lift | Condition: False>
+<Component: Remove Atom at(?z, ?z) from Precondition: drive | Condition: False>
+0.010852115000000002
+memory: 14.53125

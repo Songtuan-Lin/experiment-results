@@ -1,0 +1,1 @@
+<Remove Atom at_person(?x6, ?x3) from Pos-effs: drive_tent_passenger>

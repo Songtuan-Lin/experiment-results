@@ -1,0 +1,3 @@
+<Add Atom value(?ncells, ?cells) to Neg-effs: colfromfreecell>
+<Add Atom canstack(?cols, ?cols) to Neg-effs: move-b>
+<Add Atom successor(?newcard, ?newcard) to Neg-effs: move>

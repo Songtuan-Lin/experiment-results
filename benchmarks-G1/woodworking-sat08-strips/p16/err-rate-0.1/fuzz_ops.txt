@@ -1,0 +1,2 @@
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>
+<Remove Atom colour(?x, natural) from Pos-effs: do-plane>

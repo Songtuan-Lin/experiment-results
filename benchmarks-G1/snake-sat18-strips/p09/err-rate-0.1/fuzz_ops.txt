@@ -1,0 +1,1 @@
+<Add Atom nextsnake(?newhead, ?newhead) to Neg-effs: move-and-eat-no-spawn>

@@ -1,0 +1,1 @@
+<Remove Atom driving(?driver, ?truck) from Pos-effs: board-truck>

@@ -1,0 +1,3 @@
+<Add Atom base-obstacle(?basex, ?basey) to Effs: put-down>
+<Add Atom above(?y, ?y) to Effs: grasp-cart-below>
+<Add Atom cart-pos(?c, ?x1, ?y) to Effs: base-cart-right>

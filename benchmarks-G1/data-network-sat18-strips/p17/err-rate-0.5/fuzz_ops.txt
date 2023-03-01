@@ -1,0 +1,3 @@
+<Add Atom sum(?after, ?size, ?before) to Effs: process>
+<Add Atom saved(?d, ?s) to Prec: save>
+<Add Atom sum(?before, ?before, ?size) to Effs: release>

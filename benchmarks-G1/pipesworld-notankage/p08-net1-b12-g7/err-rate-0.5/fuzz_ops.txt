@@ -1,0 +1,3 @@
+<Add Atom unitary(?pipe) to Neg-effs: push-end>
+<Add Atom normal(?pipe) to Neg-effs: pop-unitarypipe>
+<Add Atom not-unitary(?pipe) to Neg-effs: pop-end>

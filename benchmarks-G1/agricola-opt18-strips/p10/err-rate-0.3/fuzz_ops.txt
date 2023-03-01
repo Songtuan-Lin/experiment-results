@@ -1,0 +1,7 @@
+<Add Atom max_worker(?w2) to Effs: take_grain>
+<Add Atom can_breed(?a) to Effs: build_fences>
+<Add Atom num_substract(?i1, ?i2, ?i2) to Effs: ag__harvest_collecting_fromoven>
+<Add Atom next_worker(?wmax, ?wnewmax) to Neg-effs: build_room>
+<Add Atom next_worker(?wmax, ?w1) to Effs: collect_resource>
+<Add Atom next_worker(?w2, ?w2) to Effs: family_growth>
+<Add Atom current_round(?r) to Neg-effs: plow_field>

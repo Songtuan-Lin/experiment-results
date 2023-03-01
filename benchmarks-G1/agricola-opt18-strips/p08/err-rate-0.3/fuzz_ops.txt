@@ -1,0 +1,7 @@
+<Add Atom next2_num(?i3, ?i3) to Effs: ag__harvest_collecting_fromoven>
+<Add Atom next2_num(?inow, ?ifeed) to Effs: ag__harvest_feed>
+<Add Atom next_worker(?w1, ?w1) to Effs: improve_home>
+<Add Atom next_worker(?w2, ?w2) to Effs: collect_animal>
+<Add Atom next_worker(?wmax, ?w1) to Effs: build_fences>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_veg>
+<Add Atom current_round(?r) to Effs: plow_field>

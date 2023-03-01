@@ -1,0 +1,2 @@
+<Add Atom above(?f1, ?f2) to Neg-effs: up>
+<Add Atom passenger(?f) to Neg-effs: board>

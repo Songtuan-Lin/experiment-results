@@ -1,0 +1,4 @@
+<Component: Add Atom behind-car(?car, ?cardest) to Effects: move-car-to-car | Condition: False>
+<Component: Add Atom at-curb(?car) to Effects: move-car-to-curb | Condition: False>
+0.009987074000000006
+memory: 14.53125

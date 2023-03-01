@@ -1,0 +1,3 @@
+<Add Atom down(?y, ?x) to Prec: up>
+<Add Atom up(?x, ?x) to Prec: paint-down>
+<Add Atom down(?y, ?x) to Prec: left>

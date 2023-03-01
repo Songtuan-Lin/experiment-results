@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom next(?l1, ?l) from Effects: empty-shaker | Condition: False>
+<Component: Add Atom handempty(?h2) to Effects: shake | Condition: False>
+0.010910969000000006
+memory: 13.16796875

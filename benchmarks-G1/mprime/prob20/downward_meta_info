@@ -1,0 +1,155 @@
+INFO     planner time limit: 300s
+INFO     planner memory limit: None
+
+INFO     Running translator.
+INFO     translator stdin: None
+INFO     translator time limit: 299.98s
+INFO     translator memory limit: None
+INFO     translator command line string: /home/users/u6162630/Packages/anaconda3/bin/python /home/users/u6162630/Codes/downward/builds/release/bin/translate/translate.py /home/users/u6162630/Datasets/downward-benchmarks/mprime/domain.pddl /home/users/u6162630/Datasets/downward-benchmarks/mprime/prob20.pddl --sas-file /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/mprime/prob20/output.sas
+Parsing...
+Parsing: [0.000s CPU, 0.002s wall-clock]
+Normalizing task... [0.000s CPU, 0.000s wall-clock]
+Instantiating...
+Generating Datalog program... [0.000s CPU, 0.000s wall-clock]
+Normalizing Datalog program...
+Normalizing Datalog program: [0.000s CPU, 0.002s wall-clock]
+Preparing model... [0.000s CPU, 0.001s wall-clock]
+Generated 55 rules.
+Computing model... [0.310s CPU, 0.307s wall-clock]
+46984 relevant atoms
+5740 auxiliary atoms
+52724 final queue length
+144594 total queue pushes
+Completing instantiation... [1.920s CPU, 1.915s wall-clock]
+Instantiating: [2.240s CPU, 2.243s wall-clock]
+Computing fact groups...
+Finding invariants...
+12 initial candidates
+Finding invariants: [0.030s CPU, 0.030s wall-clock]
+Checking invariant weight... [0.000s CPU, 0.000s wall-clock]
+Instantiating groups... [0.010s CPU, 0.002s wall-clock]
+Collecting mutex groups... [0.000s CPU, 0.000s wall-clock]
+Choosing groups...
+0 uncovered facts
+Choosing groups: [0.000s CPU, 0.001s wall-clock]
+Building translation key... [0.000s CPU, 0.000s wall-clock]
+Computing fact groups: [0.040s CPU, 0.035s wall-clock]
+Building STRIPS to SAS dictionary... [0.000s CPU, 0.000s wall-clock]
+Building dictionary for full mutex groups... [0.000s CPU, 0.000s wall-clock]
+Building mutex information...
+Building mutex information: [0.000s CPU, 0.000s wall-clock]
+Translating task...
+Processing axioms...
+Simplifying axioms... [0.000s CPU, 0.000s wall-clock]
+Translator axioms removed by simplifying: 0
+Computing negative axioms... [0.000s CPU, 0.000s wall-clock]
+Processing axioms: [0.050s CPU, 0.052s wall-clock]
+Translating task: [1.070s CPU, 1.077s wall-clock]
+0 effect conditions simplified
+0 implied preconditions added
+Detecting unreachable propositions...
+0 operators removed
+0 axioms removed
+44 propositions removed
+Detecting unreachable propositions: [1.530s CPU, 1.518s wall-clock]
+Reordering and filtering variables...
+44 of 44 variables necessary.
+0 of 44 mutex groups necessary.
+44220 of 44220 operators necessary.
+0 of 0 axiom rules necessary.
+Reordering and filtering variables: [0.100s CPU, 0.108s wall-clock]
+Translator variables: 44
+Translator derived variables: 0
+Translator facts: 574
+Translator goal facts: 1
+Translator mutex groups: 0
+Translator total mutex groups size: 0
+Translator operators: 44220
+Translator axioms: 0
+Translator task size: 226471
+Translator peak memory: 190964 KB
+Writing output... [0.160s CPU, 0.163s wall-clock]
+Done! [5.220s CPU, 5.226s wall-clock]
+translate exit code: 0
+
+INFO     Running search (release).
+INFO     search stdin: /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/mprime/prob20/output.sas
+INFO     search time limit: 294.69s
+INFO     search memory limit: None
+INFO     search command line string: /home/users/u6162630/Codes/downward/builds/release/bin/downward --evaluator 'hlm=lmcount(lm_factory=lm_reasonable_orders_hps(lm_rhw()),transform=adapt_costs(one),pref=false)' --evaluator 'hff=ff(transform=adapt_costs(one))' --search 'lazy_greedy([hff,hlm],preferred=[hff,hlm],cost_type=one,reopen_closed=false)' --internal-plan-file /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/mprime/prob20/sas_plan < /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/mprime/prob20/output.sas
+[t=0s, 9880 KB] reading input...
+[t=0.0945109s, 22864 KB] done reading input!
+[t=0.10251s, 23264 KB] Initializing landmark count heuristic...
+[t=0.10251s, 23264 KB] Generating landmark graph...
+[t=0.106509s, 23652 KB] Building a landmark graph with reasonable orders.
+[t=0.110511s, 24180 KB] Initializing Exploration...
+[t=0.12651s, 37104 KB] Generating landmarks using the RPG/SAS+ approach
+[t=0.162513s, 37104 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0.162513s, 37104 KB] Landmarks generation time: 0.0600005s
+[t=0.166509s, 37104 KB] Discovered 2 landmarks, of which 0 are disjunctive and 0 are conjunctive.
+[t=0.166509s, 37104 KB] 1 edges
+[t=0.166509s, 37104 KB] approx. reasonable orders
+[t=0.166509s, 37104 KB] approx. obedient reasonable orders
+[t=0.166509s, 37104 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0.166509s, 37104 KB] Landmarks generation time: 0.0639989s
+[t=0.166509s, 37104 KB] Discovered 2 landmarks, of which 0 are disjunctive and 0 are conjunctive.
+[t=0.166509s, 37104 KB] 1 edges
+[t=0.166509s, 37104 KB] Landmark graph generation time: 0.0639989s
+[t=0.166509s, 37104 KB] Landmark graph contains 2 landmarks, of which 0 are disjunctive and 0 are conjunctive.
+[t=0.166509s, 37104 KB] Landmark graph contains 1 orderings.
+[t=0.17451s, 37104 KB] Simplifying 88440 unary operators... done! [84810 unary operators]
+[t=0.274495s, 37104 KB] time to simplify: 0.0999855s
+[t=0.278495s, 37104 KB] Initializing additive heuristic...
+[t=0.278495s, 37104 KB] Initializing FF heuristic...
+[t=0.278495s, 37104 KB] Building successor generator...done!
+[t=0.290494s, 37104 KB] peak memory difference for successor generator creation: 0 KB
+[t=0.290494s, 37104 KB] time for successor generation creation: 0.0119997s
+[t=0.290494s, 37104 KB] Variables: 44
+[t=0.290494s, 37104 KB] FactPairs: 574
+[t=0.290494s, 37104 KB] Bytes per state: 24
+[t=0.290494s, 37104 KB] Conducting lazy best first search, (real) bound = 2147483647
+[t=0.290494s, 37104 KB] 1 initial landmarks, 1 goal landmarks
+[t=0.294495s, 37104 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 1
+[t=0.294495s, 37104 KB] New best heuristic value for ff(transform = adapt_costs(one)): 7
+[t=0.294495s, 37104 KB] g=0, 1 evaluated, 0 expanded
+[t=0.294495s, 37104 KB] Initial heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 1
+[t=0.294495s, 37104 KB] Initial heuristic value for ff(transform = adapt_costs(one)): 7
+[t=0.314497s, 37104 KB] New best heuristic value for ff(transform = adapt_costs(one)): 6
+[t=0.314497s, 37104 KB] g=1, 32 evaluated, 31 expanded
+[t=0.314497s, 37104 KB] New best heuristic value for ff(transform = adapt_costs(one)): 5
+[t=0.314497s, 37104 KB] g=2, 33 evaluated, 32 expanded
+[t=0.314497s, 37104 KB] New best heuristic value for ff(transform = adapt_costs(one)): 4
+[t=0.314497s, 37104 KB] g=3, 35 evaluated, 34 expanded
+[t=0.314497s, 37104 KB] New best heuristic value for ff(transform = adapt_costs(one)): 3
+[t=0.314497s, 37104 KB] g=4, 37 evaluated, 36 expanded
+[t=0.318494s, 37104 KB] New best heuristic value for ff(transform = adapt_costs(one)): 2
+[t=0.318494s, 37104 KB] g=5, 39 evaluated, 38 expanded
+[t=0.318494s, 37104 KB] New best heuristic value for ff(transform = adapt_costs(one)): 1
+[t=0.318494s, 37104 KB] g=6, 41 evaluated, 40 expanded
+[t=0.318494s, 37104 KB] Solution found!
+[t=0.318494s, 37104 KB] Actual search time: 0.0279998s
+overcome abrasion intoxication wonderbread neptune venus (1)
+feast intoxication wonderbread yogurt moravia bosnia (1)
+feast intoxication yogurt tuna goias arizona (1)
+feast intoxication tuna turkey goias arizona (1)
+feast intoxication turkey guava quebec alsace (1)
+feast intoxication guava pepper bosnia goias (1)
+succumb abrasion intoxication pepper neptune venus (1)
+[t=0.318494s, 37104 KB] Plan length: 7 step(s).
+[t=0.318494s, 37104 KB] Plan cost: 7
+[t=0.318494s, 37104 KB] Expanded 42 state(s).
+[t=0.318494s, 37104 KB] Reopened 0 state(s).
+[t=0.318494s, 37104 KB] Evaluated 43 state(s).
+[t=0.318494s, 37104 KB] Evaluations: 86
+[t=0.318494s, 37104 KB] Generated 12601 state(s).
+[t=0.318494s, 37104 KB] Dead ends: 0 state(s).
+[t=0.318494s, 37104 KB] Number of registered states: 43
+[t=0.318494s, 37104 KB] Int hash set load factor: 43/64 = 0.671875
+[t=0.318494s, 37104 KB] Int hash set resizes: 6
+[t=0.318494s, 37104 KB] Search time: 0.0279998s
+[t=0.318494s, 37104 KB] Total time: 0.318494s
+Solution found.
+Peak memory: 37104 KB
+search exit code: 0
+
+INFO     Planner time: 5.6s

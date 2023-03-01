@@ -1,0 +1,5 @@
+<Add Atom canstack(?newcard, ?oldcard) to Prec: move>
+<Add Atom on(?ncols, ?card) to Prec: sendtonewcol>
+<Add Atom incell(?ncols) to Prec: sendtohome-b>
+<Add Atom canstack(?cells, ?card) to Prec: sendtofree-b>
+<Add Atom on(?vcard, ?card) to Prec: homefromfreecell>

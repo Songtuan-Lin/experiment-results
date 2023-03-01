@@ -1,0 +1,3 @@
+<Add Atom left(?y, ?y) to Prec: left>
+<Remove Atom clear(?x) from Pos-effs: down>
+<Add Atom available-color(?c) to Prec: change-color>

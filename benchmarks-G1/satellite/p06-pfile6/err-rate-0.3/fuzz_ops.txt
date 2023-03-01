@@ -1,0 +1,2 @@
+<Add Atom instrument(?s) to Prec: switch_off>
+<Add Atom power_avail(?s) to Prec: switch_on>

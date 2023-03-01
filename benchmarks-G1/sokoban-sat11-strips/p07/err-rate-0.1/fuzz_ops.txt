@@ -1,0 +1,1 @@
+<Add Atom move-dir(?from, ?from, ?dir) to Neg-effs: push-to-nongoal>

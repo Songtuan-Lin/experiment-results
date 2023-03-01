@@ -1,0 +1,5 @@
+<Component: Add Atom clear(?oldcard) to Effects: sendtohome | Condition: False>
+<Component: Add Atom on(?card, ?newcard) to Effects: move-b | Condition: False>
+<Component: Add Atom clear(?oldcard) to Effects: move | Condition: False>
+0.030997844999999996
+memory: 13.171875

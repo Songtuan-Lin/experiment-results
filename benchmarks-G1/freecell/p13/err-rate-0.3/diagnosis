@@ -1,0 +1,5 @@
+<Component: Remove Atom successor(?card, ?newcard) from Precondition: colfromfreecell | Condition: False>
+<Component: Remove Atom canstack(?ncols, ?card) from Precondition: move-b | Condition: False>
+<Component: Remove Atom on(?card, ?vcard) from Precondition: homefromfreecell | Condition: False>
+0.023177784
+memory: 13.17578125

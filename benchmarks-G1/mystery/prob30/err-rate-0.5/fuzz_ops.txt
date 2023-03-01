@@ -1,0 +1,2 @@
+<Add Atom orbits(?v, ?v) to Neg-effs: overcome>
+<Add Atom craves(?c, ?c) to Neg-effs: succumb>

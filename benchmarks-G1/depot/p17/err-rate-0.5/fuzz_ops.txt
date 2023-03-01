@@ -1,0 +1,3 @@
+<Add Atom lifting(?x, ?y) to Neg-effs: drive>
+<Add Atom crate(?p) to Neg-effs: unload>
+<Add Atom at(?x, ?p) to Neg-effs: load>

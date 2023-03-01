@@ -1,0 +1,3 @@
+<Add Atom gripper-obstacle(?cx, ?y) to Effs: base-right>
+<Add Atom above(?cy1, ?cy2) to Effs: base-cart-down>
+<Add Atom above(?y2, ?y1) to Effs: base-cart-up>

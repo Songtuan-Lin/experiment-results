@@ -1,0 +1,1 @@
+<Add Atom communicated_image_data(?o, ?m) to Neg-effs: take_image>

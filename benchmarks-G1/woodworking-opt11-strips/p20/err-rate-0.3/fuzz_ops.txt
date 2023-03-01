@@ -1,0 +1,4 @@
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Prec: do-plane>
+<Add Atom colour(?x, ?newcolour) to Prec: do-immersion-varnish>
+<Add Atom boardsize-successor(?size_before, ?s2) to Prec: cut-board-large>
+<Add Atom boardsize(?b, ?size_before) to Prec: do-saw-medium>

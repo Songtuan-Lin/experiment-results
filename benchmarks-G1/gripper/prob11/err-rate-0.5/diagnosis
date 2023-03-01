@@ -1,0 +1,4 @@
+<Component: Add Atom at-robby(?to) to Effects: move | Condition: False>
+<Component: Remove Atom carry(?obj, ?gripper) from Precondition: drop | Condition: False>
+0.004986435000000004
+memory: 14.53515625

@@ -1,0 +1,2 @@
+<Add Atom =(?l, ?l) to Prec: refuel>
+<Add Atom person(?a) to Prec: debark>

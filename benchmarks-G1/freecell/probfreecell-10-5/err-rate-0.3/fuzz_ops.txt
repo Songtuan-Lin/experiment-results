@@ -1,0 +1,3 @@
+<Add Atom suit(?cols, ?suit) to Prec: sendtohome-b>
+<Add Atom suit(?newcard, ?ncols) to Prec: move-b>
+<Add Atom =(?vhomecard, ?vcard) to Prec: sendtohome>

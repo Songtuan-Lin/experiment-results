@@ -1,0 +1,7 @@
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_veg>
+<Add Atom current_round(?r) to Effs: ag__finish_round_backhome_withchild>
+<Add Atom plowed_fields() to Effs: ag__finish_round_renew>
+<Remove Atom current_worker(?w2) from Pos-effs: improve_home>
+<Add Atom next_round(?r2, ?r1) to Effs: ag__advance_round_normal>
+<Remove Atom current_worker(?w2) from Pos-effs: build_room>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_fromoven>

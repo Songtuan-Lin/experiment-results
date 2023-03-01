@@ -1,0 +1,4 @@
+<Component: Remove Atom shaker-empty-level(?s, ?l) from Precondition: empty-shaker | Condition: False>
+<Component: Remove Atom clean(?c) from Precondition: leave | Condition: False>
+0.017256750000000008
+memory: 11.96875

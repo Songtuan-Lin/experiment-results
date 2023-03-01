@@ -1,0 +1,4 @@
+<Component: Remove Atom in-line(?over, ?from, ?over) from Precondition: jump-continue-move | Condition: False>
+<Component: Remove Atom in-line(?from, ?over, ?from) from Precondition: jump-new-move | Condition: False>
+0.010672576999999996
+memory: 14.53515625

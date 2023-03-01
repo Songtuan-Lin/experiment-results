@@ -1,0 +1,4 @@
+<Component: Remove Atom shaker-empty-level(?s, ?l1) from Precondition: empty-shaker | Condition: False>
+<Component: Add Atom empty(?c) to Effects: grasp | Condition: False>
+0.013601692999999991
+memory: 14.53515625

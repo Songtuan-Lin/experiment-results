@@ -1,0 +1,3 @@
+<Add Atom next(?x2, ?x2) to Effs: put_up>
+<Add Atom up(?x3) to Effs: put_down>
+<Add Atom at_car(?x4, ?x2) to Prec: drive>

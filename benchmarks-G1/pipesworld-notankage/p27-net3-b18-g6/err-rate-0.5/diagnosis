@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom is-product(?batch-atom-in, ?product-batch-atom-in) from Effects: push-start | Condition: False>
+<Component: Add Atom is-product(?last-batch-atom, oc1b) to Effects: pop-start | Condition: False>
+0.020298274999999998
+memory: 14.5390625

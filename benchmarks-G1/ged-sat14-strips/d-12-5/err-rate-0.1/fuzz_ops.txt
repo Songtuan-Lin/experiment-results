@@ -1,0 +1,3 @@
+<Remove Atom inverse-splicing() from Pos-effs: begin-transverse-splice>
+<Remove Atom inverted(?x) from Pos-effs: invert-single-gene-a>
+<Remove Atom idle() from Pos-effs: reset-1>

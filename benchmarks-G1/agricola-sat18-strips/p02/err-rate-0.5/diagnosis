@@ -1,0 +1,4 @@
+<Component: Add Atom num_food(?i2) to Effects: collect_cook_animal | Condition: False>
+<Component: Remove Atom harvest_phase(?s, harvest_feeding) from Precondition: ag__harvest_feed | Condition: False>
+0.02596100400000001
+memory: 14.5390625

@@ -1,0 +1,4 @@
+<Component: Add Atom pointing(?s, ?d_new) to Effects: turn_to | Condition: False>
+<Component: Add Atom have_image(?d, ?m) to Effects: take_image | Condition: False>
+0.047906174999999995
+memory: 14.53125

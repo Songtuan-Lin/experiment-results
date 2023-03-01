@@ -1,0 +1,4 @@
+<Component: Remove Atom next(?x2, ?x2) from Precondition: put_down | Condition: False>
+<Component: Add Atom at_person(?x1, ?x3) to Effects: drive_passenger | Condition: False>
+0.11089035300000001
+memory: 14.109375

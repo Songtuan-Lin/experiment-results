@@ -1,0 +1,4 @@
+<Component: Remove Atom colspace(?cols) from Precondition: sendtohome-b | Condition: False>
+<Component: Add Atom cellspace(?vhomecard) to Effects: sendtohome | Condition: False>
+0.009290832999999998
+memory: 14.5390625

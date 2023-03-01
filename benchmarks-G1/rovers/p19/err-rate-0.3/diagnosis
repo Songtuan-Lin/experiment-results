@@ -1,0 +1,4 @@
+<Component: Remove Atom communicated_soil_data(?y) from Precondition: navigate | Condition: False>
+<Component: Add Atom equipped_for_rock_analysis(?x) to Effects: navigate | Condition: False>
+0.013249576999999992
+memory: 13.16796875

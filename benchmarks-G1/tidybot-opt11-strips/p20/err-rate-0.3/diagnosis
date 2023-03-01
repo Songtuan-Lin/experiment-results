@@ -1,0 +1,4 @@
+<Component: Add Atom object-goal(?o, ?cx, ?y) to Effects: put-on-cart | Condition: False>
+<Component: Remove Atom parked(?r) from Precondition: park | Condition: False>
+0.019161454
+memory: 13.16796875

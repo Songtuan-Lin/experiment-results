@@ -1,0 +1,4 @@
+<Component: Add Atom clear(?y) to Effects: unstack | Condition: False>
+<Component: Remove Atom holding(?x) from Precondition: stack | Condition: False>
+0.004324568000000001
+memory: 14.5390625

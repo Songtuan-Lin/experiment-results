@@ -1,0 +1,4 @@
+<Component: Add Atom last-visited(?to) to Effects: jump-new-move | Condition: False>
+<Component: Remove NegatedAtom occupied(?over) from Effects: jump-new-move | Condition: False>
+0.010349568000000003
+memory: 14.5390625

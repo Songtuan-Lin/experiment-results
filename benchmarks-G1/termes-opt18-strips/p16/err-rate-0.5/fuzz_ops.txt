@@ -1,0 +1,4 @@
+<Remove Atom height(?bpos, ?hafter) from Pos-effs: remove-block>
+<Add Atom succ(?hfrom, ?hto) to Prec: move-down>
+<Add Atom is-depot(?rpos) to Neg-effs: place-block>
+<Add Atom at(?from) to Effs: move>

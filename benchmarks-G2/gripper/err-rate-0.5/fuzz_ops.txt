@@ -1,0 +1,2 @@
+<Add Atom at(?gripper, ?gripper) to Neg-effs: pick>
+<Add Atom free(?room) to Neg-effs: drop>

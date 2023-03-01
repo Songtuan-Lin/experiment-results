@@ -1,0 +1,2 @@
+<Remove Atom on-sale(?g, ?m, ?l1) from Pos-effs: buy>
+<Remove Atom at(?t, ?to) from Pos-effs: drive>

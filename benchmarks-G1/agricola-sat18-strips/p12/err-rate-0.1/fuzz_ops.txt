@@ -1,0 +1,3 @@
+<Remove NegatedAtom current_worker(noworker) from Effs: ag__finish_round_backhome>
+<Remove NegatedAtom harvest_phase(?s, harvest_init) from Effs: ag__harvest_collect_end>
+<Remove NegatedAtom can_harvest(?v) from Effs: ag__harvest_collecting_fromoven>

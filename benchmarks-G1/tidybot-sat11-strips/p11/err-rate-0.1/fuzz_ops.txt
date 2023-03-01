@@ -1,0 +1,3 @@
+<Remove Atom object-pos(?o, ?ox, ?gyabs) from Pos-effs: put-right>
+<Remove Atom base-pos(?r, ?x, ?dy) from Pos-effs: base-down>
+<Remove Atom cart-pos(?c, ?cx2, ?cy) from Pos-effs: base-cart-right>

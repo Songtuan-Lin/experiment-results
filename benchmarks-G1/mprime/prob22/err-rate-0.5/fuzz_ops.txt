@@ -1,0 +1,2 @@
+<Add Atom harmony(?l1, ?v) to Effs: feast>
+<Add Atom attacks(?l11, ?n1) to Effs: drink>

@@ -1,0 +1,3 @@
+<Add Atom push-updating(?pipe) to Prec: pop-end>
+<Add Atom may-interface(?product-batch-atom-in, ?product-batch-atom-in) to Prec: pop-unitarypipe>
+<Add Atom connect(?from-area, ?from-area, ?pipe) to Prec: push-start>

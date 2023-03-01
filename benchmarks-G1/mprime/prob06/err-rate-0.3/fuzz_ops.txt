@@ -1,0 +1,2 @@
+<Remove NegatedAtom fears(?c, ?v) from Effs: succumb>
+<Add Atom orbits(?l22, ?l13) to Effs: drink>

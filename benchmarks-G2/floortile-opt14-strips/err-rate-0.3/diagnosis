@@ -1,0 +1,4 @@
+<Component: Remove Atom left(?y, ?y) from Precondition: left | Condition: False>
+<Component: Add Atom clear(?x) to Effects: down | Condition: False>
+0.036060903
+memory: 13.03125

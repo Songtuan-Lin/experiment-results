@@ -1,0 +1,4 @@
+<Add Atom boardsize-successor(?size_before, ?s2) to Neg-effs: cut-board-large>
+<Add Atom boardsize(?b, ?size_after) to Neg-effs: do-saw-small>
+<Add Atom boardsize(?b, ?size_after) to Neg-effs: cut-board-small>
+<Add Atom boardsize-successor(?size_after, ?s1) to Neg-effs: cut-board-medium>

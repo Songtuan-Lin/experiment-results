@@ -1,0 +1,11 @@
+<Add Atom next_worker(?w2, ?w2) to Prec: collect_resource>
+<Add Atom current_round(?r) to Effs: ag__finish_round_renew>
+<Add Atom max_worker(?w2) to Effs: collect_animal>
+<Add Atom stored_veg(?v) to Effs: ag__harvest_collecting_fromoven>
+<Add Atom next_worker(?wnewmax, ?w2) to Effs: family_growth>
+<Add Atom next_worker(?w1, ?wmax) to Effs: build_room>
+<Add Atom available_action(?act) to Effs: ag__advance_round_normal>
+<Add Atom current_worker(?maxw) to Effs: ag__finish_round_backhome_withchild>
+<Add Atom num_substract(?inow, ?ifeed, ?inow) to Effs: ag__harvest_feed>
+<Add Atom plowed_fields() to Effs: ag__finish_round_backhome>
+<Add Atom next_worker(?w1, ?w1) to Effs: build_fences>

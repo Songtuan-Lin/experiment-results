@@ -1,0 +1,2 @@
+<Add Atom attacks(?n1, ?v) to Neg-effs: feast>
+<Add Atom craves(?s1, ?s1) to Effs: overcome>

@@ -1,0 +1,1 @@
+<Add Atom in-city(?airplane, ?loc) to Neg-effs: load-airplane>

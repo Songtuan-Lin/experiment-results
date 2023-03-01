@@ -1,0 +1,5 @@
+<Add Atom can_traverse(?r, ?w, ?w) to Prec: calibrate>
+<Add Atom can_traverse(?r, ?y, ?p) to Prec: communicate_rock_data>
+<Add Atom at_lander(?l, ?y) to Prec: communicate_soil_data>
+<Add Atom can_traverse(?r, ?p, ?p) to Prec: take_image>
+<Add Atom available(?x) to Prec: navigate>

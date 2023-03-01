@@ -1,0 +1,4 @@
+<Component: Add Atom last-visited(?to) to Effects: jump-new-move | Condition: False>
+<Component: Remove Atom occupied(?over) from Precondition: jump-new-move | Condition: False>
+0.01124965800000001
+memory: 14.53125

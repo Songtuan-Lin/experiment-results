@@ -1,0 +1,7 @@
+<Remove Atom treatment(?p, untreated) from Pos-effs: cut-board-large>
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: do-saw-medium>
+<Remove Atom available(?b) from Pos-effs: unload-highspeed-saw>
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>
+<Remove Atom treatment(?x, varnished) from Pos-effs: do-immersion-varnish>
+<Remove Atom surface-condition(?x, verysmooth) from Pos-effs: do-grind>

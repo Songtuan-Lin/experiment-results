@@ -1,0 +1,2 @@
+<Remove Atom capacity(?v, ?s1) from Pos-effs: pick-up>
+<Remove Atom at(?v, ?l2) from Pos-effs: drive>

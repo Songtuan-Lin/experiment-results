@@ -1,0 +1,4 @@
+<Add Atom empty(?m) to Prec: unload-highspeed-saw>
+<Add Atom colour(?x, ?newcolour) to Prec: do-immersion-varnish>
+<Add Atom treatment(?x, ?newtreatment) to Prec: do-grind>
+<Add Atom boardsize-successor(?s2, ?s1) to Prec: do-saw-large>

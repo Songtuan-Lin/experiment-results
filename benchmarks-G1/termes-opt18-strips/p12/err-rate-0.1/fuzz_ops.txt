@@ -1,0 +1,1 @@
+<Add Atom succ(?hto, ?hto) to Neg-effs: move-down>

@@ -1,0 +1,7 @@
+<Remove NegatedAtom inverted(?x) from Effs: invert-single-gene-b>
+<Remove Atom cut-point-2(?y) from Pos-effs: end-cut-1>
+<Add Atom =(?x, ?x) to Effs: begin-inverse-splice-special-case>
+<Add Atom duplicate(?y, ?y) to Effs: continue-splice-2>
+<Add Atom swappable(?x, ?y) to Prec: end-inverse-splice-2>
+<Add Atom duplicate(?x, ?x) to Prec: continue-cut>
+<Add Atom normal(?x) to Effs: continue-inverse-splice-1a>

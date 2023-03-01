@@ -1,0 +1,2 @@
+<Add Atom script-io(?sc, ?in2, ?out, ?out) to Neg-effs: process>
+<Remove NegatedAtom usage(?s, ?before) from Effs: load>

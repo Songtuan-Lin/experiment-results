@@ -1,0 +1,2 @@
+<Add Atom last(?last-batch-atom, ?pipe) to Prec: pop-start>
+<Add Atom is-product(?last-batch-atom, ?product-last-batch) to Prec: pop-unitarypipe>

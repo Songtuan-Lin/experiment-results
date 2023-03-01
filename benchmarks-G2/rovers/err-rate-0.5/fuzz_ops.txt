@@ -1,0 +1,5 @@
+<Add Atom at_soil_sample(?y) to Neg-effs: communicate_rock_data>
+<Add Atom equipped_for_soil_analysis(?x) to Prec: drop>
+<Add Atom communicated_rock_data(?p) to Prec: communicate_soil_data>
+<Add Atom store_of(?s, ?x) to Prec: sample_rock>
+<Remove Atom channel_free(?l) from Pos-effs: communicate_image_data>

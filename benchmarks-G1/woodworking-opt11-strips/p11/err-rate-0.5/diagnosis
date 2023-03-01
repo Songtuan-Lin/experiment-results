@@ -1,0 +1,6 @@
+<Component: Remove Atom colour(?x, ?newcolour) from Precondition: do-immersion-varnish | Condition: False>
+<Component: Remove Atom unused(?x) from Precondition: do-glaze | Condition: False>
+<Component: Remove Atom boardsize-successor(?s1, ?s1) from Precondition: do-saw-medium | Condition: False>
+<Component: Remove Atom boardsize-successor(?size_after, ?size_before) from Precondition: do-saw-large | Condition: False>
+0.011491133999999993
+memory: 14.53515625

@@ -1,0 +1,4 @@
+<Component: Remove Atom next(?l4, ?l4) from Precondition: unload | Condition: False>
+<Component: Add Atom next(?l1, ?l1) to Effects: buy | Condition: False>
+0.027014677
+memory: 13.17578125

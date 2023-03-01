@@ -1,0 +1,7 @@
+<Add Atom canstack(?oldcard, ?oldcard) to Prec: tal-to-col-c>
+<Add Atom on(?card, ?card) to Prec: tal-to-col-b>
+<Add Atom on(?card, ?c1) to Prec: turn-deck-a>
+<Add Atom ontalon(?card, ?card) to Prec: tal-to-col-f>
+<Add Atom colsuccessor(?ncols, ?cols) to Prec: tal-to-col-h>
+<Add Atom talonplayable(?c1) to Prec: turn-deck>
+<Add Atom ontalon(?newcard, ?newcard) to Prec: tal-to-col-d>

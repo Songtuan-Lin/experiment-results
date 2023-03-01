@@ -1,0 +1,2 @@
+<Add Atom dispenses(?d, ?i) to Prec: fill-shot>
+<Add Atom ontable(?c) to Prec: leave>

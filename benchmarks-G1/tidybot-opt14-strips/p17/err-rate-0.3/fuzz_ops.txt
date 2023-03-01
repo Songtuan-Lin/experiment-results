@@ -1,0 +1,9 @@
+<Add Atom above(?cy, ?cy) to Neg-effs: grasp-cart-below>
+<Add Atom above(?cy, ?cy) to Effs: grasp-cart-above>
+<Add Atom object-pos(?o, ?x, ?y) to Effs: finish-object>
+<Remove Atom object-pos(?o, ?ox, ?gyabs) from Pos-effs: put-right>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-up>
+<Add Atom cart-pos(?c, ?cx, ?y1) to Effs: base-cart-down>
+<Add Atom base-obstacle(?cx, ?y) to Neg-effs: grasp-cart-right>
+<Add Atom base-pos(?r, ?cx, ?y1) to Effs: base-cart-up>
+<Add Atom base-obstacle(?x, ?dy) to Neg-effs: base-up>

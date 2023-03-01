@@ -1,0 +1,2 @@
+<Remove Atom contains(?s, ?i) from Pos-effs: refill-shot>
+<Add Atom handempty(?h1) to Prec: clean-shot>

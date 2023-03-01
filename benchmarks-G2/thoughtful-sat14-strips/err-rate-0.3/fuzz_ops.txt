@@ -1,0 +1,7 @@
+<Remove Atom clear(?card) from Pos-effs: home-to-col-a>
+<Add Atom canstack(?card, ?card) to Neg-effs: turn-deck-a>
+<Remove Atom faceup(?card) from Pos-effs: tal-to-col-g>
+<Remove Atom faceup(?card) from Pos-effs: tal-to-col-d>
+<Remove Atom talonplayable(?c1) from Pos-effs: turn-deck>
+<Add Atom toptalon(?cardbelow) to Neg-effs: tal-to-home-c>
+<Remove Atom home(?card) from Pos-effs: tal-to-home>

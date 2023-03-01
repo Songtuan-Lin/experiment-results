@@ -1,0 +1,4 @@
+<Remove Atom holding(?h, ?c) from Pos-effs: grasp>
+<Remove Atom shaker-level(?s, ?l1) from Pos-effs: pour-shaker-to-shot>
+<Remove Atom ontable(?c) from Pos-effs: leave>
+<Remove Atom contains(?s, ?b) from Pos-effs: shake>

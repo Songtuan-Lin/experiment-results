@@ -1,0 +1,3 @@
+<Remove Atom in(?p, ?a) from Pos-effs: board>
+<Remove Atom at(?p, ?c) from Pos-effs: debark>
+<Remove Atom at(?a, ?c2) from Pos-effs: fly>

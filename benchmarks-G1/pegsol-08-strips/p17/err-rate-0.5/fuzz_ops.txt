@@ -1,0 +1,2 @@
+<Add Atom last-visited(?from) to Prec: jump-new-move>
+<Add Atom last-visited(?loc) to Prec: end-move>

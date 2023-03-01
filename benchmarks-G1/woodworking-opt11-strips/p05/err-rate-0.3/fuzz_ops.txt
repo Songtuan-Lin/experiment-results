@@ -1,0 +1,4 @@
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-glaze>
+<Remove Atom colour(?x, natural) from Pos-effs: do-grind>
+<Remove Atom colour(?p, natural) from Pos-effs: cut-board-medium>
+<Remove Atom colour(?p, natural) from Pos-effs: cut-board-large>

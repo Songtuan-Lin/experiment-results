@@ -1,0 +1,11 @@
+<Remove Atom hold_round(?r, backhome) from Pos-effs: ag__finish_round_backhome_withchild>
+<Remove NegatedAtom available_action(?act) from Effs: collect_resource>
+<Remove NegatedAtom num_food(?i) from Effs: ag__harvest_breeding_animal>
+<Remove NegatedAtom sown_veg(?v) from Effs: ag__harvest_collecting_veg>
+<Add Atom num_substract(?i1, ?i2, ?i2) to Effs: take_food>
+<Remove Atom harvest_phase(?s, harvest_end) from Pos-effs: ag__harvest_breed_end>
+<Add Atom next_worker(?w1, ?wmax) to Effs: take_grain>
+<Remove Atom can_harvest(carrot) from Pos-effs: ag__finish_round_renew>
+<Add Atom ok() to Effs: plow_field>
+<Remove Atom can_breed(boar) from Pos-effs: ag__harvest_feed>
+<Remove NegatedAtom hold_round(?r1, roundend) from Effs: ag__finish_stage>

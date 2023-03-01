@@ -1,0 +1,2 @@
+<Add Atom fears(?n, ?s2) to Neg-effs: succumb>
+<Add Atom =(?c, ?s1) to Neg-effs: overcome>

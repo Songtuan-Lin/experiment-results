@@ -1,0 +1,3 @@
+<Add Atom =(?newcard, ?newcard) to Prec: colfromfreecell>
+<Add Atom successor(?vcard, ?suit) to Prec: sendtohome>
+<Add Atom =(?ncols, ?ncols) to Prec: newcolfromfreecell>

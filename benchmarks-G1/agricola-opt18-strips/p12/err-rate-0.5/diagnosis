@@ -1,0 +1,4 @@
+<Component: Add Atom current_worker(?w2) to Effects: take_food | Condition: False>
+<Component: Add Atom next_round(?r, ?r) to Effects: ag__harvest_feed | Condition: False>
+0.024711080999999996
+memory: 14.5390625

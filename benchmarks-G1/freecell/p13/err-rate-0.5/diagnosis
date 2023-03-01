@@ -1,0 +1,7 @@
+<Component: Remove Atom on(?oldcard, ?ncols) from Precondition: sendtonewcol | Condition: False>
+<Component: Remove Atom cellspace(?newcard) from Precondition: move-b | Condition: False>
+<Component: Remove Atom suit(?vhomecard, ?suit) from Precondition: sendtohome-b | Condition: False>
+<Component: Remove Atom =(?vcard, ?suit) from Precondition: homefromfreecell | Condition: False>
+<Component: Add Atom clear(?vcard) to Effects: sendtohome | Condition: False>
+0.034898124
+memory: 14.53515625

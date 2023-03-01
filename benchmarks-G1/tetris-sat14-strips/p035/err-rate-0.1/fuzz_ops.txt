@@ -1,0 +1,1 @@
+<Remove NegatedAtom clear(?xy_final2) from Effs: move_l_up>

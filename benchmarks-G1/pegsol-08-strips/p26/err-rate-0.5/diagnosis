@@ -1,0 +1,4 @@
+<Component: Add Atom occupied(?to) to Effects: jump-new-move | Condition: False>
+<Component: Remove Atom move-ended() from Precondition: jump-new-move | Condition: False>
+0.007260649000000001
+memory: 14.53125

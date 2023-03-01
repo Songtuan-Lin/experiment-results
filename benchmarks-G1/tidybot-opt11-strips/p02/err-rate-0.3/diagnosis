@@ -1,0 +1,4 @@
+<Component: Remove Atom base-obstacle(?ox, ?gyabs) from Precondition: get-left | Condition: False>
+<Component: Add Atom gripper-rel(?r, ?x, ?y) to Effects: unpark | Condition: False>
+0.013740865999999997
+memory: 13.171875

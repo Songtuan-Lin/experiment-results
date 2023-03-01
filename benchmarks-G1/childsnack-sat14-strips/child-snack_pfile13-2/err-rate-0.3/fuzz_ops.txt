@@ -1,0 +1,2 @@
+<Add Atom at(?t, ?p1) to Prec: move_tray>
+<Add Atom no_gluten_bread(?b) to Prec: make_sandwich>

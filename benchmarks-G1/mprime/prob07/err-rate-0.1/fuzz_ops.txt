@@ -1,0 +1,1 @@
+<Add Atom eats(?v, ?v) to Effs: succumb>

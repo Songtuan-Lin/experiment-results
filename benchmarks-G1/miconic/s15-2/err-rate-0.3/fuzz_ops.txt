@@ -1,0 +1,2 @@
+<Add Atom destin(?f1, ?f1) to Prec: down>
+<Add Atom lift-at(?p) to Prec: depart>

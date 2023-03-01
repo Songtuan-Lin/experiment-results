@@ -1,0 +1,1 @@
+<Add Atom is-nongoal(?from) to Prec: push-to-nongoal>

@@ -1,0 +1,4 @@
+<Component: Add Atom harvest_phase(?s, harvest_end) to Effects: ag__harvest_feed | Condition: False>
+<Component: Add Atom can_breed(boar) to Effects: take_food | Condition: False>
+0.030534964999999997
+memory: 14.53125

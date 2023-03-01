@@ -1,0 +1,6 @@
+<Component: Add Atom surface-condition(?x, verysmooth) to Effects: do-grind | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-glaze | Condition: False>
+<Component: Add Atom wood(?p, ?w) to Effects: do-saw-small | Condition: False>
+<Component: Add Atom treatment(?x, untreated) to Effects: do-plane | Condition: False>
+0.06358618199999999
+memory: 14.53125

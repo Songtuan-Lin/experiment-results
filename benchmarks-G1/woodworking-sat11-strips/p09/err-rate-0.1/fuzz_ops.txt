@@ -1,0 +1,2 @@
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-glaze>
+<Add Atom boardsize-successor(?size_after, ?s1) to Neg-effs: cut-board-large>

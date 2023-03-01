@@ -1,0 +1,3 @@
+<Add Atom bottomtalon(?card) to Neg-effs: move-col-to-col-b>
+<Add Atom colspace(?ncols) to Neg-effs: col-to-home-b>
+<Add Atom colsuccessor(?ncols, ?ncols) to Neg-effs: tal-to-col-g>

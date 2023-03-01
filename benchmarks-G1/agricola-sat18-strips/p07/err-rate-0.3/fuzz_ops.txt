@@ -1,0 +1,7 @@
+<Remove Atom current_worker(?w2) from Pos-effs: build_fences>
+<Add Atom num_substract(?i, ?i, ?i) to Effs: ag__harvest_breeding_animal>
+<Remove Atom hold_round(?r, backhome) from Pos-effs: ag__finish_round_backhome>
+<Add Atom next_worker(?newmax, ?newmax) to Effs: ag__finish_round_backhome_withchild>
+<Remove NegatedAtom can_harvest(?v) from Effs: ag__harvest_collecting_fromoven>
+<Add Atom max_worker(?wmax) to Effs: improve_home>
+<Remove NegatedAtom num_food(?inow) from Effs: ag__harvest_feed>

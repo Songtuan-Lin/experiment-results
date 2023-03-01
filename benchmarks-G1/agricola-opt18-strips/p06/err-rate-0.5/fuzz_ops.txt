@@ -1,0 +1,11 @@
+<Add Atom plowed_fields() to Effs: ag__advance_round_normal>
+<Add Atom max_worker(?maxw) to Effs: ag__finish_round_backhome>
+<Remove NegatedAtom available_action(?act) from Effs: collect_resource>
+<Add Atom current_worker(?w1) to Effs: plow_field>
+<Add Atom next_worker(?w1, ?w2) to Prec: build_fences>
+<Add Atom next_round(?r, ?r) to Effs: ag__harvest_breed_end>
+<Add Atom next_round(?r2, ?r2) to Effs: ag__finish_stage>
+<Add Atom current_worker(?wmax) to Effs: improve_home>
+<Add Atom next2_num(?i, ?i) to Effs: ag__harvest_breeding_animal>
+<Add Atom next_round(?r, ?r) to Effs: ag__finish_round_renew>
+<Remove Atom built_rooms(?room, ?wnewmax) from Pos-effs: build_room>

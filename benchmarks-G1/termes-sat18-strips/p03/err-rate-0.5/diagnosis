@@ -1,0 +1,6 @@
+<Component: Remove Atom has-block() from Effects: move-up | Condition: False>
+<Component: Add Atom at(?to) to Effects: move | Condition: False>
+<Component: Remove NegatedAtom at(?rpos) from Effects: remove-block | Condition: False>
+<Component: Add Atom at(?to) to Effects: move-down | Condition: False>
+0.055042403000000004
+memory: 14.53125

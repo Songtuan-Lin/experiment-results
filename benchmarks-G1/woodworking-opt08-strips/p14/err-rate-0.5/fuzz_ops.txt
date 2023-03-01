@@ -1,0 +1,7 @@
+<Add Atom boardsize-successor(?s1, ?s1) to Prec: cut-board-medium>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: unload-highspeed-saw>
+<Add Atom colour(?x, ?newcolour) to Prec: do-spray-varnish>
+<Add Atom boardsize-successor(?s2, ?size_after) to Prec: cut-board-large>
+<Add Atom unused(?x) to Prec: do-immersion-varnish>
+<Add Atom is-smooth(?oldsurface) to Prec: do-plane>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: load-highspeed-saw>

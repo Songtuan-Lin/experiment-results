@@ -1,0 +1,4 @@
+<Component: Add Atom clear(?card) to Effects: turn-deck | Condition: False>
+<Component: Remove Atom ontalon(?homecard, ?card) from Precondition: tal-to-home-d | Condition: False>
+0.047243198
+memory: 12.24609375

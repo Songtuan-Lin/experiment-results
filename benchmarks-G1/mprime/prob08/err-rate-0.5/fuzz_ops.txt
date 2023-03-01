@@ -1,0 +1,2 @@
+<Add Atom attacks(?v, ?v) to Prec: overcome>
+<Add Atom eats(?l12, ?n1) to Effs: drink>

@@ -1,0 +1,4 @@
+<Component: Remove Atom next_round(?r, ?r) from Precondition: ag__harvest_breed_end | Condition: False>
+<Component: Add Atom num_food(?i2) to Effects: collect_cook_animal | Condition: False>
+0.051369579000000005
+memory: 14.40625

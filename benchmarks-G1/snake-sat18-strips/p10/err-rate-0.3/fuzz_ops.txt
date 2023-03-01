@@ -1,0 +1,1 @@
+<Add Atom =(?spawnpoint, ?nextspawnpoint) to Effs: move-and-eat-spawn>

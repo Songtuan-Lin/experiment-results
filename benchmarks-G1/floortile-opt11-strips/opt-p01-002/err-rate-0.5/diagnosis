@@ -1,0 +1,4 @@
+<Component: Add Atom available-color(?c2) to Effects: change-color | Condition: False>
+<Component: Remove NegatedAtom up(?y, ?x) from Effects: up | Condition: False>
+0.006758664999999997
+memory: 14.53125

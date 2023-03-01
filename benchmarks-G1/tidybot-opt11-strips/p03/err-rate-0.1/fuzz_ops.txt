@@ -1,0 +1,3 @@
+<Add Atom gripper-obstacle(?cx, ?y) to Effs: grasp-cart-right>
+<Add Atom zeroy-rel(?dgyrel) to Effs: gripper-down>
+<Add Atom not-pushing(?r) to Effs: base-cart-right>

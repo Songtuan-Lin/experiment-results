@@ -1,0 +1,1 @@
+<Add Atom equipped_for_rock_analysis(?x) to Neg-effs: sample_rock>

@@ -1,0 +1,3 @@
+<Add Atom value(?card, ?vcard) to Prec: tal-to-home-c>
+<Add Atom home(?cardabove) to Prec: tal-to-col-e>
+<Add Atom ontalon(?newcard, ?cardbelow) to Prec: home-to-col>

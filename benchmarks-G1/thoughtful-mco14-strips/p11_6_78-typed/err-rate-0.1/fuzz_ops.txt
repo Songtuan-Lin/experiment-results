@@ -1,0 +1,3 @@
+<Add Atom bottomtalon(?card) to Neg-effs: tal-to-col-c>
+<Add Atom canstack(?homecard, ?homecard) to Neg-effs: col-to-home>
+<Add Atom ontalon(?card, ?card) to Neg-effs: tal-to-col-d>

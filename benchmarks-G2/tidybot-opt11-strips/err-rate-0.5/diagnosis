@@ -1,0 +1,4 @@
+<Component: Add Atom holding(?r, ?o) to Effects: get-up | Condition: False>
+<Component: Remove Atom above(?gyabs, ?gyabs) from Precondition: put-down | Condition: False>
+0.25902715400000004
+memory: 20.6953125

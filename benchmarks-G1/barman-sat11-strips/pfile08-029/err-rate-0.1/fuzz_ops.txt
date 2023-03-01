@@ -1,0 +1,2 @@
+<Add Atom dispenses(?d, ?i) to Neg-effs: fill-shot>
+<Add Atom clean(?c) to Neg-effs: grasp>

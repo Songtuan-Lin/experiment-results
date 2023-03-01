@@ -1,0 +1,2 @@
+<Remove Atom power_avail(?s) from Pos-effs: switch_off>
+<Remove Atom calibrated(?i) from Pos-effs: calibrate>

@@ -1,0 +1,3 @@
+<Remove Atom in(?y, ?z) from Pos-effs: load>
+<Remove Atom at(?x, ?z) from Pos-effs: drive>
+<Remove Atom clear(?z) from Pos-effs: lift>

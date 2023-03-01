@@ -1,0 +1,4 @@
+<Remove Atom shaker-level(?s, ?l1) from Pos-effs: empty-shaker>
+<Remove Atom shaked(?s) from Pos-effs: shake>
+<Add Atom handempty(?h1) to Neg-effs: pour-shot-to-clean-shaker>
+<Remove Atom clean(?s) from Pos-effs: clean-shaker>

@@ -1,0 +1,4 @@
+<Remove Atom wood(?p, ?w) from Pos-effs: cut-board-small>
+<Remove Atom treatment(?x, ?newtreatment) from Pos-effs: do-grind>
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>

@@ -1,0 +1,2 @@
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-glaze>
+<Remove Atom treatment(?p, untreated) from Pos-effs: cut-board-medium>

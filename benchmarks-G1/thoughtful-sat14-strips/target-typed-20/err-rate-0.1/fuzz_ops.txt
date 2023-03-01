@@ -1,0 +1,3 @@
+<Remove Atom bottomtalon(?cardabove) from Pos-effs: tal-to-col-f>
+<Remove Atom bottomtalon(?cardabove) from Pos-effs: tal-to-home-b>
+<Remove Atom bottomcol(?card) from Pos-effs: home-to-col-a>

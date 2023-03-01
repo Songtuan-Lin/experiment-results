@@ -1,0 +1,7 @@
+<Remove Atom available_action(act_stone) from Pos-effs: ag__finish_round_renew>
+<Remove Atom num_food(?i2) from Pos-effs: collect_cook_animal>
+<Remove Atom max_worker(?newmax) from Pos-effs: ag__finish_round_backhome_withchild>
+<Remove Atom harvest_phase(?s, harvest_breeding) from Pos-effs: ag__harvest_feed>
+<Add Atom next_worker(?wmax, ?w2) to Effs: build_room>
+<Add Atom newborn() to Effs: take_grain>
+<Add Atom next_worker(?w2, ?w2) to Prec: family_growth>

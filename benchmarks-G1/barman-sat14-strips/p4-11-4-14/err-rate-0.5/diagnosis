@@ -1,0 +1,7 @@
+<Component: Add Atom empty(?s) to Effects: pour-shot-to-clean-shaker | Condition: False>
+<Component: Remove Atom shaker-level(?d, ?l) from Precondition: pour-shot-to-clean-shaker | Condition: False>
+<Component: Add Atom used(?s, ?i) to Effects: fill-shot | Condition: False>
+<Component: Remove NegatedAtom contains(?s, ?i) from Effects: pour-shot-to-clean-shaker | Condition: False>
+<Component: Remove NegatedAtom handempty(?h) from Effects: grasp | Condition: False>
+0.064593079
+memory: 14.53515625

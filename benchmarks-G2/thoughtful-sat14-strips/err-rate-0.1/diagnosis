@@ -1,0 +1,4 @@
+<Component: Add Atom on(?card, ?newcard) to Effects: move-col-to-col | Condition: False>
+<Component: Add Atom instack(?card) to Effects: tal-to-home-d | Condition: False>
+0.278842399
+memory: 18.99609375

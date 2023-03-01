@@ -1,0 +1,2 @@
+<Remove Atom ready-to-load(?g, ?m, ?l4) from Pos-effs: buy>
+<Remove Atom at(?t, ?to) from Pos-effs: drive>

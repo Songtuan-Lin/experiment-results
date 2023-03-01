@@ -1,0 +1,3 @@
+<Add Atom fuel-level(?c1, ?c1) to Prec: fly>
+<Add Atom in(?p, ?c) to Prec: debark>
+<Add Atom aircraft(?l1) to Prec: refuel>

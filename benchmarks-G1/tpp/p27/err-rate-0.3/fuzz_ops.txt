@@ -1,0 +1,2 @@
+<Add Atom stored(?g, ?l4) to Prec: buy>
+<Add Atom connected(?from, ?from) to Prec: drive>

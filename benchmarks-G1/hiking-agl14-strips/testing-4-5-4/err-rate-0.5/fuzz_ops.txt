@@ -1,0 +1,4 @@
+<Add Atom next(?x2, ?x2) to Effs: put_down>
+<Add Atom at_person(?x5, ?x2) to Neg-effs: walk_together>
+<Remove Atom at_person(?x5, ?x3) from Pos-effs: drive_passenger>
+<Add Atom next(?x2, ?x2) to Neg-effs: put_up>

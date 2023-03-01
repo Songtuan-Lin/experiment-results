@@ -1,0 +1,3 @@
+<Add Atom =(?ncols, ?card) to Neg-effs: newcolfromfreecell>
+<Add Atom clear(?card) to Neg-effs: move-b>
+<Add Atom =(?vcard, ?cols) to Neg-effs: sendtohome-b>

@@ -1,0 +1,3 @@
+<Add Atom canstack(?cardbelow, ?card) to Prec: home-to-col-a>
+<Add Atom clear(?card) to Prec: move-col-to-col-b>
+<Add Atom canstack(?newcard, ?newcard) to Prec: home-to-col>

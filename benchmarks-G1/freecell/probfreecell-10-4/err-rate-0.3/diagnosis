@@ -1,0 +1,4 @@
+<Component: Add Atom value(?vcard, ?vhomecard) to Effects: sendtohome | Condition: False>
+<Component: Remove Atom on(?oldcard, ?suit) from Precondition: sendtohome | Condition: False>
+0.011810799999999996
+memory: 13.171875

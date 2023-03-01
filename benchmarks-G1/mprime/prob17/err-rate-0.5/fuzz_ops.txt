@@ -1,0 +1,2 @@
+<Add Atom attacks(?l21, ?l11) to Neg-effs: drink>
+<Add Atom attacks(?c, ?s1) to Effs: overcome>

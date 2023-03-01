@@ -1,0 +1,2 @@
+<Add Atom fears(?n1, ?n2) to Neg-effs: feast>
+<Add Atom attacks(?n2, ?n2) to Prec: drink>

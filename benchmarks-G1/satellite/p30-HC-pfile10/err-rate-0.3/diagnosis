@@ -1,0 +1,4 @@
+<Component: Add Atom power_on(?i) to Effects: switch_on | Condition: False>
+<Component: Add Atom have_image(?d, ?m) to Effects: take_image | Condition: False>
+0.043312465999999994
+memory: 13.17578125

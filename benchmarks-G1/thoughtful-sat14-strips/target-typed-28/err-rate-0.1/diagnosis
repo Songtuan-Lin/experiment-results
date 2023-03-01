@@ -1,0 +1,4 @@
+<Component: Remove Atom successor(?vhomecard, ?vcard) from Precondition: col-to-home | Condition: False>
+<Component: Remove Atom on(?card, ?cardabove) from Precondition: tal-to-col-b | Condition: False>
+0.023367587000000002
+memory: 12.234375

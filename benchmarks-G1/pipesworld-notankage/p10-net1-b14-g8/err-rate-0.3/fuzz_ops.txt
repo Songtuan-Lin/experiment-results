@@ -1,0 +1,2 @@
+<Add Atom on(?first-batch-atom, ?from-area) to Neg-effs: pop-end>
+<Add Atom may-interface(?product-last-batch, ?product-batch-atom-in) to Neg-effs: pop-start>

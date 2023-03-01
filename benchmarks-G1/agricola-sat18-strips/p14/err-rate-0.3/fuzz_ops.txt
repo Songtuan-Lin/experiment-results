@@ -1,0 +1,7 @@
+<Add Atom num_substract(?i1, ?i3, ?i3) to Effs: ag__harvest_collecting_fromoven>
+<Add Atom next_round(?r, ?r) to Prec: ag__finish_round_backhome_withchild>
+<Add Atom next_stage(?s1, ?s2) to Effs: ag__finish_stage>
+<Remove NegatedAtom num_food(?i) from Effs: ag__harvest_breeding_animal>
+<Remove NegatedAtom current_worker(?w1) from Effs: collect_cook_animal>
+<Add Atom ok() to Effs: ag__finish_round_renew>
+<Add Atom next_worker(?wmax, ?wnewmax) to Effs: build_room>

@@ -1,0 +1,4 @@
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-glaze>
+<Remove Atom colour(?x, natural) from Pos-effs: do-plane>
+<Remove Atom empty(?m) from Pos-effs: unload-highspeed-saw>
+<Remove Atom wood(?p, ?w) from Pos-effs: cut-board-large>

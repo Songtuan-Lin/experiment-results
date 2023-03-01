@@ -1,0 +1,2 @@
+<Add Atom =(?c, ?a) to Neg-effs: debark>
+<Add Atom fuel-level(?c, ?p) to Neg-effs: board>

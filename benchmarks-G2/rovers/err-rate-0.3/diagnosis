@@ -1,0 +1,4 @@
+<Component: Remove Atom at_soil_sample(?y) from Precondition: communicate_rock_data | Condition: False>
+<Component: Add Atom have_image(?r, ?o, ?m) to Effects: take_image | Condition: False>
+0.8127420209999999
+memory: 47.109375

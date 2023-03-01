@@ -1,0 +1,1 @@
+<Add Atom origin(?p, ?p) to Prec: board>

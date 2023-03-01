@@ -1,0 +1,2 @@
+<Add Atom at(?x, ?z) to Prec: lift>
+<Add Atom at(?y, ?y) to Prec: load>

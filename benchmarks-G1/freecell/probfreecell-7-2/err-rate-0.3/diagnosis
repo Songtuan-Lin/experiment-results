@@ -1,0 +1,4 @@
+<Component: Remove Atom colspace(?cols) from Precondition: sendtohome-b | Condition: False>
+<Component: Remove NegatedAtom cellspace(?cells) from Effects: sendtofree | Condition: False>
+0.014824193999999999
+memory: 13.17578125

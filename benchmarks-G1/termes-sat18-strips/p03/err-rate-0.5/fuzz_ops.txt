@@ -1,0 +1,4 @@
+<Remove Atom at(?to) from Pos-effs: move>
+<Add Atom at(?rpos) to Neg-effs: remove-block>
+<Remove Atom at(?to) from Pos-effs: move-down>
+<Add Atom has-block() to Effs: move-up>

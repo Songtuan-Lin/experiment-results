@@ -1,0 +1,6 @@
+<Remove Atom unshaked(?d) from Pos-effs: pour-shot-to-clean-shaker>
+<Remove Atom clean(?s) from Pos-effs: clean-shot>
+<Remove Atom holding(?h, ?c) from Pos-effs: grasp>
+<Remove Atom clean(?s) from Pos-effs: clean-shaker>
+<Remove Atom empty(?s) from Pos-effs: empty-shaker>
+<Remove Atom used(?s, ?i) from Pos-effs: fill-shot>

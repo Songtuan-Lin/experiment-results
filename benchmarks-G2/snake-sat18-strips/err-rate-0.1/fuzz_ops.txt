@@ -1,0 +1,1 @@
+<Remove NegatedAtom tailsnake(?tail) from Effs: move>

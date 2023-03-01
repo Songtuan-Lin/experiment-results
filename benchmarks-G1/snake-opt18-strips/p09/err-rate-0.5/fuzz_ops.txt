@@ -1,0 +1,2 @@
+<Add Atom nextspawn(?tail, ?tail) to Effs: move>
+<Remove Atom headsnake(?newhead) from Pos-effs: move-and-eat-no-spawn>

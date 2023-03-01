@@ -1,0 +1,6 @@
+<Component: Remove Atom supports(?i, ?m) from Precondition: take_image | Condition: False>
+<Component: Remove NegatedAtom visible_from(?o, ?x) from Effects: communicate_image_data | Condition: False>
+<Component: Add Atom have_rock_analysis(?x, ?y) to Effects: navigate | Condition: False>
+<Component: Remove NegatedAtom store_of(?y, ?x) from Effects: drop | Condition: False>
+0.07094425100000001
+memory: 14.5390625

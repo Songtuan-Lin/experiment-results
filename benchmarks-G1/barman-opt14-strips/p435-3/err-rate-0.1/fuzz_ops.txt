@@ -1,0 +1,2 @@
+<Add Atom handempty(?h1) to Neg-effs: clean-shot>
+<Add Atom handempty(?h) to Neg-effs: empty-shot>

@@ -1,0 +1,2 @@
+<Add Atom headsnake(?newtail) to Effs: move>
+<Remove NegatedAtom spawn(?spawnpoint) from Effs: move-and-eat-spawn>

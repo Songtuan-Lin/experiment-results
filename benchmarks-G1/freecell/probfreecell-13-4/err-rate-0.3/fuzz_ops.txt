@@ -1,0 +1,3 @@
+<Add Atom canstack(?ncells, ?ncells) to Prec: colfromfreecell>
+<Add Atom bottomcol(?homecard) to Prec: homefromfreecell>
+<Add Atom suit(?ncols, ?cols) to Prec: sendtohome-b>

@@ -1,0 +1,2 @@
+<Add Atom on(?z, ?y) to Neg-effs: load>
+<Add Atom at(?x, ?z) to Neg-effs: lift>

@@ -1,0 +1,7 @@
+<Add Atom boardsize-successor(?size_before, ?size_before) to Neg-effs: do-saw-small>
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-immersion-varnish>
+<Add Atom grind-treatment-change(?oldtreatment, ?newtreatment) to Neg-effs: do-grind>
+<Add Atom boardsize-successor(?s2, ?s1) to Neg-effs: cut-board-large>
+<Add Atom boardsize(?b, ?size_before) to Neg-effs: do-saw-medium>
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-glaze>
+<Add Atom empty(?m) to Neg-effs: unload-highspeed-saw>

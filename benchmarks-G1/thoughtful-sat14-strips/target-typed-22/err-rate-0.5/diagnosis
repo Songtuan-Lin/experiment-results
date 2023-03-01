@@ -1,0 +1,8 @@
+<Component: Add Atom talonplayable(?newcard) to Effects: move-col-to-col | Condition: False>
+<Component: Remove Atom instack(?homecard) from Precondition: tal-to-home-b | Condition: False>
+<Component: Remove Atom value(?cardbelow, ?vhomecard) from Precondition: tal-to-home | Condition: False>
+<Component: Remove Atom value(?cardbelow, ?vhomecard) from Precondition: tal-to-home-c | Condition: False>
+<Component: Remove Atom canstack(?newcard, ?newcard) from Precondition: tal-to-col | Condition: False>
+<Component: Remove Atom canstack(?card, ?card) from Precondition: move-col-to-col-c | Condition: False>
+0.036325363
+memory: 14.5390625

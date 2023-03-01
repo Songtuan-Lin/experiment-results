@@ -1,0 +1,5 @@
+<Component: Remove Atom built_rooms(?room, ?w1) from Precondition: build_room | Condition: False>
+<Component: Add Atom stored_resource(?res) to Effects: collect_resource | Condition: False>
+<Component: Remove Atom newborn() from Precondition: ag__finish_round_backhome_withchild | Condition: False>
+0.028355881000000006
+memory: 14.5390625

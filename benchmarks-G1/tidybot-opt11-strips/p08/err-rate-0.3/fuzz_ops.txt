@@ -1,0 +1,9 @@
+<Add Atom leftof(?cx2, ?cx2) to Prec: base-cart-left>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-from-cart>
+<Remove Atom gripper-rel(?r, ?dgxrel, ?gyrel) from Pos-effs: gripper-left>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-up>
+<Add Atom base-pos(?r, ?gxabs, ?basey) to Neg-effs: gripper-up>
+<Add Atom surface(?gxabs, ?gyabs) to Effs: put-up>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-left>
+<Remove Atom object-done(?o) from Pos-effs: finish-object>
+<Add Atom gripper-empty(?r) to Effs: park>

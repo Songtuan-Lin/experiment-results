@@ -1,0 +1,1 @@
+<Add Atom is-depot(?p) to Prec: destroy-block>

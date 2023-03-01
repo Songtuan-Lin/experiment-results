@@ -1,0 +1,4 @@
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Prec: do-plane>
+<Add Atom is-smooth(?surface) to Prec: do-saw-small>
+<Add Atom boardsize(?b, ?size_after) to Prec: cut-board-small>
+<Add Atom is-smooth(?surface) to Prec: cut-board-medium>

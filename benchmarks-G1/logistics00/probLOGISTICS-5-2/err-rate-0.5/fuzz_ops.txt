@@ -1,0 +1,3 @@
+<Add Atom location(?city) to Prec: drive-truck>
+<Add Atom at(?loc-to, ?loc-from) to Prec: fly-airplane>
+<Add Atom location(?loc) to Prec: load-airplane>

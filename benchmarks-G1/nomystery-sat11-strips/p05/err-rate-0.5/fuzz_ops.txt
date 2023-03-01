@@ -1,0 +1,2 @@
+<Remove Atom in(?p, ?t) from Pos-effs: load>
+<Remove Atom at(?t, ?l2) from Pos-effs: drive>

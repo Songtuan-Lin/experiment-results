@@ -1,0 +1,4 @@
+<Component: Add Atom empty(?truck) to Effects: drive-truck | Condition: False>
+<Component: Add Atom driving(?driver, ?truck) to Effects: board-truck | Condition: False>
+0.007154668000000003
+memory: 13.16796875

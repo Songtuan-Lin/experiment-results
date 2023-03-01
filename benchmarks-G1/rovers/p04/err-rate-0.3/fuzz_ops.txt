@@ -1,0 +1,3 @@
+<Remove Atom full(?s) from Pos-effs: sample_rock>
+<Remove Atom calibrated(?i, ?r) from Pos-effs: calibrate>
+<Remove Atom empty(?y) from Pos-effs: drop>

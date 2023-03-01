@@ -1,0 +1,2 @@
+<Add Atom locale(?n, ?s1) to Effs: overcome>
+<Remove Atom locale(?n1, ?l12) from Pos-effs: drink>

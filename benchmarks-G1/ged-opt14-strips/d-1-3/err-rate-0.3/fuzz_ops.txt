@@ -1,0 +1,7 @@
+<Remove NegatedAtom cw(?x, ?y) from Effs: begin-cut>
+<Add Atom gone(?y) to Effs: end-splice-1>
+<Remove NegatedAtom cw(?x, ?x) from Effs: begin-inverse-splice-special-case>
+<Add Atom normal(?y) to Effs: end-inverse-splice-1a>
+<Add Atom duplicate(?y, ?x) to Effs: continue-splice-1>
+<Add Atom normal(?y) to Effs: end-inverse-splice-1b>
+<Add Atom free(?x) to Effs: continue-splice-2>

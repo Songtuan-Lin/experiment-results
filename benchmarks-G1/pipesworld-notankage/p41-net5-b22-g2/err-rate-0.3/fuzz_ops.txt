@@ -1,0 +1,2 @@
+<Remove Atom last(?next-last-batch-atom, ?pipe) from Pos-effs: push-end>
+<Remove Atom first(?next-first-batch-atom, ?pipe) from Pos-effs: pop-end>

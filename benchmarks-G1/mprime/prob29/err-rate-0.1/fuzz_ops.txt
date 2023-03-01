@@ -1,0 +1,1 @@
+<Remove NegatedAtom craves(?c, ?n) from Effs: overcome>

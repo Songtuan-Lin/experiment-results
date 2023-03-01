@@ -1,0 +1,1 @@
+<Remove NegatedAtom nextsnake(?newtail, ?tail) from Effs: move>

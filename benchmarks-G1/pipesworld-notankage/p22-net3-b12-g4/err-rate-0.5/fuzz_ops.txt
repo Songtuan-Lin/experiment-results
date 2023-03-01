@@ -1,0 +1,3 @@
+<Add Atom follow(?next-last-batch-atom, ?next-last-batch-atom) to Neg-effs: push-end>
+<Add Atom connect(?from-area, ?from-area, ?pipe) to Neg-effs: push-unitarypipe>
+<Add Atom on(?batch-atom-in, ?from-area) to Neg-effs: pop-unitarypipe>

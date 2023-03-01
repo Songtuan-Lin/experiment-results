@@ -1,0 +1,5 @@
+<Component: Remove Atom connect(?to-area, ?from-area, ?pipe) from Precondition: pop-end | Condition: False>
+<Component: Remove Atom on(?last-batch-atom, ?to-area) from Precondition: pop-start | Condition: False>
+<Component: Add Atom connect(?to-area, ?to-area, ?pipe) to Effects: pop-start | Condition: False>
+0.011764502999999996
+memory: 14.53515625

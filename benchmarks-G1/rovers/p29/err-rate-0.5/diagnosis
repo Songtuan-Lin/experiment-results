@@ -1,0 +1,5 @@
+<Component: Remove Atom equipped_for_soil_analysis(?x) from Precondition: sample_rock | Condition: False>
+<Component: Remove Atom calibrated(?i, ?r) from Precondition: calibrate | Condition: False>
+<Component: Remove Atom at(?r, ?y) from Precondition: communicate_soil_data | Condition: False>
+0.027297709000000003
+memory: 14.53515625

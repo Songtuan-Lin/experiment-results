@@ -1,0 +1,3 @@
+<Add Atom in-city(?obj, ?truck) to Neg-effs: unload-truck>
+<Add Atom in(?airplane, ?obj) to Neg-effs: unload-airplane>
+<Add Atom in(?airplane, ?airplane) to Neg-effs: fly-airplane>

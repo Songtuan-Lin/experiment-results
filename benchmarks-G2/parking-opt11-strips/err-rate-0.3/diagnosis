@@ -1,0 +1,4 @@
+<Component: Add Atom at-curb(?cardest) to Effects: move-curb-to-car | Condition: False>
+<Component: Remove Atom at-curb-num(?carsrc, ?curbdest) from Precondition: move-car-to-curb | Condition: False>
+0.11780003
+memory: 14.08984375

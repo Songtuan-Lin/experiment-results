@@ -1,0 +1,5 @@
+<Component: Remove Atom next(?f2, ?f1) from Precondition: move-up-slow | Condition: False>
+<Component: Remove Atom reachable-floor(?lift, ?n2) from Precondition: board | Condition: False>
+<Component: Remove Atom next(?f2, ?f1) from Precondition: move-down-fast | Condition: False>
+0.013689719000000003
+memory: 14.5390625

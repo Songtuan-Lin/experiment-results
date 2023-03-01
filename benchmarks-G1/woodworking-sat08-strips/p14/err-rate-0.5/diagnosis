@@ -1,0 +1,5 @@
+<Component: Add Atom colour(?p, natural) to Effects: do-saw-small | Condition: False>
+<Component: Add Atom surface-condition(?x, smooth) to Effects: do-plane | Condition: False>
+<Component: Add Atom surface-condition(?p, ?surface) to Effects: do-saw-large | Condition: False>
+0.021849956999999996
+memory: 14.53125

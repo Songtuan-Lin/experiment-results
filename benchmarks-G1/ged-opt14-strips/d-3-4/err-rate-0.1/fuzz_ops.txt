@@ -1,0 +1,3 @@
+<Add Atom cw(?x, ?x) to Prec: invert-single-gene-b>
+<Add Atom splice-next(?x) to Prec: continue-splice-2>
+<Add Atom swappable(?x, ?y) to Prec: end-splice-1>

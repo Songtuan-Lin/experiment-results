@@ -1,0 +1,11 @@
+<Add Atom faceup(?card) to Prec: move-col-to-col-c>
+<Add Atom ontalon(?cardbelow, ?card) to Prec: home-to-col-a>
+<Add Atom home(?card) to Prec: tal-to-col-g>
+<Add Atom colspace(?cols) to Prec: tal-to-col-h>
+<Add Atom ontalon(?card, ?newcard) to Prec: tal-to-col-c>
+<Add Atom ontalon(?cardabove, ?homecard) to Prec: tal-to-home-b>
+<Add Atom suit(?homecard, ?cardsuit) to Prec: tal-to-home>
+<Add Atom ontalon(?cardabove, ?card) to Prec: tal-to-col-b>
+<Add Atom bottomtalon(?newcard) to Prec: move-col-to-col-b>
+<Add Atom ontalon(?card, ?card) to Prec: tal-to-col-e>
+<Add Atom successor(?vhomecard, ?vhomecard) to Prec: col-to-home>

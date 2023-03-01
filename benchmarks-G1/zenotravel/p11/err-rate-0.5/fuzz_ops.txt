@@ -1,0 +1,3 @@
+<Add Atom in(?a, ?a) to Prec: refuel>
+<Add Atom city(?c) to Prec: debark>
+<Add Atom in(?l2, ?l1) to Prec: fly>

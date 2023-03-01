@@ -1,0 +1,4 @@
+<Component: Remove Atom lock-shape(?lockpos, ?lockpos) from Precondition: unlock | Condition: False>
+<Component: Remove Atom key(?curpos) from Precondition: pickup | Condition: False>
+0.003760916000000003
+memory: 13.17578125

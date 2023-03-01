@@ -1,0 +1,3 @@
+<Add Atom value(?card, ?suit) to Neg-effs: sendtohome>
+<Add Atom successor(?ncols, ?oldcard) to Neg-effs: sendtonewcol>
+<Add Atom on(?oldcard, ?newcard) to Neg-effs: move>

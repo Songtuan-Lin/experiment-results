@@ -1,0 +1,1 @@
+<Remove NegatedAtom at(?from) from Effs: move-up>

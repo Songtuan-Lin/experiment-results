@@ -1,0 +1,4 @@
+<Add Atom succ(?hafter, ?hafter) to Effs: place-block>
+<Add Atom height(?to, ?h) to Effs: move>
+<Add Atom has-block() to Effs: destroy-block>
+<Add Atom succ(?hto, ?hfrom) to Effs: move-up>

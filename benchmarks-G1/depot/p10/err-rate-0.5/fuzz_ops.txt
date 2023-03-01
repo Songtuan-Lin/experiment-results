@@ -1,0 +1,3 @@
+<Add Atom truck(?p) to Neg-effs: drop>
+<Add Atom depot(?p) to Neg-effs: unload>
+<Add Atom place(?y) to Neg-effs: drive>

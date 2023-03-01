@@ -1,0 +1,1 @@
+<Add Atom equipped_for_rock_analysis(?r) to Neg-effs: communicate_image_data>

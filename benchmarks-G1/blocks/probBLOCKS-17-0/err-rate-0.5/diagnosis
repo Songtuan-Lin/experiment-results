@@ -1,0 +1,4 @@
+<Component: Add Atom on(?x, ?x) to Effects: unstack | Condition: False>
+<Component: Remove Atom on(?x, ?x) from Precondition: pick-up | Condition: False>
+0.012179303000000002
+memory: 14.5390625

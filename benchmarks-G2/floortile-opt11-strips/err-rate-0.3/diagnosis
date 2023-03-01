@@ -1,0 +1,4 @@
+<Component: Remove Atom left(?x, ?y) from Precondition: up | Condition: False>
+<Component: Add Atom robot-at(?r, ?y) to Effects: left | Condition: False>
+0.036297499000000004
+memory: 12.96875

@@ -1,0 +1,2 @@
+<Add Atom empty(?m) to Neg-effs: unload-highspeed-saw>
+<Add Atom boardsize-successor(?size_before, ?size_after) to Neg-effs: do-saw-small>

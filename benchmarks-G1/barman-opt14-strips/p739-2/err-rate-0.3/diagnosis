@@ -1,0 +1,4 @@
+<Component: Remove Atom next(?l, ?l) from Precondition: pour-shot-to-used-shaker | Condition: False>
+<Component: Remove NegatedAtom unshaked(?s) from Effects: shake | Condition: False>
+0.0116975
+memory: 13.17578125

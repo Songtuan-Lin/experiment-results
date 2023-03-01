@@ -1,0 +1,14 @@
+<Add Atom surface(?x, ?cy) to Prec: base-down>
+<Add Atom zerox-rel(?dgxrel) to Neg-effs: gripper-left>
+<Add Atom leftof(?cx, ?cx) to Effs: get-from-cart>
+<Add Atom pushing(?r, ?c) to Effs: ungrasp-cart>
+<Add Atom above(?y, ?y) to Effs: base-right>
+<Add Atom base-obstacle(?basex, ?basey) to Neg-effs: gripper-right>
+<Add Atom gripper-rel(?r, ?gxrel, ?gyrel) to Effs: get-left>
+<Add Atom gripper-rel(?r, ?gxrel, ?gyrel) to Effs: put-left>
+<Remove NegatedAtom not-pushing(?r) from Effs: grasp-cart-above>
+<Add Atom above-rel(?gyrel, ?gyrel) to Prec: put-up>
+<Add Atom not-pushing(?r) to Effs: park>
+<Remove NegatedAtom base-obstacle(?x1, ?y) from Effs: base-cart-left>
+<Add Atom surface(?gxabs, ?basey) to Effs: get-up>
+<Add Atom leftof(?cx, ?cx) to Neg-effs: base-left>

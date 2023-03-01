@@ -1,0 +1,5 @@
+<Component: Add Atom zerox-rel(?x) to Effects: unpark | Condition: False>
+<Component: Add NegatedAtom base-obstacle(?x, ?cy) to Effects: base-up | Condition: False>
+<Component: Add Atom object-pos(?o, ?gxabs, ?oy) to Effects: put-down | Condition: False>
+0.028184666999999997
+memory: 14.5390625

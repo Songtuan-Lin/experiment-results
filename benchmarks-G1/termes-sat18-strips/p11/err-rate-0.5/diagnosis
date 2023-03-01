@@ -1,0 +1,4 @@
+<Component: Add Atom height(?bpos, ?hafter) to Effects: place-block | Condition: False>
+<Component: Remove NegatedAtom is-depot(?bpos) from Precondition: place-block | Condition: False>
+0.020789749999999996
+memory: 14.5390625

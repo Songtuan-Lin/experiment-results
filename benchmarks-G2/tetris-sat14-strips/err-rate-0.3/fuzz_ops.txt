@@ -1,0 +1,2 @@
+<Add Atom at_right_l(?element, ?xy_initial1, ?xy_final, ?xy_initial2) to Prec: move_l_down>
+<Remove Atom at_two(?element, ?xy_initial2, ?xy_final) from Pos-effs: move_two>

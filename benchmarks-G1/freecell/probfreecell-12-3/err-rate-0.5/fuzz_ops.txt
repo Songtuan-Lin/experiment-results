@@ -1,0 +1,5 @@
+<Add Atom suit(?cells, ?card) to Prec: newcolfromfreecell>
+<Add Atom successor(?oldcard, ?ncols) to Prec: sendtonewcol>
+<Add Atom value(?vhomecard, ?vcard) to Prec: sendtohome-b>
+<Add Atom successor(?newcard, ?ncols) to Prec: move-b>
+<Add Atom canstack(?card, ?cells) to Prec: colfromfreecell>

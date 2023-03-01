@@ -1,0 +1,6 @@
+<Component: Remove NegatedAtom cellspace(?cells) from Effects: sendtofree | Condition: False>
+<Component: Add Atom clear(?oldcard) to Effects: move | Condition: False>
+<Component: Add Atom clear(?oldcard) to Effects: sendtohome | Condition: False>
+<Component: Add Atom home(?card) to Effects: sendtohome-b | Condition: False>
+0.039995156999999996
+memory: 14.53125

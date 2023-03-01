@@ -1,0 +1,3 @@
+<Add Atom swappable(?y, ?y) to Neg-effs: continue-splice-2>
+<Add Atom s-last(?y) to Neg-effs: begin-cut>
+<Add Atom cw(?x, ?x) to Neg-effs: invert-single-gene-a>

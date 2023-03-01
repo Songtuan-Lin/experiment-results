@@ -1,0 +1,3 @@
+<Add Atom have_rock_analysis(?x, ?z) to Neg-effs: navigate>
+<Add Atom at(?r, ?w) to Neg-effs: calibrate>
+<Add Atom can_traverse(?x, ?p, ?p) to Neg-effs: sample_rock>

@@ -1,0 +1,4 @@
+<Component: Remove Atom =(?p, ?f) from Precondition: depart | Condition: False>
+<Component: Remove Atom destin(?f2, ?f1) from Precondition: up | Condition: False>
+0.024659825000000003
+memory: 13.17578125

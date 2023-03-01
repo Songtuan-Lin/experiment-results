@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom visible(?z, ?y) from Effects: navigate | Condition: False>
+<Component: Remove NegatedAtom equipped_for_soil_analysis(?r) from Effects: communicate_image_data | Condition: False>
+<Component: Remove NegatedAtom communicated_rock_data(?p) from Effects: communicate_soil_data | Condition: False>
+0.163126557
+memory: 14.5390625

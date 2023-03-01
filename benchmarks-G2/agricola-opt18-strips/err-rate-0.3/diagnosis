@@ -1,0 +1,5 @@
+<Component: Add Atom ok() to Effects: ag__harvest_breed_end | Condition: False>
+<Component: Add Atom current_worker(?w2) to Effects: build_fences | Condition: False>
+<Component: Add Atom current_worker(?maxw) to Effects: ag__finish_round_backhome | Condition: False>
+0.392181512
+memory: 25.1953125

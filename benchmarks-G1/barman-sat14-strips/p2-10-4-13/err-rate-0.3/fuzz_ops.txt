@@ -1,0 +1,4 @@
+<Remove Atom shaker-level(?s, ?l1) from Pos-effs: pour-shaker-to-shot>
+<Remove Atom clean(?s) from Pos-effs: clean-shot>
+<Remove Atom holding(?h, ?c) from Pos-effs: grasp>
+<Remove Atom handempty(?h) from Pos-effs: leave>

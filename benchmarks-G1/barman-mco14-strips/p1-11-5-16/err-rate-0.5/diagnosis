@@ -1,0 +1,7 @@
+<Component: Add Atom clean(?s) to Effects: clean-shaker | Condition: False>
+<Component: Add Atom holding(?h, ?c) to Effects: grasp | Condition: False>
+<Component: Add Atom contains(?d, ?b) to Effects: pour-shaker-to-shot | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: fill-shot | Condition: False>
+<Component: Add Atom shaked(?d) to Effects: pour-shot-to-used-shaker | Condition: False>
+0.042933760999999994
+memory: 14.53515625

@@ -1,0 +1,4 @@
+<Component: Remove Atom holding(?x) from Precondition: unstack | Condition: False>
+<Component: Remove NegatedAtom clear(?x) from Effects: unstack | Condition: False>
+0.005606365000000002
+memory: 14.5390625

@@ -1,0 +1,3 @@
+<Remove Atom height(?bpos, ?hafter) from Pos-effs: remove-block>
+<Add Atom has-block() to Effs: move-down>
+<Add Atom at(?p) to Effs: create-block>

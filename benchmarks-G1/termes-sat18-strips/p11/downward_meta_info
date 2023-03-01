@@ -1,0 +1,549 @@
+INFO     planner time limit: 300s
+INFO     planner memory limit: None
+
+INFO     Running translator.
+INFO     translator stdin: None
+INFO     translator time limit: 299.99s
+INFO     translator memory limit: None
+INFO     translator command line string: /home/users/u6162630/Packages/anaconda3/bin/python /home/users/u6162630/Codes/downward/builds/release/bin/translate/translate.py /home/users/u6162630/Datasets/downward-benchmarks/termes-sat18-strips/domain.pddl /home/users/u6162630/Datasets/downward-benchmarks/termes-sat18-strips/p11.pddl --sas-file /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/termes-sat18-strips/p11/output.sas
+Parsing...
+Parsing: [0.000s CPU, 0.001s wall-clock]
+Normalizing task... [0.000s CPU, 0.000s wall-clock]
+Instantiating...
+Generating Datalog program... [0.000s CPU, 0.000s wall-clock]
+Normalizing Datalog program...
+Normalizing Datalog program: [0.000s CPU, 0.001s wall-clock]
+Preparing model... [0.010s CPU, 0.001s wall-clock]
+Generated 52 rules.
+Computing model... [0.020s CPU, 0.023s wall-clock]
+1151 relevant atoms
+4744 auxiliary atoms
+5895 final queue length
+6861 total queue pushes
+Completing instantiation... [0.010s CPU, 0.014s wall-clock]
+Instantiating: [0.040s CPU, 0.040s wall-clock]
+Computing fact groups...
+Finding invariants...
+6 initial candidates
+Finding invariants: [0.000s CPU, 0.001s wall-clock]
+Checking invariant weight... [0.000s CPU, 0.000s wall-clock]
+Instantiating groups... [0.000s CPU, 0.000s wall-clock]
+Collecting mutex groups... [0.000s CPU, 0.000s wall-clock]
+Choosing groups...
+1 uncovered facts
+Choosing groups: [0.000s CPU, 0.000s wall-clock]
+Building translation key... [0.000s CPU, 0.000s wall-clock]
+Computing fact groups: [0.000s CPU, 0.002s wall-clock]
+Building STRIPS to SAS dictionary... [0.000s CPU, 0.000s wall-clock]
+Building dictionary for full mutex groups... [0.000s CPU, 0.000s wall-clock]
+Building mutex information...
+Building mutex information: [0.000s CPU, 0.000s wall-clock]
+Translating task...
+Processing axioms...
+Simplifying axioms... [0.000s CPU, 0.000s wall-clock]
+Translator axioms removed by simplifying: 0
+Computing negative axioms... [0.000s CPU, 0.000s wall-clock]
+Processing axioms: [0.000s CPU, 0.001s wall-clock]
+Translating task: [0.020s CPU, 0.016s wall-clock]
+155 effect conditions simplified
+0 implied preconditions added
+Detecting unreachable propositions...
+42 operators removed
+0 axioms removed
+29 propositions removed
+Detecting unreachable propositions: [0.010s CPU, 0.007s wall-clock]
+Reordering and filtering variables...
+26 of 26 variables necessary.
+0 of 25 mutex groups necessary.
+834 of 834 operators necessary.
+0 of 0 axiom rules necessary.
+Reordering and filtering variables: [0.000s CPU, 0.002s wall-clock]
+Translator variables: 26
+Translator derived variables: 0
+Translator facts: 99
+Translator goal facts: 25
+Translator mutex groups: 0
+Translator total mutex groups size: 0
+Translator operators: 834
+Translator axioms: 0
+Translator task size: 4904
+Translator peak memory: 32176 KB
+Writing output... [0.000s CPU, 0.003s wall-clock]
+Done! [0.070s CPU, 0.072s wall-clock]
+translate exit code: 0
+
+INFO     Running search (release).
+INFO     search stdin: /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/termes-sat18-strips/p11/output.sas
+INFO     search time limit: 299.89s
+INFO     search memory limit: None
+INFO     search command line string: /home/users/u6162630/Codes/downward/builds/release/bin/downward --evaluator 'hlm=lmcount(lm_factory=lm_reasonable_orders_hps(lm_rhw()),transform=adapt_costs(one),pref=false)' --evaluator 'hff=ff(transform=adapt_costs(one))' --search 'lazy_greedy([hff,hlm],preferred=[hff,hlm],cost_type=one,reopen_closed=false)' --internal-plan-file /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/termes-sat18-strips/p11/sas_plan < /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/termes-sat18-strips/p11/output.sas
+[t=0s, 9880 KB] reading input...
+[t=0s, 10004 KB] done reading input!
+[t=0s, 10400 KB] Initializing landmark count heuristic...
+[t=0s, 10400 KB] Generating landmark graph...
+[t=0s, 10400 KB] Building a landmark graph with reasonable orders.
+[t=0s, 10400 KB] Initializing Exploration...
+[t=0s, 10720 KB] Generating landmarks using the RPG/SAS+ approach
+[t=0.00399998s, 10720 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0.00399998s, 10720 KB] Landmarks generation time: 0.00399998s
+[t=0.00399998s, 10720 KB] Discovered 56 landmarks, of which 7 are disjunctive and 0 are conjunctive.
+[t=0.00399998s, 10720 KB] 64 edges
+[t=0.00399998s, 10720 KB] approx. reasonable orders
+[t=0.00399998s, 10720 KB] approx. obedient reasonable orders
+[t=0.00399998s, 10720 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0.00399998s, 10720 KB] Landmarks generation time: 0.00399998s
+[t=0.00399998s, 10720 KB] Discovered 56 landmarks, of which 7 are disjunctive and 0 are conjunctive.
+[t=0.00399998s, 10720 KB] 64 edges
+[t=0.00399998s, 10720 KB] Landmark graph generation time: 0.00399998s
+[t=0.00399998s, 10720 KB] Landmark graph contains 56 landmarks, of which 7 are disjunctive and 0 are conjunctive.
+[t=0.00399998s, 10720 KB] Landmark graph contains 64 orderings.
+[t=0.00399998s, 10720 KB] Simplifying 1136 unary operators... done! [1130 unary operators]
+[t=0.00399998s, 10720 KB] time to simplify: 0s
+[t=0.00799978s, 10720 KB] Initializing additive heuristic...
+[t=0.00799978s, 10720 KB] Initializing FF heuristic...
+[t=0.00799978s, 10720 KB] Building successor generator...done!
+[t=0.00799978s, 10856 KB] peak memory difference for successor generator creation: 136 KB
+[t=0.00799978s, 10856 KB] time for successor generation creation: 0s
+[t=0.00799978s, 10856 KB] Variables: 26
+[t=0.00799978s, 10856 KB] FactPairs: 99
+[t=0.00799978s, 10856 KB] Bytes per state: 8
+[t=0.00799978s, 10856 KB] Conducting lazy best first search, (real) bound = 2147483647
+[t=0.00799978s, 10856 KB] 26 initial landmarks, 25 goal landmarks
+[t=0.00799978s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 30
+[t=0.00799978s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 43
+[t=0.00799978s, 10856 KB] g=0, 1 evaluated, 0 expanded
+[t=0.00799978s, 10856 KB] Initial heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 30
+[t=0.00799978s, 10856 KB] Initial heuristic value for ff(transform = adapt_costs(one)): 43
+[t=0.00799978s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 41
+[t=0.00799978s, 10856 KB] g=1, 2 evaluated, 1 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 40
+[t=0.00799978s, 10856 KB] g=1, 4 evaluated, 3 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 39
+[t=0.00799978s, 10856 KB] g=3, 11 evaluated, 10 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 29
+[t=0.00799978s, 10856 KB] g=2, 13 evaluated, 12 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 28
+[t=0.00799978s, 10856 KB] g=3, 15 evaluated, 14 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 38
+[t=0.00799978s, 10856 KB] g=5, 22 evaluated, 21 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 37
+[t=0.00799978s, 10856 KB] g=5, 26 evaluated, 25 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 35
+[t=0.00799978s, 10856 KB] g=13, 75 evaluated, 74 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 27
+[t=0.00799978s, 10856 KB] g=5, 76 evaluated, 75 expanded
+[t=0.00799978s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 26
+[t=0.00799978s, 10856 KB] g=9, 168 evaluated, 167 expanded
+[t=0.0119999s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 25
+[t=0.0119999s, 10856 KB] g=15, 247 evaluated, 246 expanded
+[t=0.0119999s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 34
+[t=0.0119999s, 10856 KB] g=19, 374 evaluated, 373 expanded
+[t=0.0159996s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 24
+[t=0.0159996s, 10856 KB] g=23, 472 evaluated, 471 expanded
+[t=0.0159996s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 33
+[t=0.0159996s, 10856 KB] g=26, 565 evaluated, 564 expanded
+[t=0.0159996s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 23
+[t=0.0159996s, 10856 KB] g=27, 671 evaluated, 670 expanded
+[t=0.0159996s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 22
+[t=0.0159996s, 10856 KB] g=29, 676 evaluated, 675 expanded
+[t=0.0199997s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 30
+[t=0.0199997s, 10856 KB] g=32, 685 evaluated, 684 expanded
+[t=0.0199997s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 21
+[t=0.0199997s, 10856 KB] g=31, 714 evaluated, 713 expanded
+[t=0.0199997s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 29
+[t=0.0199997s, 10856 KB] g=36, 723 evaluated, 722 expanded
+[t=0.0199997s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 20
+[t=0.0199997s, 10856 KB] g=33, 775 evaluated, 774 expanded
+[t=0.0199997s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 19
+[t=0.0199997s, 10856 KB] g=37, 833 evaluated, 832 expanded
+[t=0.0199997s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 27
+[t=0.0199997s, 10856 KB] g=42, 847 evaluated, 846 expanded
+[t=0.0199997s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 18
+[t=0.0199997s, 10856 KB] g=41, 897 evaluated, 896 expanded
+[t=0.0239996s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 17
+[t=0.0239996s, 10856 KB] g=43, 936 evaluated, 935 expanded
+[t=0.0239996s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 25
+[t=0.0239996s, 10856 KB] g=46, 951 evaluated, 950 expanded
+[t=0.0239996s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 16
+[t=0.0239996s, 10856 KB] g=47, 952 evaluated, 951 expanded
+[t=0.0239996s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 24
+[t=0.0239996s, 10856 KB] g=49, 958 evaluated, 957 expanded
+[t=0.0239996s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 23
+[t=0.0239996s, 10856 KB] g=50, 1032 evaluated, 1031 expanded
+[t=0.0239996s, 10856 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 15
+[t=0.0239996s, 10856 KB] g=51, 1034 evaluated, 1033 expanded
+[t=0.0279997s, 10856 KB] New best heuristic value for ff(transform = adapt_costs(one)): 22
+[t=0.0279997s, 10856 KB] g=68, 1257 evaluated, 1256 expanded
+[t=0.107997s, 11496 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 14
+[t=0.107997s, 11496 KB] g=89, 6127 evaluated, 6126 expanded
+[t=0.151997s, 11892 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 13
+[t=0.151997s, 11892 KB] g=109, 8732 evaluated, 8731 expanded
+[t=0.167997s, 12160 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 12
+[t=0.167997s, 12160 KB] g=135, 9750 evaluated, 9749 expanded
+[t=0.167997s, 12160 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 11
+[t=0.167997s, 12160 KB] g=139, 9810 evaluated, 9809 expanded
+[t=0.167997s, 12160 KB] New best heuristic value for ff(transform = adapt_costs(one)): 21
+[t=0.167997s, 12160 KB] g=141, 9835 evaluated, 9834 expanded
+[t=0.171997s, 12160 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 10
+[t=0.171997s, 12160 KB] g=149, 9911 evaluated, 9910 expanded
+[t=0.171997s, 12160 KB] New best heuristic value for ff(transform = adapt_costs(one)): 20
+[t=0.171997s, 12160 KB] g=151, 9944 evaluated, 9943 expanded
+[t=0.171997s, 12160 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 9
+[t=0.171997s, 12160 KB] g=153, 10003 evaluated, 10002 expanded
+[t=0.175997s, 12160 KB] New best heuristic value for ff(transform = adapt_costs(one)): 19
+[t=0.175997s, 12160 KB] g=158, 10124 evaluated, 10123 expanded
+[t=0.175997s, 12160 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 8
+[t=0.175997s, 12160 KB] g=163, 10256 evaluated, 10255 expanded
+[t=0.179998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 18
+[t=0.179998s, 12296 KB] g=168, 10400 evaluated, 10399 expanded
+[t=0.179998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 17
+[t=0.179998s, 12296 KB] g=170, 10438 evaluated, 10437 expanded
+[t=0.179998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 16
+[t=0.179998s, 12296 KB] g=176, 10464 evaluated, 10463 expanded
+[t=0.179998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 15
+[t=0.179998s, 12296 KB] g=184, 10534 evaluated, 10533 expanded
+[t=0.179998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 14
+[t=0.179998s, 12296 KB] g=185, 10553 evaluated, 10552 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 13
+[t=0.183998s, 12296 KB] g=186, 10565 evaluated, 10564 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 7
+[t=0.183998s, 12296 KB] g=173, 10568 evaluated, 10567 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 12
+[t=0.183998s, 12296 KB] g=192, 10584 evaluated, 10583 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 6
+[t=0.183998s, 12296 KB] g=193, 10586 evaluated, 10585 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 11
+[t=0.183998s, 12296 KB] g=194, 10588 evaluated, 10587 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 9
+[t=0.183998s, 12296 KB] g=196, 10591 evaluated, 10590 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 8
+[t=0.183998s, 12296 KB] g=198, 10595 evaluated, 10594 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 5
+[t=0.183998s, 12296 KB] g=199, 10596 evaluated, 10595 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 4
+[t=0.183998s, 12296 KB] g=215, 10659 evaluated, 10658 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 7
+[t=0.183998s, 12296 KB] g=225, 10743 evaluated, 10742 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 3
+[t=0.183998s, 12296 KB] g=228, 10751 evaluated, 10750 expanded
+[t=0.183998s, 12296 KB] New best heuristic value for ff(transform = adapt_costs(one)): 6
+[t=0.183998s, 12296 KB] g=233, 10779 evaluated, 10778 expanded
+[t=0.187998s, 12296 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 2
+[t=0.187998s, 12296 KB] g=234, 10893 evaluated, 10892 expanded
+[t=0.203997s, 12420 KB] New best heuristic value for ff(transform = adapt_costs(one)): 5
+[t=0.203997s, 12420 KB] g=275, 12133 evaluated, 12132 expanded
+[t=0.203997s, 12420 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 1
+[t=0.203997s, 12420 KB] g=280, 12155 evaluated, 12154 expanded
+[t=0.203997s, 12420 KB] New best heuristic value for ff(transform = adapt_costs(one)): 4
+[t=0.203997s, 12420 KB] g=283, 12170 evaluated, 12169 expanded
+[t=0.207998s, 12420 KB] New best heuristic value for ff(transform = adapt_costs(one)): 3
+[t=0.207998s, 12420 KB] g=284, 12188 evaluated, 12187 expanded
+[t=0.207998s, 12420 KB] New best heuristic value for ff(transform = adapt_costs(one)): 1
+[t=0.207998s, 12420 KB] g=286, 12191 evaluated, 12190 expanded
+[t=0.207998s, 12420 KB] Solution found!
+[t=0.207998s, 12420 KB] Actual search time: 0.199998s
+create-block pos-2-0 (1)
+move pos-2-0 pos-1-0 n0 (1)
+move pos-1-0 pos-1-1 n0 (1)
+place-block pos-1-1 pos-0-1 n0 n1 (1)
+move pos-1-1 pos-1-0 n0 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-1-0 n0 (1)
+place-block pos-1-0 pos-0-0 n0 n1 (1)
+move pos-1-0 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-0-1 n1 n0 (1)
+move pos-1-1 pos-1-2 n0 (1)
+move pos-1-2 pos-1-3 n0 (1)
+place-block pos-1-3 pos-1-4 n0 n1 (1)
+move pos-1-3 pos-1-2 n0 (1)
+move pos-1-2 pos-1-1 n0 (1)
+move pos-1-1 pos-1-0 n0 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-1-0 n0 (1)
+move pos-1-0 pos-1-1 n0 (1)
+place-block pos-1-1 pos-1-0 n0 n1 (1)
+move-up pos-1-1 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+place-block pos-1-0 pos-0-0 n1 n2 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-3-0 n0 (1)
+move pos-3-0 pos-4-0 n0 (1)
+place-block pos-4-0 pos-4-1 n0 n1 (1)
+move pos-4-0 pos-3-0 n0 (1)
+move pos-3-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-3-0 n0 (1)
+place-block pos-3-0 pos-4-0 n0 n1 (1)
+move pos-3-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-3-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-3-0 n1 (1)
+place-block pos-3-0 pos-4-0 n1 n2 (1)
+move-down pos-3-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-2-2 n0 (1)
+move pos-2-2 pos-1-2 n0 (1)
+move pos-1-2 pos-1-3 n0 (1)
+move pos-1-3 pos-0-3 n0 (1)
+place-block pos-0-3 pos-0-4 n0 n1 (1)
+move pos-0-3 pos-1-3 n0 (1)
+remove-block pos-1-3 pos-1-4 n1 n0 (1)
+move pos-1-3 pos-1-4 n0 (1)
+place-block pos-1-4 pos-2-4 n0 n1 (1)
+move-up pos-1-4 n0 pos-2-4 n1 (1)
+move-down pos-2-4 n1 pos-3-4 n0 (1)
+move pos-3-4 pos-3-3 n0 (1)
+move pos-3-3 pos-3-2 n0 (1)
+move pos-3-2 pos-4-2 n0 (1)
+remove-block pos-4-2 pos-4-1 n1 n0 (1)
+move pos-4-2 pos-4-3 n0 (1)
+place-block pos-4-3 pos-4-2 n0 n1 (1)
+move pos-4-3 pos-3-3 n0 (1)
+move pos-3-3 pos-3-4 n0 (1)
+remove-block pos-3-4 pos-2-4 n1 n0 (1)
+move pos-3-4 pos-3-3 n0 (1)
+place-block pos-3-3 pos-3-4 n0 n1 (1)
+move pos-3-3 pos-2-3 n0 (1)
+move pos-2-3 pos-1-3 n0 (1)
+move pos-1-3 pos-0-3 n0 (1)
+remove-block pos-0-3 pos-0-4 n1 n0 (1)
+move pos-0-3 pos-1-3 n0 (1)
+place-block pos-1-3 pos-1-4 n0 n1 (1)
+move pos-1-3 pos-2-3 n0 (1)
+move pos-2-3 pos-3-3 n0 (1)
+remove-block pos-3-3 pos-3-4 n1 n0 (1)
+place-block pos-3-3 pos-4-3 n0 n1 (1)
+move pos-3-3 pos-2-3 n0 (1)
+move pos-2-3 pos-1-3 n0 (1)
+remove-block pos-1-3 pos-1-4 n1 n0 (1)
+move pos-1-3 pos-1-4 n0 (1)
+place-block pos-1-4 pos-2-4 n0 n1 (1)
+move pos-1-4 pos-1-3 n0 (1)
+move pos-1-3 pos-2-3 n0 (1)
+move pos-2-3 pos-3-3 n0 (1)
+remove-block pos-3-3 pos-4-3 n1 n0 (1)
+place-block pos-3-3 pos-3-4 n0 n1 (1)
+move pos-3-3 pos-4-3 n0 (1)
+remove-block pos-4-3 pos-4-2 n1 n0 (1)
+move pos-4-3 pos-4-4 n0 (1)
+move-up pos-4-4 n0 pos-3-4 n1 (1)
+place-block pos-3-4 pos-2-4 n1 n2 (1)
+move-down pos-3-4 n1 pos-4-4 n0 (1)
+remove-block pos-4-4 pos-3-4 n1 n0 (1)
+move pos-4-4 pos-4-3 n0 (1)
+place-block pos-4-3 pos-4-2 n0 n1 (1)
+move pos-4-3 pos-3-3 n0 (1)
+move pos-3-3 pos-2-3 n0 (1)
+move pos-2-3 pos-1-3 n0 (1)
+move pos-1-3 pos-0-3 n0 (1)
+move pos-0-3 pos-0-2 n0 (1)
+move pos-0-2 pos-0-1 n0 (1)
+move pos-0-1 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+move pos-1-1 pos-0-1 n0 (1)
+move pos-0-1 pos-0-2 n0 (1)
+place-block pos-0-2 pos-0-1 n0 n1 (1)
+move-up pos-0-2 n0 pos-0-1 n1 (1)
+remove-block pos-0-1 pos-0-0 n2 n1 (1)
+move-down pos-0-1 n1 pos-0-2 n0 (1)
+move pos-0-2 pos-0-3 n0 (1)
+place-block pos-0-3 pos-0-4 n0 n1 (1)
+move pos-0-3 pos-0-2 n0 (1)
+remove-block pos-0-2 pos-0-1 n1 n0 (1)
+place-block pos-0-2 pos-0-3 n0 n1 (1)
+move pos-0-2 pos-0-1 n0 (1)
+remove-block pos-0-1 pos-0-0 n1 n0 (1)
+move pos-0-1 pos-0-2 n0 (1)
+move-up pos-0-2 n0 pos-0-3 n1 (1)
+place-block pos-0-3 pos-0-4 n1 n2 (1)
+move-down pos-0-3 n1 pos-0-2 n0 (1)
+remove-block pos-0-2 pos-0-3 n1 n0 (1)
+place-block pos-0-2 pos-0-1 n0 n1 (1)
+move pos-0-2 pos-1-2 n0 (1)
+move pos-1-2 pos-1-1 n0 (1)
+move pos-1-1 pos-1-0 n0 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-1-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-1-1 n0 (1)
+move pos-1-1 pos-1-2 n0 (1)
+place-block pos-1-2 pos-0-2 n0 n1 (1)
+move pos-1-2 pos-1-1 n0 (1)
+move-up pos-1-1 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-1-1 n0 (1)
+move-up pos-1-1 n0 pos-0-1 n1 (1)
+place-block pos-0-1 pos-0-2 n1 n2 (1)
+move-down pos-0-1 n1 pos-1-1 n0 (1)
+move-up pos-1-1 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-3-1 n0 (1)
+place-block pos-3-1 pos-4-1 n0 n1 (1)
+move pos-3-1 pos-2-1 n0 (1)
+move pos-2-1 pos-1-1 n0 (1)
+move-up pos-1-1 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-2-2 n0 (1)
+move pos-2-2 pos-2-3 n0 (1)
+move pos-2-3 pos-1-3 n0 (1)
+place-block pos-1-3 pos-1-4 n0 n1 (1)
+move pos-1-3 pos-1-2 n0 (1)
+move pos-1-2 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+move pos-1-1 pos-1-2 n0 (1)
+move pos-1-2 pos-1-3 n0 (1)
+place-block pos-1-3 pos-0-3 n0 n1 (1)
+move pos-1-3 pos-1-2 n0 (1)
+move pos-1-2 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-0-1 n1 n0 (1)
+move pos-1-1 pos-0-1 n0 (1)
+place-block pos-0-1 pos-0-0 n0 n1 (1)
+move pos-0-1 pos-1-1 n0 (1)
+move pos-1-1 pos-2-1 n0 (1)
+move pos-2-1 pos-3-1 n0 (1)
+remove-block pos-3-1 pos-3-0 n1 n0 (1)
+move-up pos-3-1 n0 pos-4-1 n1 (1)
+place-block pos-4-1 pos-4-2 n1 n2 (1)
+move-down pos-4-1 n1 pos-3-1 n0 (1)
+move pos-3-1 pos-2-1 n0 (1)
+move pos-2-1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-1-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-0-1 n0 n1 (1)
+move-up pos-1-1 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-3-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+place-block pos-1-0 pos-0-0 n1 n2 (1)
+move-down pos-1-0 n1 pos-1-1 n0 (1)
+move pos-1-1 pos-2-1 n0 (1)
+move pos-2-1 pos-3-1 n0 (1)
+move pos-3-1 pos-3-2 n0 (1)
+move pos-3-2 pos-3-3 n0 (1)
+move pos-3-3 pos-2-3 n0 (1)
+move pos-2-3 pos-1-3 n0 (1)
+remove-block pos-1-3 pos-0-3 n1 n0 (1)
+move pos-1-3 pos-2-3 n0 (1)
+move pos-2-3 pos-3-3 n0 (1)
+move pos-3-3 pos-3-4 n0 (1)
+place-block pos-3-4 pos-4-4 n0 n1 (1)
+move pos-3-4 pos-3-3 n0 (1)
+move pos-3-3 pos-2-3 n0 (1)
+move pos-2-3 pos-1-3 n0 (1)
+remove-block pos-1-3 pos-1-4 n1 n0 (1)
+move pos-1-3 pos-2-3 n0 (1)
+move pos-2-3 pos-3-3 n0 (1)
+place-block pos-3-3 pos-3-4 n0 n1 (1)
+move-up pos-3-3 n0 pos-3-4 n1 (1)
+remove-block pos-3-4 pos-2-4 n2 n1 (1)
+place-block pos-3-4 pos-4-4 n1 n2 (1)
+move-down pos-3-4 n1 pos-3-3 n0 (1)
+remove-block pos-3-3 pos-3-4 n1 n0 (1)
+place-block pos-3-3 pos-4-3 n0 n1 (1)
+move pos-3-3 pos-2-3 n0 (1)
+remove-block pos-2-3 pos-2-4 n1 n0 (1)
+move pos-2-3 pos-1-3 n0 (1)
+place-block pos-1-3 pos-1-4 n0 n1 (1)
+move-up pos-1-3 n0 pos-1-4 n1 (1)
+remove-block pos-1-4 pos-0-4 n2 n1 (1)
+move-down pos-1-4 n1 pos-1-3 n0 (1)
+place-block pos-1-3 pos-0-3 n0 n1 (1)
+move-up pos-1-3 n0 pos-1-4 n1 (1)
+move-down pos-1-4 n1 pos-2-4 n0 (1)
+remove-block pos-2-4 pos-1-4 n1 n0 (1)
+place-block pos-2-4 pos-3-4 n0 n1 (1)
+move pos-2-4 pos-1-4 n0 (1)
+remove-block pos-1-4 pos-0-4 n1 n0 (1)
+move pos-1-4 pos-2-4 n0 (1)
+place-block pos-2-4 pos-1-4 n0 n1 (1)
+move pos-2-4 pos-2-3 n0 (1)
+move pos-2-3 pos-1-3 n0 (1)
+move-up pos-1-3 n0 pos-0-3 n1 (1)
+remove-block pos-0-3 pos-0-2 n2 n1 (1)
+move-down pos-0-3 n1 pos-1-3 n0 (1)
+move pos-1-3 pos-2-3 n0 (1)
+place-block pos-2-3 pos-2-4 n0 n1 (1)
+move pos-2-3 pos-1-3 n0 (1)
+remove-block pos-1-3 pos-0-3 n1 n0 (1)
+move-up pos-1-3 n0 pos-1-4 n1 (1)
+place-block pos-1-4 pos-2-4 n1 n2 (1)
+move-down pos-1-4 n1 pos-1-3 n0 (1)
+move pos-1-3 pos-0-3 n0 (1)
+remove-block pos-0-3 pos-0-2 n1 n0 (1)
+place-block pos-0-3 pos-0-4 n0 n1 (1)
+move pos-0-3 pos-0-2 n0 (1)
+move-up pos-0-2 n0 pos-0-1 n1 (1)
+remove-block pos-0-1 pos-0-0 n2 n1 (1)
+move-down pos-0-1 n1 pos-0-2 n0 (1)
+place-block pos-0-2 pos-0-3 n0 n1 (1)
+remove-block pos-0-2 pos-0-1 n1 n0 (1)
+move-up pos-0-2 n0 pos-0-3 n1 (1)
+place-block pos-0-3 pos-0-4 n1 n2 (1)
+move-down pos-0-3 n1 pos-0-2 n0 (1)
+move pos-0-2 pos-0-1 n0 (1)
+remove-block pos-0-1 pos-0-0 n1 n0 (1)
+move pos-0-1 pos-0-2 n0 (1)
+place-block pos-0-2 pos-0-1 n0 n1 (1)
+move-up pos-0-2 n0 pos-0-1 n1 (1)
+move-down pos-0-1 n1 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+move pos-1-1 pos-1-2 n0 (1)
+place-block pos-1-2 pos-0-2 n0 n1 (1)
+move pos-1-2 pos-1-1 n0 (1)
+move pos-1-1 pos-1-0 n0 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-1-0 n0 (1)
+move pos-1-0 pos-1-1 n0 (1)
+move-up pos-1-1 n0 pos-0-1 n1 (1)
+place-block pos-0-1 pos-0-2 n1 n2 (1)
+move-down pos-0-1 n1 pos-1-1 n0 (1)
+move pos-1-1 pos-1-0 n0 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-1-0 n0 (1)
+place-block pos-1-0 pos-0-0 n0 n1 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-1-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+place-block pos-1-0 pos-0-0 n1 n2 (1)
+[t=0.207998s, 12420 KB] Plan length: 287 step(s).
+[t=0.207998s, 12420 KB] Plan cost: 287
+[t=0.207998s, 12420 KB] Expanded 12191 state(s).
+[t=0.207998s, 12420 KB] Reopened 0 state(s).
+[t=0.207998s, 12420 KB] Evaluated 12192 state(s).
+[t=0.207998s, 12420 KB] Evaluations: 24384
+[t=0.207998s, 12420 KB] Generated 54216 state(s).
+[t=0.207998s, 12420 KB] Dead ends: 0 state(s).
+[t=0.207998s, 12420 KB] Number of registered states: 12192
+[t=0.207998s, 12420 KB] Int hash set load factor: 12192/16384 = 0.744141
+[t=0.207998s, 12420 KB] Int hash set resizes: 14
+[t=0.207998s, 12420 KB] Search time: 0.199998s
+[t=0.207998s, 12420 KB] Total time: 0.207998s
+Solution found.
+Peak memory: 12420 KB
+search exit code: 0
+
+INFO     Planner time: 0.31s

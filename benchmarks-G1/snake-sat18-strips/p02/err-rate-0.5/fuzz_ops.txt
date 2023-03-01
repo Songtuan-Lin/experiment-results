@@ -1,0 +1,2 @@
+<Add Atom nextspawn(?newtail, ?newhead) to Effs: move>
+<Add Atom nextspawn(?head, ?newhead) to Effs: move-and-eat-no-spawn>

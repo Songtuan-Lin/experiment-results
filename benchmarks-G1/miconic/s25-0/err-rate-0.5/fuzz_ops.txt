@@ -1,0 +1,2 @@
+<Add Atom above(?p, ?p) to Prec: board>
+<Add Atom boarded(?f) to Prec: depart>

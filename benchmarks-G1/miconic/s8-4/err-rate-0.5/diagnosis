@@ -1,0 +1,4 @@
+<Component: Remove Atom boarded(?p) from Precondition: depart | Condition: False>
+<Component: Add Atom served(?p) to Effects: depart | Condition: False>
+0.005964160999999996
+memory: 14.5390625

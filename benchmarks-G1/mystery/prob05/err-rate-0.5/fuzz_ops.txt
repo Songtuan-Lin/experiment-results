@@ -1,0 +1,2 @@
+<Add Atom attacks(?s1, ?s2) to Neg-effs: succumb>
+<Add Atom attacks(?v, ?c) to Neg-effs: overcome>

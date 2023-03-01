@@ -1,0 +1,4 @@
+<Add Atom next(?l, ?l1) to Neg-effs: empty-shaker>
+<Add Atom handempty(?h) to Neg-effs: empty-shot>
+<Add Atom handempty(?h1) to Neg-effs: pour-shot-to-used-shaker>
+<Add Atom cocktail-part1(?b, ?d1) to Neg-effs: shake>

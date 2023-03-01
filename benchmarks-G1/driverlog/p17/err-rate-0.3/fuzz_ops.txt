@@ -1,0 +1,2 @@
+<Add Atom location(?loc) to Prec: unload-truck>
+<Add Atom =(?driver, ?driver) to Prec: drive-truck>

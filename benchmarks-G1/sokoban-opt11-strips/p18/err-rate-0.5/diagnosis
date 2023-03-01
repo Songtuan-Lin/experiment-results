@@ -1,0 +1,4 @@
+<Component: Add Atom clear(?ppos) to Effects: push-to-nongoal | Condition: False>
+<Component: Remove Atom at(?p, ?from) from Precondition: move | Condition: False>
+0.012173644000000004
+memory: 14.53125

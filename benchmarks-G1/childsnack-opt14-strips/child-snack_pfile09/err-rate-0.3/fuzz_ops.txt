@@ -1,0 +1,2 @@
+<Add Atom at(?t, ?p2) to Neg-effs: move_tray>
+<Add Atom notexist(?s) to Neg-effs: put_on_tray>

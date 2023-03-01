@@ -1,0 +1,3 @@
+<Remove Atom at_tent(?x5, ?x3) from Pos-effs: drive_tent>
+<Remove NegatedAtom at_person(?x5, ?x4) from Effs: walk_together>
+<Add Atom at_person(?x1, ?x2) to Effs: put_up>

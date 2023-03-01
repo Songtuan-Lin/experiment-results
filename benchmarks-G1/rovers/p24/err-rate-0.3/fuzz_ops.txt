@@ -1,0 +1,3 @@
+<Remove Atom empty(?y) from Pos-effs: drop>
+<Remove Atom communicated_soil_data(?p) from Pos-effs: communicate_soil_data>
+<Remove Atom communicated_image_data(?o, ?m) from Pos-effs: communicate_image_data>

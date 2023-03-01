@@ -1,0 +1,1 @@
+<Add Atom move-dir(?from, ?to, ?dir) to Prec: push-to-nongoal>

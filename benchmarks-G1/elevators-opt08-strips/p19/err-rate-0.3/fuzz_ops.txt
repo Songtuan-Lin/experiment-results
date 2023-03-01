@@ -1,0 +1,2 @@
+<Remove Atom lift-at(?lift, ?f2) from Pos-effs: move-up-slow>
+<Remove Atom passengers(?lift, ?n2) from Pos-effs: leave>

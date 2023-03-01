@@ -1,0 +1,2 @@
+<Add Atom isadjacent(?head, ?nextspawnpoint) to Effs: move-and-eat-spawn>
+<Add Atom nextspawn(?tail, ?tail) to Neg-effs: move>

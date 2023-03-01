@@ -1,0 +1,2 @@
+<Remove Atom treatment(?p, untreated) from Pos-effs: cut-board-medium>
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: do-saw-small>

@@ -1,0 +1,1 @@
+<Add Atom at-goal(?s) to Neg-effs: push-to-goal>

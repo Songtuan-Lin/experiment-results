@@ -1,0 +1,2 @@
+<Add Atom can-hold(?lift, ?n1) to Neg-effs: leave>
+<Add Atom next(?f2, ?f2) to Neg-effs: move-down-slow>

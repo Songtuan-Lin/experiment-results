@@ -1,0 +1,3 @@
+<Add Atom at(?t, ?p2) to Neg-effs: move_tray>
+<Add Atom no_gluten_bread(?b) to Neg-effs: make_sandwich_no_gluten>
+<Add Atom ontray(?s, ?t) to Neg-effs: put_on_tray>

@@ -1,0 +1,5 @@
+<Component: Remove Atom bottomcol(?homecard) from Precondition: homefromfreecell | Condition: False>
+<Component: Add Atom suit(?vcard, ?vhomecard) to Effects: sendtohome | Condition: False>
+<Component: Add Atom canstack(?vhomecard, ?vhomecard) to Effects: sendtohome | Condition: False>
+0.06091092900000001
+memory: 13.16796875

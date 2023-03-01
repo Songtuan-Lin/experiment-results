@@ -1,0 +1,5 @@
+<Component: Remove Atom surface(?x, ?cy) from Precondition: base-down | Condition: False>
+<Component: Add Atom zerox-rel(?dgxrel) to Effects: gripper-left | Condition: False>
+<Component: Add Atom above-rel(?dgyrel, ?dgyrel) to Effects: gripper-up | Condition: False>
+0.02417329399999999
+memory: 14.5390625

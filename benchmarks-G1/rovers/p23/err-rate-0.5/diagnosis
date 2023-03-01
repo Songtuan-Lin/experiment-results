@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom at_soil_sample(?p) from Effects: sample_soil | Condition: False>
+<Component: Remove Atom visible(?y, ?y) from Precondition: communicate_rock_data | Condition: False>
+<Component: Remove Atom have_soil_analysis(?x, ?p) from Precondition: sample_soil | Condition: False>
+0.024256334999999997
+memory: 14.5390625

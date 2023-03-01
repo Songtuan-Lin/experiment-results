@@ -1,0 +1,4 @@
+<Component: Remove Atom pointing(?s, ?i) from Precondition: switch_on | Condition: False>
+<Component: Add Atom have_image(?d, ?m) to Effects: take_image | Condition: False>
+0.49030850600000003
+memory: 20.203125

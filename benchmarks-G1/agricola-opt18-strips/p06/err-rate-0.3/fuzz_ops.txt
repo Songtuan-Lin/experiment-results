@@ -1,0 +1,7 @@
+<Add Atom owned_animals(?a) to Effs: build_fences>
+<Remove Atom current_worker(?maxw) from Pos-effs: ag__finish_round_backhome>
+<Add Atom next_round(?r, ?r) to Effs: take_grain>
+<Remove Atom harvest_phase(?s, harvest_end) from Pos-effs: ag__harvest_breed_end>
+<Add Atom next_worker(?w2, ?w2) to Effs: collect_cook_animal>
+<Add Atom ok() to Effs: ag__finish_round_renew>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_veg>

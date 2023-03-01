@@ -1,0 +1,3 @@
+<Add Atom above(?f1, ?f1) to Neg-effs: move-down-slow>
+<Add Atom passenger-at(?p, ?n1) to Neg-effs: leave>
+<Add Atom above(?f2, ?f1) to Neg-effs: move-up-fast>

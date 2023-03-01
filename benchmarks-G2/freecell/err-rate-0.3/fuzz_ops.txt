@@ -1,0 +1,3 @@
+<Add Atom value(?ncols, ?cells) to Prec: sendtofree-b>
+<Remove Atom clear(?oldcard) from Pos-effs: move>
+<Add Atom =(?cells, ?ncells) to Neg-effs: newcolfromfreecell>

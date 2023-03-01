@@ -1,0 +1,7 @@
+<Add Atom suit(?newcard, ?cardsuit) to Neg-effs: home-to-col>
+<Add Atom suit(?card, ?suit) to Neg-effs: col-to-home>
+<Add Atom instack(?c1) to Neg-effs: turn-deck>
+<Add Atom on(?cardabove, ?newcard) to Neg-effs: tal-to-col>
+<Add Atom talonplayable(?cardabove) to Neg-effs: tal-to-home-b>
+<Add Atom home(?c1) to Neg-effs: turn-deck-a>
+<Add Atom colsuccessor(?ncols, ?cols) to Neg-effs: tal-to-col-e>

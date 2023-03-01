@@ -1,0 +1,4 @@
+<Component: Remove Atom shaker-empty-level(?d, ?l) from Precondition: pour-shot-to-used-shaker | Condition: False>
+<Component: Add Atom next(?l1, ?l1) to Effects: pour-shaker-to-shot | Condition: False>
+0.013527188999999995
+memory: 13.16796875

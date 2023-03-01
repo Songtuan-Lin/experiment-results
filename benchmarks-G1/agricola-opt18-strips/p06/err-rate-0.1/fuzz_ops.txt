@@ -1,0 +1,3 @@
+<Remove Atom harvest_phase(?s, harvest_end) from Pos-effs: ag__harvest_breed_end>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_veg>
+<Remove Atom current_worker(?w2) from Pos-effs: sow>

@@ -1,0 +1,3 @@
+<Add Atom num_substract(?inow, ?inow, ?inow) to Prec: ag__harvest_feed>
+<Add Atom drawcard_round(?act, ?r2) to Prec: ag__advance_round_normal>
+<Add Atom next_worker(?wmax, ?w1) to Prec: improve_home>

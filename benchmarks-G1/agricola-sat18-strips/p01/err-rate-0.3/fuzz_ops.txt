@@ -1,0 +1,7 @@
+<Add Atom num_food(?i1) to Effs: take_food>
+<Add Atom next_worker(?wmax, ?w1) to Effs: sow>
+<Add Atom next_worker(?w2, ?w2) to Effs: improve_home>
+<Add Atom current_stage(?s) to Effs: ag__harvest_breed_end>
+<Add Atom current_worker(?wmax) to Neg-effs: build_fences>
+<Add Atom next_worker(?wmax, ?w2) to Effs: family_growth>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_fromoven>

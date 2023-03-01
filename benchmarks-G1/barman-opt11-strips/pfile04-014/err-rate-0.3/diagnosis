@@ -1,0 +1,5 @@
+<Component: Add Atom shaked(?c) to Effects: leave | Condition: False>
+<Component: Remove Atom clean(?c) from Precondition: leave | Condition: False>
+<Component: Add Atom handempty(?h1) to Effects: fill-shot | Condition: False>
+0.02181038099999999
+memory: 13.17578125

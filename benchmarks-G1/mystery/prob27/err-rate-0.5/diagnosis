@@ -1,0 +1,4 @@
+<Component: Remove Atom =(?n1, ?l1) from Precondition: feast | Condition: False>
+<Component: Remove Atom attacks(?v, ?c) from Precondition: overcome | Condition: False>
+0.0035807179999999966
+memory: 14.52734375

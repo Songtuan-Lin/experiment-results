@@ -1,0 +1,2 @@
+<Add Atom ball(?obj) to Prec: drop>
+<Add Atom ball(?to) to Prec: move>

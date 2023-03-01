@@ -1,0 +1,2 @@
+<Remove Atom capacity(?v, ?s2) from Pos-effs: drop>
+<Add Atom road(?l1, ?l2) to Neg-effs: drive>

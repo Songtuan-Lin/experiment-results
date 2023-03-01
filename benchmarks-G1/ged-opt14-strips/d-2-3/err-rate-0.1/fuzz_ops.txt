@@ -1,0 +1,3 @@
+<Add Atom =(?x, ?y) to Neg-effs: begin-transpose-splice>
+<Add Atom finished() to Neg-effs: continue-inverse-splice-1b>
+<Add Atom gone(?x) to Neg-effs: end-splice-2>

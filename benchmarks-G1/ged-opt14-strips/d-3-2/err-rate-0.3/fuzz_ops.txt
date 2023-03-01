@@ -1,0 +1,7 @@
+<Add Atom cw(?x, ?x) to Effs: begin-inverse-splice-special-case>
+<Add Atom inverse-splicing() to Effs: continue-inverse-splice-1a>
+<Add Atom normal(?x) to Effs: continue-splice-2>
+<Add Atom free(?y) to Effs: end-splice-2>
+<Remove Atom cw(?x, ?y) from Pos-effs: end-inverse-splice-2>
+<Remove Atom s-first(?y) from Pos-effs: begin-cut>
+<Add Atom duplicate(?y, ?x) to Neg-effs: end-inverse-splice-1a>

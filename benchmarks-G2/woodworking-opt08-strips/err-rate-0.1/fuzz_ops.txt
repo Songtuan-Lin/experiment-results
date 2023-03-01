@@ -1,0 +1,2 @@
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>
+<Add Atom contains-part(?b, ?p) to Neg-effs: cut-board-medium>

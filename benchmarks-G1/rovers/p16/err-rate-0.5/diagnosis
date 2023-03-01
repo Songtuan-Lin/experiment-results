@@ -1,0 +1,5 @@
+<Component: Remove Atom can_traverse(?r, ?w, ?w) from Precondition: calibrate | Condition: False>
+<Component: Remove Atom can_traverse(?r, ?y, ?p) from Precondition: communicate_rock_data | Condition: False>
+<Component: Add Atom can_traverse(?x, ?z, ?z) to Effects: navigate | Condition: False>
+0.013660256999999995
+memory: 14.53125

@@ -1,0 +1,7 @@
+<Add Atom is-smooth(?surface) to Prec: do-saw-small>
+<Add Atom empty(?m) to Prec: load-highspeed-saw>
+<Add Atom empty(?m) to Prec: unload-highspeed-saw>
+<Add Atom unused(?x) to Prec: do-spray-varnish>
+<Add Atom boardsize-successor(?s1, ?size_after) to Prec: do-saw-medium>
+<Add Atom unused(?p) to Prec: do-saw-large>
+<Add Atom boardsize-successor(?size_before, ?s1) to Prec: cut-board-medium>

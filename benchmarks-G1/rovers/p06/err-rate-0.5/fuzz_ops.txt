@@ -1,0 +1,5 @@
+<Add Atom equipped_for_imaging(?x) to Prec: sample_rock>
+<Add Atom at_soil_sample(?x) to Prec: communicate_soil_data>
+<Add Atom have_rock_analysis(?r, ?p) to Prec: take_image>
+<Add Atom full(?s) to Prec: sample_soil>
+<Add Atom equipped_for_imaging(?x) to Prec: drop>

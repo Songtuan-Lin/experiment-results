@@ -1,0 +1,3 @@
+<Remove NegatedAtom gripper-obstacle(?ox, ?gyabs) from Effs: get-left>
+<Remove NegatedAtom not-pushed(?c) from Effs: grasp-cart-above>
+<Remove NegatedAtom holding(?r, ?o) from Effs: put-right>

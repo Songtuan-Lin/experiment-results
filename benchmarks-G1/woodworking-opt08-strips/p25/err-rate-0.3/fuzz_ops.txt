@@ -1,0 +1,4 @@
+<Add Atom boardsize-successor(?s1, ?s1) to Prec: do-saw-large>
+<Add Atom boardsize-successor(?size_before, ?s1) to Prec: cut-board-large>
+<Add Atom colour(?x, ?oldcolour) to Prec: do-grind>
+<Add Atom unused(?x) to Prec: do-glaze>

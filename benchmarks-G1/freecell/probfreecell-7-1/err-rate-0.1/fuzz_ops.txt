@@ -1,0 +1,1 @@
+<Add Atom incell(?ncells) to Neg-effs: colfromfreecell>

@@ -1,0 +1,2 @@
+<Remove Atom lift-at(?lift, ?f2) from Pos-effs: move-down-slow>
+<Remove Atom boarded(?p, ?lift) from Pos-effs: board>

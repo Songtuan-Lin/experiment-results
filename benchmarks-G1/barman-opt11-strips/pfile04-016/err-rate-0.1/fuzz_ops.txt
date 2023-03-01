@@ -1,0 +1,2 @@
+<Add Atom next(?l, ?l) to Prec: pour-shot-to-used-shaker>
+<Add Atom shaked(?s) to Prec: pour-shaker-to-shot>

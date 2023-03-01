@@ -1,0 +1,3 @@
+<Remove Atom at(?to) from Pos-effs: move>
+<Add Atom neighbor(?from, ?to) to Effs: move-up>
+<Add Atom succ(?hto, ?hfrom) to Effs: move-down>

@@ -1,0 +1,7 @@
+<Component: Remove Atom gripper-obstacle(?basex, ?oy) from Precondition: put-up | Condition: False>
+<Component: Add NegatedAtom base-obstacle(?dgxabs, ?gyabs) to Effects: gripper-right | Condition: False>
+<Component: Add Atom object-done(?o) to Effects: finish-object | Condition: False>
+<Component: Remove Atom gripper-obstacle(?basex, ?dgyabs) from Precondition: gripper-up | Condition: False>
+<Component: Add Atom base-pos(?r, ?dx, ?y) to Effects: base-right | Condition: False>
+0.128435591
+memory: 18.93359375

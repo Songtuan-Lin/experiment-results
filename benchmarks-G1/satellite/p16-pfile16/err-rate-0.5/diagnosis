@@ -1,0 +1,5 @@
+<Component: Remove Atom power_on(?m) from Precondition: take_image | Condition: False>
+<Component: Remove Atom supports(?i, ?d) from Precondition: calibrate | Condition: False>
+<Component: Remove Atom on_board(?s, ?d_prev) from Precondition: turn_to | Condition: False>
+0.005512561999999999
+memory: 14.5390625

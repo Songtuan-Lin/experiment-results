@@ -1,0 +1,7 @@
+<Component: Remove Atom object-goal(?o, ?basex, ?basey) from Precondition: get-down | Condition: False>
+<Component: Remove Atom base-obstacle(?cgxabs, ?gyabs) from Precondition: gripper-left | Condition: False>
+<Component: Add Atom object-pos(?o, ?gxabs, ?oy) to Effects: put-down | Condition: False>
+<Component: Add NegatedAtom base-obstacle(?cx, ?y) to Effects: base-right | Condition: False>
+<Component: Remove Atom base-obstacle(?cx, ?y) from Effects: base-right | Condition: False>
+0.33268244199999997
+memory: 19.66015625

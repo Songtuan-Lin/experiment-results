@@ -1,0 +1,1 @@
+<Remove NegatedAtom ispoint(?newhead) from Effs: move-and-eat-no-spawn>

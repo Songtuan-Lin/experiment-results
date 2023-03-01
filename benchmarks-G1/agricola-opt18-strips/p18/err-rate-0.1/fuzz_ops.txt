@@ -1,0 +1,3 @@
+<Remove NegatedAtom available_action(act_fences) from Effs: build_fences>
+<Remove NegatedAtom current_worker(?w1) from Effs: sow>
+<Remove NegatedAtom current_worker(?w1) from Effs: collect_cook_animal>

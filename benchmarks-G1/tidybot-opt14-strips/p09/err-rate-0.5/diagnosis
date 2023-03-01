@@ -1,0 +1,4 @@
+<Component: Add Atom base-pos(?r, ?dx, ?y) to Effects: base-left | Condition: False>
+<Component: Add Atom object-pos(?o, ?basex, ?oy) to Effects: put-down | Condition: False>
+0.022763556000000004
+memory: 14.53515625

@@ -1,0 +1,2 @@
+<Add Atom =(?head, ?spawnpoint) to Effs: move-and-eat-spawn>
+<Add Atom =(?head, ?head) to Effs: move-and-eat-no-spawn>

@@ -1,0 +1,3 @@
+<Add Atom have_rock_analysis(?r, ?w) to Prec: calibrate>
+<Add Atom at_soil_sample(?p) to Prec: sample_soil>
+<Add Atom available(?x) to Prec: drop>

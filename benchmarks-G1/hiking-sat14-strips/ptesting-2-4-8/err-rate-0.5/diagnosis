@@ -1,0 +1,4 @@
+<Component: Remove Atom down(?x1) from Precondition: walk_together | Condition: False>
+<Component: Add Atom down(?x3) to Effects: put_down | Condition: False>
+0.007325350000000001
+memory: 14.53125

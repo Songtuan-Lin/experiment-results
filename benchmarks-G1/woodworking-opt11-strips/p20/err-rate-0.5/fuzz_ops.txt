@@ -1,0 +1,7 @@
+<Add Atom empty(?m) to Neg-effs: unload-highspeed-saw>
+<Add Atom is-smooth(?oldsurface) to Neg-effs: do-grind>
+<Add Atom boardsize-successor(?size_before, ?size_after) to Neg-effs: do-saw-large>
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Add Atom boardsize(?b, ?s1) to Neg-effs: do-saw-medium>
+<Add Atom boardsize-successor(?size_before, ?size_before) to Neg-effs: cut-board-small>
+<Add Atom is-smooth(?surface) to Neg-effs: do-immersion-varnish>

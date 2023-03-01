@@ -1,0 +1,3 @@
+<Remove Atom faceup(?card) from Pos-effs: tal-to-col-c>
+<Remove Atom home(?card) from Pos-effs: col-to-home-b>
+<Remove Atom faceup(?oldcard) from Pos-effs: col-to-home>

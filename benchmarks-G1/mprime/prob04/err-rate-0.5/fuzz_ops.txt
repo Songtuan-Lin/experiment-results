@@ -1,0 +1,2 @@
+<Add Atom province(?l13) to Effs: drink>
+<Remove NegatedAtom fears(?c, ?v) from Effs: succumb>

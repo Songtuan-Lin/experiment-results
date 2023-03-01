@@ -1,0 +1,2 @@
+<Add Atom grind-treatment-change(?oldtreatment, ?newtreatment) to Prec: do-grind>
+<Add Atom colour(?x, ?newcolour) to Prec: do-spray-varnish>

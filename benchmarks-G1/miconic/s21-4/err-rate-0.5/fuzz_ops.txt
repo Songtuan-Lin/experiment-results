@@ -1,0 +1,2 @@
+<Add Atom origin(?f, ?p) to Neg-effs: depart>
+<Add Atom =(?f, ?p) to Neg-effs: board>

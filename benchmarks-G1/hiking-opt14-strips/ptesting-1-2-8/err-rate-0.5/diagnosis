@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom down(?x3) from Effects: put_up | Condition: False>
+<Component: Add Atom at_person(?x1, ?x3) to Effects: drive_passenger | Condition: False>
+0.008401624999999996
+memory: 14.5390625

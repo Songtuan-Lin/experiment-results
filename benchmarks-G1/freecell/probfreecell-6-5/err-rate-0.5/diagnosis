@@ -1,0 +1,5 @@
+<Component: Remove Atom colspace(?oldcard) from Precondition: sendtonewcol | Condition: False>
+<Component: Add Atom on(?card, ?card) to Effects: move | Condition: False>
+<Component: Add Atom on(?vhomecard, ?ncols) to Effects: sendtohome-b | Condition: False>
+0.016612456999999997
+memory: 14.53125

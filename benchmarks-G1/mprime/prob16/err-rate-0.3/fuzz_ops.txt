@@ -1,0 +1,2 @@
+<Add Atom =(?c, ?n) to Effs: succumb>
+<Add Atom craves(?l2, ?v) to Effs: feast>

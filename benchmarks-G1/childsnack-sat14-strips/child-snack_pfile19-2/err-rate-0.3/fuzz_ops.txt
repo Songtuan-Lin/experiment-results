@@ -1,0 +1,2 @@
+<Add Atom no_gluten_sandwich(?s) to Prec: put_on_tray>
+<Add Atom no_gluten_sandwich(?s) to Prec: make_sandwich_no_gluten>

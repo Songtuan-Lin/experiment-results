@@ -1,0 +1,2 @@
+<Remove Atom colour(?x, natural) from Pos-effs: do-grind>
+<Remove Atom wood(?p, ?w) from Pos-effs: cut-board-large>

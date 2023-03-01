@@ -1,0 +1,2 @@
+<Add Atom driving(?truck, ?truck) to Prec: drive-truck>
+<Add Atom in(?loc-to, ?loc-from) to Prec: walk>

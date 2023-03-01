@@ -1,0 +1,4 @@
+<Component: Remove Atom in(?p, ?v) from Precondition: pick-up | Condition: False>
+<Component: Remove Atom road(?l1, ?l1) from Precondition: drive | Condition: False>
+0.0037999100000000036
+memory: 14.53125

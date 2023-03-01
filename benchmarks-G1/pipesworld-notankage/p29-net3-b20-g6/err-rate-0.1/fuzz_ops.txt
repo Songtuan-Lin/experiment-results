@@ -1,0 +1,1 @@
+<Remove Atom pop-updating(?pipe) from Pos-effs: pop-start>

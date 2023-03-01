@@ -1,0 +1,4 @@
+<Component: Remove Atom in(?p, ?c) from Precondition: board | Condition: False>
+<Component: Add Atom person(?c2) to Effects: fly | Condition: False>
+0.010844491999999997
+memory: 14.53515625

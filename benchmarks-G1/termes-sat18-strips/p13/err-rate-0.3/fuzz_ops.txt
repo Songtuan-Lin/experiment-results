@@ -1,0 +1,3 @@
+<Remove NegatedAtom at(?from) from Effs: move-down>
+<Add Atom height(?rpos, ?hbefore) to Effs: place-block>
+<Add Atom succ(?hafter, ?hbefore) to Effs: remove-block>

@@ -1,0 +1,3 @@
+<Add Atom sum(?limit, ?size, ?after) to Prec: send>
+<Remove Atom usage(?s, ?after) from Pos-effs: load>
+<Add Atom sum(?before, ?before, ?size) to Prec: process>

@@ -1,0 +1,4 @@
+<Add Atom handempty(?h) to Neg-effs: pour-shaker-to-shot>
+<Add Atom unshaked(?s) to Neg-effs: clean-shaker>
+<Add Atom handempty(?h) to Neg-effs: empty-shot>
+<Add Atom handempty(?h2) to Neg-effs: fill-shot>

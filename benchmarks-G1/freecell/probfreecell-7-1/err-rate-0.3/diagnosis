@@ -1,0 +1,4 @@
+<Component: Add Atom cellspace(?cells) to Effects: sendtofree | Condition: False>
+<Component: Add Atom clear(?oldcard) to Effects: sendtonewcol | Condition: False>
+0.010496438999999996
+memory: 13.16796875

@@ -1,0 +1,3 @@
+<Add Atom not-pushing(?r) to Neg-effs: park>
+<Add Atom base-obstacle(?basex, ?gyabs) to Neg-effs: gripper-left>
+<Add Atom object-goal(?o, ?ox, ?gyabs) to Neg-effs: get-left>

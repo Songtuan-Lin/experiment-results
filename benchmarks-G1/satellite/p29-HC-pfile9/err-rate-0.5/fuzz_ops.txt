@@ -1,0 +1,3 @@
+<Add Atom direction(?i) to Prec: switch_off>
+<Add Atom on_board(?s, ?i) to Prec: switch_on>
+<Add Atom direction(?d_new) to Prec: turn_to>

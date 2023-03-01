@@ -1,0 +1,3 @@
+<Add Atom canstack(?card, ?card) to Prec: tal-to-home-d>
+<Add Atom value(?newcard, ?vcardbelow) to Prec: home-to-col>
+<Add Atom toptalon(?newcard) to Prec: move-col-to-col-b>

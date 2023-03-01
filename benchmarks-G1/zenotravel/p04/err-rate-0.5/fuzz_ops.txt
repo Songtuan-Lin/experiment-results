@@ -1,0 +1,3 @@
+<Remove Atom at(?p, ?c) from Pos-effs: debark>
+<Remove Atom fuel-level(?a, ?l1) from Pos-effs: refuel>
+<Remove Atom at(?a, ?c2) from Pos-effs: fly>

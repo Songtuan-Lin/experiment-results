@@ -1,0 +1,1 @@
+<Remove NegatedAtom spawn(?spawnpoint) from Effs: move-and-eat-spawn>

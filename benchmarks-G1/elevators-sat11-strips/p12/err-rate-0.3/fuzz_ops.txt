@@ -1,0 +1,2 @@
+<Remove Atom passengers(?lift, ?n2) from Pos-effs: board>
+<Remove Atom passenger-at(?p, ?f) from Pos-effs: leave>

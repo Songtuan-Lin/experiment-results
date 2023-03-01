@@ -1,0 +1,1 @@
+<Add Atom ontable(?x) to Neg-effs: put-down>

@@ -1,0 +1,4 @@
+<Component: Remove Atom is-goal(?ppos) from Precondition: push-to-goal | Condition: False>
+<Component: Remove Atom is-goal(?from) from Precondition: move | Condition: False>
+0.00983191
+memory: 14.53125

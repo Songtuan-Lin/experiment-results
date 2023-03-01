@@ -1,0 +1,1 @@
+<Remove Atom on-sale(?g, ?m, ?l1) from Pos-effs: buy>

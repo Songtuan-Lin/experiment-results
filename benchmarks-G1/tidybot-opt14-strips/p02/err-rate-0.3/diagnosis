@@ -1,0 +1,4 @@
+<Component: Remove Atom parked(?r) from Effects: base-right | Condition: False>
+<Component: Add Atom surface(?dgxabs, ?gyabs) to Effects: gripper-right | Condition: False>
+0.021535578000000007
+memory: 13.17578125

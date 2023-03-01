@@ -1,0 +1,2 @@
+<Add Atom holding(?h, ?c) to Prec: leave>
+<Add Atom dispenses(?d, ?i) to Prec: fill-shot>

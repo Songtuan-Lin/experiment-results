@@ -1,0 +1,7 @@
+<Component: Remove Atom canstack(?card, ?oldcard) from Precondition: move-col-to-col-c | Condition: False>
+<Component: Remove Atom ontalon(?card, ?c1) from Precondition: turn-deck | Condition: False>
+<Component: Remove Atom value(?card, ?vhomecard) from Precondition: col-to-home-b | Condition: False>
+<Component: Add Atom toptalon(?card) to Effects: tal-to-home-c | Condition: False>
+<Component: Add Atom ace(?c1) to Effects: turn-deck | Condition: False>
+0.047555224
+memory: 13.171875

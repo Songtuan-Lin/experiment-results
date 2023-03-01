@@ -1,0 +1,4 @@
+<Add Atom boardsize(?b, ?size_after) to Prec: do-saw-medium>
+<Add Atom is-smooth(?oldsurface) to Prec: do-grind>
+<Add Atom colour(?x, ?newcolour) to Prec: do-spray-varnish>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: unload-highspeed-saw>

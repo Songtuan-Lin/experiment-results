@@ -1,0 +1,2 @@
+<Remove Atom on(?x, ?y) from Pos-effs: stack>
+<Remove Atom holding(?x) from Pos-effs: unstack>

@@ -1,0 +1,4 @@
+<Component: Add Atom in(?obj, ?airplane) to Effects: load-airplane | Condition: False>
+<Component: Add Atom in(?obj, ?truck) to Effects: load-truck | Condition: False>
+0.010646363999999998
+memory: 13.171875

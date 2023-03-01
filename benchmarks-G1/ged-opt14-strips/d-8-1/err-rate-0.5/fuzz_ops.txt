@@ -1,0 +1,11 @@
+<Add Atom last-cut-point(?y) to Effs: continue-splice-2>
+<Add Atom cw(?x, ?x) to Effs: end-inverse-splice-2>
+<Add Atom have-cut() to Effs: end-splice-1>
+<Remove NegatedAtom inverse-splice-next(?x) from Effs: continue-inverse-splice-2>
+<Remove Atom cut-point-2(?y) from Pos-effs: end-cut-1>
+<Add Atom cutting() to Effs: end-inverse-splice-1a>
+<Remove NegatedAtom s-first(?x) from Effs: end-inverse-splice-1b>
+<Add Atom inverse-splicing-last() to Prec: continue-inverse-splice-1b>
+<Add Atom duplicate(?x, ?x) to Effs: continue-cut>
+<Remove Atom have-cut() from Pos-effs: end-cut-2>
+<Remove NegatedAtom splicing-last() from Effs: end-splice-2>

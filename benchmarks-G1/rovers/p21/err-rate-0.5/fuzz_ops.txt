@@ -1,0 +1,5 @@
+<Remove Atom at(?x, ?z) from Pos-effs: navigate>
+<Remove Atom calibrated(?i, ?r) from Pos-effs: calibrate>
+<Remove Atom have_image(?r, ?o, ?m) from Pos-effs: take_image>
+<Remove Atom empty(?y) from Pos-effs: drop>
+<Remove Atom full(?s) from Pos-effs: sample_soil>

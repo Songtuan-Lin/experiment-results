@@ -1,0 +1,4 @@
+<Add Atom neighbor(?p, ?p) to Effs: create-block>
+<Add Atom height(?rpos, ?hbefore) to Prec: place-block>
+<Remove Atom height(?bpos, ?hafter) from Pos-effs: remove-block>
+<Add Atom neighbor(?to, ?from) to Effs: move-down>

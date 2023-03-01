@@ -1,0 +1,3 @@
+<Remove NegatedAtom usage(?s, ?before) from Effs: release>
+<Add Atom sum(?after, ?after, ?size) to Effs: send>
+<Remove Atom cached(?d, ?s) from Pos-effs: load>

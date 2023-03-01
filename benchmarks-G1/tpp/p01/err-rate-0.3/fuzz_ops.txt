@@ -1,0 +1,2 @@
+<Add Atom connected(?from, ?from) to Neg-effs: drive>
+<Add Atom on-sale(?g, ?m, ?l2) to Neg-effs: load>

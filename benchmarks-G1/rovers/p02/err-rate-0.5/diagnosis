@@ -1,0 +1,4 @@
+<Component: Add Atom at_lander(?l, ?y) to Effects: communicate_image_data | Condition: False>
+<Component: Add Atom equipped_for_soil_analysis(?x) to Effects: sample_rock | Condition: False>
+0.004980754000000004
+memory: 14.5390625

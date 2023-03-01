@@ -1,0 +1,2 @@
+<Add Atom tailsnake(?newhead) to Effs: move-and-eat-no-spawn>
+<Remove NegatedAtom tailsnake(?tail) from Effs: move>

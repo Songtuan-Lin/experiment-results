@@ -1,0 +1,2 @@
+<Add Atom =(?f, ?f) to Neg-effs: depart>
+<Add Atom destin(?f2, ?f2) to Neg-effs: up>

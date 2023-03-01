@@ -1,0 +1,5 @@
+<Component: Add Atom empty(?y) to Effects: drop | Condition: False>
+<Component: Remove Atom calibrated(?i, ?r) from Precondition: take_image | Condition: False>
+<Component: Add Atom full(?s) to Effects: sample_rock | Condition: False>
+0.07138792399999999
+memory: 14.53125

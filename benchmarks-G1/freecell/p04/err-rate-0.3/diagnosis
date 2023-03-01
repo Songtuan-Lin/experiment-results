@@ -1,0 +1,5 @@
+<Component: Add Atom home(?card) to Effects: homefromfreecell | Condition: False>
+<Component: Add Atom cellspace(?ncells) to Effects: sendtofree | Condition: False>
+<Component: Remove NegatedAtom clear(?card) from Effects: sendtofree | Condition: False>
+0.011076309999999992
+memory: 13.17578125

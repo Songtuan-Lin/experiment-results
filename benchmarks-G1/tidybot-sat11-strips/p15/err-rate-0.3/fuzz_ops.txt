@@ -1,0 +1,9 @@
+<Add Atom base-obstacle(?cx, ?y) to Effs: base-right>
+<Add Atom sum-y(?dgyabs, ?cgyrel, ?cgyabs) to Effs: gripper-down>
+<Add Atom base-pos(?r, ?cx, ?y2) to Effs: base-cart-up>
+<Add Atom zeroy-rel(?y) to Effs: unpark>
+<Add Atom sum-x(?basex, ?dgxrel, ?dgxabs) to Effs: gripper-right>
+<Add Atom object-goal(?o, ?basex, ?oy) to Neg-effs: get-down>
+<Remove Atom pushing(?r, ?c) from Pos-effs: grasp-cart-left>
+<Add Atom parked(?r) to Neg-effs: ungrasp-cart>
+<Add Atom above(?y, ?y) to Effs: finish-object>

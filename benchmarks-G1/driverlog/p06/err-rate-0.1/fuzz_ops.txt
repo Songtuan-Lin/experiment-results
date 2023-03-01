@@ -1,0 +1,1 @@
+<Remove Atom at(?truck, ?loc-to) from Pos-effs: drive-truck>

@@ -1,0 +1,3 @@
+<Add Atom first(?batch-atom-in, ?pipe) to Prec: pop-unitarypipe>
+<Add Atom on(?first-batch-atom, ?from-area) to Prec: push-start>
+<Add Atom may-interface(?product-last-batch, ?product-last-batch) to Prec: pop-start>

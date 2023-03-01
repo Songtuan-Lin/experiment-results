@@ -1,0 +1,2 @@
+<Add Atom craves(?n2, ?n2) to Neg-effs: drink>
+<Remove NegatedAtom craves(?v, ?n1) from Effs: feast>

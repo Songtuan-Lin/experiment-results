@@ -1,0 +1,6 @@
+<Component: Add Atom current_worker(noworker) to Effects: ag__advance_round_normal | Condition: False>
+<Component: Remove NegatedAtom current_stage(?s) from Effects: ag__harvest_collect_end | Condition: False>
+<Component: Add Atom current_worker(?w2) to Effects: build_fences | Condition: False>
+<Component: Remove Atom next_round(?r, ?r) from Precondition: ag__finish_round_backhome | Condition: False>
+0.030038475000000002
+memory: 13.17578125

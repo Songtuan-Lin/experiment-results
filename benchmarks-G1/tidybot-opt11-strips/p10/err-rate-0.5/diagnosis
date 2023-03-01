@@ -1,0 +1,4 @@
+<Component: Remove Atom holding(?r, ?o) from Precondition: put-left | Condition: False>
+<Component: Remove NegatedAtom gripper-obstacle(?gxabs, ?dgyabs) from Precondition: gripper-up | Condition: False>
+0.017557278999999995
+memory: 14.53125

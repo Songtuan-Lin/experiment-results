@@ -1,0 +1,4 @@
+<Component: Remove Atom behind-car(?car, ?car) from Precondition: move-car-to-curb | Condition: False>
+<Component: Remove Atom behind-car(?cardest, ?cardest) from Precondition: move-curb-to-car | Condition: False>
+0.012239288999999993
+memory: 14.5390625

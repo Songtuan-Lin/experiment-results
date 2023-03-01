@@ -1,0 +1,5 @@
+<Component: Remove Atom on(?card, ?newcard) from Precondition: tal-to-col-b | Condition: False>
+<Component: Remove Atom ace(?cardbelow) from Precondition: tal-to-home | Condition: False>
+<Component: Add Atom home(?card) to Effects: tal-to-home-d | Condition: False>
+0.36377816
+memory: 20.265625

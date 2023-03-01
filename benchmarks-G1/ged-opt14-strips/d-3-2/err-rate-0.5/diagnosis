@@ -1,0 +1,4 @@
+<Component: Remove Atom s-first(?y) from Precondition: begin-cut | Condition: False>
+<Component: Remove Atom swappable(?y, ?x) from Precondition: end-splice-1 | Condition: False>
+0.005979396999999997
+memory: 14.53125

@@ -1,0 +1,2 @@
+<Remove Atom craves(?v, ?n2) from Pos-effs: feast>
+<Remove Atom harmony(?v, ?s2) from Pos-effs: succumb>

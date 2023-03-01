@@ -1,0 +1,2 @@
+<Add Atom attacks(?n, ?v) to Neg-effs: succumb>
+<Add Atom =(?n2, ?l1) to Neg-effs: feast>

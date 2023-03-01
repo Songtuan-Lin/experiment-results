@@ -1,0 +1,1 @@
+<Remove NegatedAtom locale(?n2, ?l21) from Effs: drink>

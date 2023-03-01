@@ -1,0 +1,2 @@
+<Add Atom next(?l, ?l) to Neg-effs: pour-shaker-to-shot>
+<Add Atom empty(?c) to Neg-effs: leave>

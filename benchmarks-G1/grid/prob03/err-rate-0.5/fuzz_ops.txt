@@ -1,0 +1,3 @@
+<Add Atom lock-shape(?nextpos, ?nextpos) to Prec: move>
+<Add Atom lock-shape(?key, ?key) to Prec: pickup>
+<Add Atom at-robot(?newkey) to Prec: pickup-and-loose>

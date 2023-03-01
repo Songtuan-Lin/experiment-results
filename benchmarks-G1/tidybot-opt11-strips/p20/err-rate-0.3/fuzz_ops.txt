@@ -1,0 +1,9 @@
+<Add Atom parked(?r) to Prec: park>
+<Add Atom object-goal(?o, ?cx, ?y) to Prec: get-from-cart>
+<Add Atom leftof(?gxabs, ?basex) to Effs: put-left>
+<Add Atom not-pushed(?c) to Neg-effs: ungrasp-cart>
+<Add Atom zeroy-rel(?gyrel) to Effs: get-left>
+<Add Atom leftof(?ox, ?ox) to Effs: put-right>
+<Add Atom leftof-rel(?gxrel, ?gxrel) to Neg-effs: put-on-cart>
+<Add Atom above(?cy, ?cy) to Effs: base-down>
+<Add Atom sum-x(?cgxabs, ?cgxrel, ?cgxabs) to Neg-effs: gripper-left>

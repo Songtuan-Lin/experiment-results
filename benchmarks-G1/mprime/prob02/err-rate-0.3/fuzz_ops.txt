@@ -1,0 +1,2 @@
+<Add Atom orbits(?l22, ?l12) to Prec: drink>
+<Add Atom locale(?n, ?n) to Effs: succumb>

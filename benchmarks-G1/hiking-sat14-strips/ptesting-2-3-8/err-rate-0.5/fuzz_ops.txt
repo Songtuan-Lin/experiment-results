@@ -1,0 +1,4 @@
+<Add Atom at_car(?x4, ?x3) to Prec: drive_passenger>
+<Remove NegatedAtom up(?x3) from Effs: put_down>
+<Add Atom partners(?x6, ?x3, ?x5) to Effs: walk_together>
+<Add Atom next(?x2, ?x2) to Effs: drive>

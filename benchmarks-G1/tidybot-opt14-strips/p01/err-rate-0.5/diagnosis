@@ -1,0 +1,5 @@
+<Component: Remove Atom gripper-obstacle(?gxabs, ?dgyabs) from Precondition: gripper-up | Condition: False>
+<Component: Add Atom gripper-rel(?r, ?dgxrel, ?gyrel) to Effects: gripper-left | Condition: False>
+<Component: Add NegatedAtom base-obstacle(?x, ?cy) to Effects: base-down | Condition: False>
+0.044233801999999996
+memory: 14.53125

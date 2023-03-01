@@ -1,0 +1,11 @@
+<Add Atom current_worker(?maxw) to Effs: ag__finish_round_renew>
+<Add Atom next_worker(?w2, ?wnewmax) to Effs: build_room>
+<Add Atom next_worker(?wnewmax, ?w2) to Prec: family_growth>
+<Remove NegatedAtom current_worker(?w1) from Effs: collect_cook_animal>
+<Add Atom max_worker(?wmax) to Effs: collect_resource>
+<Add Atom max_worker(?newmax) to Prec: ag__finish_round_backhome_withchild>
+<Remove NegatedAtom hold_round(?r1, roundend) from Effs: ag__advance_round_normal>
+<Add Atom next2_num(?i1, ?i3) to Prec: ag__harvest_collecting_fromoven>
+<Remove NegatedAtom can_harvest(?v) from Effs: ag__harvest_collecting_veg>
+<Add Atom current_worker(?wmax) to Effs: take_grain>
+<Add Atom newborn() to Prec: sow>

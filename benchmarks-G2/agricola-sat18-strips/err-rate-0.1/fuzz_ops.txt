@@ -1,0 +1,3 @@
+<Add Atom ok() to Prec: ag__advance_round_normal>
+<Remove NegatedAtom harvest_phase(?s, harvest_feeding) from Effs: ag__harvest_feed>
+<Add Atom current_stage(?s) to Effs: ag__harvest_collecting_veg>

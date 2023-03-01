@@ -1,0 +1,5 @@
+<Component: Add Atom wood(?p, ?w) to Effects: do-saw-small | Condition: False>
+<Component: Add Atom treatment(?p, untreated) to Effects: do-saw-large | Condition: False>
+<Component: Add Atom treatment(?x, untreated) to Effects: do-grind | Condition: False>
+0.040663881
+memory: 14.53125

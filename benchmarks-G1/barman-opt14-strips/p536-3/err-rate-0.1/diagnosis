@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom clean(?s) from Effects: fill-shot | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: refill-shot | Condition: False>
+0.010012873999999998
+memory: 11.76953125

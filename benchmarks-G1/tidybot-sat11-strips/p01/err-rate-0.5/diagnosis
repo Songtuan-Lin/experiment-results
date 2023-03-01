@@ -1,0 +1,7 @@
+<Component: Remove Atom surface(?gxabs, ?gyabs) from Precondition: put-up | Condition: False>
+<Component: Remove Atom sum-y(?dgyabs, ?cgyrel, ?basey) from Precondition: gripper-down | Condition: False>
+<Component: Remove NegatedAtom gripper-obstacle(?dgxabs, ?gyabs) from Precondition: gripper-left | Condition: False>
+<Component: Remove NegatedAtom base-obstacle(?dx, ?y) from Precondition: base-right | Condition: False>
+<Component: Remove NegatedAtom base-obstacle(?x, ?dy) from Precondition: base-down | Condition: False>
+0.06984320499999999
+memory: 14.5390625

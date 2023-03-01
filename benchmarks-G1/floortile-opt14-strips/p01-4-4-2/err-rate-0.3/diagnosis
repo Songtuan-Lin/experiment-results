@@ -1,0 +1,4 @@
+<Component: Remove Atom up(?x, ?x) from Precondition: left | Condition: False>
+<Component: Remove Atom free-color(?r) from Precondition: change-color | Condition: False>
+0.008608474000000005
+memory: 13.17578125

@@ -1,0 +1,2 @@
+<Add Atom on(?x, ?x) to Prec: unstack>
+<Add Atom =(?x, ?y) to Prec: stack>

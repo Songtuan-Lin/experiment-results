@@ -1,0 +1,3 @@
+<Remove NegatedAtom holding(?r, ?o) from Effs: put-right>
+<Remove NegatedAtom base-obstacle(?cx, ?y) from Effs: base-right>
+<Remove NegatedAtom base-obstacle(?cx1, ?cy) from Effs: base-cart-right>

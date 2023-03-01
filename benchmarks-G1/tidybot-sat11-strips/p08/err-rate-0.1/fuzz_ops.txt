@@ -1,0 +1,3 @@
+<Add Atom object-pos(?o, ?cx, ?cy) to Effs: put-on-cart>
+<Add Atom sum-y(?gyabs, ?gyrel, ?gyabs) to Effs: put-left>
+<Add Atom sum-y(?basey, ?gyrel, ?oy) to Effs: put-down>

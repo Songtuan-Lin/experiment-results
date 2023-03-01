@@ -1,0 +1,4 @@
+<Component: Remove Atom in(?l2, ?a) from Precondition: fly | Condition: False>
+<Component: Add Atom next(?c2, ?a) to Effects: fly | Condition: False>
+0.0038287240000000056
+memory: 14.53125

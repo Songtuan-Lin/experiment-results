@@ -1,0 +1,4 @@
+<Component: Remove Atom is-depot(?from) from Precondition: move | Condition: False>
+<Component: Add Atom neighbor(?to, ?to) to Effects: move | Condition: False>
+0.014742037999999999
+memory: 14.53125

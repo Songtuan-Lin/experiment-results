@@ -1,0 +1,1 @@
+<Remove Atom robot-at(?r, ?y) from Pos-effs: up>

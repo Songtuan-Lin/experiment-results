@@ -1,0 +1,2 @@
+<Add Atom next(?f, ?n1) to Neg-effs: board>
+<Add Atom next(?f2, ?f2) to Prec: move-up-slow>

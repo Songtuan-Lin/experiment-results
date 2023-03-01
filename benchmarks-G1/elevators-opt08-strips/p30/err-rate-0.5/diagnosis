@@ -1,0 +1,4 @@
+<Component: Add Atom lift-at(?lift, ?f) to Effects: leave | Condition: False>
+<Component: Remove NegatedAtom above(?f1, ?f2) from Effects: move-up-slow | Condition: False>
+0.010655818999999997
+memory: 14.53515625

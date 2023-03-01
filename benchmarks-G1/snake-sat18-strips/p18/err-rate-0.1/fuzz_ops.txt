@@ -1,0 +1,1 @@
+<Add Atom isadjacent(?newtail, ?newtail) to Neg-effs: move>

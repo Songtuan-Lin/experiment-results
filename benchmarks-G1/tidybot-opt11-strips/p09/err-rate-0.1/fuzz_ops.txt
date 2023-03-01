@@ -1,0 +1,3 @@
+<Add Atom gripper-obstacle(?x, ?y1) to Neg-effs: base-cart-up>
+<Add Atom sum-y(?cgyabs, ?cgyrel, ?cgyabs) to Neg-effs: gripper-up>
+<Add Atom leftof(?gxabs, ?gxabs) to Neg-effs: get-down>

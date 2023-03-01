@@ -1,0 +1,4 @@
+<Component: Add Atom holding(?r, ?o) to Effects: get-down | Condition: False>
+<Component: Add Atom gripper-empty(?r) to Effects: park | Condition: False>
+0.017639416999999998
+memory: 14.5390625

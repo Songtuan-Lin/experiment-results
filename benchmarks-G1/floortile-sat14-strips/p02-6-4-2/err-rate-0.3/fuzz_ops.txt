@@ -1,0 +1,3 @@
+<Remove Atom painted(?y, ?c) from Pos-effs: paint-up>
+<Remove Atom robot-has(?r, ?c2) from Pos-effs: change-color>
+<Remove Atom painted(?y, ?c) from Pos-effs: paint-down>

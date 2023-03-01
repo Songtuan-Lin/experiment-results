@@ -1,0 +1,7 @@
+<Remove Atom available(?p) from Pos-effs: cut-board-small>
+<Add Atom empty(?m) to Neg-effs: unload-highspeed-saw>
+<Add Atom grind-treatment-change(?oldtreatment, ?newtreatment) to Neg-effs: do-grind>
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Remove Atom treatment(?p, untreated) from Pos-effs: do-saw-medium>
+<Remove Atom colour(?p, natural) from Pos-effs: do-saw-large>
+<Add Atom boardsize-successor(?s1, ?size_before) to Prec: cut-board-medium>

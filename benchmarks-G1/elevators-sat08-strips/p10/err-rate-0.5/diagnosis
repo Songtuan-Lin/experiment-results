@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom next(?f1, ?f2) from Effects: move-up-slow | Condition: False>
+<Component: Add Atom above(?n1, ?n2) to Effects: board | Condition: False>
+0.016899490999999996
+memory: 14.53125

@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom capacity(?v, ?s2) from Effects: pick-up | Condition: False>
+<Component: Remove Atom in(?p, ?v) from Precondition: drop | Condition: False>
+0.008560241999999996
+memory: 14.53125

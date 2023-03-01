@@ -1,0 +1,3 @@
+<Add Atom calibrated(?d) to Neg-effs: calibrate>
+<Add Atom calibrated(?i) to Neg-effs: switch_off>
+<Add Atom pointing(?d_new, ?d_prev) to Neg-effs: turn_to>

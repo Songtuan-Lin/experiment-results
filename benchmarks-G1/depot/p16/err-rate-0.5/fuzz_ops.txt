@@ -1,0 +1,3 @@
+<Add Atom at(?z, ?p) to Prec: unload>
+<Add Atom in(?y, ?z) to Prec: drop>
+<Add Atom in(?x, ?x) to Prec: load>

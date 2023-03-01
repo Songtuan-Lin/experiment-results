@@ -1,0 +1,1 @@
+<Add Atom =(?truck, ?truck) to Neg-effs: drive-truck>

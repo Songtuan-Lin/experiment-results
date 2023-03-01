@@ -1,0 +1,5 @@
+<Component: Remove Atom is-product(?batch-atom-in, ?product-last-batch) from Precondition: pop-start | Condition: False>
+<Component: Remove Atom follow(?first-batch-atom, ?first-batch-atom) from Precondition: pop-end | Condition: False>
+<Component: Remove Atom on(?next-last-batch-atom, ?to-area) from Precondition: push-end | Condition: False>
+0.019609216
+memory: 14.53125

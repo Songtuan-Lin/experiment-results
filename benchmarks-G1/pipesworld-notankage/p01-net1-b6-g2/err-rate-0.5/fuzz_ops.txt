@@ -1,0 +1,3 @@
+<Add Atom first(?first-batch-atom, ?pipe) to Prec: push-start>
+<Add Atom unitary(?pipe) to Prec: push-end>
+<Add Atom last(?first-batch-atom, ?pipe) to Prec: pop-end>

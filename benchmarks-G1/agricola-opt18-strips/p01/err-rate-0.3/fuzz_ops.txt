@@ -1,0 +1,7 @@
+<Remove Atom harvest_phase(?s, harvest_feeding) from Pos-effs: ag__harvest_collect_end>
+<Add Atom next_worker(?wmax, ?w1) to Effs: collect_animal>
+<Add Atom max_worker(?w1) to Prec: plow_field>
+<Add Atom next_worker(?w1, ?w1) to Neg-effs: collect_resource>
+<Remove Atom num_food(?i2) from Pos-effs: ag__harvest_breeding_animal>
+<Add Atom newborn() to Neg-effs: ag__harvest_collecting_fromoven>
+<Add Atom ok() to Effs: take_grain>

@@ -1,0 +1,5 @@
+<Component: Add Atom at(?to) to Effects: move-up | Condition: False>
+<Component: Remove Atom neighbor(?from, ?from) from Precondition: move | Condition: False>
+<Component: Remove Atom has-block() from Effects: move-down | Condition: False>
+0.015099456999999997
+memory: 14.53515625

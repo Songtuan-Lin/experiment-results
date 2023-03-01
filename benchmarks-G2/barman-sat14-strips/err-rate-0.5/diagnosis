@@ -1,0 +1,7 @@
+<Component: Add Atom contains(?s, ?i) to Effects: refill-shot | Condition: False>
+<Component: Add Atom ontable(?c) to Effects: grasp | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: fill-shot | Condition: False>
+<Component: Remove NegatedAtom clean(?c) from Effects: grasp | Condition: False>
+<Component: Add Atom handempty(?h) to Effects: grasp | Condition: False>
+0.696500693
+memory: 17.7109375

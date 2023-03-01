@@ -1,0 +1,7 @@
+<Remove NegatedAtom current_worker(?w1) from Effs: collect_resource>
+<Add Atom current_worker(?wnewmax) to Effs: build_room>
+<Add Atom next_worker(?w1, ?w2) to Neg-effs: collect_cook_animal>
+<Add Atom stored_veg(?v) to Prec: take_grain>
+<Add Atom current_round(?r) to Effs: ag__finish_round_renew>
+<Add Atom num_substract(?i2, ?i, ?i2) to Effs: ag__harvest_breeding_animal>
+<Remove Atom current_worker(?w2) from Pos-effs: sow>

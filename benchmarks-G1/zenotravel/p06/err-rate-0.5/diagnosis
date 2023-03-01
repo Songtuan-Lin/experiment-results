@@ -1,0 +1,4 @@
+<Component: Remove Atom in(?p, ?c) from Precondition: debark | Condition: False>
+<Component: Remove Atom fuel-level(?c1, ?c1) from Precondition: fly | Condition: False>
+0.004213244000000005
+memory: 14.5390625

@@ -1,0 +1,3 @@
+<Remove Atom current_worker(?w2) from Pos-effs: build_fences>
+<Remove Atom num_food(?i2) from Pos-effs: collect_cook_animal>
+<Remove Atom current_worker(?w2) from Pos-effs: plow_field>

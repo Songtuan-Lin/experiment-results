@@ -1,0 +1,2 @@
+<Add Atom fears(?s2, ?v) to Neg-effs: succumb>
+<Add Atom pain(?n) to Neg-effs: overcome>

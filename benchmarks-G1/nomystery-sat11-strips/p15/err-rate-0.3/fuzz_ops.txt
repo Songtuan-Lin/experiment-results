@@ -1,0 +1,1 @@
+<Add Atom sum(?fuelpost, ?fuelpost, ?fueldelta) to Prec: drive>

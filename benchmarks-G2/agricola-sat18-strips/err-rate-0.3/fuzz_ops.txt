@@ -1,0 +1,7 @@
+<Add Atom current_round(?r) to Effs: ag__harvest_breeding_animal>
+<Add Atom num_substract(?ifeed, ?ifeed, ?ifeed) to Neg-effs: ag__harvest_feed>
+<Add Atom max_worker(?w1) to Effs: collect_animal>
+<Remove NegatedAtom available_action(act_plow) from Effs: sow>
+<Add Atom next_worker(?w1, ?w2) to Effs: improve_home>
+<Add Atom plowed_fields() to Prec: ag__harvest_breed_end>
+<Remove NegatedAtom available_action(?act) from Effs: collect_resource>

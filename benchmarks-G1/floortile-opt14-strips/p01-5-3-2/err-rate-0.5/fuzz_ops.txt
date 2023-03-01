@@ -1,0 +1,4 @@
+<Add Atom down(?y, ?y) to Prec: down>
+<Add Atom clear(?x) to Prec: left>
+<Add Atom clear(?x) to Prec: right>
+<Add Atom robot-at(?r, ?x) to Prec: paint-down>

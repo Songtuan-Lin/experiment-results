@@ -1,0 +1,1 @@
+<Remove Atom at_two(?element, ?xy_initial2, ?xy_final) from Pos-effs: move_two>

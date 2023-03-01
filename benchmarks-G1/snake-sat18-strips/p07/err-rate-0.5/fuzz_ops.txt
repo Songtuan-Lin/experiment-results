@@ -1,0 +1,2 @@
+<Add Atom ispoint(?head) to Effs: move>
+<Remove NegatedAtom ispoint(?newhead) from Effs: move-and-eat-no-spawn>

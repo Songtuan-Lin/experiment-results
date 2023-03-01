@@ -1,0 +1,5 @@
+<Component: Add Atom base-pos(?r, ?x, ?dy) to Effects: base-down | Condition: False>
+<Component: Remove NegatedAtom base-obstacle(?x, ?dy) from Precondition: base-down | Condition: False>
+<Component: Add Atom sum-y(?dgyabs, ?dgyrel, ?dgyabs) to Effects: gripper-down | Condition: False>
+0.030218758
+memory: 13.16796875

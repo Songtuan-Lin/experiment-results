@@ -1,0 +1,15 @@
+<Add Atom base-obstacle(?basex, ?oy) to Neg-effs: get-up>
+<Add Atom object-goal(?o, ?gxabs, ?gyabs) to Effs: get-left>
+<Add Atom gripper-obstacle(?x, ?cy) to Neg-effs: put-on-cart>
+<Remove Atom base-pos(?r, ?dx, ?y) from Pos-effs: base-left>
+<Add Atom sum-x(?ox, ?gxrel, ?gxabs) to Effs: put-right>
+<Add Atom gripper-empty(?r) to Effs: gripper-down>
+<Add Atom gripper-empty(?r) to Effs: park>
+<Remove Atom pushing(?r, ?c) from Pos-effs: grasp-cart-right>
+<Add Atom surface(?cx, ?y) to Neg-effs: base-right>
+<Add Atom surface(?x, ?dy) to Effs: base-up>
+<Add Atom object-goal(?o, ?basex, ?gyabs) to Prec: put-left>
+<Remove Atom cart-pos(?c, ?cx, ?cy2) from Pos-effs: base-cart-up>
+<Remove Atom gripper-obstacle(?dgxabs, ?gyabs) from Pos-effs: gripper-left>
+<Remove Atom object-pos(?o, ?gxabs, ?oy) from Pos-effs: put-down>
+<Add Atom above(?dy, ?dy) to Neg-effs: base-down>

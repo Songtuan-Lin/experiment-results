@@ -1,0 +1,3 @@
+<Remove Atom current_worker(?w2) from Pos-effs: improve_home>
+<Remove Atom hold_round(?r, backhome) from Pos-effs: ag__finish_round_backhome>
+<Remove Atom owned_animals(?a) from Pos-effs: collect_animal>

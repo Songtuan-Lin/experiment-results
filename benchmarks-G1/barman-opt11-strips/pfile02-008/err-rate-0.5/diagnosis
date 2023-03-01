@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom clean(?c) from Effects: leave | Condition: False>
+<Component: Remove Atom dispenses(?d, ?i) from Precondition: fill-shot | Condition: False>
+<Component: Add Atom dispenses(?d, ?i) to Effects: fill-shot | Condition: False>
+0.016056863000000005
+memory: 14.53125

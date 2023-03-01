@@ -1,0 +1,5 @@
+<Component: Add Atom gripper-empty(?r) to Effects: gripper-left | Condition: False>
+<Component: Remove Atom parked(?r) from Effects: base-left | Condition: False>
+<Component: Add Atom surface(?cgxabs, ?basey) to Effects: gripper-left | Condition: False>
+0.024195612
+memory: 13.17578125

@@ -1,0 +1,3 @@
+<Remove Atom at_person(?x6, ?x3) from Pos-effs: drive_tent_passenger>
+<Remove NegatedAtom up(?x3) from Effs: put_down>
+<Remove Atom at_person(?x5, ?x3) from Pos-effs: drive_passenger>

@@ -1,0 +1,4 @@
+<Remove Atom at(?to) from Pos-effs: move-down>
+<Add Atom has-block() to Neg-effs: create-block>
+<Add Atom succ(?hto, ?hfrom) to Effs: move-up>
+<Add Atom has-block() to Effs: destroy-block>

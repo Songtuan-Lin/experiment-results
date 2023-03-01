@@ -1,0 +1,7 @@
+<Add Atom splicing() to Effs: continue-inverse-splice-1b>
+<Add Atom present(?y) to Neg-effs: end-inverse-splice-1b>
+<Remove Atom inverse-splice-next(?x) from Pos-effs: continue-inverse-splice-1a>
+<Remove NegatedAtom inverted(?x) from Effs: invert-single-gene-b>
+<Add Atom s-first(?x) to Neg-effs: end-cut-1>
+<Remove Atom cw(?y, ?x) from Pos-effs: continue-splice-2>
+<Add Atom swappable(?y, ?x) to Effs: end-inverse-splice-2>

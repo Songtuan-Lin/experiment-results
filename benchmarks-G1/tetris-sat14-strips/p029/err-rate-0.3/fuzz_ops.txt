@@ -1,0 +1,2 @@
+<Add Atom connected(?xy_final, ?xy_final) to Neg-effs: move_square>
+<Add Atom connected(?xy_initial2, ?xy_initial2) to Prec: move_two>

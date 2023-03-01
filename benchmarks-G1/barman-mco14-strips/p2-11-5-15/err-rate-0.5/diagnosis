@@ -1,0 +1,5 @@
+<Component: Add Atom dispenses(?d, ?i) to Effects: fill-shot | Condition: False>
+<Component: Remove Atom shaker-empty-level(?s, ?l1) from Precondition: empty-shaker | Condition: False>
+<Component: Remove NegatedAtom handempty(?h2) from Effects: shake | Condition: False>
+0.014731047000000004
+memory: 14.5390625

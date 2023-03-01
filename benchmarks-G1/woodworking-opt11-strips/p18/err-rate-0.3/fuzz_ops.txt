@@ -1,0 +1,4 @@
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>
+<Remove Atom colour(?p, natural) from Pos-effs: do-saw-medium>
+<Remove Atom available(?b) from Pos-effs: unload-highspeed-saw>
+<Remove Atom treatment(?p, untreated) from Pos-effs: do-saw-large>

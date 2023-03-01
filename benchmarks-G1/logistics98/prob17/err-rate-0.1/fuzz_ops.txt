@@ -1,0 +1,1 @@
+<Add Atom at(?truck, ?obj) to Neg-effs: unload-truck>

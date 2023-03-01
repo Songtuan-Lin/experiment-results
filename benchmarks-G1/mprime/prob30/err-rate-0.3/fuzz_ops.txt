@@ -1,0 +1,2 @@
+<Add Atom orbits(?l2, ?l1) to Effs: feast>
+<Remove NegatedAtom locale(?n2, ?l21) from Effs: drink>

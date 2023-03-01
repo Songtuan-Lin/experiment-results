@@ -1,0 +1,4 @@
+<Component: Remove Atom =(?gripper, ?obj) from Precondition: pick | Condition: False>
+<Component: Remove Atom carry(?from, ?to) from Precondition: move | Condition: False>
+0.005480470000000001
+memory: 14.5390625

@@ -1,0 +1,5 @@
+<Remove Atom channel_free(?l) from Pos-effs: communicate_soil_data>
+<Remove Atom have_rock_analysis(?x, ?p) from Pos-effs: sample_rock>
+<Remove Atom calibrated(?i, ?r) from Pos-effs: calibrate>
+<Remove Atom channel_free(?l) from Pos-effs: communicate_image_data>
+<Remove Atom empty(?y) from Pos-effs: drop>

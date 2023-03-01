@@ -1,0 +1,7 @@
+<Add Atom current_round(?r) to Neg-effs: ag__harvest_breed_end>
+<Add Atom newborn() to Effs: ag__finish_round_renew>
+<Remove NegatedAtom num_food(?i1) from Effs: collect_cook_animal>
+<Remove Atom current_worker(?maxw) from Pos-effs: ag__finish_round_backhome>
+<Add Atom plowed_fields() to Effs: ag__finish_stage>
+<Remove Atom current_worker(?w2) from Pos-effs: collect_resource>
+<Remove Atom harvest_phase(?s, harvest_breeding) from Pos-effs: ag__harvest_feed>

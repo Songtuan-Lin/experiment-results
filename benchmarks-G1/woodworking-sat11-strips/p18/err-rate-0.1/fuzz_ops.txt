@@ -1,0 +1,2 @@
+<Add Atom boardsize-successor(?size_before, ?size_after) to Prec: do-saw-medium>
+<Add Atom is-smooth(?surface) to Prec: do-immersion-varnish>

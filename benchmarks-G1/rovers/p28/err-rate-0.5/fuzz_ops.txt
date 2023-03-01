@@ -1,0 +1,5 @@
+<Add Atom equipped_for_imaging(?x) to Prec: sample_soil>
+<Add Atom equipped_for_rock_analysis(?x) to Prec: sample_rock>
+<Add Atom have_soil_analysis(?r, ?x) to Prec: communicate_image_data>
+<Add Atom can_traverse(?r, ?x, ?x) to Prec: communicate_soil_data>
+<Add Atom have_rock_analysis(?x, ?z) to Prec: navigate>

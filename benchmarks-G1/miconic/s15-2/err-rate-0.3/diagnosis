@@ -1,0 +1,4 @@
+<Component: Remove Atom destin(?f1, ?f1) from Precondition: down | Condition: False>
+<Component: Add Atom lift-at(?p) to Effects: board | Condition: False>
+0.008166918000000009
+memory: 13.16796875

@@ -1,0 +1,1 @@
+<Add Atom power_on(?s) to Neg-effs: take_image>

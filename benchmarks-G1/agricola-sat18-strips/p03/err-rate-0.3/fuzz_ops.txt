@@ -1,0 +1,7 @@
+<Remove NegatedAtom can_harvest(?v) from Effs: ag__harvest_collecting_veg>
+<Remove Atom sown_veg(?v) from Pos-effs: sow>
+<Remove NegatedAtom max_worker(?maxw) from Effs: ag__finish_round_backhome_withchild>
+<Remove NegatedAtom available_action(act_fences) from Effs: build_fences>
+<Remove NegatedAtom current_stage(?s1) from Effs: ag__finish_stage>
+<Remove Atom current_worker(?w2) from Pos-effs: family_growth>
+<Add Atom next_round(?r, ?r) to Effs: ag__harvest_breed_end>

@@ -1,0 +1,7 @@
+<Component: Remove Atom shaker-empty-level(?d, ?l1) from Precondition: pour-shot-to-used-shaker | Condition: False>
+<Component: Remove Atom handempty(?h) from Precondition: empty-shot | Condition: False>
+<Component: Remove Atom empty(?c) from Precondition: grasp | Condition: False>
+<Component: Remove Atom next(?l1, ?l1) from Precondition: pour-shot-to-clean-shaker | Condition: False>
+<Component: Remove Atom shaker-level(?s, ?l1) from Precondition: empty-shaker | Condition: False>
+0.035799867
+memory: 14.5390625

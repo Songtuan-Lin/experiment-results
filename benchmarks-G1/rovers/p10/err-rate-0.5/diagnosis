@@ -1,0 +1,4 @@
+<Component: Add Atom communicated_rock_data(?y) to Effects: navigate | Condition: False>
+<Component: Remove Atom at(?x, ?z) from Precondition: navigate | Condition: False>
+0.006650020999999999
+memory: 14.5390625

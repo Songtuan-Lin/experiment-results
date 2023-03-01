@@ -1,0 +1,2 @@
+<Remove Atom occupied(?to) from Pos-effs: jump-new-move>
+<Remove Atom move-ended() from Pos-effs: end-move>

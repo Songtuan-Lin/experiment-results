@@ -1,0 +1,3 @@
+<Remove Atom calibrated(?i, ?r) from Pos-effs: calibrate>
+<Remove Atom have_image(?r, ?o, ?m) from Pos-effs: take_image>
+<Remove Atom have_soil_analysis(?x, ?p) from Pos-effs: sample_soil>

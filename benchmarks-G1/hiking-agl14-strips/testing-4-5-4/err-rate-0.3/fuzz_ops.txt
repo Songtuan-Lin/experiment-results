@@ -1,0 +1,3 @@
+<Remove Atom at_person(?x1, ?x3) from Pos-effs: drive>
+<Add Atom at_car(?x4, ?x2) to Effs: drive_passenger>
+<Add Atom up(?x5) to Effs: drive_tent>

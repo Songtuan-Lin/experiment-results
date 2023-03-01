@@ -1,0 +1,5 @@
+<Add Atom equipped_for_soil_analysis(?x) to Prec: drop>
+<Add Atom at_soil_sample(?p) to Prec: take_image>
+<Add Atom at_rock_sample(?w) to Prec: calibrate>
+<Add Atom can_traverse(?x, ?y, ?y) to Prec: navigate>
+<Add Atom have_soil_analysis(?x, ?p) to Prec: sample_rock>

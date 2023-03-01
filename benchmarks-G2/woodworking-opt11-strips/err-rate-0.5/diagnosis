@@ -1,0 +1,5 @@
+<Component: Remove Atom is-smooth(?surface) from Precondition: do-saw-small | Condition: False>
+<Component: Add Atom wood(?p, ?w) to Effects: do-saw-large | Condition: False>
+<Component: Add Atom treatment(?x, glazed) to Effects: do-glaze | Condition: False>
+0.126376249
+memory: 17.6328125

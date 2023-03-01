@@ -1,0 +1,6 @@
+<Component: Add Atom treatment(?x, glazed) to Effects: do-glaze | Condition: False>
+<Component: Add Atom colour(?p, natural) to Effects: do-saw-medium | Condition: False>
+<Component: Remove Atom colour(?x, ?oldcolour) from Precondition: do-grind | Condition: False>
+<Component: Add Atom treatment(?x, varnished) to Effects: do-immersion-varnish | Condition: False>
+0.021389986000000007
+memory: 14.53515625

@@ -1,0 +1,8 @@
+<Add Atom object-pos(?o, ?ox, ?basey) to Effs: get-right>
+<Add Atom surface(?x, ?cy) to Effs: grasp-cart-below>
+<Add Atom parked(?r) to Effs: base-right>
+<Add Atom parked(?r) to Effs: grasp-cart-left>
+<Add Atom surface(?cx, ?y1) to Effs: base-cart-up>
+<Add Atom above(?basey, ?oy) to Prec: get-down>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-left>
+<Add Atom sum-y(?cgyabs, ?dgyrel, ?basey) to Effs: gripper-down>

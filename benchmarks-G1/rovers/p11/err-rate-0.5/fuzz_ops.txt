@@ -1,0 +1,5 @@
+<Add Atom at(?x, ?p) to Neg-effs: sample_soil>
+<Add Atom communicated_rock_data(?z) to Neg-effs: navigate>
+<Add Atom visible(?x, ?p) to Neg-effs: communicate_soil_data>
+<Add Atom equipped_for_soil_analysis(?r) to Neg-effs: take_image>
+<Add Atom visible(?p, ?p) to Neg-effs: sample_rock>

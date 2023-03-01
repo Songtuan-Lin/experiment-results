@@ -1,0 +1,7 @@
+<Remove Atom current_round(?r2) from Pos-effs: ag__advance_round_normal>
+<Remove Atom num_food(?i2) from Pos-effs: take_food>
+<Add Atom ok() to Effs: ag__harvest_breed_end>
+<Remove NegatedAtom can_harvest(?v) from Effs: ag__harvest_collecting_fromoven>
+<Add Atom next_worker(?w1, ?wmax) to Effs: build_fences>
+<Add Atom next_round(?r, ?r) to Effs: ag__harvest_breeding_animal>
+<Add Atom current_worker(?wmax) to Effs: family_growth>

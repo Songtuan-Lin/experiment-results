@@ -1,0 +1,4 @@
+<Component: Add Atom destin(?p, ?p) to Effects: board | Condition: False>
+<Component: Remove Atom destin(?f2, ?f1) from Precondition: up | Condition: False>
+0.020365087999999996
+memory: 14.53515625

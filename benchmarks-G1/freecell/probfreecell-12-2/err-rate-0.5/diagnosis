@@ -1,0 +1,6 @@
+<Component: Add Atom bottomcol(?card) to Effects: sendtonewcol | Condition: False>
+<Component: Add Atom home(?card) to Effects: sendtofree | Condition: False>
+<Component: Add Atom colspace(?ncols) to Effects: sendtohome-b | Condition: False>
+<Component: Add Atom cellspace(?ncells) to Effects: colfromfreecell | Condition: False>
+0.06271444500000001
+memory: 14.53125

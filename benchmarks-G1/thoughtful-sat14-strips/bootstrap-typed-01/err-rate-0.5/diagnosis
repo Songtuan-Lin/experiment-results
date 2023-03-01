@@ -1,0 +1,7 @@
+<Component: Remove Atom home(?homecard) from Precondition: col-to-home-b | Condition: False>
+<Component: Add Atom home(?c1) to Effects: turn-deck | Condition: False>
+<Component: Remove NegatedAtom colspace(?cols) from Effects: col-to-home-b | Condition: False>
+<Component: Remove Atom home(?homecard) from Precondition: col-to-home | Condition: False>
+<Component: Add Atom colspace(?ncols) to Effects: col-to-home-b | Condition: False>
+0.038847942
+memory: 14.53515625

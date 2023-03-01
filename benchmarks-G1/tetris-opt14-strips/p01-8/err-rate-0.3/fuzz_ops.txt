@@ -1,0 +1,2 @@
+<Remove NegatedAtom at_right_l(?element, ?xy_initial1, ?xy_initial2, ?xy_initial3) from Effs: move_l_left>
+<Add Atom connected(?xy_final, ?xy_final) to Neg-effs: move_two>

@@ -1,0 +1,2 @@
+<Add Atom nextspawn(?newhead, ?newhead) to Effs: move-and-eat-no-spawn>
+<Remove Atom spawn(?nextspawnpoint) from Pos-effs: move-and-eat-spawn>

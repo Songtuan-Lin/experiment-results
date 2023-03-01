@@ -1,0 +1,5 @@
+<Component: Add Atom treatment(?p, untreated) to Effects: do-saw-large | Condition: False>
+<Component: Add Atom surface-condition(?x, verysmooth) to Effects: do-grind | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-immersion-varnish | Condition: False>
+0.017020953000000005
+memory: 14.5390625

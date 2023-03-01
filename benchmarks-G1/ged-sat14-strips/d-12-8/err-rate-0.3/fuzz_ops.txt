@@ -1,0 +1,7 @@
+<Add Atom idle() to Effs: continue-inverse-splice-1a>
+<Add Atom s-next(?y, ?x) to Effs: begin-transverse-splice>
+<Add Atom swappable(?x, ?x) to Effs: continue-cut>
+<Add Atom inverse-splice-next(?x) to Effs: invert-single-gene-b>
+<Remove NegatedAtom finished() from Effs: reset-1>
+<Add Atom inverse-splice-next(?x) to Effs: invert-single-gene-a>
+<Add Atom inverted(?y) to Effs: continue-splice-2>

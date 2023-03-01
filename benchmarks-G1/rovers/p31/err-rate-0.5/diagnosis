@@ -1,0 +1,4 @@
+<Component: Remove Atom communicated_rock_data(?x) from Precondition: communicate_image_data | Condition: False>
+<Component: Remove Atom visible(?z, ?z) from Precondition: navigate | Condition: False>
+0.039507488
+memory: 14.5390625

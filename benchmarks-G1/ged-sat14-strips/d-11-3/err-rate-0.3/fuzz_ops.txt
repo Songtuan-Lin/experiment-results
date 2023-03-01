@@ -1,0 +1,7 @@
+<Add Atom cutting() to Prec: invert-single-gene-b>
+<Remove Atom s-next(?x, ?y) from Pos-effs: continue-cut>
+<Remove Atom cw(?x, ?y) from Pos-effs: end-splice-2>
+<Add Atom free(?x) to Effs: end-splice-1>
+<Remove Atom splice-point-2(?y) from Pos-effs: begin-transverse-splice>
+<Add Atom last-cut-point(?x) to Effs: end-inverse-splice-1a>
+<Add Atom normal(?x) to Prec: continue-inverse-splice-1b>

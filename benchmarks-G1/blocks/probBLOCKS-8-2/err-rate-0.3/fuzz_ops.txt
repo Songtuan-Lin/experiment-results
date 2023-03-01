@@ -1,0 +1,2 @@
+<Add Atom =(?x, ?x) to Neg-effs: put-down>
+<Add Atom on(?x, ?x) to Neg-effs: pick-up>

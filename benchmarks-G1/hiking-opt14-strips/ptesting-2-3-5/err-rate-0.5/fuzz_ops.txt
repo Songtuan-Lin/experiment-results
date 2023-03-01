@@ -1,0 +1,4 @@
+<Add Atom at_tent(?x3, ?x2) to Effs: put_up>
+<Add Atom at_person(?x1, ?x2) to Effs: drive>
+<Add Atom down(?x5) to Effs: drive_tent_passenger>
+<Add Atom next(?x2, ?x3) to Neg-effs: drive_tent>

@@ -1,0 +1,3 @@
+<Remove Atom communicated_image_data(?o, ?m) from Pos-effs: communicate_image_data>
+<Remove Atom full(?s) from Pos-effs: sample_soil>
+<Remove Atom channel_free(?l) from Pos-effs: communicate_rock_data>

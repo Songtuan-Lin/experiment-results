@@ -1,0 +1,1 @@
+<Add Atom equipped_for_rock_analysis(?r) to Prec: take_image>

@@ -1,0 +1,1 @@
+<Remove Atom in(?obj, ?truck) from Pos-effs: load-truck>

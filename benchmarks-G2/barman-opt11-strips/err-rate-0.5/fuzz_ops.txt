@@ -1,0 +1,6 @@
+<Add Atom empty(?c) to Neg-effs: leave>
+<Add Atom unshaked(?s) to Prec: pour-shaker-to-shot>
+<Add Atom shaked(?s) to Prec: clean-shaker>
+<Remove Atom empty(?p) from Pos-effs: empty-shot>
+<Add Atom handempty(?h2) to Neg-effs: refill-shot>
+<Add Atom cocktail-part1(?b, ?d1) to Neg-effs: shake>

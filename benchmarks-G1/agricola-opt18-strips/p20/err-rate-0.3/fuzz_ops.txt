@@ -1,0 +1,7 @@
+<Remove Atom hold_round(?r, backhome) from Pos-effs: ag__finish_round_backhome>
+<Add Atom next_worker(?w2, ?w2) to Effs: take_food>
+<Add Atom sown_veg(?v) to Effs: take_grain>
+<Add Atom next_round(?r1, ?r1) to Effs: ag__finish_stage>
+<Add Atom food_required(?wmax, ?ifeed) to Effs: ag__harvest_feed>
+<Add Atom built_rooms(?room, ?w2) to Neg-effs: family_growth>
+<Add Atom next_worker(?w1, ?w2) to Neg-effs: plow_field>

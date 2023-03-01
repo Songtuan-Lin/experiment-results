@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom grind-treatment-change(?oldtreatment, ?oldtreatment) from Effects: do-plane | Condition: False>
+<Component: Add Atom boardsize-successor(?size_after, ?size_before) to Effects: do-saw-small | Condition: False>
+0.016914919
+memory: 14.5390625

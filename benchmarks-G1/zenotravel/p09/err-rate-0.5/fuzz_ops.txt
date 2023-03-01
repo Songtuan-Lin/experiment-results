@@ -1,0 +1,3 @@
+<Add Atom next(?c, ?a) to Prec: refuel>
+<Add Atom fuel-level(?a, ?c1) to Prec: zoom>
+<Add Atom fuel-level(?c2, ?a) to Prec: fly>

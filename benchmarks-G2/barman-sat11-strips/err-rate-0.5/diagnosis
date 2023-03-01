@@ -1,0 +1,6 @@
+<Component: Add Atom ontable(?c) to Effects: grasp | Condition: False>
+<Component: Add Atom clean(?s) to Effects: empty-shaker | Condition: False>
+<Component: Remove Atom next(?l1, ?l1) from Precondition: pour-shot-to-clean-shaker | Condition: False>
+<Component: Remove NegatedAtom dispenses(?d, ?i) from Effects: fill-shot | Condition: False>
+0.51870749
+memory: 17.70703125

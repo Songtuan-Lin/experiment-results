@@ -1,0 +1,4 @@
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>
+<Add Atom boardsize(?b, ?s1) to Prec: cut-board-large>
+<Add Atom unused(?x) to Prec: do-grind>
+<Remove Atom colour(?p, natural) from Pos-effs: do-saw-small>

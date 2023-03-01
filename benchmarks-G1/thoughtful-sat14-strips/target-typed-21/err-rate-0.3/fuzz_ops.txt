@@ -1,0 +1,7 @@
+<Add Atom toptalon(?newcard) to Neg-effs: home-to-col>
+<Add Atom ontalon(?newcard, ?oldcard) to Neg-effs: tal-to-col-c>
+<Add Atom bottomtalon(?cardbelow) to Neg-effs: tal-to-home-c>
+<Add Atom clear(?oldcard) to Neg-effs: tal-to-col-g>
+<Add Atom bottomcol(?homecard) to Neg-effs: col-to-home>
+<Add Atom faceup(?oldcard) to Neg-effs: move-col-to-col>
+<Add Atom canstack(?card, ?c1) to Neg-effs: turn-deck-a>

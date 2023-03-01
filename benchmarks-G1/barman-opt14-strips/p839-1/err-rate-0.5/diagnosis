@@ -1,0 +1,7 @@
+<Component: Add Atom shaked(?c) to Effects: leave | Condition: False>
+<Component: Remove Atom shaker-level(?s, ?l) from Precondition: empty-shaker | Condition: False>
+<Component: Add Atom holding(?h, ?c) to Effects: grasp | Condition: False>
+<Component: Add Atom unshaked(?c) to Effects: leave | Condition: False>
+<Component: Add Atom shaker-level(?d, ?l) to Effects: pour-shot-to-clean-shaker | Condition: False>
+0.03176156000000001
+memory: 14.53125

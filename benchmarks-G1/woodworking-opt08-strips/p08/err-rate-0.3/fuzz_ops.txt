@@ -1,0 +1,4 @@
+<Add Atom treatment(?x, ?newtreatment) to Neg-effs: do-grind>
+<Add Atom empty(?m) to Neg-effs: unload-highspeed-saw>
+<Add Atom boardsize(?b, ?s1) to Neg-effs: do-saw-large>
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Neg-effs: do-plane>

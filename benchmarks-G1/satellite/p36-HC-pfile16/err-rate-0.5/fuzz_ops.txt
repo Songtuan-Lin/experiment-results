@@ -1,0 +1,3 @@
+<Add Atom direction(?s) to Prec: switch_off>
+<Add Atom instrument(?s) to Prec: switch_on>
+<Add Atom mode(?d_prev) to Prec: turn_to>

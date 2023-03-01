@@ -1,0 +1,6 @@
+<Add Atom ontable(?c) to Neg-effs: leave>
+<Add Atom unshaked(?s) to Neg-effs: empty-shaker>
+<Add Atom shaked(?d) to Neg-effs: pour-shot-to-clean-shaker>
+<Add Atom next(?l, ?l) to Neg-effs: pour-shot-to-used-shaker>
+<Add Atom handempty(?h) to Neg-effs: empty-shot>
+<Add Atom handempty(?h1) to Neg-effs: refill-shot>

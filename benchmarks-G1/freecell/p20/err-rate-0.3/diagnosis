@@ -1,0 +1,5 @@
+<Component: Remove Atom colspace(?card) from Precondition: move | Condition: False>
+<Component: Remove Atom colspace(?card) from Precondition: sendtonewcol | Condition: False>
+<Component: Remove Atom suit(?newcard, ?ncells) from Precondition: colfromfreecell | Condition: False>
+0.021359123999999993
+memory: 13.171875

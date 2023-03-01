@@ -1,0 +1,6 @@
+<Component: Remove Atom bottomtalon(?c1) from Precondition: turn-deck | Condition: False>
+<Component: Add Atom instack(?card) to Effects: turn-deck | Condition: False>
+<Component: Add Atom king(?oldcard) to Effects: move-col-to-col | Condition: False>
+<Component: Add Atom faceup(?card) to Effects: turn-deck | Condition: False>
+0.084353965
+memory: 13.17578125

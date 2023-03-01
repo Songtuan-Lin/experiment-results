@@ -1,0 +1,2 @@
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>
+<Remove Atom wood(?p, ?w) from Pos-effs: cut-board-small>

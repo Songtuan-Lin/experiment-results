@@ -1,0 +1,3 @@
+<Add Atom splicing() to Neg-effs: begin-inverse-splice-special-case>
+<Add Atom have-cut() to Neg-effs: end-inverse-splice-1a>
+<Add Atom swappable(?x, ?y) to Neg-effs: begin-transpose-splice>

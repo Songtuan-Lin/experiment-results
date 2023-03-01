@@ -1,0 +1,4 @@
+<Component: Remove Atom sum(?fueldelta, ?fuelpost, ?fueldelta) from Precondition: drive | Condition: False>
+<Component: Remove Atom connected(?l, ?l) from Precondition: load | Condition: False>
+0.102272519
+memory: 18.58203125

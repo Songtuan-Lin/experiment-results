@@ -1,0 +1,3 @@
+<Add Atom successor(?card, ?card) to Neg-effs: newcolfromfreecell>
+<Add Atom on(?card, ?ncells) to Neg-effs: homefromfreecell>
+<Add Atom successor(?cells, ?cols) to Neg-effs: sendtofree-b>

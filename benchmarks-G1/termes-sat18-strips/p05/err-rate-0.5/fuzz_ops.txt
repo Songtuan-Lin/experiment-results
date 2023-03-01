@@ -1,0 +1,3 @@
+<Remove Atom at(?to) from Pos-effs: move>
+<Remove Atom at(?to) from Pos-effs: move-down>
+<Add Atom height(?from, ?hto) to Effs: move-up>

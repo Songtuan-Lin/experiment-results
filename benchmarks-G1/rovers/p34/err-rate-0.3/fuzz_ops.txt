@@ -1,0 +1,3 @@
+<Add Atom equipped_for_imaging(?x) to Prec: navigate>
+<Add Atom communicated_rock_data(?x) to Prec: communicate_image_data>
+<Add Atom equipped_for_rock_analysis(?x) to Prec: drop>

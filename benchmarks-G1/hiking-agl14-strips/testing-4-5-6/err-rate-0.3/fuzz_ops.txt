@@ -1,0 +1,3 @@
+<Add Atom next(?x3, ?x3) to Effs: drive_tent>
+<Add Atom down(?x5) to Effs: drive_tent_passenger>
+<Add Atom at_tent(?x3, ?x2) to Effs: put_up>

@@ -1,0 +1,4 @@
+<Component: Remove Atom =(?suit, ?cells) from Precondition: homefromfreecell | Condition: False>
+<Component: Remove Atom value(?suit, ?vhomecard) from Precondition: sendtohome-b | Condition: False>
+0.027114733000000002
+memory: 13.17578125

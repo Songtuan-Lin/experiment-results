@@ -1,0 +1,5 @@
+<Component: Remove Atom in-city(?loc-to, ?loc-to) from Precondition: drive-truck | Condition: False>
+<Component: Remove Atom in(?loc-from, ?airplane) from Precondition: fly-airplane | Condition: False>
+<Component: Remove Atom at(?loc, ?loc) from Precondition: load-truck | Condition: False>
+0.009783548999999996
+memory: 14.5390625

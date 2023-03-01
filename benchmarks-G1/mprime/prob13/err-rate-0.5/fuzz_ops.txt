@@ -1,0 +1,2 @@
+<Add Atom attacks(?n2, ?n2) to Effs: feast>
+<Remove NegatedAtom fears(?c, ?v) from Effs: succumb>

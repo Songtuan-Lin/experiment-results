@@ -1,0 +1,2 @@
+<Add Atom capacity-predecessor(?s2, ?s1) to Prec: pick-up>
+<Add Atom road(?l1, ?l1) to Prec: drive>

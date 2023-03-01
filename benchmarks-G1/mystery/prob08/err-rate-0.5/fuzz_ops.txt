@@ -1,0 +1,2 @@
+<Add Atom attacks(?s2, ?v) to Prec: overcome>
+<Add Atom orbits(?n1, ?n1) to Prec: feast>

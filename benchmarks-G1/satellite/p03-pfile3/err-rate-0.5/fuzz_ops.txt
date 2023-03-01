@@ -1,0 +1,3 @@
+<Add Atom have_image(?d, ?i) to Neg-effs: take_image>
+<Add Atom supports(?i, ?i) to Neg-effs: switch_off>
+<Add Atom calibration_target(?s, ?d_prev) to Neg-effs: turn_to>

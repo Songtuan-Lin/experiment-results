@@ -1,0 +1,3 @@
+<Add Atom channel_free(?l) to Neg-effs: communicate_rock_data>
+<Add Atom at(?r, ?y) to Neg-effs: communicate_image_data>
+<Add Atom at_rock_sample(?z) to Neg-effs: navigate>

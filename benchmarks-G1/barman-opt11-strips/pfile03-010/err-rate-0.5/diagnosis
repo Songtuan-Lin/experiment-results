@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom handempty(?h2) from Effects: refill-shot | Condition: False>
+<Component: Remove Atom next(?l, ?l1) from Precondition: pour-shot-to-clean-shaker | Condition: False>
+<Component: Remove NegatedAtom clean(?c) from Effects: leave | Condition: False>
+0.015497913000000002
+memory: 14.53125

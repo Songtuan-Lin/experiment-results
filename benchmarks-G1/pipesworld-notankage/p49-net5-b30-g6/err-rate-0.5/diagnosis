@@ -1,0 +1,5 @@
+<Component: Add Atom first(?next-first-batch-atom, ?pipe) to Effects: pop-end | Condition: False>
+<Component: Remove Atom last(?last-batch-atom, ?pipe) from Precondition: pop-unitarypipe | Condition: False>
+<Component: Remove Atom push-updating(?pipe) from Precondition: push-end | Condition: False>
+0.015635312000000005
+memory: 14.5390625

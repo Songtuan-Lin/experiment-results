@@ -1,0 +1,2 @@
+<Add Atom at_kitchen_content(?c) to Prec: make_sandwich_no_gluten>
+<Add Atom ontray(?s, ?t) to Prec: serve_sandwich_no_gluten>

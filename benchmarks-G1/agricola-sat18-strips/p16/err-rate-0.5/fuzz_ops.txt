@@ -1,0 +1,11 @@
+<Add Atom can_breed(?a) to Effs: ag__harvest_breeding_animal>
+<Add Atom current_worker(?wmax) to Effs: take_food>
+<Add Atom ok() to Neg-effs: ag__harvest_collecting_veg>
+<Add Atom next_worker(?w2, ?w2) to Effs: take_grain>
+<Add Atom next_round(?r, ?r) to Prec: plow_field>
+<Add Atom next_round(?r1, ?r2) to Effs: ag__advance_round_normal>
+<Add Atom stored_resource(?res) to Effs: family_growth>
+<Add Atom next_round(?r, ?r) to Prec: ag__finish_round_renew>
+<Add Atom ok() to Effs: ag__finish_round_backhome_withchild>
+<Remove Atom can_breed(cattle) from Pos-effs: ag__harvest_feed>
+<Add Atom next_round(?r, ?r) to Prec: ag__finish_round_backhome>

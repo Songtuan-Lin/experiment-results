@@ -1,0 +1,2 @@
+<Remove Atom base-pos(?r, ?x, ?y2) from Pos-effs: base-cart-down>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-right>

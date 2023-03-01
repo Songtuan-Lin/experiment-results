@@ -1,0 +1,3 @@
+<Add Atom clear(?homecard) to Prec: tal-to-home-c>
+<Add Atom ontalon(?card, ?c1) to Prec: turn-deck-a>
+<Add Atom clear(?newcard) to Prec: tal-to-col>

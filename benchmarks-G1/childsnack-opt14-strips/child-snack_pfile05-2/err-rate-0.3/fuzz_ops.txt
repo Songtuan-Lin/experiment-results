@@ -1,0 +1,2 @@
+<Add Atom no_gluten_sandwich(?s) to Neg-effs: serve_sandwich_no_gluten>
+<Add Atom served(?c) to Neg-effs: serve_sandwich>

@@ -1,0 +1,3 @@
+<Add Atom communicated_soil_data(?y) to Prec: navigate>
+<Add Atom equipped_for_soil_analysis(?r) to Prec: calibrate>
+<Add Atom equipped_for_rock_analysis(?r) to Prec: take_image>

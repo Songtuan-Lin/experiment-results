@@ -1,0 +1,3 @@
+<Remove Atom on(?card, ?newcard) from Pos-effs: move-b>
+<Remove Atom clear(?oldcard) from Pos-effs: move>
+<Remove Atom clear(?oldcard) from Pos-effs: sendtohome>

@@ -1,0 +1,3 @@
+<Remove NegatedAtom usage(?to, ?before) from Effs: send>
+<Add Atom less-equal(?before, ?size) to Effs: release>
+<Add Atom less-equal(?size, ?size) to Neg-effs: save>

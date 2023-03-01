@@ -1,0 +1,1 @@
+<Add Atom isadjacent(?newhead, ?head) to Prec: move-and-eat-no-spawn>

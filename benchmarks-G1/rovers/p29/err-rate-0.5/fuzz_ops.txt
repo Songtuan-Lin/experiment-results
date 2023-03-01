@@ -1,0 +1,5 @@
+<Add Atom visible(?y, ?x) to Prec: communicate_rock_data>
+<Add Atom calibrated(?i, ?r) to Prec: calibrate>
+<Add Atom at(?r, ?y) to Prec: communicate_soil_data>
+<Add Atom equipped_for_soil_analysis(?x) to Prec: sample_rock>
+<Add Atom calibrated(?i, ?r) to Prec: take_image>

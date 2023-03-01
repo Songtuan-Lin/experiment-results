@@ -1,0 +1,7 @@
+<Add Atom last-cut-point(?y) to Effs: end-splice-2>
+<Add Atom splice-next(?y) to Effs: end-cut-1>
+<Add Atom last-cut-point(?y) to Effs: begin-cut>
+<Add Atom inverse-splicing() to Effs: continue-inverse-splice-1b>
+<Add Atom have-cut() to Effs: begin-transverse-splice>
+<Add Atom splice-next(?x) to Effs: continue-splice-2>
+<Remove Atom s-next(?x, ?y) from Pos-effs: continue-cut>

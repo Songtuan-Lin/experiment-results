@@ -1,0 +1,5 @@
+<Component: Add Atom current_worker(?maxw) to Effects: ag__finish_round_backhome | Condition: False>
+<Component: Remove Atom newborn() from Effects: ag__harvest_breed_end | Condition: False>
+<Component: Add Atom harvest_phase(?s, harvest_feeding) to Effects: ag__harvest_collect_end | Condition: False>
+0.028369539
+memory: 14.53515625

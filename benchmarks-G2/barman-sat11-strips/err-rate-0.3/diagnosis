@@ -1,0 +1,6 @@
+<Component: Add Atom clean(?c) to Effects: leave | Condition: False>
+<Component: Remove NegatedAtom dispenses(?d, ?i) from Effects: fill-shot | Condition: False>
+<Component: Add Atom shaked(?d) to Effects: pour-shot-to-clean-shaker | Condition: False>
+<Component: Remove Atom next(?l, ?l) from Precondition: pour-shaker-to-shot | Condition: False>
+0.65914017
+memory: 17.9375

@@ -1,0 +1,2 @@
+<Remove Atom ispoint(?spawnpoint) from Pos-effs: move-and-eat-spawn>
+<Remove NegatedAtom headsnake(?head) from Effs: move>

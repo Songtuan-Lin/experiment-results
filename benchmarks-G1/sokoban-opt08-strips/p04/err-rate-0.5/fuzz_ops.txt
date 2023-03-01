@@ -1,0 +1,2 @@
+<Remove Atom clear(?from) from Pos-effs: move>
+<Remove Atom clear(?ppos) from Pos-effs: push-to-goal>

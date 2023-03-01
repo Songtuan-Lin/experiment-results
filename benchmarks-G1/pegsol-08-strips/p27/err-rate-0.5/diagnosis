@@ -1,0 +1,4 @@
+<Component: Add Atom occupied(?loc) to Effects: end-move | Condition: False>
+<Component: Add Atom free(?from) to Effects: jump-new-move | Condition: False>
+0.027364653000000003
+memory: 14.5390625

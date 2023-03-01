@@ -1,0 +1,3 @@
+<Add Atom successor(?cols, ?card) to Neg-effs: move-b>
+<Add Atom suit(?vcard, ?vcard) to Neg-effs: homefromfreecell>
+<Add Atom value(?vhomecard, ?suit) to Neg-effs: sendtohome>

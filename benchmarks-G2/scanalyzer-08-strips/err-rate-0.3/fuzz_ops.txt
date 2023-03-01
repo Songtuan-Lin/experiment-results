@@ -1,0 +1,2 @@
+<Remove Atom analyzed(?c1) from Pos-effs: analyze-2>
+<Add Atom cycle-4-with-analysis(?s3, ?s1, ?s3, ?s1) to Neg-effs: analyze-4>

@@ -1,0 +1,2 @@
+<Remove Atom craves(?c, ?n) from Pos-effs: succumb>
+<Add Atom =(?l22, ?l13) to Effs: drink>

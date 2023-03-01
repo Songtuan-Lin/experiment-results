@@ -1,0 +1,6 @@
+<Component: Remove Atom =(?card, ?ncols) from Precondition: sendtonewcol | Condition: False>
+<Component: Remove Atom clear(?vhomecard) from Precondition: sendtohome-b | Condition: False>
+<Component: Remove Atom cellspace(?card) from Precondition: sendtofree | Condition: False>
+<Component: Remove Atom successor(?card, ?newcard) from Precondition: move-b | Condition: False>
+0.032328881
+memory: 14.5390625

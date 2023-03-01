@@ -1,0 +1,4 @@
+<Component: Add Atom bottomcol(?cardbelow) to Effects: tal-to-home | Condition: False>
+<Component: Remove Atom canstack(?card, ?card) from Precondition: turn-deck | Condition: False>
+0.013972134999999997
+memory: 11.6875

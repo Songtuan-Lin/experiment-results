@@ -1,0 +1,3 @@
+<Remove Atom available(?r) from Pos-effs: communicate_soil_data>
+<Remove Atom calibrated(?i, ?r) from Pos-effs: calibrate>
+<Remove Atom full(?s) from Pos-effs: sample_rock>

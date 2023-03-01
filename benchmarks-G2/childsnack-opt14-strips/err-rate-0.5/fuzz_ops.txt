@@ -1,0 +1,3 @@
+<Add Atom waiting(?c, ?p) to Prec: serve_sandwich>
+<Add Atom ontray(?s, ?t) to Neg-effs: put_on_tray>
+<Remove Atom at_kitchen_sandwich(?s) from Pos-effs: make_sandwich_no_gluten>

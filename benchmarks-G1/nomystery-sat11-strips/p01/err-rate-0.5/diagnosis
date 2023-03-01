@@ -1,0 +1,4 @@
+<Component: Remove Atom fuelcost(?fuelpre, ?l2, ?l2) from Precondition: drive | Condition: False>
+<Component: Remove Atom in(?p, ?t) from Precondition: load | Condition: False>
+0.03907561
+memory: 14.5390625

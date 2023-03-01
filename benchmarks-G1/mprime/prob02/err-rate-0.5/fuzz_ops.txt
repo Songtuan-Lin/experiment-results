@@ -1,0 +1,2 @@
+<Remove NegatedAtom harmony(?v, ?s1) from Effs: succumb>
+<Add Atom craves(?n1, ?n1) to Effs: feast>

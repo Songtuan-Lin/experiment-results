@@ -1,0 +1,3 @@
+<Add Atom above(?cy, ?dy) to Prec: base-down>
+<Add Atom above(?y, ?y) to Prec: finish-object>
+<Add Atom base-pos(?r, ?x, ?y) to Prec: grasp-cart-below>

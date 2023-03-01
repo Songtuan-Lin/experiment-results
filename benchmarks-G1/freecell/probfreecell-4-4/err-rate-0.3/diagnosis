@@ -1,0 +1,4 @@
+<Component: Add Atom suit(?vcard, ?vcard) to Effects: sendtohome-b | Condition: False>
+<Component: Remove Atom clear(?vhomecard) from Precondition: sendtohome | Condition: False>
+0.009699873999999997
+memory: 13.17578125

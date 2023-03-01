@@ -1,0 +1,4 @@
+<Component: Add Atom at(?t, ?to) to Effects: drive | Condition: False>
+<Component: Remove Atom loaded(?g, ?t, ?l3) from Precondition: load | Condition: False>
+0.027982196
+memory: 14.53515625

@@ -1,0 +1,3 @@
+<Add Atom cart-pos(?c, ?cx, ?y) to Prec: grasp-cart-left>
+<Add Atom leftof(?x, ?x) to Prec: finish-object>
+<Add Atom surface(?basex, ?dgyabs) to Prec: gripper-up>

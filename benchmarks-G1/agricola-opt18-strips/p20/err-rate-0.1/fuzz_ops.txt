@@ -1,0 +1,3 @@
+<Add Atom next_worker(?newmax, ?newmax) to Effs: ag__finish_round_backhome_withchild>
+<Add Atom next_stage(?s2, ?s1) to Effs: ag__finish_stage>
+<Add Atom next_num(?irest, ?ifeed) to Effs: ag__harvest_feed>

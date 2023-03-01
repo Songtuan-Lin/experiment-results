@@ -1,0 +1,3 @@
+<Add Atom canstack(?ncells, ?ncols) to Neg-effs: sendtofree-b>
+<Add Atom suit(?newcard, ?cols) to Neg-effs: move-b>
+<Add Atom suit(?ncells, ?ncells) to Neg-effs: sendtofree>

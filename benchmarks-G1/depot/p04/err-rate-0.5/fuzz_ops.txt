@@ -1,0 +1,3 @@
+<Add Atom at(?z, ?y) to Prec: load>
+<Add Atom depot(?y) to Prec: drop>
+<Add Atom on(?y, ?x) to Prec: drive>

@@ -1,0 +1,7 @@
+<Add Atom max_worker(?w1) to Prec: take_grain>
+<Add Atom next_round(?r, ?r) to Effs: improve_home>
+<Add Atom next_stage(?s1, ?s2) to Effs: ag__finish_stage>
+<Remove NegatedAtom current_worker(?w1) from Effs: build_fences>
+<Remove Atom current_worker(?w2) from Pos-effs: build_room>
+<Remove Atom current_worker(?w2) from Pos-effs: take_food>
+<Add Atom next_worker(?w2, ?wmax) to Neg-effs: sow>

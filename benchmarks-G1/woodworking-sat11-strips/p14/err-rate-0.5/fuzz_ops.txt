@@ -1,0 +1,7 @@
+<Add Atom is-smooth(?surface) to Prec: cut-board-small>
+<Add Atom grind-treatment-change(?oldtreatment, ?newtreatment) to Prec: do-grind>
+<Add Atom boardsize-successor(?s2, ?s2) to Prec: do-saw-large>
+<Add Atom colour(?x, ?newcolour) to Prec: do-glaze>
+<Add Atom boardsize-successor(?size_before, ?size_after) to Prec: cut-board-medium>
+<Add Atom contains-part(?b, ?p) to Prec: do-saw-medium>
+<Add Atom boardsize-successor(?s1, ?size_after) to Prec: cut-board-large>

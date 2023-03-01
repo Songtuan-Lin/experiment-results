@@ -1,0 +1,3 @@
+<Add Atom =(?s, ?i) to Prec: switch_off>
+<Add Atom on_board(?s, ?i) to Prec: switch_on>
+<Add Atom on_board(?s, ?s) to Prec: take_image>

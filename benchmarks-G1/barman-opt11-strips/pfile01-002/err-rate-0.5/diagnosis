@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom ontable(?c) from Effects: grasp | Condition: False>
+<Component: Remove Atom cocktail-part1(?b, ?d2) from Precondition: shake | Condition: False>
+0.008390923000000002
+memory: 14.5390625

@@ -1,0 +1,4 @@
+<Add Atom at_person(?x1, ?x2) to Prec: put_down>
+<Add Atom next(?x3, ?x3) to Effs: drive_tent>
+<Add Atom partners(?x6, ?x3, ?x5) to Effs: walk_together>
+<Add Atom next(?x2, ?x2) to Effs: drive_passenger>

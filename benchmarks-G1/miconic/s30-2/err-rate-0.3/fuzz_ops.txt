@@ -1,0 +1,2 @@
+<Add Atom boarded(?f) to Neg-effs: depart>
+<Add Atom destin(?f, ?f) to Neg-effs: board>

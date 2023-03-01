@@ -1,0 +1,1 @@
+<Remove Atom home(?card) from Pos-effs: sendtohome>

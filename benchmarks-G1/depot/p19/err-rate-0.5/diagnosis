@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom at(?x, ?p) from Effects: load | Condition: False>
+<Component: Add Atom at(?x, ?p) to Effects: unload | Condition: False>
+0.010732441999999995
+memory: 14.53125

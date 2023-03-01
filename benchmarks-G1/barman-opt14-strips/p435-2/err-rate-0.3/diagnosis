@@ -1,0 +1,4 @@
+<Component: Add Atom next(?l1, ?l1) to Effects: pour-shot-to-clean-shaker | Condition: False>
+<Component: Remove NegatedAtom handempty(?h) from Effects: grasp | Condition: False>
+0.007236618
+memory: 13.17578125

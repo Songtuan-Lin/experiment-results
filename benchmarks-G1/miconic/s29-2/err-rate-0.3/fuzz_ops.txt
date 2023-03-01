@@ -1,0 +1,2 @@
+<Add Atom floor(?p) to Prec: depart>
+<Add Atom passenger(?f1) to Prec: up>

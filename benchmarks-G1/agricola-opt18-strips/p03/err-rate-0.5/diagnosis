@@ -1,0 +1,6 @@
+<Component: Remove Atom max_worker(?w2) from Precondition: collect_resource | Condition: False>
+<Component: Remove Atom next_num(?i1, ?i1) from Precondition: collect_cook_animal | Condition: False>
+<Component: Add Atom open_action(act_cattle) to Effects: ag__advance_round_normal | Condition: False>
+<Component: Remove NegatedAtom newborn() from Precondition: ag__finish_round_backhome | Condition: False>
+0.036989504000000006
+memory: 14.5390625

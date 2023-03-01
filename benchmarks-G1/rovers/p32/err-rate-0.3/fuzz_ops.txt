@@ -1,0 +1,3 @@
+<Add Atom at_rock_sample(?y) to Prec: communicate_rock_data>
+<Add Atom equipped_for_imaging(?r) to Prec: communicate_image_data>
+<Add Atom equipped_for_imaging(?x) to Prec: sample_rock>

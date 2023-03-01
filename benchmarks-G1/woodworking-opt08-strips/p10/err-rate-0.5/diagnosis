@@ -1,0 +1,4 @@
+<Component: Add Atom is-smooth(verysmooth) to Effects: do-glaze | Condition: False>
+<Component: Add Atom boardsize-successor(?size_after, ?size_before) to Effects: do-saw-small | Condition: False>
+0.013961169000000002
+memory: 14.5390625

@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom move-ended() from Effects: jump-new-move | Condition: False>
+<Component: Remove Atom in-line(?to, ?to, ?to) from Precondition: jump-new-move | Condition: False>
+0.005491508999999992
+memory: 14.53125

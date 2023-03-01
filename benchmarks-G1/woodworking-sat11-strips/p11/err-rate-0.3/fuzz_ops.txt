@@ -1,0 +1,4 @@
+<Remove Atom available(?p) from Pos-effs: do-saw-large>
+<Remove Atom empty(?m) from Pos-effs: unload-highspeed-saw>
+<Remove Atom available(?p) from Pos-effs: do-saw-small>
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>

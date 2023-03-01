@@ -1,0 +1,1 @@
+<Remove Atom car-clear(?carsrc) from Pos-effs: move-car-to-curb>

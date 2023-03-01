@@ -1,0 +1,5 @@
+<Component: Add Atom at(?obj, ?loc) to Effects: unload-truck | Condition: False>
+<Component: Add Atom at(?truck, ?loc-to) to Effects: drive-truck | Condition: False>
+<Component: Add Atom driving(?driver, ?truck) to Effects: board-truck | Condition: False>
+0.17603054199999998
+memory: 15.68359375

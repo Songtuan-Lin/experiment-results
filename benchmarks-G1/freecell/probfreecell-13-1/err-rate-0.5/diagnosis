@@ -1,0 +1,7 @@
+<Component: Add Atom on(?card, ?newcard) to Effects: move | Condition: False>
+<Component: Add Atom home(?card) to Effects: sendtohome-b | Condition: False>
+<Component: Add Atom bottomcol(?card) to Effects: sendtonewcol | Condition: False>
+<Component: Add Atom home(?card) to Effects: sendtohome | Condition: False>
+<Component: Add Atom incell(?card) to Effects: sendtofree-b | Condition: False>
+0.105453744
+memory: 14.5390625

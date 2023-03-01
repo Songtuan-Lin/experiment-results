@@ -1,0 +1,7 @@
+<Remove Atom max_worker(?newmax) from Pos-effs: ag__finish_round_backhome_withchild>
+<Add Atom plowed_fields() to Prec: sow>
+<Add Atom next_round(?r2, ?r1) to Neg-effs: ag__advance_round_normal>
+<Add Atom ok() to Effs: ag__finish_round_renew>
+<Remove Atom stored_resource(?res) from Pos-effs: collect_resource>
+<Remove Atom newborn() from Pos-effs: family_growth>
+<Add Atom next_worker(?wmax, ?w2) to Effs: improve_home>

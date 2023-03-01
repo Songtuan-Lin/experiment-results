@@ -1,0 +1,3 @@
+<Add Atom next_stage(?s1, ?s1) to Prec: ag__finish_stage>
+<Add Atom next_worker(?w1, ?wmax) to Prec: plow_field>
+<Add Atom num_substract(?i1, ?i2, ?i3) to Prec: ag__harvest_collecting_fromoven>

@@ -1,0 +1,3 @@
+<Remove Atom toptalon(?oldcard) from Pos-effs: tal-to-col-g>
+<Remove Atom home(?card) from Pos-effs: tal-to-home-b>
+<Remove Atom talonplayable(?cardbelow) from Pos-effs: tal-to-home-c>

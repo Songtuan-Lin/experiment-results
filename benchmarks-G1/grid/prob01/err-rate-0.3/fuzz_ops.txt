@@ -1,0 +1,2 @@
+<Add Atom lock-shape(?lockpos, ?lockpos) to Prec: unlock>
+<Add Atom key(?curpos) to Prec: pickup>

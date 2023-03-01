@@ -1,0 +1,6 @@
+<Component: Add Atom surface-condition(?p, rough) to Effects: do-saw-large | Condition: False>
+<Component: Add Atom treatment(?x, untreated) to Effects: do-plane | Condition: False>
+<Component: Add Atom treatment(?x, ?oldtreatment) to Effects: do-grind | Condition: False>
+<Component: Add Atom wood(?p, ?w) to Effects: do-saw-small | Condition: False>
+0.016757380000000002
+memory: 14.53125

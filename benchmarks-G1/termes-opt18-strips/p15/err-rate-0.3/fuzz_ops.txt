@@ -1,0 +1,2 @@
+<Add Atom neighbor(?from, ?from) to Effs: move>
+<Remove Atom has-block() from Pos-effs: remove-block>

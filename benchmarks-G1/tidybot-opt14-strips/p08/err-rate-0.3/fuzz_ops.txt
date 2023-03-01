@@ -1,0 +1,9 @@
+<Remove NegatedAtom holding(?r, ?o) from Effs: put-up>
+<Add Atom above(?dy, ?dy) to Effs: base-down>
+<Add Atom above(?y, ?y) to Effs: grasp-cart-left>
+<Add Atom above(?y, ?y) to Neg-effs: grasp-cart-above>
+<Add Atom above(?cgyabs, ?basey) to Effs: gripper-down>
+<Add Atom sum-y(?gyabs, ?gyrel, ?gyabs) to Effs: gripper-right>
+<Add Atom leftof(?ox, ?gxabs) to Effs: put-left>
+<Add Atom pushing(?r, ?c) to Effs: base-cart-right>
+<Add Atom gripper-empty(?r) to Effs: park>

@@ -1,0 +1,2 @@
+<Add Atom boardsize-successor(?s2, ?s1) to Neg-effs: do-saw-large>
+<Add Atom grind-treatment-change(?oldtreatment, ?newtreatment) to Neg-effs: do-grind>

@@ -1,0 +1,4 @@
+<Component: Remove Atom toptalon(?newcard) from Precondition: move-col-to-col-b | Condition: False>
+<Component: Remove Atom value(?newcard, ?vcardbelow) from Precondition: home-to-col | Condition: False>
+0.02891504999999999
+memory: 12.21484375

@@ -1,0 +1,4 @@
+<Component: Add Atom at(?s, ?to) to Effects: push-to-nongoal | Condition: False>
+<Component: Add Atom clear(?ppos) to Effects: push-to-goal | Condition: False>
+0.013372474000000002
+memory: 14.53125

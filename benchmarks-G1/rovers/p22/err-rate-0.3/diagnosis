@@ -1,0 +1,4 @@
+<Component: Add Atom visible(?z, ?y) to Effects: navigate | Condition: False>
+<Component: Add Atom equipped_for_soil_analysis(?x) to Effects: navigate | Condition: False>
+0.023764892999999995
+memory: 13.17578125

@@ -1,0 +1,2 @@
+<Add Atom served(?f) to Neg-effs: board>
+<Add Atom =(?f1, ?f2) to Neg-effs: down>

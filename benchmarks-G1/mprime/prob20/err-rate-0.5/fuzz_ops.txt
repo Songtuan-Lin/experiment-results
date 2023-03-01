@@ -1,0 +1,2 @@
+<Add Atom orbits(?v, ?v) to Effs: succumb>
+<Add Atom fears(?n, ?s1) to Effs: overcome>

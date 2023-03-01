@@ -1,0 +1,1 @@
+<Add Atom blocked(?newhead) to Neg-effs: move-and-eat-spawn>

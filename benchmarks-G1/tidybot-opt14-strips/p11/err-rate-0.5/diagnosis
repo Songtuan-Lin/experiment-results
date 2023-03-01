@@ -1,0 +1,4 @@
+<Component: Add Atom base-pos(?r, ?dx, ?y) to Effects: base-right | Condition: False>
+<Component: Add Atom surface(?basex, ?cgyabs) to Effects: gripper-down | Condition: False>
+0.015680020999999995
+memory: 14.4453125

@@ -1,0 +1,2 @@
+<Add Atom locale(?l2, ?l2) to Neg-effs: feast>
+<Add Atom craves(?l11, ?l11) to Effs: drink>

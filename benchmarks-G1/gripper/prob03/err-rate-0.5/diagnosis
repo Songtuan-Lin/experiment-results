@@ -1,0 +1,4 @@
+<Component: Add Atom carry(?obj, ?gripper) to Effects: pick | Condition: False>
+<Component: Add Atom at(?obj, ?room) to Effects: drop | Condition: False>
+0.005286381999999999
+memory: 14.53125

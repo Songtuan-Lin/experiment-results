@@ -1,0 +1,3 @@
+<Add Atom base-obstacle(?x, ?y) to Effs: put-on-cart>
+<Add Atom sum-x(?gxabs, ?gxrel, ?gxabs) to Effs: get-up>
+<Add Atom above-rel(?gyrel, ?gyrel) to Effs: get-from-cart>

@@ -1,0 +1,2 @@
+<Add Atom pallet(?z) to Neg-effs: load>
+<Add Atom lifting(?p, ?z) to Neg-effs: drop>

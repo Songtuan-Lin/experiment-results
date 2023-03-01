@@ -1,0 +1,5 @@
+<Component: Add Atom lift-at(?lift, ?f2) to Effects: move-down-fast | Condition: False>
+<Component: Add Atom lift-at(?lift, ?f2) to Effects: move-down-slow | Condition: False>
+<Component: Add Atom passenger-at(?p, ?f) to Effects: leave | Condition: False>
+0.009933061
+memory: 14.5390625

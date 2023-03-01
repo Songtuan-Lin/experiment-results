@@ -1,0 +1,2 @@
+<Add Atom next(?f2, ?f2) to Neg-effs: move-down-fast>
+<Add Atom above(?n1, ?f) to Neg-effs: leave>

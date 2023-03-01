@@ -1,0 +1,3 @@
+<Add Atom ontalon(?card, ?card) to Neg-effs: tal-to-home-d>
+<Add Atom toptalon(?card) to Neg-effs: tal-to-col-b>
+<Add Atom ontalon(?oldcard, ?newcard) to Neg-effs: move-col-to-col>

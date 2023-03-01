@@ -1,0 +1,3 @@
+<Remove NegatedAtom splice-point-1(?y) from Effs: continue-inverse-splice-2>
+<Remove NegatedAtom splice-point-2(?y) from Effs: end-inverse-splice-2>
+<Remove NegatedAtom s-last(?x) from Effs: continue-cut>

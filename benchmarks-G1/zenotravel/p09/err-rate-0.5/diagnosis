@@ -1,0 +1,4 @@
+<Component: Remove Atom next(?c, ?a) from Precondition: refuel | Condition: False>
+<Component: Remove Atom fuel-level(?c2, ?a) from Precondition: fly | Condition: False>
+0.005189473
+memory: 14.5390625

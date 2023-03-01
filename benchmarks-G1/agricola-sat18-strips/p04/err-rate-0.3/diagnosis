@@ -1,0 +1,4 @@
+<Component: Add Atom num_food(?i2) to Effects: take_food | Condition: False>
+<Component: Add Atom current_round(?r2) to Effects: ag__advance_round_normal | Condition: False>
+0.03592196099999999
+memory: 13.16796875

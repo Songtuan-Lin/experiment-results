@@ -1,0 +1,2 @@
+<Add Atom fuelcost(?fuelpost, ?l1, ?l2) to Prec: drive>
+<Add Atom in(?p, ?t) to Prec: unload>

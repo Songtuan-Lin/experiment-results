@@ -1,0 +1,5 @@
+<Component: Add Atom =(?cells, ?ncells) to Effects: sendtofree | Condition: False>
+<Component: Remove Atom canstack(?newcard, ?oldcard) from Precondition: move | Condition: False>
+<Component: Add Atom successor(?vcard, ?vcard) to Effects: sendtohome | Condition: False>
+0.047784769000000005
+memory: 14.5390625

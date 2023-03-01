@@ -1,0 +1,4 @@
+<Component: Add Atom clear(?xy_initial1) to Effects: move_l_right | Condition: False>
+<Component: Remove NegatedAtom clear(?xy_final2) from Effects: move_l_up | Condition: False>
+0.010620944000000007
+memory: 13.17578125

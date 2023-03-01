@@ -1,0 +1,2 @@
+<Add Atom =(?l12, ?n1) to Effs: drink>
+<Add Atom orbits(?s1, ?s1) to Effs: overcome>

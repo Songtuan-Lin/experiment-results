@@ -1,0 +1,2 @@
+<Add Atom in-line(?over, ?to, ?over) to Neg-effs: jump-new-move>
+<Add Atom in-line(?loc, ?loc, ?loc) to Neg-effs: end-move>

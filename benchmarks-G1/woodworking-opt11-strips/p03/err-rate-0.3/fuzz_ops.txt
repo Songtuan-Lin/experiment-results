@@ -1,0 +1,4 @@
+<Remove Atom colour(?p, natural) from Pos-effs: do-saw-large>
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-spray-varnish>
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: do-saw-small>

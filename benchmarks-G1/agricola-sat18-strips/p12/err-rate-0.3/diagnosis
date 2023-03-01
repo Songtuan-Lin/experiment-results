@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom newborn() from Precondition: ag__finish_round_backhome | Condition: False>
+<Component: Add Atom num_food(?i2) to Effects: collect_cook_animal | Condition: False>
+<Component: Add Atom open_action(?act) to Effects: ag__finish_stage | Condition: False>
+0.07784200599999999
+memory: 13.20703125

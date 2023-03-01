@@ -1,0 +1,11 @@
+<Add Atom clear(?newcard) to Prec: tal-to-col-d>
+<Add Atom on(?card, ?newcard) to Prec: tal-to-col-b>
+<Add Atom successor(?vcard, ?vcard) to Prec: tal-to-home-b>
+<Add Atom bottomtalon(?homecard) to Prec: tal-to-home-c>
+<Add Atom bottomtalon(?cardabove) to Prec: tal-to-home>
+<Add Atom value(?homecard, ?vhomecard) to Prec: col-to-home-b>
+<Add Atom instack(?c1) to Prec: turn-deck>
+<Add Atom on(?oldcard, ?cardabove) to Prec: tal-to-col>
+<Add Atom value(?cardbelow, ?vcard) to Prec: home-to-col-a>
+<Add Atom colsuccessor(?ncols, ?cols) to Prec: tal-to-col-h>
+<Add Atom talonplayable(?newcard) to Prec: move-col-to-col>

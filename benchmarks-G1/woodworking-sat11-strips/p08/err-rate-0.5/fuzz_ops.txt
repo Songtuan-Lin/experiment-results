@@ -1,0 +1,7 @@
+<Remove Atom treatment(?x, varnished) from Pos-effs: do-spray-varnish>
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-immersion-varnish>
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: cut-board-medium>
+<Remove Atom surface-condition(?p, ?surface) from Pos-effs: do-saw-medium>
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>
+<Remove Atom surface-condition(?p, ?surface) from Pos-effs: do-saw-small>
+<Remove Atom colour(?p, natural) from Pos-effs: cut-board-large>

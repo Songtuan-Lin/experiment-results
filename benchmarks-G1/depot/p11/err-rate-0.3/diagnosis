@@ -1,0 +1,4 @@
+<Component: Remove Atom in(?x, ?p) from Precondition: drop | Condition: False>
+<Component: Remove Atom crate(?z) from Precondition: lift | Condition: False>
+0.006470266999999988
+memory: 13.17578125

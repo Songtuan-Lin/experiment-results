@@ -1,0 +1,7 @@
+<Add Atom unused(?x) to Prec: do-glaze>
+<Add Atom empty(?m) to Prec: load-highspeed-saw>
+<Add Atom boardsize-successor(?s1, ?s1) to Prec: do-saw-medium>
+<Add Atom grind-treatment-change(?newtreatment, ?oldtreatment) to Prec: do-grind>
+<Add Atom colour(?x, ?newcolour) to Prec: do-immersion-varnish>
+<Add Atom is-smooth(?surface) to Prec: cut-board-small>
+<Add Atom boardsize-successor(?size_after, ?size_before) to Prec: do-saw-large>

@@ -1,0 +1,1 @@
+<Add Atom spawn(?head) to Effs: move-and-eat-no-spawn>

@@ -1,0 +1,3 @@
+<Add Atom not-pushing(?r) to Effs: grasp-cart-below>
+<Add Atom gripper-obstacle(?cx, ?y) to Effs: put-on-cart>
+<Add Atom not-pushing(?r) to Neg-effs: unpark>

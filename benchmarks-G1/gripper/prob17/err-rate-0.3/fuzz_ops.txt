@@ -1,0 +1,1 @@
+<Add Atom carry(?room, ?gripper) to Prec: pick>

@@ -1,0 +1,3 @@
+<Add Atom sum-y(?dgyabs, ?dgyrel, ?cgyabs) to Effs: gripper-down>
+<Add Atom gripper-empty(?r) to Effs: grasp-cart-left>
+<Add Atom leftof-rel(?gxrel, ?gxrel) to Effs: get-up>

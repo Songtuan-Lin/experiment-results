@@ -1,0 +1,3 @@
+<Add Atom on(?z, ?z) to Neg-effs: load>
+<Add Atom truck(?x) to Neg-effs: lift>
+<Add Atom =(?y, ?z) to Neg-effs: drive>

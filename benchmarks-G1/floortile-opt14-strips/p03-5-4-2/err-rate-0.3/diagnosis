@@ -1,0 +1,5 @@
+<Component: Add Atom robot-at(?r, ?y) to Effects: right | Condition: False>
+<Component: Add Atom robot-at(?r, ?y) to Effects: up | Condition: False>
+<Component: Add Atom painted(?y, ?c) to Effects: paint-up | Condition: False>
+0.009100688999999995
+memory: 13.16796875

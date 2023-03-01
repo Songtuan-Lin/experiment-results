@@ -1,0 +1,6 @@
+<Component: Add Atom faceup(?oldcard) to Effects: move-col-to-col | Condition: False>
+<Component: Add Atom ontalon(?cardabove, ?cardbelow) to Effects: tal-to-home | Condition: False>
+<Component: Add Atom home(?cardabove) to Effects: tal-to-col | Condition: False>
+<Component: Add Atom colspace(?ncols) to Effects: move-col-to-col-b | Condition: False>
+0.028035259999999992
+memory: 14.53125

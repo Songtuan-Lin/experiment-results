@@ -1,0 +1,2 @@
+<Add Atom clean(?c) to Neg-effs: leave>
+<Add Atom shaked(?s) to Neg-effs: shake>

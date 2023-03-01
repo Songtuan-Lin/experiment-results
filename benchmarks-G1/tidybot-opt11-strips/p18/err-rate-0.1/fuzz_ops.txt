@@ -1,0 +1,3 @@
+<Remove Atom holding(?r, ?o) from Pos-effs: get-left>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-right>
+<Remove Atom gripper-obstacle(?gxabs, ?oy) from Pos-effs: put-down>

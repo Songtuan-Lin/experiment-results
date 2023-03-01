@@ -1,0 +1,1 @@
+<Remove Atom painted(?y, ?c) from Pos-effs: paint-up>

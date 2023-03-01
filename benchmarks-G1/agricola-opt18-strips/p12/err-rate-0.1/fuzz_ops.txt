@@ -1,0 +1,3 @@
+<Add Atom current_round(?r) to Effs: collect_resource>
+<Add Atom num_substract(?i, ?i, ?i2) to Effs: ag__harvest_breeding_animal>
+<Add Atom max_worker(?wmax) to Effs: collect_cook_animal>

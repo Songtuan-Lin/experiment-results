@@ -1,0 +1,6 @@
+<Remove Atom shaker-level(?s, ?l1) from Pos-effs: empty-shaker>
+<Remove Atom shaker-level(?d, ?l1) from Pos-effs: pour-shot-to-used-shaker>
+<Remove Atom contains(?d, ?b) from Pos-effs: pour-shaker-to-shot>
+<Remove Atom empty(?p) from Pos-effs: empty-shot>
+<Remove Atom handempty(?h) from Pos-effs: leave>
+<Remove Atom contains(?s, ?b) from Pos-effs: shake>

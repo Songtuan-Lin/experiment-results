@@ -1,0 +1,3 @@
+<Add Atom cellspace(?cells) to Prec: colfromfreecell>
+<Add Atom home(?card) to Prec: sendtonewcol>
+<Add Atom =(?vcard, ?card) to Prec: sendtohome>

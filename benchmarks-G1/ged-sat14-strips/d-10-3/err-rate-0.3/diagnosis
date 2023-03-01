@@ -1,0 +1,5 @@
+<Component: Remove Atom splice-point-2(?x) from Precondition: begin-transpose-splice | Condition: False>
+<Component: Add Atom s-first(?y) to Effects: begin-cut | Condition: False>
+<Component: Remove Atom s-next(?x, ?y) from Precondition: continue-splice-1 | Condition: False>
+0.018071749999999998
+memory: 13.16796875

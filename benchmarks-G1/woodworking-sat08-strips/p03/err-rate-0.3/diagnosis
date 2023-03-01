@@ -1,0 +1,5 @@
+<Component: Remove Atom boardsize-successor(?s1, ?s1) from Precondition: do-saw-medium | Condition: False>
+<Component: Remove Atom boardsize-successor(?size_before, ?size_before) from Precondition: do-saw-large | Condition: False>
+<Component: Remove Atom unused(?x) from Precondition: do-grind | Condition: False>
+0.014518484999999998
+memory: 13.171875

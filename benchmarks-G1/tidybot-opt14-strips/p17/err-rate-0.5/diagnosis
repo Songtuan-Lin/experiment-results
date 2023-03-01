@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom gripper-rel(?r, ?gxrel, ?cgyrel) from Effects: gripper-down | Condition: False>
+<Component: Remove NegatedAtom zeroy-rel(?gyrel) from Effects: get-right | Condition: False>
+<Component: Remove Atom base-pos(?r, ?basex, ?oy) from Precondition: put-down | Condition: False>
+0.017116528
+memory: 14.421875

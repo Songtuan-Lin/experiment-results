@@ -1,0 +1,2 @@
+<Add Atom is-smooth(?oldsurface) to Neg-effs: do-grind>
+<Add Atom boardsize-successor(?size_before, ?size_before) to Neg-effs: cut-board-small>

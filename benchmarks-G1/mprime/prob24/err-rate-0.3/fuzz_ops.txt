@@ -1,0 +1,2 @@
+<Add Atom =(?s2, ?s1) to Effs: succumb>
+<Add Atom eats(?c, ?v) to Prec: overcome>

@@ -1,0 +1,5 @@
+<Component: Remove Atom =(?d_new, ?d_prev) from Precondition: turn_to | Condition: False>
+<Component: Remove Atom have_image(?s, ?s) from Precondition: switch_on | Condition: False>
+<Component: Add Atom satellite(?i) to Effects: switch_on | Condition: False>
+0.008194207999999994
+memory: 14.5390625

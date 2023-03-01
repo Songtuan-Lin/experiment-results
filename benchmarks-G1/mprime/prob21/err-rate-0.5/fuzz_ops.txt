@@ -1,0 +1,2 @@
+<Remove Atom locale(?n1, ?l12) from Pos-effs: drink>
+<Remove Atom fears(?c, ?v) from Pos-effs: overcome>

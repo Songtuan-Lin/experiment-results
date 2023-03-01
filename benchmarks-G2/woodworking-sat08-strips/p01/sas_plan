@@ -1,0 +1,7 @@
+(do-plane p2 planer0 verysmooth natural varnished)
+(do-glaze p2 glazer0 red)
+(do-grind p0 grinder0 smooth red varnished colourfragments)
+(do-saw-medium b0 p1 saw0 pine rough s3 s2 s1)
+(do-plane p1 planer0 rough natural untreated)
+(do-immersion-varnish p1 immersion-varnisher0 natural smooth)
+; cost = 125 (general cost)

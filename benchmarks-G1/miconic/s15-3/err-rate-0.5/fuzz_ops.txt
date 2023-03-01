@@ -1,0 +1,2 @@
+<Add Atom lift-at(?f) to Neg-effs: depart>
+<Add Atom =(?p, ?p) to Neg-effs: board>

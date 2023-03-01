@@ -1,0 +1,5 @@
+<Component: Add Atom first(?batch-atom-in, ?pipe) to Effects: push-start | Condition: False>
+<Component: Add Atom last(?next-last-batch-atom, ?pipe) to Effects: push-end | Condition: False>
+<Component: Add Atom on(?first-batch-atom, ?from-area) to Effects: pop-end | Condition: False>
+0.019849105
+memory: 14.53515625

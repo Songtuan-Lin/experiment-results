@@ -1,0 +1,2 @@
+<Remove Atom shaker-level(?s, ?l1) from Pos-effs: pour-shaker-to-shot>
+<Remove Atom clean(?s) from Pos-effs: clean-shot>

@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom height(?bpos, ?hbefore) from Effects: place-block | Condition: False>
+<Component: Add Atom has-block() to Effects: create-block | Condition: False>
+<Component: Add Atom height(?bpos, ?hafter) to Effects: place-block | Condition: False>
+0.02054379
+memory: 13.17578125

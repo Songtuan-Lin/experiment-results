@@ -1,0 +1,7 @@
+<Component: Add Atom communicated_rock_data(?z) to Effects: navigate | Condition: False>
+<Component: Add Atom empty(?y) to Effects: drop | Condition: False>
+<Component: Add Atom communicated_image_data(?o, ?m) to Effects: communicate_image_data | Condition: False>
+<Component: Add Atom at(?x, ?z) to Effects: navigate | Condition: False>
+<Component: Remove Atom calibrated(?i, ?r) from Precondition: take_image | Condition: False>
+0.064248201
+memory: 14.5390625

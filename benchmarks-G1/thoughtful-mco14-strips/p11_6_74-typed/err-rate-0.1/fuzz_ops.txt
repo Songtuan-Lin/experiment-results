@@ -1,0 +1,3 @@
+<Add Atom talonplayable(?cardabove) to Neg-effs: tal-to-col-f>
+<Add Atom on(?card, ?card) to Neg-effs: tal-to-col>
+<Add Atom canstack(?card, ?card) to Neg-effs: tal-to-col-d>

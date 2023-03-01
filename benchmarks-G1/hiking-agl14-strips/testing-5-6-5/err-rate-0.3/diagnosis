@@ -1,0 +1,4 @@
+<Component: Add Atom at_car(?x4, ?x3) to Effects: drive_tent | Condition: False>
+<Component: Add Atom up(?x3) to Effects: put_up | Condition: False>
+0.005339282000000001
+memory: 13.16796875

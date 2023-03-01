@@ -1,0 +1,7 @@
+<Remove Atom can_breed(sheep) from Pos-effs: ag__harvest_feed>
+<Add Atom plowed_fields() to Effs: ag__harvest_collect_end>
+<Add Atom can_harvest(?v) to Neg-effs: take_grain>
+<Add Atom next2_num(?i, ?i) to Effs: ag__harvest_breeding_animal>
+<Remove Atom fences_for(?a) from Pos-effs: build_fences>
+<Remove Atom max_worker(?newmax) from Pos-effs: ag__finish_round_backhome_withchild>
+<Add Atom next_round(?r2, ?r2) to Effs: ag__finish_stage>

@@ -1,0 +1,4 @@
+<Component: Remove Atom calibrated(?i) from Precondition: take_image | Condition: False>
+<Component: Add Atom power_on(?i) to Effects: switch_on | Condition: False>
+0.007000252999999998
+memory: 14.53125

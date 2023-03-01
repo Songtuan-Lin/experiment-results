@@ -1,0 +1,3 @@
+<Add Atom incell(?newcard) to Neg-effs: colfromfreecell>
+<Add Atom incell(?card) to Neg-effs: sendtonewcol>
+<Add Atom suit(?homecard, ?vhomecard) to Neg-effs: sendtohome>

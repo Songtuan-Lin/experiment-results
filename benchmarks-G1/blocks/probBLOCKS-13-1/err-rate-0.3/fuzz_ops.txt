@@ -1,0 +1,2 @@
+<Remove Atom clear(?x) from Pos-effs: stack>
+<Remove Atom handempty() from Pos-effs: put-down>

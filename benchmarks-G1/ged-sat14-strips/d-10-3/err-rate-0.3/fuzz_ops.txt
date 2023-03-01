@@ -1,0 +1,7 @@
+<Add Atom present(?x) to Effs: continue-splice-2>
+<Remove Atom s-next(?x, ?y) from Pos-effs: continue-cut>
+<Add Atom cut-point-2(?x) to Neg-effs: end-cut-2>
+<Remove Atom s-first(?y) from Pos-effs: begin-cut>
+<Add Atom splice-point-2(?x) to Prec: begin-transpose-splice>
+<Add Atom duplicate(?x, ?x) to Effs: reset-1>
+<Add Atom splice-next(?x) to Effs: begin-transverse-splice>

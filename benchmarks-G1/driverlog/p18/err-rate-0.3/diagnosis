@@ -1,0 +1,4 @@
+<Component: Add Atom truck(?truck) to Effects: disembark-truck | Condition: False>
+<Component: Remove NegatedAtom location(?loc) from Effects: load-truck | Condition: False>
+0.012242212999999995
+memory: 13.17578125

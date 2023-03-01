@@ -1,0 +1,4 @@
+<Component: Add Atom colspace(?ncols) to Effects: col-to-home-b | Condition: False>
+<Component: Add Atom on(?card, ?newcard) to Effects: move-col-to-col | Condition: False>
+0.026916645000000003
+memory: 12.1171875

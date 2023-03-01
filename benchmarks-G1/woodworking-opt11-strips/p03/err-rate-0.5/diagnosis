@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom is-smooth(?surface) from Effects: do-immersion-varnish | Condition: False>
+<Component: Add Atom is-smooth(smooth) to Effects: do-saw-small | Condition: False>
+<Component: Add Atom grind-treatment-change(?oldtreatment, untreated) to Effects: do-plane | Condition: False>
+0.013503345999999992
+memory: 14.5390625

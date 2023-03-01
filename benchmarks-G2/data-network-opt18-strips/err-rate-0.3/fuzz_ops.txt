@@ -1,0 +1,2 @@
+<Add Atom sum(?size, ?size, ?size) to Prec: save>
+<Add Atom capacity(?from, ?before) to Effs: send>

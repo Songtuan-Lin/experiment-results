@@ -1,0 +1,11 @@
+<Remove Atom home(?card) from Pos-effs: tal-to-home-c>
+<Remove Atom clear(?oldcard) from Pos-effs: move-col-to-col>
+<Remove Atom colspace(?ncols) from Pos-effs: tal-to-col-h>
+<Remove Atom talonplayable(?cardabove) from Pos-effs: tal-to-col-b>
+<Remove Atom faceup(?card) from Pos-effs: tal-to-col>
+<Remove Atom talonplayable(?oldcard) from Pos-effs: tal-to-col-c>
+<Remove Atom home(?card) from Pos-effs: tal-to-home-d>
+<Remove Atom clear(?card) from Pos-effs: home-to-col-a>
+<Remove Atom home(?card) from Pos-effs: tal-to-home>
+<Remove Atom faceup(?card) from Pos-effs: tal-to-col-d>
+<Remove Atom on(?card, ?homecard) from Pos-effs: col-to-home>

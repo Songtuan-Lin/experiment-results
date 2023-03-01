@@ -1,0 +1,2 @@
+<Add Atom unshaked(?d) to Neg-effs: pour-shot-to-clean-shaker>
+<Add Atom ontable(?c) to Neg-effs: leave>

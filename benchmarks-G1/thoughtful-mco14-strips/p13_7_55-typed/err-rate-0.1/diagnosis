@@ -1,0 +1,4 @@
+<Component: Remove Atom talonplayable(?card) from Precondition: move-col-to-col-b | Condition: False>
+<Component: Remove Atom canstack(?card, ?card) from Precondition: move-col-to-col-c | Condition: False>
+0.018548638
+memory: 12.01953125

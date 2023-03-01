@@ -1,0 +1,4 @@
+<Component: Remove Atom capacity-predecessor(?s1, ?s1) from Precondition: pick-up | Condition: False>
+<Component: Remove Atom capacity(?v, ?s2) from Precondition: drop | Condition: False>
+0.0032546510000000042
+memory: 14.53125

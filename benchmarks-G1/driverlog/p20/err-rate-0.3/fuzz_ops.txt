@@ -1,0 +1,2 @@
+<Add Atom location(?driver) to Neg-effs: board-truck>
+<Add Atom path(?loc, ?driver) to Neg-effs: disembark-truck>

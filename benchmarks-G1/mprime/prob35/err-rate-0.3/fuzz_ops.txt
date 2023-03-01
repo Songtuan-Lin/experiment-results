@@ -1,0 +1,2 @@
+<Add Atom locale(?v, ?s1) to Effs: overcome>
+<Add Atom craves(?n1, ?l13) to Prec: drink>

@@ -1,0 +1,3 @@
+<Add Atom value(?vhomecard, ?homecard) to Prec: sendtohome-b>
+<Add Atom successor(?cells, ?suit) to Prec: homefromfreecell>
+<Add Atom value(?oldcard, ?cols) to Prec: sendtonewcol>

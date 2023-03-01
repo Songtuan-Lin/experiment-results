@@ -1,0 +1,4 @@
+<Remove Atom treatment(?x, untreated) from Pos-effs: do-plane>
+<Remove Atom surface-condition(?p, ?surface) from Pos-effs: do-saw-large>
+<Remove Atom available(?b) from Pos-effs: unload-highspeed-saw>
+<Remove Atom surface-condition(?p, ?surface) from Pos-effs: cut-board-large>

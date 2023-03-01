@@ -1,0 +1,3 @@
+<Add Atom notexist(?s) to Prec: serve_sandwich_no_gluten>
+<Add Atom at_kitchen_sandwich(?s) to Prec: put_on_tray>
+<Add Atom notexist(?s) to Prec: make_sandwich>

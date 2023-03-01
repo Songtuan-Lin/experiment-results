@@ -1,0 +1,3 @@
+<Add Atom at(?rpos) to Effs: remove-block>
+<Add Atom neighbor(?p, ?p) to Effs: destroy-block>
+<Remove NegatedAtom at(?from) from Effs: move>

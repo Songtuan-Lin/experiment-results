@@ -1,0 +1,5 @@
+<Component: Remove Atom canstack(?cardbelow, ?card) from Precondition: tal-to-home | Condition: False>
+<Component: Remove NegatedAtom bottomtalon(?card) from Effects: tal-to-home-d | Condition: False>
+<Component: Remove Atom on(?homecard, ?card) from Precondition: tal-to-home-d | Condition: False>
+0.01957325
+memory: 13.16796875

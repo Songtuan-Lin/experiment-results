@@ -1,0 +1,5 @@
+<Component: Add Atom holding(?h, ?c) to Effects: grasp | Condition: False>
+<Component: Add Atom used(?s, ?i) to Effects: fill-shot | Condition: False>
+<Component: Add Atom empty(?p) to Effects: empty-shot | Condition: False>
+0.23066557999999998
+memory: 15.8359375

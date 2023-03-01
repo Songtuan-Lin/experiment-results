@@ -1,0 +1,9 @@
+<Add Atom object-pos(?o, ?x, ?y) to Effs: finish-object>
+<Add Atom =(?o, ?o) to Effs: put-on-cart>
+<Add Atom sum-x(?gxabs, ?gxrel, ?gxabs) to Prec: put-up>
+<Add Atom base-pos(?r, ?cx, ?y1) to Effs: base-cart-up>
+<Remove Atom gripper-obstacle(?dgxabs, ?gyabs) from Pos-effs: gripper-right>
+<Remove Atom gripper-obstacle(?dgxabs, ?gyabs) from Pos-effs: gripper-left>
+<Remove Atom base-obstacle(?x, ?dy) from Pos-effs: base-down>
+<Add Atom base-pos(?r, ?x, ?y1) to Effs: base-cart-down>
+<Add Atom leftof(?dx, ?cx) to Effs: base-left>

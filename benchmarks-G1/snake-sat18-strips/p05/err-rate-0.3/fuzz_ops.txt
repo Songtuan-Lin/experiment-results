@@ -1,0 +1,1 @@
+<Add Atom isadjacent(?newhead, ?tail) to Neg-effs: move>

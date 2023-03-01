@@ -1,0 +1,2 @@
+<Add Atom harmony(?n, ?v) to Effs: overcome>
+<Add Atom craves(?l1, ?n1) to Effs: feast>

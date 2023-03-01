@@ -1,0 +1,4 @@
+<Component: Remove Atom =(?oldcard, ?newcard) from Precondition: move | Condition: False>
+<Component: Remove Atom successor(?homecard, ?homecard) from Precondition: sendtohome | Condition: False>
+0.010634048000000007
+memory: 13.16796875

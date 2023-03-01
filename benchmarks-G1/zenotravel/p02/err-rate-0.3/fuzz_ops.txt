@@ -1,0 +1,2 @@
+<Add Atom person(?a) to Neg-effs: fly>
+<Add Atom in(?p, ?c) to Neg-effs: board>

@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom is-smooth(?oldsurface) from Effects: do-grind | Condition: False>
+<Component: Add Atom boardsize(?b, ?size_before) to Effects: do-saw-small | Condition: False>
+0.010024269999999995
+memory: 13.16796875

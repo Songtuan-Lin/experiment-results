@@ -1,0 +1,2 @@
+<Add Atom fears(?n1, ?n2) to Prec: drink>
+<Add Atom locale(?s2, ?c) to Effs: overcome>

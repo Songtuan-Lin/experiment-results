@@ -1,0 +1,2 @@
+<Add Atom path(?loc, ?truck) to Prec: disembark-truck>
+<Add Atom link(?driver, ?driver) to Prec: walk>

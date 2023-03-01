@@ -1,0 +1,3 @@
+<Add Atom sum-y(?gyabs, ?gyrel, ?basey) to Prec: gripper-left>
+<Add Atom leftof(?cx, ?x) to Prec: grasp-cart-left>
+<Add Atom not-pushing(?r) to Prec: base-down>

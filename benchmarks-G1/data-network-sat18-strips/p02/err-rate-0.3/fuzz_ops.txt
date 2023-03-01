@@ -1,0 +1,2 @@
+<Add Atom sum(?after, ?after, ?after) to Neg-effs: load>
+<Remove Atom cached(?out, ?s) from Pos-effs: process>

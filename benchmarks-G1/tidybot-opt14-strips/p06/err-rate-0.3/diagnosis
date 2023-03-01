@@ -1,0 +1,7 @@
+<Component: Remove NegatedAtom parked(?r) from Precondition: base-left | Condition: False>
+<Component: Remove NegatedAtom parked(?r) from Precondition: base-down | Condition: False>
+<Component: Remove NegatedAtom parked(?r) from Precondition: base-right | Condition: False>
+<Component: Remove NegatedAtom parked(?r) from Precondition: base-up | Condition: False>
+<Component: Remove NegatedAtom parked(?r) from Precondition: park | Condition: False>
+0.047820308
+memory: 13.16796875

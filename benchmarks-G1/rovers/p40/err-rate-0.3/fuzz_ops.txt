@@ -1,0 +1,3 @@
+<Add Atom equipped_for_imaging(?r) to Prec: calibrate>
+<Add Atom communicated_soil_data(?x) to Prec: communicate_rock_data>
+<Add Atom can_traverse(?x, ?p, ?p) to Prec: sample_rock>

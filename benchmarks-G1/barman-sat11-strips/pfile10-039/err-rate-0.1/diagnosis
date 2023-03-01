@@ -1,0 +1,4 @@
+<Component: Add Atom clean(?s) to Effects: clean-shaker | Condition: False>
+<Component: Add Atom empty(?s) to Effects: pour-shot-to-clean-shaker | Condition: False>
+0.019982152000000003
+memory: 12.015625

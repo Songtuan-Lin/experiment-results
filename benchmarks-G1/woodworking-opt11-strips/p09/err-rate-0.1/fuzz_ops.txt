@@ -1,0 +1,2 @@
+<Add Atom boardsize-successor(?size_before, ?s1) to Neg-effs: cut-board-medium>
+<Add Atom is-smooth(?oldsurface) to Neg-effs: do-plane>

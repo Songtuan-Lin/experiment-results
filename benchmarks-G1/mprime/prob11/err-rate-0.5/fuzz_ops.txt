@@ -1,0 +1,2 @@
+<Add Atom =(?l21, ?l11) to Effs: drink>
+<Remove NegatedAtom harmony(?v, ?s2) from Effs: overcome>

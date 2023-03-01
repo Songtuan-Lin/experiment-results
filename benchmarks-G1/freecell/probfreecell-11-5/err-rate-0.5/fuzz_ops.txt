@@ -1,0 +1,5 @@
+<Add Atom bottomcol(?cols) to Neg-effs: sendtonewcol>
+<Add Atom successor(?newcard, ?cols) to Neg-effs: move-b>
+<Add Atom successor(?card, ?oldcard) to Neg-effs: move>
+<Add Atom value(?cells, ?cells) to Neg-effs: colfromfreecell>
+<Add Atom on(?vcard, ?ncells) to Neg-effs: homefromfreecell>

@@ -1,0 +1,4 @@
+<Component: Add Atom at(?v, ?l2) to Effects: drive | Condition: False>
+<Component: Remove Atom capacity(?v, ?s1) from Precondition: drop | Condition: False>
+0.003821485999999999
+memory: 14.5390625

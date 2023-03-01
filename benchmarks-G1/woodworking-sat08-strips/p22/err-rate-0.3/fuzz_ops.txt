@@ -1,0 +1,4 @@
+<Add Atom boardsize-successor(?size_before, ?size_after) to Prec: cut-board-small>
+<Add Atom boardsize-successor(?size_before, ?size_after) to Prec: do-saw-medium>
+<Add Atom empty(?m) to Prec: unload-highspeed-saw>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: load-highspeed-saw>

@@ -1,0 +1,1 @@
+<Remove Atom at(?t, ?p2) from Pos-effs: move_tray>

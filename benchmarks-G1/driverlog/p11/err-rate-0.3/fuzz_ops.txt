@@ -1,0 +1,2 @@
+<Add Atom location(?loc-to) to Neg-effs: drive-truck>
+<Add Atom driving(?obj, ?truck) to Neg-effs: load-truck>

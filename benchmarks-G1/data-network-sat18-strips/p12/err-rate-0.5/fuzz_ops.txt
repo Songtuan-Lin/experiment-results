@@ -1,0 +1,3 @@
+<Add Atom usage(?s, ?size) to Effs: save>
+<Add Atom sum(?size, ?after, ?before) to Effs: load>
+<Add Atom sum(?after, ?after, ?after) to Effs: send>

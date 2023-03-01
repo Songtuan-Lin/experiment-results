@@ -1,0 +1,7 @@
+<Remove NegatedAtom stored_resource(reed) from Effs: build_room>
+<Remove NegatedAtom current_worker(?w1) from Effs: collect_animal>
+<Add Atom newborn() to Prec: ag__finish_round_backhome_withchild>
+<Remove Atom newborn() from Pos-effs: family_growth>
+<Remove NegatedAtom sown_veg(?v) from Effs: ag__harvest_collecting_fromoven>
+<Add Atom next_worker(?w1, ?w2) to Effs: improve_home>
+<Add Atom newborn() to Effs: ag__harvest_collect_end>

@@ -1,0 +1,2 @@
+<Add Atom on_board(?i, ?s) to Neg-effs: switch_off>
+<Add Atom =(?s, ?s) to Neg-effs: calibrate>

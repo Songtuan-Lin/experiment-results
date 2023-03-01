@@ -1,0 +1,6 @@
+<Component: Remove Atom on(?oldcard, ?card) from Precondition: sendtofree | Condition: False>
+<Component: Remove Atom canstack(?oldcard, ?ncols) from Precondition: sendtonewcol | Condition: False>
+<Component: Remove Atom successor(?card, ?newcard) from Precondition: colfromfreecell | Condition: False>
+<Component: Add Atom colspace(?ncols) to Effects: sendtohome-b | Condition: False>
+0.77251526
+memory: 33.15234375

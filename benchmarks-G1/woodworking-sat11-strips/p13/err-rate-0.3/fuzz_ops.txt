@@ -1,0 +1,4 @@
+<Remove Atom available(?p) from Pos-effs: cut-board-medium>
+<Remove Atom treatment(?x, varnished) from Pos-effs: do-spray-varnish>
+<Remove Atom available(?p) from Pos-effs: do-saw-medium>
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: do-saw-small>

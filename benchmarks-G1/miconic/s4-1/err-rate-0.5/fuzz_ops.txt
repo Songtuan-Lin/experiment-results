@@ -1,0 +1,2 @@
+<Add Atom origin(?p, ?f) to Neg-effs: board>
+<Add Atom boarded(?f2) to Neg-effs: down>

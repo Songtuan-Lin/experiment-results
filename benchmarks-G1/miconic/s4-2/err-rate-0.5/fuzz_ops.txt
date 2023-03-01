@@ -1,0 +1,2 @@
+<Remove Atom lift-at(?f2) from Pos-effs: down>
+<Remove Atom served(?p) from Pos-effs: depart>

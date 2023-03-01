@@ -1,0 +1,2 @@
+<Add Atom no_gluten_sandwich(?s) to Neg-effs: put_on_tray>
+<Add Atom no_gluten_content(?c) to Neg-effs: make_sandwich>

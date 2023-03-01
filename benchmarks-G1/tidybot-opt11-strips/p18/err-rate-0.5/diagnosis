@@ -1,0 +1,4 @@
+<Component: Add Atom gripper-rel(?r, ?dgxrel, ?gyrel) to Effects: gripper-right | Condition: False>
+<Component: Remove Atom gripper-obstacle(?x, ?cy) from Precondition: base-down | Condition: False>
+0.014533599999999994
+memory: 14.53125

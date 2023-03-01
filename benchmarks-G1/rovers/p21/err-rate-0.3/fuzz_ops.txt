@@ -1,0 +1,3 @@
+<Add Atom equipped_for_imaging(?x) to Neg-effs: sample_soil>
+<Add Atom can_traverse(?r, ?x, ?x) to Neg-effs: communicate_soil_data>
+<Add Atom available(?r) to Neg-effs: communicate_image_data>

@@ -1,0 +1,4 @@
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>
+<Remove Atom treatment(?p, untreated) from Pos-effs: do-saw-large>
+<Remove Atom treatment(?x, varnished) from Pos-effs: do-spray-varnish>
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>

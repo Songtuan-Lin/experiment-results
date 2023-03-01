@@ -1,0 +1,4 @@
+<Component: Remove Atom splice-point-1(?x) from Precondition: invert-single-gene-a | Condition: False>
+<Component: Add Atom idle() to Effects: end-cut-2 | Condition: False>
+0.010614258000000008
+memory: 14.53125

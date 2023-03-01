@@ -1,0 +1,3 @@
+<Add Atom flevel(?c) to Neg-effs: board>
+<Add Atom at(?l1, ?l2) to Neg-effs: fly>
+<Add Atom =(?c, ?c) to Neg-effs: debark>

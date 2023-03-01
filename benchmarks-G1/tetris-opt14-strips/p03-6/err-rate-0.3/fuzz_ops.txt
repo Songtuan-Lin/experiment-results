@@ -1,0 +1,2 @@
+<Add Atom at_square(?element, ?xy_initial) to Effs: move_square>
+<Add Atom connected(?xy_initial1, ?xy_final2) to Neg-effs: move_l_left>

@@ -1,0 +1,3 @@
+<Add Atom =(?a, ?c) to Neg-effs: debark>
+<Add Atom =(?a, ?a) to Neg-effs: board>
+<Add Atom in(?a, ?l1) to Neg-effs: refuel>

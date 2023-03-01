@@ -1,0 +1,4 @@
+<Add Atom boardsize-successor(?size_before, ?size_before) to Prec: cut-board-small>
+<Add Atom colour(?x, ?newcolour) to Prec: do-spray-varnish>
+<Add Atom boardsize-successor(?size_after, ?size_before) to Prec: cut-board-large>
+<Add Atom is-smooth(?oldsurface) to Prec: do-plane>

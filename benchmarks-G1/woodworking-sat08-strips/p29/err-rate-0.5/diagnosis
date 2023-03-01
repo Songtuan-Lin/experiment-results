@@ -1,0 +1,6 @@
+<Component: Add Atom colour(?p, natural) to Effects: do-saw-small | Condition: False>
+<Component: Add Atom wood(?p, ?w) to Effects: do-saw-medium | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-glaze | Condition: False>
+<Component: Add Atom colour(?x, natural) to Effects: do-grind | Condition: False>
+0.078475874
+memory: 14.5390625

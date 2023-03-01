@@ -1,0 +1,5 @@
+<Component: Remove Atom handempty(?h1) from Precondition: fill-shot | Condition: False>
+<Component: Add Atom shaked(?s) to Effects: empty-shaker | Condition: False>
+<Component: Add Atom next(?l, ?l) to Effects: pour-shot-to-used-shaker | Condition: False>
+0.015137523000000007
+memory: 14.5390625

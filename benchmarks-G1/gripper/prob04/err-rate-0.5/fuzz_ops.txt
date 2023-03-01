@@ -1,0 +1,2 @@
+<Add Atom at(?to, ?to) to Neg-effs: move>
+<Add Atom gripper(?gripper) to Neg-effs: pick>

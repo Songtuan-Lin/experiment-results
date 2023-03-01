@@ -1,0 +1,7 @@
+<Remove Atom colour(?p, natural) from Pos-effs: cut-board-medium>
+<Remove Atom treatment(?x, ?newtreatment) from Pos-effs: do-grind>
+<Remove Atom treatment(?p, untreated) from Pos-effs: do-saw-small>
+<Remove Atom empty(?m) from Pos-effs: unload-highspeed-saw>
+<Remove Atom treatment(?p, untreated) from Pos-effs: do-saw-large>
+<Remove Atom treatment(?p, untreated) from Pos-effs: cut-board-large>
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-glaze>

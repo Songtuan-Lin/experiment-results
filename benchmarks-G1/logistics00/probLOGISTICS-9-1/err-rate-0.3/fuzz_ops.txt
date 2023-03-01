@@ -1,0 +1,2 @@
+<Add Atom at(?truck, ?loc-to) to Prec: drive-truck>
+<Add Atom package(?loc) to Prec: unload-truck>

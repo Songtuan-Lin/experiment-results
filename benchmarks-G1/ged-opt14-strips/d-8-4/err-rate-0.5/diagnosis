@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom idle() from Effects: begin-cut | Condition: False>
+<Component: Remove NegatedAtom cutting() from Effects: end-cut-2 | Condition: False>
+<Component: Remove Atom last-cut-point(?x) from Precondition: reset-1 | Condition: False>
+0.009180731999999997
+memory: 14.5390625

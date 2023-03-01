@@ -1,0 +1,1 @@
+<Add Atom cycle-4(?s1, ?s2, ?s1, ?s1) to Prec: rotate-2>

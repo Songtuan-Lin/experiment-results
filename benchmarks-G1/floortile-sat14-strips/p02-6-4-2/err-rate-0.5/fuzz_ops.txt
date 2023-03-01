@@ -1,0 +1,4 @@
+<Add Atom right(?x, ?x) to Neg-effs: left>
+<Add Atom down(?x, ?y) to Neg-effs: paint-down>
+<Add Atom available-color(?c) to Neg-effs: change-color>
+<Add Atom right(?y, ?x) to Neg-effs: up>

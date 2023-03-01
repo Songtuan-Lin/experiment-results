@@ -1,0 +1,7 @@
+<Remove Atom faceup(?card) from Pos-effs: home-to-col>
+<Remove Atom talonplayable(?c1) from Pos-effs: turn-deck>
+<Add Atom colspace(?ncols) to Neg-effs: col-to-home-b>
+<Add Atom clear(?cardabove) to Prec: tal-to-home-b>
+<Add Atom ace(?card) to Prec: tal-to-col-d>
+<Add Atom toptalon(?card) to Prec: col-to-home>
+<Add Atom suit(?homecard, ?cardsuit) to Neg-effs: tal-to-home-c>

@@ -1,0 +1,3 @@
+<Remove Atom push-updating(?pipe) from Pos-effs: push-start>
+<Remove Atom on(?last-batch-atom, ?from-area) from Pos-effs: pop-unitarypipe>
+<Remove Atom first(?next-first-batch-atom, ?pipe) from Pos-effs: pop-end>

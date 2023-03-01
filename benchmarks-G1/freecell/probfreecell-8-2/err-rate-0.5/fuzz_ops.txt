@@ -1,0 +1,5 @@
+<Remove Atom cellspace(?ncells) from Pos-effs: newcolfromfreecell>
+<Remove Atom home(?card) from Pos-effs: sendtohome>
+<Remove Atom cellspace(?ncells) from Pos-effs: sendtofree>
+<Remove Atom colspace(?ncols) from Pos-effs: sendtonewcol>
+<Remove Atom cellspace(?ncells) from Pos-effs: sendtofree-b>

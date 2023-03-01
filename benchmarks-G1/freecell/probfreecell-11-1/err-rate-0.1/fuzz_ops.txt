@@ -1,0 +1,1 @@
+<Add Atom on(?suit, ?suit) to Prec: sendtohome>

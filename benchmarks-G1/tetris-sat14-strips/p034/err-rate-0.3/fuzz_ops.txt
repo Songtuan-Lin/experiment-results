@@ -1,0 +1,2 @@
+<Add Atom clear(?xy_final) to Effs: move_two>
+<Add Atom at_right_l(?element, ?xy_final2, ?xy_initial2, ?xy_initial2) to Effs: move_l_left>

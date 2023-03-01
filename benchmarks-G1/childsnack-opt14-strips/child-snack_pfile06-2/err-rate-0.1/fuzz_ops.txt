@@ -1,0 +1,1 @@
+<Remove Atom ontray(?s, ?t) from Pos-effs: put_on_tray>

@@ -1,0 +1,2 @@
+<Remove Atom pointing(?s, ?d_new) from Pos-effs: turn_to>
+<Remove Atom power_on(?i) from Pos-effs: switch_on>

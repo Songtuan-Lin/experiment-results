@@ -1,0 +1,4 @@
+<Component: Remove Atom full(?y) from Precondition: drop | Condition: False>
+<Component: Remove Atom calibrated(?i, ?r) from Precondition: take_image | Condition: False>
+0.010162052000000005
+memory: 13.171875

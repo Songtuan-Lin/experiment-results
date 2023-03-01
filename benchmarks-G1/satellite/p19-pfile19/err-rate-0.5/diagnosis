@@ -1,0 +1,4 @@
+<Component: Remove Atom calibration_target(?d_prev, ?s) from Precondition: turn_to | Condition: False>
+<Component: Remove Atom have_image(?i, ?i) from Precondition: switch_on | Condition: False>
+0.0071145589999999925
+memory: 14.5390625

@@ -1,0 +1,2 @@
+<Remove Atom surface-condition(?x, smooth) from Pos-effs: do-plane>
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>

@@ -1,0 +1,3 @@
+<Remove NegatedAtom current_worker(noworker) from Effs: ag__finish_round_backhome>
+<Remove NegatedAtom hold_round(?r1, roundend) from Effs: ag__finish_stage>
+<Remove NegatedAtom available_action(act_family) from Effs: family_growth>

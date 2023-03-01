@@ -1,0 +1,6 @@
+<Component: Add Atom idle() to Effects: begin-transpose-splice | Condition: False>
+<Component: Remove Atom splice-point-1(?y) from Precondition: begin-cut | Condition: False>
+<Component: Remove Atom inverted(?x) from Precondition: end-splice-1 | Condition: False>
+<Component: Add Atom finished() to Effects: end-splice-1 | Condition: False>
+0.016172493999999996
+memory: 14.53125

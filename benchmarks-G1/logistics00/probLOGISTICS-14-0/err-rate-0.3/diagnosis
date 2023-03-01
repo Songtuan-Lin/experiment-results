@@ -1,0 +1,4 @@
+<Component: Remove Atom in(?obj, ?truck) from Precondition: unload-truck | Condition: False>
+<Component: Add Atom at(?truck, ?loc-to) to Effects: drive-truck | Condition: False>
+0.008974349999999999
+memory: 13.16796875

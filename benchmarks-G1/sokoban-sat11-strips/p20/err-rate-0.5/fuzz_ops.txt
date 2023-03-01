@@ -1,0 +1,2 @@
+<Add Atom is-nongoal(?from) to Prec: move>
+<Add Atom is-nongoal(?ppos) to Prec: push-to-goal>

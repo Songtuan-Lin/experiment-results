@@ -1,0 +1,1 @@
+<Remove Atom at-goal(?s) from Pos-effs: push-to-goal>

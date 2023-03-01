@@ -1,0 +1,3 @@
+<Remove Atom down(?x3) from Pos-effs: put_down>
+<Add Atom at_tent(?x3, ?x2) to Neg-effs: put_up>
+<Add Atom at_person(?x1, ?x2) to Effs: drive>

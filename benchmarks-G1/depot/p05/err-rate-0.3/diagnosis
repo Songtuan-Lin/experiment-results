@@ -1,0 +1,4 @@
+<Component: Remove Atom at(?z, ?z) from Precondition: lift | Condition: False>
+<Component: Add Atom =(?x, ?z) to Effects: drive | Condition: False>
+0.015884187000000008
+memory: 13.16796875

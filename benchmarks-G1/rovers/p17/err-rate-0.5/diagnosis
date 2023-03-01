@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom equipped_for_soil_analysis(?x) from Effects: drop | Condition: False>
+<Component: Remove NegatedAtom at_rock_sample(?w) from Effects: calibrate | Condition: False>
+<Component: Remove NegatedAtom visible(?x, ?p) from Effects: communicate_rock_data | Condition: False>
+0.013026470000000005
+memory: 14.53125

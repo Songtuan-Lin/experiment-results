@@ -1,0 +1,5 @@
+<Component: Add Atom cellspace(?cells) to Effects: sendtofree | Condition: False>
+<Component: Add Atom incell(?card) to Effects: sendtofree | Condition: False>
+<Component: Add Atom clear(?card) to Effects: colfromfreecell | Condition: False>
+0.015295763000000004
+memory: 13.17578125

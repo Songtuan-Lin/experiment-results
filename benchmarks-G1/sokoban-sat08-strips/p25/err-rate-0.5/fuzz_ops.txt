@@ -1,0 +1,2 @@
+<Add Atom move-dir(?from, ?to, ?dir) to Neg-effs: move>
+<Add Atom is-nongoal(?from) to Neg-effs: push-to-goal>

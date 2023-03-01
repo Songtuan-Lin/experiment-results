@@ -1,0 +1,3 @@
+<Remove Atom up(?x3) from Pos-effs: put_up>
+<Add Atom next(?x2, ?x2) to Effs: drive>
+<Add Atom next(?x2, ?x2) to Neg-effs: put_down>

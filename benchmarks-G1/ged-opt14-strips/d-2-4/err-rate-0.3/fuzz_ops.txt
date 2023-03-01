@@ -1,0 +1,7 @@
+<Add Atom inverse-splicing-last() to Effs: continue-splice-2>
+<Remove Atom finished() from Pos-effs: end-inverse-splice-2>
+<Remove Atom last-cut-point(?x) from Pos-effs: begin-cut>
+<Remove Atom cw(?x, ?y) from Pos-effs: end-cut-2>
+<Add Atom normal(?y) to Effs: continue-inverse-splice-1b>
+<Add Atom swappable(?x, ?x) to Effs: begin-inverse-splice-special-case>
+<Add Atom free(?y) to Neg-effs: end-inverse-splice-1a>

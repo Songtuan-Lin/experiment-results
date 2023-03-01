@@ -1,0 +1,2 @@
+<Remove Atom surface-condition(?p, ?surface) from Pos-effs: cut-board-large>
+<Remove Atom treatment(?x, varnished) from Pos-effs: do-immersion-varnish>

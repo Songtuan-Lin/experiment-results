@@ -1,0 +1,2 @@
+<Add Atom may-interface(?product-batch-atom-in, ?product-first-batch) to Neg-effs: push-start>
+<Add Atom connect(?from-area, ?to-area, ?pipe) to Neg-effs: pop-end>

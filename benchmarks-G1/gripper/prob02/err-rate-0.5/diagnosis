@@ -1,0 +1,4 @@
+<Component: Remove Atom free(?from) from Precondition: move | Condition: False>
+<Component: Remove Atom carry(?gripper, ?room) from Precondition: drop | Condition: False>
+0.003399390000000002
+memory: 14.53515625

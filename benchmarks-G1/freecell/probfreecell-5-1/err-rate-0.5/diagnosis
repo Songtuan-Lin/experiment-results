@@ -1,0 +1,5 @@
+<Component: Remove Atom successor(?ncells, ?ncells) from Precondition: sendtofree | Condition: False>
+<Component: Remove Atom clear(?suit) from Precondition: homefromfreecell | Condition: False>
+<Component: Remove Atom successor(?suit, ?vhomecard) from Precondition: sendtohome | Condition: False>
+0.009402353999999995
+memory: 14.53125

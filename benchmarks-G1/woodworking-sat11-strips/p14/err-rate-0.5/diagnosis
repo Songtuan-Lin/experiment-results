@@ -1,0 +1,5 @@
+<Component: Remove Atom contains-part(?b, ?p) from Precondition: do-saw-medium | Condition: False>
+<Component: Remove Atom boardsize-successor(?s2, ?s2) from Precondition: do-saw-large | Condition: False>
+<Component: Remove Atom colour(?x, ?newcolour) from Precondition: do-glaze | Condition: False>
+0.024182904999999998
+memory: 14.53125

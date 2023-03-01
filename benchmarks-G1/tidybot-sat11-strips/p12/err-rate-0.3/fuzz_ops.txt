@@ -1,0 +1,9 @@
+<Add Atom surface(?cx, ?y) to Effs: grasp-cart-left>
+<Add Atom pushing(?r, ?c) to Effs: ungrasp-cart>
+<Add Atom object-pos(?o, ?x, ?y) to Effs: finish-object>
+<Add Atom surface(?gxabs, ?basey) to Effs: get-up>
+<Add Atom gripper-obstacle(?cgxabs, ?basey) to Effs: gripper-left>
+<Add Atom sum-x(?ox, ?gxrel, ?basex) to Effs: put-left>
+<Add Atom gripper-empty(?r) to Effs: base-right>
+<Add Atom gripper-empty(?r) to Effs: park>
+<Remove NegatedAtom cart-pos(?c, ?cx1, ?cy) from Effs: base-cart-left>

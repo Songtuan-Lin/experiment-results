@@ -1,0 +1,5 @@
+<Component: Remove Atom clear(?ncols) from Precondition: sendtohome-b | Condition: False>
+<Component: Remove Atom value(?homecard, ?card) from Precondition: sendtohome | Condition: False>
+<Component: Add Atom suit(?cells, ?ncells) to Effects: sendtofree | Condition: False>
+0.011113742000000003
+memory: 14.53515625

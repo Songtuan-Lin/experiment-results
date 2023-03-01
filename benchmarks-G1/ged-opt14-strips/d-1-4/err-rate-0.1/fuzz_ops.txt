@@ -1,0 +1,3 @@
+<Add Atom swappable(?x, ?x) to Effs: begin-inverse-splice-special-case>
+<Add Atom idle() to Effs: continue-inverse-splice-1a>
+<Add Atom cut-point-2(?x) to Effs: continue-splice-2>

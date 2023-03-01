@@ -1,0 +1,7 @@
+<Component: Remove Atom on(?card, ?c1) from Precondition: turn-deck-a | Condition: False>
+<Component: Add Atom instack(?c1) to Effects: turn-deck | Condition: False>
+<Component: Remove Atom canstack(?c1, ?c1) from Precondition: turn-deck | Condition: False>
+<Component: Remove Atom on(?card, ?homecard) from Precondition: col-to-home | Condition: False>
+<Component: Add Atom successor(?vcard, ?vcard) to Effects: col-to-home | Condition: False>
+0.042029406
+memory: 13.17578125

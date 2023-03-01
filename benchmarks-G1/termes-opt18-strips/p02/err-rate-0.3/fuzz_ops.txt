@@ -1,0 +1,3 @@
+<Add Atom is-depot(?rpos) to Effs: place-block>
+<Remove Atom has-block() from Pos-effs: remove-block>
+<Add Atom neighbor(?from, ?from) to Effs: move>

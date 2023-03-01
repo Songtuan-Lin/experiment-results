@@ -1,0 +1,4 @@
+<Component: Remove Atom next(?l1, ?l1) from Precondition: pour-shot-to-clean-shaker | Condition: False>
+<Component: Remove Atom clean(?c) from Precondition: leave | Condition: False>
+0.00962296
+memory: 11.73046875

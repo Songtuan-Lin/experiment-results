@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom above(?f1, ?f2) from Effects: move-up-slow | Condition: False>
+<Component: Add Atom reachable-floor(?lift, ?n1) to Effects: leave | Condition: False>
+0.010608235999999993
+memory: 13.06640625

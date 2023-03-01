@@ -1,0 +1,6 @@
+<Component: Remove Atom surface-condition(?x, ?oldsurface) from Precondition: do-grind | Condition: False>
+<Component: Add Atom surface-condition(?x, verysmooth) to Effects: do-grind | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-glaze | Condition: False>
+<Component: Add Atom treatment(?p, untreated) to Effects: do-saw-large | Condition: False>
+0.019479649
+memory: 14.53125

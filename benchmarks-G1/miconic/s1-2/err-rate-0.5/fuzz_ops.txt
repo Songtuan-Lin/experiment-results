@@ -1,0 +1,2 @@
+<Add Atom lift-at(?p) to Prec: depart>
+<Add Atom destin(?p, ?f) to Prec: board>

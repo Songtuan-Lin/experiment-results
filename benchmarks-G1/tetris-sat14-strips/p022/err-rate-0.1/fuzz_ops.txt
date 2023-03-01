@@ -1,0 +1,1 @@
+<Remove NegatedAtom clear(?xy_final) from Effs: move_square>

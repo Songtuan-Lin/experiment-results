@@ -1,0 +1,2 @@
+<Remove Atom wood(?p, ?w) from Pos-effs: do-saw-large>
+<Remove Atom treatment(?x, varnished) from Pos-effs: do-immersion-varnish>

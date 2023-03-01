@@ -1,0 +1,1 @@
+<Remove NegatedAtom locale(?n1, ?l2) from Effs: feast>

@@ -1,0 +1,4 @@
+<Add Atom handempty(?h) to Prec: pour-shaker-to-shot>
+<Add Atom handempty(?h1) to Prec: fill-shot>
+<Add Atom next(?l, ?l) to Prec: pour-shot-to-used-shaker>
+<Add Atom handempty(?h1) to Prec: clean-shaker>

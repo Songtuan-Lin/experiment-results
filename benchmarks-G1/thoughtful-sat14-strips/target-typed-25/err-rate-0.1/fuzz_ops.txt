@@ -1,0 +1,3 @@
+<Add Atom instack(?oldcard) to Neg-effs: col-to-home>
+<Add Atom faceup(?card) to Neg-effs: tal-to-home-c>
+<Add Atom canstack(?card, ?card) to Neg-effs: turn-deck>

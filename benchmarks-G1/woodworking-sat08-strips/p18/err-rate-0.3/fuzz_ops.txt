@@ -1,0 +1,4 @@
+<Add Atom unused(?x) to Neg-effs: do-immersion-varnish>
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-glaze>
+<Add Atom empty(?m) to Neg-effs: cut-board-small>

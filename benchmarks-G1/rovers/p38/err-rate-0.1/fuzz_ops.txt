@@ -1,0 +1,1 @@
+<Remove Atom communicated_image_data(?o, ?m) from Pos-effs: communicate_image_data>

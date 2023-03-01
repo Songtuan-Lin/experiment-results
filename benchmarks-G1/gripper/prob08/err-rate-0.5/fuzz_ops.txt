@@ -1,0 +1,2 @@
+<Add Atom =(?gripper, ?obj) to Prec: pick>
+<Add Atom carry(?from, ?to) to Prec: move>

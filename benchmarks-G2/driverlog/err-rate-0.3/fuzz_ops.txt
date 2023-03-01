@@ -1,0 +1,2 @@
+<Add Atom driving(?loc, ?truck) to Prec: unload-truck>
+<Remove Atom empty(?truck) from Pos-effs: disembark-truck>

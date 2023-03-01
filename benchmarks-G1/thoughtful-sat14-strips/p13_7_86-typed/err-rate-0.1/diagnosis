@@ -1,0 +1,5 @@
+<Component: Add Atom toptalon(?cardbelow) to Effects: tal-to-home | Condition: False>
+<Component: Add Atom home(?card) to Effects: tal-to-home-b | Condition: False>
+<Component: Add Atom talonplayable(?card) to Effects: turn-deck | Condition: False>
+0.048705374
+memory: 12.23046875

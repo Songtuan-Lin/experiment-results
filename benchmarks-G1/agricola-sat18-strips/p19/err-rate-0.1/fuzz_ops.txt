@@ -1,0 +1,3 @@
+<Add Atom current_stage(?s) to Prec: ag__harvest_breed_end>
+<Add Atom can_harvest(?v) to Prec: take_grain>
+<Add Atom next_stage(?s1, ?s1) to Prec: ag__finish_stage>

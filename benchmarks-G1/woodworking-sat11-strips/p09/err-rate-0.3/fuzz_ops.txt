@@ -1,0 +1,4 @@
+<Add Atom contains-part(?b, ?p) to Prec: cut-board-small>
+<Add Atom unused(?x) to Prec: do-glaze>
+<Add Atom colour(?x, ?oldcolour) to Prec: do-grind>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: load-highspeed-saw>

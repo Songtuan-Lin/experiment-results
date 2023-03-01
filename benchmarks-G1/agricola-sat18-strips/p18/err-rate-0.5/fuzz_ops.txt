@@ -1,0 +1,11 @@
+<Add Atom newborn() to Effs: ag__finish_round_renew>
+<Add Atom next_round(?r, ?r) to Neg-effs: ag__finish_round_backhome>
+<Add Atom current_round(?r) to Effs: improve_home>
+<Remove NegatedAtom stored_veg(?v) from Effs: sow>
+<Add Atom num_substract(?i2, ?i2, ?i1) to Effs: take_food>
+<Add Atom current_stage(?s) to Effs: ag__harvest_breeding_animal>
+<Add Atom current_round(?r) to Neg-effs: take_grain>
+<Add Atom next_worker(?w1, ?w1) to Prec: plow_field>
+<Add Atom next_worker(?wmax, ?wmax) to Effs: build_fences>
+<Remove NegatedAtom available_action(?act) from Effs: collect_resource>
+<Add Atom current_stage(?s) to Prec: ag__harvest_collect_end>

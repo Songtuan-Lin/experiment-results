@@ -1,0 +1,4 @@
+<Component: Remove Atom road(?l2, ?l2) from Precondition: drive | Condition: False>
+<Component: Remove Atom capacity-predecessor(?s1, ?s1) from Precondition: drop | Condition: False>
+0.010708088000000004
+memory: 14.53125

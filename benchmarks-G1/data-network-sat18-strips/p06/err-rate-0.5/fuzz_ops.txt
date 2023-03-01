@@ -1,0 +1,3 @@
+<Add Atom sum(?size, ?size, ?limit) to Neg-effs: load>
+<Remove Atom cached(?out, ?s) from Pos-effs: process>
+<Add Atom less-equal(?size, ?size) to Prec: save>

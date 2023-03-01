@@ -1,0 +1,7 @@
+<Add Atom s-last(?x) to Effs: end-inverse-splice-1a>
+<Add Atom s-next(?x, ?y) to Effs: begin-transpose-splice>
+<Add Atom swappable(?x, ?x) to Effs: invert-single-gene-a>
+<Add Atom cut-point-2(?x) to Effs: continue-splice-1>
+<Add Atom cw(?y, ?y) to Effs: continue-inverse-splice-1a>
+<Add Atom cut-point-1(?y) to Neg-effs: begin-cut>
+<Add Atom duplicate(?x, ?y) to Effs: continue-inverse-splice-1b>

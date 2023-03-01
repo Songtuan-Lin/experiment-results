@@ -1,0 +1,4 @@
+<Component: Add NegatedAtom has-block() to Effects: destroy-block | Condition: False>
+<Component: Remove Atom has-block() from Precondition: move-down | Condition: False>
+0.309925472
+memory: 14.5390625

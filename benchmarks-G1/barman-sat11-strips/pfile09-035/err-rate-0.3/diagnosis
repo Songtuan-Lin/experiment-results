@@ -1,0 +1,6 @@
+<Component: Remove Atom shaker-level(?d, ?l) from Precondition: pour-shot-to-used-shaker | Condition: False>
+<Component: Add Atom used(?s, ?i) to Effects: fill-shot | Condition: False>
+<Component: Remove NegatedAtom clean(?d) from Effects: pour-shot-to-clean-shaker | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: pour-shot-to-clean-shaker | Condition: False>
+0.04276223900000001
+memory: 13.171875

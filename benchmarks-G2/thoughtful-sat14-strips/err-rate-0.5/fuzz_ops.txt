@@ -1,0 +1,11 @@
+<Add Atom bottomtalon(?card) to Prec: tal-to-col-h>
+<Remove Atom home(?card) from Pos-effs: col-to-home-b>
+<Remove Atom home(?card) from Pos-effs: tal-to-home-d>
+<Add Atom faceup(?cardbelow) to Neg-effs: tal-to-home>
+<Remove Atom talonplayable(?c1) from Pos-effs: turn-deck-a>
+<Add Atom faceup(?newcard) to Prec: move-col-to-col-b>
+<Remove Atom clear(?oldcard) from Pos-effs: col-to-home>
+<Remove Atom faceup(?card) from Pos-effs: tal-to-col-b>
+<Add Atom ace(?oldcard) to Neg-effs: tal-to-col>
+<Add Atom ace(?oldcard) to Prec: tal-to-col-e>
+<Remove Atom faceup(?oldcard) from Pos-effs: move-col-to-col-c>

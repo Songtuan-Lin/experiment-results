@@ -1,0 +1,1 @@
+<Remove Atom nextsnake(?newhead, ?head) from Pos-effs: move>

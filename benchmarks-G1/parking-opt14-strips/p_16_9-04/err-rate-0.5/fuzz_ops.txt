@@ -1,0 +1,2 @@
+<Add Atom curb-clear(?curbsrc) to Prec: move-curb-to-car>
+<Add Atom at-curb-num(?car, ?curbsrc) to Prec: move-curb-to-curb>

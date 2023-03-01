@@ -1,0 +1,2 @@
+<Add Atom handempty(?h) to Prec: empty-shot>
+<Add Atom handempty(?h) to Prec: pour-shaker-to-shot>

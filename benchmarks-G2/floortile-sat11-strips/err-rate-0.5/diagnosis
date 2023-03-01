@@ -1,0 +1,5 @@
+<Component: Add Atom robot-has(?r, ?c2) to Effects: change-color | Condition: False>
+<Component: Remove Atom up(?y, ?y) from Precondition: up | Condition: False>
+<Component: Add Atom robot-at(?r, ?y) to Effects: right | Condition: False>
+0.029966464999999998
+memory: 12.453125

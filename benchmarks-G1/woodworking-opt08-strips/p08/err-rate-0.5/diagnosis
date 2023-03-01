@@ -1,0 +1,7 @@
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-glaze | Condition: False>
+<Component: Add Atom treatment(?p, untreated) to Effects: do-saw-medium | Condition: False>
+<Component: Add Atom colour(?x, ?oldcolour) to Effects: do-plane | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-immersion-varnish | Condition: False>
+<Component: Add Atom colour(?p, natural) to Effects: do-saw-large | Condition: False>
+0.031368669999999994
+memory: 14.5390625

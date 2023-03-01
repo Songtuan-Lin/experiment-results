@@ -1,0 +1,4 @@
+<Remove Atom available(?p) from Pos-effs: cut-board-large>
+<Remove Atom wood(?p, ?w) from Pos-effs: cut-board-medium>
+<Remove Atom surface-condition(?x, smooth) from Pos-effs: do-plane>
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: do-saw-medium>

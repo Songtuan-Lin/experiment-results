@@ -1,0 +1,2 @@
+<Add Atom at(?t, ?p2) to Neg-effs: move_tray>
+<Add Atom not_allergic_gluten(?c) to Neg-effs: serve_sandwich>

@@ -1,0 +1,2 @@
+<Remove Atom ontable(?x) from Pos-effs: put-down>
+<Remove Atom clear(?y) from Pos-effs: unstack>

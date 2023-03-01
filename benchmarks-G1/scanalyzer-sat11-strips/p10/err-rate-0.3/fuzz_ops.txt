@@ -1,0 +1,2 @@
+<Add Atom analyzed(?c1) to Prec: analyze-2>
+<Add Atom cycle-4-with-analysis(?s1, ?s1, ?s2, ?s3) to Prec: analyze-4>

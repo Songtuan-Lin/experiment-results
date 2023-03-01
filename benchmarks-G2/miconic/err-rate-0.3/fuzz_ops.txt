@@ -1,0 +1,2 @@
+<Add Atom origin(?p, ?p) to Prec: depart>
+<Add Atom origin(?p, ?p) to Neg-effs: board>

@@ -1,0 +1,3 @@
+<Add Atom cutting() to Effs: end-inverse-splice-1a>
+<Add Atom present(?x) to Effs: end-cut-2>
+<Add Atom duplicate(?y, ?y) to Prec: continue-inverse-splice-1b>

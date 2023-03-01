@@ -1,0 +1,1 @@
+<Add Atom value(?homecard, ?homecard) to Prec: homefromfreecell>

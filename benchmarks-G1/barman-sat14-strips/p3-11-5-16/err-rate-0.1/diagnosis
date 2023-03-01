@@ -1,0 +1,4 @@
+<Component: Add Atom clean(?s) to Effects: clean-shot | Condition: False>
+<Component: Add Atom contains(?s, ?b) to Effects: shake | Condition: False>
+0.020561989000000003
+memory: 12.0234375

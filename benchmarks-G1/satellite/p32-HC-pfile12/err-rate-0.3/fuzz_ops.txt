@@ -1,0 +1,2 @@
+<Add Atom instrument(?i) to Neg-effs: take_image>
+<Add Atom calibration_target(?d_prev, ?s) to Neg-effs: turn_to>

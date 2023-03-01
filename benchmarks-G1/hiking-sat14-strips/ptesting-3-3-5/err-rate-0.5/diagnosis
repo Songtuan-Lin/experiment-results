@@ -1,0 +1,4 @@
+<Component: Add Atom up(?x3) to Effects: put_up | Condition: False>
+<Component: Add Atom at_person(?x1, ?x3) to Effects: drive | Condition: False>
+0.006496039999999995
+memory: 14.5390625

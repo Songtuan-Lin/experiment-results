@@ -1,0 +1,5 @@
+<Add Atom value(?cols, ?suit) to Neg-effs: sendtohome-b>
+<Add Atom suit(?oldcard, ?card) to Neg-effs: sendtofree>
+<Add Atom on(?oldcard, ?oldcard) to Neg-effs: move>
+<Add Atom value(?card, ?ncols) to Neg-effs: newcolfromfreecell>
+<Add Atom suit(?card, ?ncols) to Neg-effs: move-b>

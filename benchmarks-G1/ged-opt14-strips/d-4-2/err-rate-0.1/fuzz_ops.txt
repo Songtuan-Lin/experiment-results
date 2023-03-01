@@ -1,0 +1,3 @@
+<Remove Atom s-next(?x, ?y) from Pos-effs: continue-cut>
+<Remove Atom splice-point-2(?y) from Pos-effs: begin-transverse-splice>
+<Remove Atom splice-next(?x) from Pos-effs: continue-splice-1>

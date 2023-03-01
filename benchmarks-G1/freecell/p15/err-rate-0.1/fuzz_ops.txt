@@ -1,0 +1,1 @@
+<Add Atom =(?ncells, ?card) to Neg-effs: sendtofree>

@@ -1,0 +1,3 @@
+<Add Atom pop-updating(?pipe) to Neg-effs: pop-start>
+<Add Atom may-interface(?product-first-batch, ?product-first-batch) to Neg-effs: push-unitarypipe>
+<Add Atom connect(?to-area, ?to-area, ?pipe) to Neg-effs: push-start>

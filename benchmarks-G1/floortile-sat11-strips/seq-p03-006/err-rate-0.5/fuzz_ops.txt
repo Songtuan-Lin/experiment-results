@@ -1,0 +1,4 @@
+<Add Atom right(?x, ?y) to Neg-effs: right>
+<Add Atom free-color(?r) to Neg-effs: paint-down>
+<Add Atom robot-has(?r, ?c2) to Neg-effs: change-color>
+<Add Atom up(?y, ?y) to Neg-effs: up>

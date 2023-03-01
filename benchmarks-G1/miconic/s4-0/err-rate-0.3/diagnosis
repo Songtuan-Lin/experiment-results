@@ -1,0 +1,4 @@
+<Component: Remove Atom above(?p, ?f) from Precondition: depart | Condition: False>
+<Component: Remove Atom origin(?p, ?p) from Precondition: board | Condition: False>
+0.0031495769999999867
+memory: 13.16796875

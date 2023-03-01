@@ -1,0 +1,1 @@
+<Add Atom at(?loc, ?truck) to Neg-effs: load-truck>

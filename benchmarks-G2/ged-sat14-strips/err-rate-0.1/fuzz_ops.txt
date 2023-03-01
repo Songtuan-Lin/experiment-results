@@ -1,0 +1,3 @@
+<Add Atom last-cut-point(?x) to Effs: end-splice-1>
+<Add Atom cw(?x, ?x) to Effs: begin-cut>
+<Add Atom splicing-last() to Effs: end-splice-2>

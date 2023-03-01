@@ -1,0 +1,2 @@
+<Add Atom at(?truck, ?driver) to Neg-effs: drive-truck>
+<Add Atom =(?driver, ?loc-to) to Neg-effs: walk>

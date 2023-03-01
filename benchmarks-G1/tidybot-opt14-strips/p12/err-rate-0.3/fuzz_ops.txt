@@ -1,0 +1,9 @@
+<Remove NegatedAtom gripper-obstacle(?ox, ?gyabs) from Effs: get-right>
+<Add Atom leftof(?dgxabs, ?cgxabs) to Effs: gripper-right>
+<Add Atom above(?cy, ?dy) to Effs: base-up>
+<Add Atom base-obstacle(?basex, ?gyabs) to Effs: put-right>
+<Remove NegatedAtom parked(?r) from Effs: unpark>
+<Remove Atom pushing(?r, ?c) from Pos-effs: grasp-cart-below>
+<Add Atom above(?oy, ?basey) to Effs: put-up>
+<Remove Atom holding(?r, ?o) from Pos-effs: get-from-cart>
+<Add Atom not-pushed(?c) to Effs: grasp-cart-right>

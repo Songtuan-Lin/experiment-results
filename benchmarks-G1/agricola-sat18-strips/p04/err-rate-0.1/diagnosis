@@ -1,0 +1,4 @@
+<Component: Remove Atom current_worker(?wmax) from Precondition: collect_cook_animal | Condition: False>
+<Component: Remove Atom next_round(?r1, ?r1) from Precondition: ag__advance_round_normal | Condition: False>
+0.027535517999999995
+memory: 12.51953125

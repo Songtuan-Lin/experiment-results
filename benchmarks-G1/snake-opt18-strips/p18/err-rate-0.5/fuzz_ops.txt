@@ -1,0 +1,2 @@
+<Add Atom ispoint(?head) to Effs: move-and-eat-no-spawn>
+<Add Atom isadjacent(?newhead, ?spawnpoint) to Effs: move-and-eat-spawn>

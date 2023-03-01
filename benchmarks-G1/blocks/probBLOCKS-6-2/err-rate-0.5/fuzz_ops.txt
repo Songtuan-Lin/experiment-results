@@ -1,0 +1,2 @@
+<Add Atom on(?y, ?y) to Neg-effs: unstack>
+<Add Atom handempty() to Neg-effs: put-down>

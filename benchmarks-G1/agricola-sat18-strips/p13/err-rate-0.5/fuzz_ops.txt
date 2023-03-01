@@ -1,0 +1,11 @@
+<Remove Atom open_action(?act) from Pos-effs: ag__advance_round_normal>
+<Add Atom current_round(?r) to Effs: ag__finish_round_renew>
+<Add Atom next_worker(?wmax, ?w2) to Effs: take_food>
+<Add Atom ok() to Effs: improve_home>
+<Remove NegatedAtom stored_resource(wood) from Effs: build_room>
+<Add Atom ok() to Effs: ag__harvest_collect_end>
+<Add Atom num_substract(?i1, ?i3, ?i3) to Effs: ag__harvest_collecting_veg>
+<Add Atom next_worker(?wmax, ?w2) to Effs: build_fences>
+<Add Atom food_required(?wmax, ?irest) to Effs: ag__harvest_feed>
+<Add Atom next_worker(?w1, ?wmax) to Neg-effs: sow>
+<Add Atom num_substract(?i3, ?i3, ?i2) to Effs: ag__harvest_collecting_fromoven>

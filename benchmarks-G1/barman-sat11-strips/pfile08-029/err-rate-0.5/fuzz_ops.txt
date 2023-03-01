@@ -1,0 +1,6 @@
+<Remove Atom holding(?h, ?c) from Pos-effs: grasp>
+<Remove Atom clean(?s) from Pos-effs: clean-shaker>
+<Remove Atom contains(?s, ?i) from Pos-effs: refill-shot>
+<Remove Atom contains(?s, ?b) from Pos-effs: shake>
+<Remove Atom empty(?s) from Pos-effs: empty-shaker>
+<Remove Atom contains(?s, ?i) from Pos-effs: fill-shot>

@@ -1,0 +1,4 @@
+<Add Atom walked(?x6, ?x2) to Neg-effs: walk_together>
+<Add Atom next(?x2, ?x3) to Effs: drive_passenger>
+<Remove Atom at_tent(?x5, ?x3) from Pos-effs: drive_tent>
+<Remove Atom at_tent(?x5, ?x3) from Pos-effs: drive_tent_passenger>

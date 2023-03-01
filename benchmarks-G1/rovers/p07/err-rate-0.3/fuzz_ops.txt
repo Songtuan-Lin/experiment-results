@@ -1,0 +1,3 @@
+<Remove Atom have_rock_analysis(?x, ?p) from Pos-effs: sample_rock>
+<Remove Atom have_image(?r, ?o, ?m) from Pos-effs: take_image>
+<Remove Atom empty(?y) from Pos-effs: drop>

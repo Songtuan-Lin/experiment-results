@@ -1,0 +1,1 @@
+<Add Atom carry(?gripper, ?room) to Neg-effs: drop>

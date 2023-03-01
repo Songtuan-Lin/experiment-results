@@ -1,0 +1,2 @@
+<Add Atom attacks(?s2, ?s2) to Effs: overcome>
+<Add Atom orbits(?c, ?n) to Prec: succumb>

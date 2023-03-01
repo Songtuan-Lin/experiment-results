@@ -1,0 +1,4 @@
+<Component: Add Atom driving(?loc-to, ?truck) to Effects: drive-truck | Condition: False>
+<Component: Remove NegatedAtom empty(?truck) from Effects: board-truck | Condition: False>
+0.12082489
+memory: 15.66796875

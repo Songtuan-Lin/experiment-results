@@ -1,0 +1,5 @@
+<Component: Add Atom open(?lockpos) to Effects: unlock | Condition: False>
+<Component: Add Atom holding(?key) to Effects: pickup | Condition: False>
+<Component: Add Atom at-robot(?nextpos) to Effects: move | Condition: False>
+0.015388872000000005
+memory: 14.5390625

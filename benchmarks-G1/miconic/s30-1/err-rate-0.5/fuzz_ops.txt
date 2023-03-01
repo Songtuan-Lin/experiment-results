@@ -1,0 +1,2 @@
+<Add Atom lift-at(?f2) to Neg-effs: up>
+<Add Atom origin(?f, ?p) to Neg-effs: board>

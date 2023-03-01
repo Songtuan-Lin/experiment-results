@@ -1,0 +1,4 @@
+<Add Atom boardsize(?b, ?size_after) to Neg-effs: cut-board-small>
+<Add Atom is-smooth(?oldsurface) to Neg-effs: do-plane>
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Add Atom boardsize(?b, ?s1) to Neg-effs: cut-board-medium>

@@ -1,0 +1,2 @@
+<Remove Atom empty(?p) from Pos-effs: empty-shot>
+<Remove Atom contains(?s, ?i) from Pos-effs: refill-shot>

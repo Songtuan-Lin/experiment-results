@@ -1,0 +1,5 @@
+<Component: Remove Atom next(?f1, ?f1) from Precondition: move-down-fast | Condition: False>
+<Component: Remove Atom above(?f2, ?f2) from Precondition: move-down-slow | Condition: False>
+<Component: Remove Atom above(?n1, ?f) from Precondition: leave | Condition: False>
+0.02341301199999999
+memory: 14.5390625

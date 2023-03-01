@@ -1,0 +1,4 @@
+<Component: Add Atom at(?t, ?p2) to Effects: move_tray | Condition: False>
+<Component: Remove Atom at_kitchen_sandwich(?s) from Precondition: put_on_tray | Condition: False>
+0.006358973999999996
+memory: 13.16796875

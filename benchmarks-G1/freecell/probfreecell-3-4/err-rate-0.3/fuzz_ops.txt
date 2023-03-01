@@ -1,0 +1,3 @@
+<Add Atom value(?oldcard, ?suit) to Neg-effs: sendtohome>
+<Add Atom on(?cols, ?cols) to Neg-effs: sendtonewcol>
+<Add Atom canstack(?homecard, ?homecard) to Neg-effs: homefromfreecell>

@@ -1,0 +1,1 @@
+<Add Atom is-nongoal(?to) to Neg-effs: push-to-nongoal>

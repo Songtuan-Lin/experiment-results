@@ -1,0 +1,4 @@
+<Add Atom boardsize(?b, ?size_after) to Neg-effs: do-saw-large>
+<Add Atom is-smooth(?surface) to Neg-effs: do-spray-varnish>
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Add Atom boardsize(?b, ?size_after) to Neg-effs: cut-board-medium>

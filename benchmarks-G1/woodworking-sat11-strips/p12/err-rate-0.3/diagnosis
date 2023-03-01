@@ -1,0 +1,4 @@
+<Component: Remove Atom boardsize-successor(?size_after, ?size_after) from Precondition: do-saw-medium | Condition: False>
+<Component: Add Atom boardsize-successor(?size_before, ?size_before) to Effects: do-saw-large | Condition: False>
+0.03013275600000001
+memory: 13.17578125

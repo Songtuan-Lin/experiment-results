@@ -1,0 +1,7 @@
+<Component: Add NegatedAtom base-obstacle(?cx, ?y) to Effects: base-right | Condition: False>
+<Component: Add NegatedAtom base-obstacle(?cx, ?y) to Effects: base-left | Condition: False>
+<Component: Add Atom above(?cy, ?cy) to Effects: base-down | Condition: False>
+<Component: Add Atom holding(?r, ?o) to Effects: get-left | Condition: False>
+<Component: Add Atom parked(?r) to Effects: park | Condition: False>
+0.102067977
+memory: 17.10546875

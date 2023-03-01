@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom capacity(?v, ?s2) from Effects: pick-up | Condition: False>
+<Component: Remove NegatedAtom road(?l1, ?l2) from Effects: drive | Condition: False>
+0.156899353
+memory: 17.51953125

@@ -1,0 +1,3 @@
+<Remove Atom at_kitchen_sandwich(?s) from Pos-effs: make_sandwich>
+<Remove Atom at(?t, ?p2) from Pos-effs: move_tray>
+<Remove Atom ontray(?s, ?t) from Pos-effs: put_on_tray>

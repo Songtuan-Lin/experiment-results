@@ -1,0 +1,2 @@
+<Add Atom holding(?x) to Neg-effs: pick-up>
+<Add Atom handempty() to Neg-effs: put-down>

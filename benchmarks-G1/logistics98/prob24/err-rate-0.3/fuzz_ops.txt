@@ -1,0 +1,2 @@
+<Add Atom in(?city, ?loc-from) to Neg-effs: drive-truck>
+<Add Atom in(?airplane, ?airplane) to Neg-effs: fly-airplane>

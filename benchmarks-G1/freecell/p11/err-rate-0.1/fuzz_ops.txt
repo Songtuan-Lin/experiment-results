@@ -1,0 +1,1 @@
+<Add Atom =(?cells, ?card) to Neg-effs: colfromfreecell>

@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom clear(?x) from Effects: unstack | Condition: False>
+<Component: Add Atom handempty() to Effects: stack | Condition: False>
+0.008128348
+memory: 13.17578125

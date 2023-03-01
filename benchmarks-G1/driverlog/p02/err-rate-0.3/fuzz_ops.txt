@@ -1,0 +1,2 @@
+<Add Atom link(?loc-from, ?driver) to Neg-effs: walk>
+<Add Atom obj(?loc) to Neg-effs: disembark-truck>

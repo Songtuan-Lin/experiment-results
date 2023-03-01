@@ -1,0 +1,5 @@
+<Component: Add Atom available(?x) to Effects: load | Condition: False>
+<Component: Add Atom lifting(?x, ?y) to Effects: lift | Condition: False>
+<Component: Remove Atom lifting(?x, ?y) from Precondition: drop | Condition: False>
+0.006797796999999994
+memory: 14.5390625

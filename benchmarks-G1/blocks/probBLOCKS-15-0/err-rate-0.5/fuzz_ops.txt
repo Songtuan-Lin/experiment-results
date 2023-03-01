@@ -1,0 +1,2 @@
+<Add Atom =(?x, ?y) to Neg-effs: stack>
+<Add Atom on(?y, ?x) to Neg-effs: unstack>

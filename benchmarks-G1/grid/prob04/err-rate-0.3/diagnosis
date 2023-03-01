@@ -1,0 +1,4 @@
+<Component: Remove Atom key-shape(?key, ?curpos) from Precondition: pickup | Condition: False>
+<Component: Remove Atom at(?curpos, ?key) from Precondition: putdown | Condition: False>
+0.007267445999999997
+memory: 13.17578125

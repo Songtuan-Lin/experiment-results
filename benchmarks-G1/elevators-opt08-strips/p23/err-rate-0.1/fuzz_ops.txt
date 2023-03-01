@@ -1,0 +1,1 @@
+<Remove Atom boarded(?p, ?lift) from Pos-effs: board>

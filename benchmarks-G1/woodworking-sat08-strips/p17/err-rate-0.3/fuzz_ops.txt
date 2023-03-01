@@ -1,0 +1,4 @@
+<Add Atom boardsize-successor(?s2, ?s1) to Neg-effs: do-saw-large>
+<Add Atom boardsize(?b, ?size_after) to Neg-effs: cut-board-large>
+<Add Atom contains-part(?b, ?p) to Neg-effs: cut-board-small>
+<Add Atom unused(?x) to Neg-effs: do-spray-varnish>

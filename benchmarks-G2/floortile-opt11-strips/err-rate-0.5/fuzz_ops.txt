@@ -1,0 +1,4 @@
+<Remove Atom painted(?y, ?c) from Pos-effs: paint-up>
+<Add Atom right(?x, ?x) to Neg-effs: right>
+<Add Atom free-color(?r) to Prec: up>
+<Add Atom right(?x, ?x) to Prec: left>

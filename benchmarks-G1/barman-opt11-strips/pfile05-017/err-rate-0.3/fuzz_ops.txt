@@ -1,0 +1,4 @@
+<Add Atom next(?l1, ?l1) to Neg-effs: empty-shaker>
+<Add Atom unshaked(?s) to Neg-effs: clean-shaker>
+<Add Atom cocktail-part2(?b, ?d2) to Neg-effs: shake>
+<Add Atom shaker-empty-level(?d, ?l1) to Neg-effs: pour-shot-to-used-shaker>

@@ -1,0 +1,3 @@
+<Add Atom ok() to Effs: ag__finish_round_renew>
+<Add Atom num_substract(?i1, ?i3, ?i2) to Effs: ag__harvest_collecting_fromoven>
+<Add Atom next_round(?r1, ?r1) to Effs: ag__advance_round_normal>

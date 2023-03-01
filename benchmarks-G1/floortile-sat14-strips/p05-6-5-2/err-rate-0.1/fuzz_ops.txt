@@ -1,0 +1,1 @@
+<Add Atom robot-at(?r, ?x) to Prec: paint-up>

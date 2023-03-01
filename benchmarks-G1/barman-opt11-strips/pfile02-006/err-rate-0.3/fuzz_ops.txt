@@ -1,0 +1,4 @@
+<Add Atom shaked(?d) to Neg-effs: pour-shot-to-clean-shaker>
+<Add Atom handempty(?h2) to Neg-effs: shake>
+<Add Atom holding(?h, ?c) to Neg-effs: grasp>
+<Add Atom next(?l1, ?l) to Neg-effs: empty-shaker>

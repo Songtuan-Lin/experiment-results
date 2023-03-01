@@ -1,0 +1,6 @@
+<Component: Add Atom robot-has(?r, ?c2) to Effects: change-color | Condition: False>
+<Component: Add Atom clear(?x) to Effects: left | Condition: False>
+<Component: Add Atom painted(?y, ?c) to Effects: paint-up | Condition: False>
+<Component: Add Atom clear(?x) to Effects: down | Condition: False>
+0.020250654999999992
+memory: 14.53515625

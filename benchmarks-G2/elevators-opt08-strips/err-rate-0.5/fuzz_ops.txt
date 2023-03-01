@@ -1,0 +1,3 @@
+<Remove Atom boarded(?p, ?lift) from Pos-effs: board>
+<Add Atom above(?f2, ?f1) to Neg-effs: move-up-fast>
+<Add Atom next(?f2, ?f1) to Neg-effs: move-down-slow>

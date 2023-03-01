@@ -1,0 +1,2 @@
+<Add Atom origin(?p, ?f) to Prec: board>
+<Add Atom lift-at(?f1) to Prec: up>

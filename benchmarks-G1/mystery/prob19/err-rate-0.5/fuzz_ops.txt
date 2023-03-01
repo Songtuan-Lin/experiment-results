@@ -1,0 +1,2 @@
+<Remove Atom fears(?c, ?v) from Pos-effs: overcome>
+<Remove Atom craves(?c, ?n) from Pos-effs: succumb>

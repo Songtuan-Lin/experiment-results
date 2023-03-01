@@ -1,0 +1,3 @@
+<Add Atom successor(?card, ?card) to Prec: sendtonewcol>
+<Add Atom canstack(?newcard, ?card) to Prec: colfromfreecell>
+<Add Atom canstack(?cols, ?cells) to Prec: sendtofree-b>

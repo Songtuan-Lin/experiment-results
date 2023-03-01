@@ -1,0 +1,1 @@
+<Add Atom visited(?curpos) to Neg-effs: move>

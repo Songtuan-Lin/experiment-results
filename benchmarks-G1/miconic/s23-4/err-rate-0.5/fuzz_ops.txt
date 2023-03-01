@@ -1,0 +1,2 @@
+<Add Atom destin(?f2, ?f1) to Prec: up>
+<Add Atom destin(?p, ?p) to Prec: depart>

@@ -1,0 +1,5 @@
+<Add Atom =(?cols, ?card) to Prec: newcolfromfreecell>
+<Add Atom colspace(?homecard) to Prec: sendtohome>
+<Add Atom clear(?ncells) to Prec: colfromfreecell>
+<Add Atom incell(?card) to Prec: sendtonewcol>
+<Add Atom colspace(?cols) to Prec: move-b>

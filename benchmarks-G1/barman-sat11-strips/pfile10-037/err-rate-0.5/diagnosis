@@ -1,0 +1,5 @@
+<Component: Add Atom dispenses(?d, ?i) to Effects: fill-shot | Condition: False>
+<Component: Add Atom empty(?c) to Effects: leave | Condition: False>
+<Component: Add Atom next(?l, ?l1) to Effects: pour-shot-to-used-shaker | Condition: False>
+0.024016868999999996
+memory: 14.53125

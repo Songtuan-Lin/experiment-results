@@ -1,0 +1,4 @@
+<Component: Add Atom at_person(?x5, ?x2) to Effects: walk_together | Condition: False>
+<Component: Add Atom at_person(?x5, ?x3) to Effects: drive_passenger | Condition: False>
+0.010619939000000002
+memory: 14.53125

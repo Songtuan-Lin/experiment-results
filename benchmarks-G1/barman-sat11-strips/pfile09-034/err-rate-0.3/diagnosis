@@ -1,0 +1,5 @@
+<Component: Remove Atom clean(?c) from Precondition: leave | Condition: False>
+<Component: Add Atom handempty(?h1) to Effects: fill-shot | Condition: False>
+<Component: Remove Atom next(?l, ?l) from Precondition: pour-shot-to-clean-shaker | Condition: False>
+0.014580472000000004
+memory: 13.16796875

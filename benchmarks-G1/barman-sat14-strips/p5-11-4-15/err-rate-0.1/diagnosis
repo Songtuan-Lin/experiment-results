@@ -1,0 +1,4 @@
+<Component: Remove Atom contains(?s, ?i) from Precondition: pour-shot-to-clean-shaker | Condition: False>
+<Component: Add Atom contains(?s, ?b) to Effects: shake | Condition: False>
+0.015873768999999996
+memory: 11.71875

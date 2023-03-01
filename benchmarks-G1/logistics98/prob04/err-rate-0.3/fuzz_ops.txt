@@ -1,0 +1,2 @@
+<Add Atom airport(?truck) to Prec: unload-truck>
+<Add Atom =(?obj, ?airplane) to Prec: load-airplane>

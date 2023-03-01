@@ -1,0 +1,3 @@
+<Remove NegatedAtom newborn() from Effs: ag__finish_round_backhome_withchild>
+<Remove NegatedAtom current_worker(?w1) from Effs: plow_field>
+<Remove NegatedAtom harvest_phase(?s, harvest_init) from Effs: ag__harvest_collect_end>

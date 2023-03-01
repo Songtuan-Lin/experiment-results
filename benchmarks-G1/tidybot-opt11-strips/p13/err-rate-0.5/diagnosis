@@ -1,0 +1,4 @@
+<Component: Add Atom object-done(?o) to Effects: finish-object | Condition: False>
+<Component: Add Atom object-pos(?o, ?gxabs, ?gyabs) to Effects: get-left | Condition: False>
+0.020421218000000005
+memory: 14.53125

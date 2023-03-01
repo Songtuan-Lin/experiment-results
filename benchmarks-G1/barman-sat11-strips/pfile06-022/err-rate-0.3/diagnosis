@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom handempty(?h2) from Effects: shake | Condition: False>
+<Component: Add Atom dispenses(?d, ?i) to Effects: fill-shot | Condition: False>
+<Component: Add Atom handempty(?h2) to Effects: clean-shot | Condition: False>
+0.014136878999999998
+memory: 13.16796875

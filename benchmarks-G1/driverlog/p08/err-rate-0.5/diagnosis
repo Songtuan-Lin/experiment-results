@@ -1,0 +1,4 @@
+<Component: Remove Atom at(?loc-to, ?loc-from) from Precondition: walk | Condition: False>
+<Component: Add Atom driving(?loc-to, ?truck) to Effects: drive-truck | Condition: False>
+0.004570734999999999
+memory: 14.53125

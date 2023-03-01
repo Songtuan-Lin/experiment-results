@@ -1,0 +1,4 @@
+<Component: Remove Atom base-pos(?r, ?basex, ?basey) from Precondition: gripper-up | Condition: False>
+<Component: Add NegatedAtom base-obstacle(?cgxabs, ?basey) to Effects: gripper-left | Condition: False>
+0.016406140999999992
+memory: 14.5390625

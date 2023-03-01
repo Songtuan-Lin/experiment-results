@@ -1,0 +1,4 @@
+<Component: Add Atom =(?truck, ?loc) to Effects: load-truck | Condition: False>
+<Component: Remove Atom =(?loc, ?truck) from Precondition: load-truck | Condition: False>
+0.004299731000000001
+memory: 14.53125

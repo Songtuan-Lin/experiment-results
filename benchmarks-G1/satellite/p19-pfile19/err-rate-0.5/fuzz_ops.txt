@@ -1,0 +1,3 @@
+<Add Atom have_image(?i, ?i) to Prec: switch_on>
+<Add Atom calibration_target(?d_prev, ?s) to Prec: turn_to>
+<Add Atom supports(?i, ?s) to Prec: switch_off>

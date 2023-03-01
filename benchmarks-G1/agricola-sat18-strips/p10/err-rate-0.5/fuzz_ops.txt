@@ -1,0 +1,11 @@
+<Add Atom num_substract(?i3, ?i3, ?i2) to Effs: ag__harvest_collecting_veg>
+<Add Atom next_worker(?newmax, ?newmax) to Neg-effs: ag__finish_round_backhome_withchild>
+<Add Atom next_worker(?wmax, ?wmax) to Effs: collect_resource>
+<Add Atom ok() to Effs: ag__harvest_collect_end>
+<Add Atom current_worker(?maxw) to Prec: ag__finish_round_backhome>
+<Add Atom current_worker(?maxw) to Effs: ag__finish_round_renew>
+<Add Atom can_harvest(?v) to Effs: take_grain>
+<Remove Atom newborn() from Pos-effs: family_growth>
+<Add Atom food_required(?wmax, ?i2) to Neg-effs: take_food>
+<Add Atom next_round(?r2, ?r1) to Effs: ag__advance_round_normal>
+<Add Atom next_worker(?w2, ?w1) to Effs: build_fences>

@@ -1,0 +1,3 @@
+<Add Atom idle() to Prec: end-splice-2>
+<Add Atom splicing-last() to Prec: end-splice-1>
+<Add Atom duplicate(?x, ?x) to Prec: end-cut-1>

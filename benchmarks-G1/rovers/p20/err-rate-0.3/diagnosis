@@ -1,0 +1,4 @@
+<Component: Add Atom calibrated(?i, ?r) to Effects: calibrate | Condition: False>
+<Component: Remove Atom have_image(?r, ?o, ?m) from Precondition: communicate_image_data | Condition: False>
+0.015591714999999999
+memory: 13.17578125

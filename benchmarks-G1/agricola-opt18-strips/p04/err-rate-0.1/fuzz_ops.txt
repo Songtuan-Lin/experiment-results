@@ -1,0 +1,3 @@
+<Remove Atom current_worker(?w2) from Pos-effs: collect_resource>
+<Remove Atom current_worker(?w2) from Pos-effs: take_grain>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_fromoven>

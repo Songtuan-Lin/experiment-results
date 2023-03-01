@@ -1,0 +1,4 @@
+<Add Atom shaker-empty-level(?s, ?l) to Neg-effs: pour-shaker-to-shot>
+<Add Atom unshaked(?s) to Neg-effs: clean-shaker>
+<Add Atom clean(?c) to Neg-effs: grasp>
+<Add Atom next(?l1, ?l) to Neg-effs: pour-shot-to-clean-shaker>

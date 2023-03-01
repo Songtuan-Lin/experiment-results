@@ -1,0 +1,5 @@
+<Component: Remove Atom have_soil_analysis(?r, ?p) from Precondition: communicate_soil_data | Condition: False>
+<Component: Add Atom communicated_image_data(?o, ?m) to Effects: take_image | Condition: False>
+<Component: Remove Atom have_image(?r, ?o, ?m) from Precondition: communicate_image_data | Condition: False>
+0.008011289999999997
+memory: 13.17578125

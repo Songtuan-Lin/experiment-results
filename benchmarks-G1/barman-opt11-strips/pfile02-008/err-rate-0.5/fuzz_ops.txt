@@ -1,0 +1,6 @@
+<Add Atom shaked(?s) to Neg-effs: shake>
+<Add Atom next(?l, ?l1) to Neg-effs: pour-shaker-to-shot>
+<Add Atom dispenses(?d, ?i) to Neg-effs: fill-shot>
+<Add Atom shaker-empty-level(?s, ?l) to Neg-effs: empty-shaker>
+<Add Atom dispenses(?d, ?i) to Neg-effs: refill-shot>
+<Add Atom clean(?c) to Neg-effs: leave>

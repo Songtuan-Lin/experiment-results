@@ -1,0 +1,6 @@
+<Component: Add Atom holding(?h, ?c) to Effects: grasp | Condition: False>
+<Component: Add Atom empty(?s) to Effects: fill-shot | Condition: False>
+<Component: Remove NegatedAtom ontable(?c) from Effects: grasp | Condition: False>
+<Component: Add Atom clean(?s) to Effects: clean-shot | Condition: False>
+0.018085554000000004
+memory: 13.16796875

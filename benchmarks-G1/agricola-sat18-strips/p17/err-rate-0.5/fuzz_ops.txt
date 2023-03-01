@@ -1,0 +1,11 @@
+<Add Atom food_required(?wmax, ?i1) to Effs: collect_cook_animal>
+<Add Atom next_worker(?wmax, ?w1) to Effs: plow_field>
+<Remove Atom open_action(?act) from Pos-effs: ag__advance_round_normal>
+<Remove Atom hold_round(?r, backhome) from Pos-effs: ag__finish_round_backhome_withchild>
+<Add Atom next_round(?r, ?r) to Prec: collect_animal>
+<Add Atom next_worker(?wmax, ?w2) to Effs: build_room>
+<Add Atom current_worker(?w1) to Effs: improve_home>
+<Remove Atom stored_veg(?v) from Pos-effs: take_grain>
+<Add Atom plowed_fields() to Effs: ag__finish_stage>
+<Remove NegatedAtom hold_round(?r, backhome) from Effs: ag__finish_round_renew>
+<Add Atom newborn() to Effs: ag__harvest_breed_end>

@@ -1,0 +1,6 @@
+<Component: Remove Atom instack(?c1) from Precondition: turn-deck | Condition: False>
+<Component: Add Atom successor(?vcard, ?vcard) to Effects: col-to-home-b | Condition: False>
+<Component: Remove Atom bottomtalon(?cardabove) from Precondition: tal-to-home | Condition: False>
+<Component: Add Atom talonplayable(?oldcard) to Effects: col-to-home | Condition: False>
+0.018460852000000007
+memory: 14.5390625

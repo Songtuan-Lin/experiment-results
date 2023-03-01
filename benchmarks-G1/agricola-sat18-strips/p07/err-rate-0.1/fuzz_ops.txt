@@ -1,0 +1,3 @@
+<Add Atom plowed_fields() to Neg-effs: build_fences>
+<Add Atom next_worker(?w1, ?w2) to Neg-effs: collect_animal>
+<Add Atom current_round(?r1) to Neg-effs: ag__advance_round_normal>

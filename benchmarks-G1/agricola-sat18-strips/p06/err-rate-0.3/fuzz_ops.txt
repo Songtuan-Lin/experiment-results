@@ -1,0 +1,7 @@
+<Remove NegatedAtom can_harvest(?v) from Effs: ag__harvest_collecting_veg>
+<Add Atom newborn() to Effs: ag__advance_round_normal>
+<Remove NegatedAtom available_action(?act) from Effs: collect_resource>
+<Add Atom next_worker(?wnewmax, ?w2) to Effs: family_growth>
+<Add Atom next_round(?r, ?r) to Effs: ag__finish_round_renew>
+<Remove Atom sown_veg(?v) from Pos-effs: sow>
+<Remove NegatedAtom can_breed(?a) from Effs: ag__harvest_breeding_animal>

@@ -1,0 +1,1 @@
+<Remove Atom on(?card, ?newcard) from Pos-effs: colfromfreecell>

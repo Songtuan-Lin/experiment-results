@@ -1,0 +1,5 @@
+<Component: Remove Atom can_traverse(?r, ?x, ?x) from Precondition: communicate_soil_data | Condition: False>
+<Component: Remove Atom have_rock_analysis(?x, ?z) from Precondition: navigate | Condition: False>
+<Component: Add Atom have_soil_analysis(?x, ?z) to Effects: navigate | Condition: False>
+0.038719356999999996
+memory: 14.53515625

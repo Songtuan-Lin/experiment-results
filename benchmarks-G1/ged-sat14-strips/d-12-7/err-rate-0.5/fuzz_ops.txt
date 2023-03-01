@@ -1,0 +1,11 @@
+<Add Atom idle() to Effs: begin-inverse-splice-special-case>
+<Remove Atom inverse-splice-next(?x) from Pos-effs: continue-inverse-splice-1b>
+<Remove NegatedAtom cw(?x, ?y) from Effs: begin-transverse-splice>
+<Add Atom duplicate(?y, ?y) to Effs: begin-cut>
+<Add Atom s-first(?y) to Effs: continue-inverse-splice-1a>
+<Add Atom gone(?x) to Effs: end-splice-1>
+<Add Atom s-next(?x, ?x) to Effs: continue-inverse-splice-2>
+<Add Atom swappable(?y, ?y) to Effs: end-splice-2>
+<Add Atom have-cut() to Effs: invert-single-gene-b>
+<Remove NegatedAtom cutting() from Effs: end-cut-2>
+<Add Atom free(?y) to Effs: continue-splice-2>

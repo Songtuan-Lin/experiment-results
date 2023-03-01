@@ -1,0 +1,6 @@
+<Add Atom next(?l1, ?l1) to Prec: pour-shot-to-clean-shaker>
+<Add Atom handempty(?h) to Neg-effs: empty-shot>
+<Remove Atom clean(?s) from Pos-effs: clean-shaker>
+<Add Atom shaker-empty-level(?d, ?l) to Neg-effs: pour-shot-to-used-shaker>
+<Add Atom dispenses(?d, ?i) to Neg-effs: fill-shot>
+<Remove Atom ontable(?c) from Pos-effs: leave>

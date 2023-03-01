@@ -1,0 +1,2 @@
+<Add Atom next(?f, ?f) to Prec: board>
+<Add Atom passengers(?lift, ?f) to Prec: leave>

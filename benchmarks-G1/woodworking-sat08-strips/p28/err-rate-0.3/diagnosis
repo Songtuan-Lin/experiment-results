@@ -1,0 +1,6 @@
+<Component: Add Atom treatment(?x, untreated) to Effects: do-plane | Condition: False>
+<Component: Remove Atom surface-condition(?x, ?oldsurface) from Precondition: do-plane | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-immersion-varnish | Condition: False>
+<Component: Add Atom treatment(?x, ?newtreatment) to Effects: do-grind | Condition: False>
+0.038150861999999994
+memory: 13.16796875

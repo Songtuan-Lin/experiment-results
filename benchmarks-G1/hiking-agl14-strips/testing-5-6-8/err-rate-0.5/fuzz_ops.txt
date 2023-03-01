@@ -1,0 +1,4 @@
+<Add Atom up(?x1) to Effs: walk_together>
+<Add Atom next(?x3, ?x3) to Effs: drive_tent>
+<Add Atom down(?x5) to Effs: drive_tent_passenger>
+<Remove NegatedAtom at_car(?x4, ?x2) from Effs: drive>

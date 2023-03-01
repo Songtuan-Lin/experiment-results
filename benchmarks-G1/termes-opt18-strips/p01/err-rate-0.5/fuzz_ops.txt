@@ -1,0 +1,4 @@
+<Add Atom at(?p) to Prec: destroy-block>
+<Add Atom is-depot(?rpos) to Effs: remove-block>
+<Add Atom at(?p) to Effs: create-block>
+<Remove Atom at(?to) from Pos-effs: move>

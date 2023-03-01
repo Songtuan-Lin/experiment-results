@@ -1,0 +1,7 @@
+<Add Atom next_worker(?w2, ?w2) to Effs: collect_animal>
+<Remove Atom harvest_phase(?s2, harvest_init) from Pos-effs: ag__finish_stage>
+<Remove Atom hold_round(?r, backhome) from Pos-effs: ag__finish_round_backhome>
+<Add Atom num_substract(?i1, ?i1, ?i1) to Effs: take_food>
+<Add Atom max_worker(?maxw) to Effs: ag__finish_round_renew>
+<Add Atom next_stage(?s, ?s) to Effs: ag__harvest_breed_end>
+<Remove NegatedAtom newborn() from Effs: ag__finish_round_backhome_withchild>

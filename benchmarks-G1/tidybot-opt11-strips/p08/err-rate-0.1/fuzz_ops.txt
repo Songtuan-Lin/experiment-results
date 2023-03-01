@@ -1,0 +1,3 @@
+<Remove Atom pushing(?r, ?c) from Pos-effs: grasp-cart-right>
+<Remove Atom gripper-obstacle(?dgxabs, ?gyabs) from Pos-effs: gripper-left>
+<Remove Atom object-done(?o) from Pos-effs: finish-object>

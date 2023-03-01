@@ -1,0 +1,2 @@
+<Add Atom sum(?size, ?limit, ?after) to Effs: load>
+<Add Atom data-size(?in2, ?before) to Effs: process>

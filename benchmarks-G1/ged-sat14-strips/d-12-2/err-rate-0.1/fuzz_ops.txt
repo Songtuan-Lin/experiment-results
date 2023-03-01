@@ -1,0 +1,3 @@
+<Remove NegatedAtom s-last(?x) from Effs: continue-cut>
+<Remove NegatedAtom splicing() from Effs: continue-splice-1>
+<Remove NegatedAtom cw(?x, ?x) from Effs: begin-inverse-splice-special-case>

@@ -1,0 +1,7 @@
+<Add Atom clear(?homecard) to Neg-effs: tal-to-home-b>
+<Add Atom colsuccessor(?cols, ?ncols) to Neg-effs: move-col-to-col-b>
+<Add Atom successor(?vcard, ?vcard) to Neg-effs: col-to-home>
+<Add Atom ontalon(?cardbelow, ?cardbelow) to Neg-effs: tal-to-home>
+<Add Atom value(?newcard, ?vcard) to Neg-effs: home-to-col>
+<Add Atom instack(?card) to Neg-effs: home-to-col-a>
+<Add Atom toptalon(?oldcard) to Neg-effs: move-col-to-col>

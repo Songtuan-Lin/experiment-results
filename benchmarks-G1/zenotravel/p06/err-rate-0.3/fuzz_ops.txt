@@ -1,0 +1,2 @@
+<Add Atom next(?p, ?p) to Prec: board>
+<Add Atom in(?l1, ?l2) to Prec: fly>

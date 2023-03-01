@@ -1,0 +1,2 @@
+<Remove NegatedAtom at_right_l(?element, ?xy_initial1, ?xy_initial2, ?xy_initial3) from Effs: move_l_left>
+<Add Atom at_right_l(?element, ?xy_final, ?xy_between_final, ?xy_initial1) to Effs: move_l_right>

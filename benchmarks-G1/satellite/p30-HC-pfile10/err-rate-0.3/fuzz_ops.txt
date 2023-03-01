@@ -1,0 +1,2 @@
+<Remove Atom have_image(?d, ?m) from Pos-effs: take_image>
+<Remove Atom power_on(?i) from Pos-effs: switch_on>

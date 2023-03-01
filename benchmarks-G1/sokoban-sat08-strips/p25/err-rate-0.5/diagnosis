@@ -1,0 +1,4 @@
+<Component: Add Atom is-nongoal(?from) to Effects: push-to-goal | Condition: False>
+<Component: Add Atom move-dir(?from, ?to, ?dir) to Effects: move | Condition: False>
+0.033725763
+memory: 14.53125

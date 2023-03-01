@@ -1,0 +1,4 @@
+<Component: Add Atom =(?loc-to, ?airplane) to Effects: fly-airplane | Condition: False>
+<Component: Remove Atom in-city(?city, ?city) from Precondition: drive-truck | Condition: False>
+0.007011605999999997
+memory: 14.5390625

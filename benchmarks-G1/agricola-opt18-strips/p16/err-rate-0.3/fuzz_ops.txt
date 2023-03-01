@@ -1,0 +1,7 @@
+<Add Atom current_stage(?s) to Neg-effs: ag__harvest_collect_end>
+<Add Atom next_round(?r, ?r) to Prec: ag__finish_round_backhome>
+<Remove Atom current_worker(?w2) from Pos-effs: collect_animal>
+<Add Atom current_worker(?w1) to Effs: build_room>
+<Add Atom next_stage(?s, ?s) to Neg-effs: ag__harvest_feed>
+<Add Atom num_substract(?i2, ?i2, ?i3) to Effs: ag__harvest_collecting_veg>
+<Remove Atom current_worker(?w2) from Pos-effs: build_fences>

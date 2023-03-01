@@ -1,0 +1,2 @@
+<Remove Atom contains(?d, ?i) from Pos-effs: pour-shot-to-used-shaker>
+<Remove Atom unshaked(?d) from Pos-effs: pour-shot-to-clean-shaker>

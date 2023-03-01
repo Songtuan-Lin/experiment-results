@@ -1,0 +1,4 @@
+<Add Atom next(?x2, ?x3) to Effs: drive>
+<Remove Atom up(?x3) from Pos-effs: put_up>
+<Remove NegatedAtom up(?x3) from Effs: put_down>
+<Remove NegatedAtom at_tent(?x5, ?x2) from Effs: drive_tent_passenger>

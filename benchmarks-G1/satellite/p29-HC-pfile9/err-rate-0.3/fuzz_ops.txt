@@ -1,0 +1,2 @@
+<Add Atom calibration_target(?s, ?d) to Prec: take_image>
+<Add Atom supports(?i, ?d) to Prec: calibrate>

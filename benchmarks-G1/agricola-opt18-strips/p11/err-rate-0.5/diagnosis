@@ -1,0 +1,5 @@
+<Component: Add Atom fences_for(boar) to Effects: ag__finish_stage | Condition: False>
+<Component: Remove Atom next_round(?r2, ?r2) from Precondition: ag__advance_round_normal | Condition: False>
+<Component: Add Atom num_substract(?i2, ?i1, ?i1) to Effects: collect_cook_animal | Condition: False>
+0.036156472
+memory: 14.53125

@@ -1,0 +1,2 @@
+<Remove Atom driving(?driver, ?truck) from Pos-effs: board-truck>
+<Remove Atom empty(?truck) from Pos-effs: disembark-truck>

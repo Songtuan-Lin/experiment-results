@@ -1,0 +1,3 @@
+<Add Atom pushing(?r, ?c) to Effs: ungrasp-cart>
+<Add Atom above(?dy, ?dy) to Effs: base-down>
+<Add Atom leftof(?cgxabs, ?cgxabs) to Effs: gripper-left>

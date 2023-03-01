@@ -1,0 +1,2 @@
+<Add Atom is-nongoal(?from) to Neg-effs: move>
+<Add Atom is-goal(?ppos) to Neg-effs: push-to-goal>

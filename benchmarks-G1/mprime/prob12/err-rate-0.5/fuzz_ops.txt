@@ -1,0 +1,2 @@
+<Add Atom locale(?c, ?v) to Effs: succumb>
+<Add Atom orbits(?s2, ?v) to Neg-effs: overcome>

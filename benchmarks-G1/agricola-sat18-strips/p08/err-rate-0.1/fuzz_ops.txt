@@ -1,0 +1,3 @@
+<Add Atom current_round(?r) to Effs: ag__finish_round_backhome>
+<Add Atom next_worker(?w1, ?w1) to Effs: sow>
+<Add Atom current_round(?r) to Effs: plow_field>

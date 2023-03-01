@@ -1,0 +1,7 @@
+<Add Atom king(?cardbelow) to Prec: tal-to-home-c>
+<Add Atom clear(?oldcard) to Prec: col-to-home>
+<Add Atom talonplayable(?oldcard) to Prec: tal-to-col-e>
+<Add Atom canstack(?card, ?oldcard) to Prec: tal-to-col-g>
+<Add Atom clear(?newcard) to Prec: tal-to-col-d>
+<Add Atom instack(?c1) to Prec: turn-deck>
+<Add Atom canstack(?card, ?homecard) to Prec: col-to-home-b>

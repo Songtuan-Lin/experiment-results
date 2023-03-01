@@ -1,0 +1,6 @@
+<Component: Add Atom canstack(?card, ?c1) to Effects: turn-deck | Condition: False>
+<Component: Remove Atom toptalon(?oldcard) from Precondition: move-col-to-col-c | Condition: False>
+<Component: Remove Atom canstack(?card, ?card) from Precondition: tal-to-col | Condition: False>
+<Component: Remove Atom on(?oldcard, ?oldcard) from Precondition: move-col-to-col | Condition: False>
+0.046814643
+memory: 13.16796875

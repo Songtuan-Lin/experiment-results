@@ -1,0 +1,6 @@
+<Component: Add Atom gripper-empty(?r) to Effects: get-down | Condition: False>
+<Component: Add Atom sum-y(?cgyabs, ?dgyrel, ?basey) to Effects: gripper-down | Condition: False>
+<Component: Remove Atom leftof(?gxabs, ?basex) from Precondition: gripper-down | Condition: False>
+<Component: Remove Atom object-pos(?o, ?x, ?y) from Precondition: finish-object | Condition: False>
+0.099200282
+memory: 18.67578125

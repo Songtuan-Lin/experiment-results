@@ -1,0 +1,11 @@
+<Remove NegatedAtom splice-point-1(?x) from Effs: end-splice-2>
+<Remove Atom cw(?y, ?x) from Pos-effs: continue-splice-2>
+<Add Atom s-next(?y, ?y) to Effs: continue-inverse-splice-2>
+<Remove Atom splice-point-2(?y) from Pos-effs: begin-transverse-splice>
+<Remove Atom inverted(?x) from Pos-effs: continue-inverse-splice-1a>
+<Add Atom idle() to Effs: end-inverse-splice-2>
+<Add Atom s-next(?x, ?x) to Effs: invert-single-gene-a>
+<Remove Atom cw(?x, ?y) from Pos-effs: end-cut-2>
+<Add Atom cutting() to Effs: end-inverse-splice-1a>
+<Add Atom free(?y) to Effs: begin-inverse-splice>
+<Remove Atom cw(?y, ?x) from Pos-effs: end-splice-1>

@@ -1,0 +1,4 @@
+<Component: Add Atom unitary(?pipe) to Effects: pop-start | Condition: False>
+<Component: Add Atom push-updating(?pipe) to Effects: pop-unitarypipe | Condition: False>
+0.012172860000000008
+memory: 14.53515625

@@ -1,0 +1,2 @@
+<Remove Atom wood(?p, ?w) from Pos-effs: cut-board-medium>
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-glaze>

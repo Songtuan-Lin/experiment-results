@@ -1,0 +1,2 @@
+<Remove NegatedAtom gripper-rel(?r, ?cgxrel, ?gyrel) from Effs: gripper-left>
+<Remove NegatedAtom object-pos(?o, ?ox, ?gyabs) from Effs: get-left>

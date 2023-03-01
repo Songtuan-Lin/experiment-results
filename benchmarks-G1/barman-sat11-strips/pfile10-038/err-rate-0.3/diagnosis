@@ -1,0 +1,6 @@
+<Component: Remove NegatedAtom dispenses(?d, ?i) from Effects: fill-shot | Condition: False>
+<Component: Remove NegatedAtom next(?l1, ?l) from Effects: pour-shaker-to-shot | Condition: False>
+<Component: Remove Atom handempty(?h) from Precondition: grasp | Condition: False>
+<Component: Add Atom handempty(?h2) to Effects: shake | Condition: False>
+0.018095386000000005
+memory: 13.17578125

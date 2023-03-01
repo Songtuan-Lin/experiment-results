@@ -1,0 +1,4 @@
+<Component: Add Atom fuel-level(?a, ?l1) to Effects: fly | Condition: False>
+<Component: Add Atom at(?p, ?c) to Effects: debark | Condition: False>
+0.008629348000000002
+memory: 13.17578125

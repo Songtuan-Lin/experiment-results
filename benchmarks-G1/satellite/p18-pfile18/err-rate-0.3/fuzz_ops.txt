@@ -1,0 +1,2 @@
+<Add Atom supports(?s, ?d) to Neg-effs: take_image>
+<Add Atom supports(?d, ?s) to Neg-effs: calibrate>

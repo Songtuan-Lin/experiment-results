@@ -1,0 +1,2 @@
+<Remove Atom clear(?xy_initial3) from Pos-effs: move_l_left>
+<Remove Atom clear(?xy_initial1) from Pos-effs: move_l_right>

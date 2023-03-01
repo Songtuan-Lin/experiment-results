@@ -1,0 +1,2 @@
+<Remove Atom contains(?d, ?i) from Pos-effs: pour-shot-to-clean-shaker>
+<Remove Atom handempty(?h) from Pos-effs: leave>

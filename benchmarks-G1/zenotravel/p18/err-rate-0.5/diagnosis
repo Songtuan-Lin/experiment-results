@@ -1,0 +1,5 @@
+<Component: Remove Atom person(?c) from Precondition: debark | Condition: False>
+<Component: Remove Atom next(?l1, ?c1) from Precondition: fly | Condition: False>
+<Component: Add Atom at(?a, ?l2) to Effects: fly | Condition: False>
+0.015648537999999997
+memory: 14.53125

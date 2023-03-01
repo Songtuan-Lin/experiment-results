@@ -1,0 +1,2 @@
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>
+<Remove Atom colour(?p, natural) from Pos-effs: cut-board-large>

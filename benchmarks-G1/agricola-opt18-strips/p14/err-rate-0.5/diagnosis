@@ -1,0 +1,5 @@
+<Component: Add Atom current_round(?r2) to Effects: ag__advance_round_normal | Condition: False>
+<Component: Add Atom next_worker(?wmax, ?w1) to Effects: collect_cook_animal | Condition: False>
+<Component: Add Atom current_worker(?w2) to Effects: take_food | Condition: False>
+0.027885842
+memory: 14.53125

@@ -1,0 +1,5 @@
+<Component: Remove Atom splice-point-1(?x) from Precondition: end-cut-1 | Condition: False>
+<Component: Add Atom last-cut-point(?x) to Effects: end-cut-2 | Condition: False>
+<Component: Add Atom normal(?x) to Effects: invert-single-gene-b | Condition: False>
+0.31788547300000003
+memory: 18.109375

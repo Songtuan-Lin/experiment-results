@@ -1,0 +1,2 @@
+<Add Atom ispoint(?spawnpoint) to Neg-effs: move-and-eat-spawn>
+<Add Atom =(?head, ?newhead) to Neg-effs: move-and-eat-no-spawn>

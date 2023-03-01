@@ -1,0 +1,4 @@
+<Component: Add Atom leftof(?basex, ?gxabs) to Effects: gripper-up | Condition: False>
+<Component: Remove Atom holding(?r, ?o) from Precondition: put-right | Condition: False>
+0.02794262
+memory: 14.53125

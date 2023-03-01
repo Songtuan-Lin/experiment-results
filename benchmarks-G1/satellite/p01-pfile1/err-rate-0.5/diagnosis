@@ -1,0 +1,4 @@
+<Component: Remove Atom pointing(?d, ?i) from Precondition: calibrate | Condition: False>
+<Component: Remove Atom calibrated(?i) from Precondition: switch_on | Condition: False>
+0.0033035439999999985
+memory: 14.53125

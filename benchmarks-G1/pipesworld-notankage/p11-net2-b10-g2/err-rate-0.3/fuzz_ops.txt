@@ -1,0 +1,2 @@
+<Remove Atom on(?last-batch-atom, ?from-area) from Pos-effs: pop-unitarypipe>
+<Remove Atom follow(?batch-atom-in, ?last-batch-atom) from Pos-effs: pop-start>

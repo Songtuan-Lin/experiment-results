@@ -1,0 +1,6 @@
+<Component: Remove NegatedAtom clean(?s) from Effects: fill-shot | Condition: False>
+<Component: Add Atom contains(?s, ?b) to Effects: shake | Condition: False>
+<Component: Add Atom empty(?s) to Effects: shake | Condition: False>
+<Component: Add Atom clean(?s) to Effects: clean-shaker | Condition: False>
+0.033674977
+memory: 13.171875

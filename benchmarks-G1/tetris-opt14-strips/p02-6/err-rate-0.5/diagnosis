@@ -1,0 +1,5 @@
+<Component: Add Atom clear(?xy_initial1) to Effects: move_l_down | Condition: False>
+<Component: Remove Atom at_two(?element, ?xy_initial1, ?xy_initial2) from Precondition: move_two | Condition: False>
+<Component: Add Atom connected(?xy_initial, ?xy_final) to Effects: move_square | Condition: False>
+0.014432488000000007
+memory: 14.53125

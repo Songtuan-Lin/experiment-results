@@ -1,0 +1,2 @@
+<Remove Atom clear(?xy_initial) from Pos-effs: move_square>
+<Add Atom clear(?xy_final) to Effs: move_two>

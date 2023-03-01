@@ -1,0 +1,2 @@
+<Add Atom cycle-4-with-analysis(?s4, ?s2, ?s1, ?s1) to Prec: rotate-4>
+<Add Atom cycle-4-with-analysis(?s1, ?s1, ?s2, ?s2) to Prec: analyze-2>

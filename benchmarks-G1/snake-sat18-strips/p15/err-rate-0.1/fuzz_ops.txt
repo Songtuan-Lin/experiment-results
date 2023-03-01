@@ -1,0 +1,1 @@
+<Add Atom nextspawn(?head, ?newhead) to Neg-effs: move-and-eat-spawn>

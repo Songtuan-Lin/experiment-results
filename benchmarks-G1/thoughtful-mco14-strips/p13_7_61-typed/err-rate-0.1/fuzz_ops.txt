@@ -1,0 +1,3 @@
+<Add Atom value(?oldcard, ?vhomecard) to Prec: col-to-home>
+<Add Atom bottomtalon(?card) to Prec: tal-to-col-g>
+<Add Atom king(?newcard) to Prec: tal-to-col-b>

@@ -1,0 +1,2 @@
+<Add Atom at(?rpos) to Effs: place-block>
+<Add Atom succ(?hafter, ?hafter) to Prec: remove-block>

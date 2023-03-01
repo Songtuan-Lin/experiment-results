@@ -1,0 +1,4 @@
+<Component: Remove Atom next(?p, ?p) from Precondition: board | Condition: False>
+<Component: Remove Atom in(?l1, ?l2) from Precondition: fly | Condition: False>
+0.003315481000000002
+memory: 13.16796875

@@ -1,0 +1,3 @@
+<Add Atom is-product(?first-batch-atom, ?product-batch-atom-in) to Prec: push-unitarypipe>
+<Add Atom first(?first-batch-atom, ?pipe) to Prec: pop-end>
+<Add Atom pop-updating(?pipe) to Prec: pop-start>

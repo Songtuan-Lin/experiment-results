@@ -1,0 +1,2 @@
+<Add Atom key-shape(?key, ?curpos) to Prec: pickup>
+<Add Atom key(?curpos) to Prec: move>

@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom successor(?cols, ?ncols) from Effects: sendtonewcol | Condition: False>
+<Component: Add Atom successor(?vcard, ?vhomecard) to Effects: homefromfreecell | Condition: False>
+0.014175512999999994
+memory: 14.5390625

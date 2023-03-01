@@ -1,0 +1,2 @@
+<Add Atom is-nongoal(?to) to Prec: move>
+<Add Atom move-dir(?ppos, ?to, ?dir) to Prec: push-to-goal>

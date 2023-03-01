@@ -1,0 +1,6 @@
+<Add Atom handempty(?h1) to Neg-effs: clean-shot>
+<Add Atom clean(?c) to Neg-effs: grasp>
+<Add Atom handempty(?h) to Prec: empty-shot>
+<Add Atom ontable(?c) to Prec: leave>
+<Remove Atom contains(?s, ?i) from Pos-effs: fill-shot>
+<Remove Atom contains(?s, ?i) from Pos-effs: refill-shot>

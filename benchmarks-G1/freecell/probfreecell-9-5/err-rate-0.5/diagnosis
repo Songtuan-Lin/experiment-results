@@ -1,0 +1,5 @@
+<Component: Add Atom clear(?oldcard) to Effects: sendtofree | Condition: False>
+<Component: Add Atom clear(?oldcard) to Effects: sendtohome | Condition: False>
+<Component: Add Atom bottomcol(?card) to Effects: sendtonewcol | Condition: False>
+0.01931330600000001
+memory: 14.5390625

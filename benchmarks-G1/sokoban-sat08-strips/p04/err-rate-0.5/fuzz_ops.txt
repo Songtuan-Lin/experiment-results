@@ -1,0 +1,2 @@
+<Add Atom clear(?to) to Prec: move>
+<Add Atom clear(?ppos) to Prec: push-to-goal>

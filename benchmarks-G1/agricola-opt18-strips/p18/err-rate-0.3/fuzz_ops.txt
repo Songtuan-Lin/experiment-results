@@ -1,0 +1,7 @@
+<Remove Atom current_worker(?w2) from Pos-effs: take_grain>
+<Remove NegatedAtom current_worker(?w1) from Effs: build_fences>
+<Remove Atom harvest_phase(?s, harvest_end) from Pos-effs: ag__harvest_breed_end>
+<Remove NegatedAtom can_breed(?a) from Effs: ag__harvest_breeding_animal>
+<Remove NegatedAtom can_harvest(?v) from Effs: ag__harvest_collecting_veg>
+<Add Atom plowed_fields() to Effs: improve_home>
+<Add Atom num_substract(?ifeed, ?inow, ?ifeed) to Effs: ag__harvest_feed>

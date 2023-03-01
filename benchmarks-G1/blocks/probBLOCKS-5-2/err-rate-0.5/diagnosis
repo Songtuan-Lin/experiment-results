@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom handempty() from Effects: unstack | Condition: False>
+<Component: Remove Atom holding(?x) from Precondition: put-down | Condition: False>
+0.0031154409999999966
+memory: 14.53125

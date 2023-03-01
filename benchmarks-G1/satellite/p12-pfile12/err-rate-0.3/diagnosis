@@ -1,0 +1,4 @@
+<Component: Add Atom power_on(?i) to Effects: switch_on | Condition: False>
+<Component: Add Atom pointing(?s, ?d_new) to Effects: turn_to | Condition: False>
+0.005415225999999995
+memory: 13.16796875

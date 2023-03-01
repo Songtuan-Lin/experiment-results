@@ -1,0 +1,2 @@
+<Add Atom power_avail(?s) to Prec: take_image>
+<Add Atom power_on(?s) to Prec: switch_on>

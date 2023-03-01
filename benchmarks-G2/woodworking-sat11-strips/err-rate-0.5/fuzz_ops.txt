@@ -1,0 +1,7 @@
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: unload-highspeed-saw>
+<Add Atom boardsize-successor(?size_after, ?size_before) to Prec: do-saw-medium>
+<Add Atom grind-treatment-change(?oldtreatment, ?newtreatment) to Prec: do-grind>
+<Add Atom boardsize(?b, ?s1) to Prec: do-saw-large>
+<Add Atom colour(?x, ?oldcolour) to Prec: do-plane>
+<Remove Atom in-highspeed-saw(?b, ?m) from Pos-effs: load-highspeed-saw>
+<Remove Atom surface-condition(?p, ?surface) from Pos-effs: cut-board-large>

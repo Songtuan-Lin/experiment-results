@@ -1,0 +1,3 @@
+<Add Atom =(?p, ?y) to Prec: lift>
+<Add Atom at(?z, ?z) to Prec: drive>
+<Add Atom =(?z, ?z) to Prec: unload>

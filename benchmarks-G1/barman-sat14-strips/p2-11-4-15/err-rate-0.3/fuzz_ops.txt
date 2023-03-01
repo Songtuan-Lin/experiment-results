@@ -1,0 +1,4 @@
+<Add Atom handempty(?h1) to Neg-effs: clean-shaker>
+<Add Atom handempty(?h) to Neg-effs: empty-shaker>
+<Add Atom handempty(?h1) to Neg-effs: refill-shot>
+<Add Atom shaker-empty-level(?d, ?l1) to Neg-effs: pour-shot-to-clean-shaker>

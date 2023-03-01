@@ -1,0 +1,2 @@
+<Add Atom in(?p, ?t) to Prec: load>
+<Add Atom sum(?fueldelta, ?fueldelta, ?fuelpre) to Prec: drive>

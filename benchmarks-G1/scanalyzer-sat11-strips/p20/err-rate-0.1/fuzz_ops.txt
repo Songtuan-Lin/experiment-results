@@ -1,0 +1,1 @@
+<Add Atom cycle-4-with-analysis(?s1, ?s1, ?s1, ?s2) to Neg-effs: analyze-2>

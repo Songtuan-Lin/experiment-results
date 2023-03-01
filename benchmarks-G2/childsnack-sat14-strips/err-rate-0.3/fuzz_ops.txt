@@ -1,0 +1,2 @@
+<Remove Atom at(?t, ?p2) from Pos-effs: move_tray>
+<Add Atom at_kitchen_sandwich(?s) to Prec: put_on_tray>

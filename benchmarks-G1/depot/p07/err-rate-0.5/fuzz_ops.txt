@@ -1,0 +1,3 @@
+<Remove Atom at(?x, ?z) from Pos-effs: drive>
+<Remove Atom at(?y, ?p) from Pos-effs: drop>
+<Remove Atom available(?x) from Pos-effs: load>

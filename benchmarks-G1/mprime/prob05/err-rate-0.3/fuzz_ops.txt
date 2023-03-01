@@ -1,0 +1,2 @@
+<Add Atom =(?l11, ?l12) to Neg-effs: drink>
+<Add Atom =(?n, ?n) to Neg-effs: overcome>

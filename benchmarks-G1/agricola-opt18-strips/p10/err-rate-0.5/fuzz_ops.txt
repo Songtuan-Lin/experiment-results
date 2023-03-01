@@ -1,0 +1,11 @@
+<Remove NegatedAtom available_action(act_build) from Effs: build_room>
+<Add Atom next_worker(?wmax, ?w1) to Effs: collect_resource>
+<Add Atom next_round(?r, ?r) to Effs: ag__harvest_breeding_animal>
+<Add Atom next_stage(?s, ?s) to Effs: ag__harvest_collect_end>
+<Add Atom next_round(?r, ?r) to Prec: ag__harvest_breed_end>
+<Add Atom next_worker(?w2, ?wmax) to Effs: plow_field>
+<Add Atom next_round(?r2, ?r1) to Neg-effs: ag__advance_round_normal>
+<Remove Atom num_food(?i2) from Pos-effs: collect_cook_animal>
+<Add Atom next_round(?r, ?r) to Effs: collect_animal>
+<Add Atom current_round(?r) to Prec: build_fences>
+<Add Atom next_num(?i1, ?i1) to Effs: take_food>

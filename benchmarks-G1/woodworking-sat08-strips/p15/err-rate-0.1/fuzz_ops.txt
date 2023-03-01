@@ -1,0 +1,2 @@
+<Add Atom is-smooth(?oldsurface) to Neg-effs: do-plane>
+<Add Atom unused(?x) to Neg-effs: do-glaze>

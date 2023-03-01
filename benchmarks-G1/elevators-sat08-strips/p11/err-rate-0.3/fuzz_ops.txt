@@ -1,0 +1,2 @@
+<Add Atom next(?n1, ?n2) to Prec: board>
+<Add Atom above(?f1, ?f1) to Prec: move-down-fast>

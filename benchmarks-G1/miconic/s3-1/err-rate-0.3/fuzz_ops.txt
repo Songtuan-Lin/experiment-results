@@ -1,0 +1,2 @@
+<Add Atom =(?p, ?f) to Neg-effs: depart>
+<Add Atom above(?f2, ?f1) to Neg-effs: down>

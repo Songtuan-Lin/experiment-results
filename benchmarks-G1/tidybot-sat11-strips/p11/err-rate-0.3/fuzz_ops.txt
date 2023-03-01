@@ -1,0 +1,9 @@
+<Remove Atom parked(?r) from Pos-effs: park>
+<Remove Atom pushing(?r, ?c) from Pos-effs: grasp-cart-above>
+<Add Atom above-rel(?y, ?y) to Effs: unpark>
+<Add Atom base-obstacle(?x, ?y) to Effs: grasp-cart-below>
+<Add Atom parked(?r) to Effs: get-down>
+<Add Atom cart-pos(?c, ?cx, ?y) to Effs: grasp-cart-right>
+<Remove Atom base-pos(?r, ?dx, ?y) from Pos-effs: base-right>
+<Remove Atom base-obstacle(?cx2, ?cy) from Pos-effs: base-cart-right>
+<Add Atom base-obstacle(?x, ?cy2) to Effs: base-cart-down>

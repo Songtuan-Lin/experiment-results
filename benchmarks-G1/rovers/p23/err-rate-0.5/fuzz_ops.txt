@@ -1,0 +1,5 @@
+<Add Atom available(?r) to Prec: communicate_soil_data>
+<Add Atom visible(?y, ?y) to Prec: communicate_rock_data>
+<Add Atom visible(?z, ?y) to Prec: navigate>
+<Add Atom at_soil_sample(?p) to Prec: take_image>
+<Add Atom have_soil_analysis(?x, ?p) to Prec: sample_soil>

@@ -1,0 +1,7 @@
+<Add Atom ok() to Neg-effs: build_fences>
+<Add Atom current_round(?r) to Effs: collect_animal>
+<Add Atom next_worker(?w2, ?wmax) to Effs: take_grain>
+<Add Atom plowed_fields() to Effs: ag__finish_round_backhome>
+<Remove Atom current_round(?r2) from Pos-effs: ag__finish_stage>
+<Add Atom plowed_fields() to Effs: take_food>
+<Add Atom next_worker(?w1, ?w2) to Effs: improve_home>

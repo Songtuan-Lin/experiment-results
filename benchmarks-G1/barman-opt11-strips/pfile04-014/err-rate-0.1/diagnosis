@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom handempty(?h) from Effects: grasp | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: refill-shot | Condition: False>
+0.011386804000000007
+memory: 11.73828125

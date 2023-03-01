@@ -1,0 +1,3 @@
+<Add Atom current_round(?r) to Effs: ag__finish_round_renew>
+<Add Atom max_worker(?w2) to Effs: collect_cook_animal>
+<Add Atom next_stage(?s1, ?s2) to Effs: ag__finish_stage>

@@ -1,0 +1,1 @@
+<Add Atom on_board(?s, ?d_prev) to Neg-effs: turn_to>

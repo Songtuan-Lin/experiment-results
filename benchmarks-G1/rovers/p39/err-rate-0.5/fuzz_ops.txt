@@ -1,0 +1,5 @@
+<Add Atom store_of(?s, ?x) to Prec: sample_soil>
+<Add Atom have_image(?r, ?o, ?m) to Prec: take_image>
+<Add Atom calibration_target(?i, ?t) to Prec: calibrate>
+<Add Atom store_of(?y, ?x) to Prec: drop>
+<Add Atom have_soil_analysis(?r, ?p) to Prec: communicate_rock_data>

@@ -1,0 +1,2 @@
+<Add Atom next(?l1, ?l1) to Prec: pour-shot-to-clean-shaker>
+<Add Atom clean(?c) to Prec: leave>

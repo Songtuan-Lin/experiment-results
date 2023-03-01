@@ -1,0 +1,2 @@
+<Add Atom orbits(?l13, ?n2) to Effs: drink>
+<Add Atom attacks(?l1, ?l2) to Effs: feast>

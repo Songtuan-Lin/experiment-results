@@ -1,0 +1,1 @@
+<Add Atom move-ended() to Neg-effs: end-move>

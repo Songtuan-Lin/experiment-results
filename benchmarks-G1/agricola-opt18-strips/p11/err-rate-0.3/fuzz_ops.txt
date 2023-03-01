@@ -1,0 +1,7 @@
+<Add Atom sown_veg(?v) to Effs: take_grain>
+<Remove Atom available_action(act_wood) from Pos-effs: ag__finish_round_renew>
+<Remove NegatedAtom can_harvest(?v) from Effs: ag__harvest_collecting_veg>
+<Add Atom num_substract(?i3, ?i1, ?i2) to Neg-effs: ag__harvest_collecting_fromoven>
+<Add Atom drawcard_round(?act, ?r1) to Neg-effs: ag__advance_round_normal>
+<Add Atom max_worker(?w2) to Effs: sow>
+<Add Atom newborn() to Effs: ag__harvest_breed_end>

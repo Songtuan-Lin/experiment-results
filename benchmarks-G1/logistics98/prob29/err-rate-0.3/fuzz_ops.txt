@@ -1,0 +1,2 @@
+<Add Atom location(?loc-from) to Neg-effs: fly-airplane>
+<Add Atom truck(?airplane) to Neg-effs: unload-airplane>

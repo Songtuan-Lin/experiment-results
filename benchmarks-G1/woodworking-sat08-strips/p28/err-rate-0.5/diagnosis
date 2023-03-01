@@ -1,0 +1,5 @@
+<Component: Add Atom colour(?x, natural) to Effects: do-grind | Condition: False>
+<Component: Remove Atom treatment(?x, ?oldtreatment) from Precondition: do-plane | Condition: False>
+<Component: Remove Atom treatment(?x, untreated) from Precondition: do-glaze | Condition: False>
+0.048197028
+memory: 14.53515625

@@ -1,0 +1,2 @@
+<Add Atom destin(?f2, ?f1) to Neg-effs: down>
+<Add Atom floor(?f2) to Neg-effs: up>

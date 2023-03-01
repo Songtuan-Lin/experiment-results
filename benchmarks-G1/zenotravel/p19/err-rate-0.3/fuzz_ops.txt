@@ -1,0 +1,2 @@
+<Add Atom fuel-level(?a, ?l3) to Neg-effs: zoom>
+<Add Atom fuel-level(?c, ?l1) to Neg-effs: refuel>

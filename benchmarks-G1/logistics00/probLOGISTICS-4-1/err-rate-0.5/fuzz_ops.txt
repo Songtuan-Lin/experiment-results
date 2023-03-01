@@ -1,0 +1,3 @@
+<Add Atom =(?loc-from, ?loc-to) to Neg-effs: drive-truck>
+<Add Atom city(?loc) to Neg-effs: unload-airplane>
+<Add Atom =(?airplane, ?loc) to Neg-effs: load-airplane>

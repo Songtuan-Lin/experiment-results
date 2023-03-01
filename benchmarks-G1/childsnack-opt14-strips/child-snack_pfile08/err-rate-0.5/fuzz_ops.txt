@@ -1,0 +1,3 @@
+<Add Atom waiting(?c, ?p) to Neg-effs: serve_sandwich_no_gluten>
+<Add Atom no_gluten_sandwich(?s) to Neg-effs: make_sandwich_no_gluten>
+<Add Atom at_kitchen_sandwich(?s) to Neg-effs: make_sandwich>

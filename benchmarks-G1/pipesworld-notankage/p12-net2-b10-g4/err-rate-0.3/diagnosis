@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom connect(?from-area, ?to-area, ?pipe) from Effects: pop-end | Condition: False>
+<Component: Remove NegatedAtom may-interface(?product-batch-atom-in, ?product-first-batch) from Effects: push-start | Condition: False>
+0.037177177000000006
+memory: 13.17578125

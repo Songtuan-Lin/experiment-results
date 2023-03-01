@@ -1,0 +1,5 @@
+<Component: Remove Atom open(?nextpos) from Precondition: move | Condition: False>
+<Component: Add Atom at-robot(?nextpos) to Effects: move | Condition: False>
+<Component: Add Atom at(?key, ?curpos) to Effects: putdown | Condition: False>
+0.034915434
+memory: 14.53125

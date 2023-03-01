@@ -1,0 +1,7 @@
+<Remove Atom bottomtalon(?cardabove) from Pos-effs: tal-to-col-b>
+<Remove Atom colspace(?ncols) from Pos-effs: move-col-to-col-b>
+<Remove Atom talonplayable(?c1) from Pos-effs: turn-deck-a>
+<Remove Atom faceup(?oldcard) from Pos-effs: col-to-home>
+<Remove Atom bottomtalon(?cardabove) from Pos-effs: tal-to-col-f>
+<Remove Atom talonplayable(?cardbelow) from Pos-effs: tal-to-home-c>
+<Remove Atom ontalon(?cardabove, ?cardbelow) from Pos-effs: tal-to-home>

@@ -1,0 +1,2 @@
+<Add Atom capacity-predecessor(?s2, ?s2) to Prec: pick-up>
+<Add Atom capacity(?v, ?s1) to Prec: drop>

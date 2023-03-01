@@ -1,0 +1,3 @@
+<Remove Atom cellspace(?ncells) from Pos-effs: homefromfreecell>
+<Remove Atom colspace(?ncols) from Pos-effs: sendtofree-b>
+<Remove Atom colspace(?ncols) from Pos-effs: sendtohome-b>

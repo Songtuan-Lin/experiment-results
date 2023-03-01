@@ -1,0 +1,5 @@
+<Component: Add Atom handempty(?h) to Effects: leave | Condition: False>
+<Component: Add Atom clean(?s) to Effects: shake | Condition: False>
+<Component: Add Atom contains(?d, ?i) to Effects: pour-shot-to-clean-shaker | Condition: False>
+0.020243643
+memory: 13.16796875

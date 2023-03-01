@@ -1,0 +1,7 @@
+<Add Atom s-first(?x) to Prec: begin-inverse-splice-special-case>
+<Add Atom splice-point-1(?x) to Prec: end-cut-1>
+<Add Atom cw(?y, ?y) to Effs: continue-inverse-splice-1a>
+<Add Atom free(?y) to Effs: continue-cut>
+<Remove Atom last-cut-point(?x) from Pos-effs: begin-cut>
+<Remove Atom normal(?x) from Pos-effs: invert-single-gene-b>
+<Add Atom present(?y) to Effs: begin-transverse-splice>

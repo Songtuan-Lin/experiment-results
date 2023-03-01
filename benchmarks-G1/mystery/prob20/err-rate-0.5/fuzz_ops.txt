@@ -1,0 +1,2 @@
+<Add Atom attacks(?s2, ?v) to Prec: succumb>
+<Add Atom craves(?l2, ?n1) to Prec: feast>

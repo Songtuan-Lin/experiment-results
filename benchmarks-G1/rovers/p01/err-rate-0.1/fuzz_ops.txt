@@ -1,0 +1,1 @@
+<Add Atom have_soil_analysis(?x, ?p) to Prec: sample_soil>

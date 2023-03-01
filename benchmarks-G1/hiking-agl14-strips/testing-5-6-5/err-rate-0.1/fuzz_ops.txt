@@ -1,0 +1,1 @@
+<Remove NegatedAtom down(?x3) from Effs: put_up>

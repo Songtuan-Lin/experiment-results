@@ -1,0 +1,11 @@
+<Remove Atom harvest_phase(?s, harvest_feeding) from Pos-effs: ag__harvest_collect_end>
+<Remove Atom ok() from Pos-effs: collect_cook_animal>
+<Remove Atom current_worker(?w2) from Pos-effs: build_fences>
+<Add Atom newborn() to Effs: ag__finish_round_renew>
+<Add Atom next_worker(?w2, ?wmax) to Effs: take_food>
+<Add Atom food_required(?wmax, ?ifeed) to Effs: ag__harvest_feed>
+<Add Atom plowed_fields() to Neg-effs: ag__advance_round_normal>
+<Remove Atom current_worker(?w2) from Pos-effs: family_growth>
+<Remove Atom current_worker(?w2) from Pos-effs: sow>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_veg>
+<Add Atom next_stage(?s, ?s) to Effs: ag__harvest_breed_end>

@@ -1,0 +1,4 @@
+<Component: Remove Atom at_kitchen_sandwich(?s) from Precondition: put_on_tray | Condition: False>
+<Component: Add Atom served(?c) to Effects: serve_sandwich_no_gluten | Condition: False>
+0.009806787999999997
+memory: 14.5390625

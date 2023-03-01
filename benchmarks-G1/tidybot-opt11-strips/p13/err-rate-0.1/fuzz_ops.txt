@@ -1,0 +1,3 @@
+<Add Atom surface(?basex, ?oy) to Effs: put-up>
+<Add Atom leftof(?gxabs, ?gxabs) to Effs: put-down>
+<Add Atom leftof(?gxabs, ?basex) to Effs: get-right>

@@ -1,0 +1,7 @@
+<Add Atom next_worker(?wmax, ?wmax) to Effs: sow>
+<Remove Atom current_round(?r2) from Pos-effs: ag__advance_round_normal>
+<Add Atom num_substract(?i2, ?i2, ?i2) to Effs: ag__harvest_breeding_animal>
+<Add Atom num_substract(?i2, ?i1, ?i3) to Prec: ag__harvest_collecting_veg>
+<Add Atom next2_num(?i1, ?i2) to Effs: collect_cook_animal>
+<Remove NegatedAtom available_action(act_labor) from Effs: take_food>
+<Remove Atom stored_veg(?v) from Pos-effs: take_grain>

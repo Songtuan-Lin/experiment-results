@@ -1,0 +1,3 @@
+<Add Atom next(?f2, ?f1) to Neg-effs: move-down-slow>
+<Add Atom next(?n1, ?n1) to Neg-effs: board>
+<Add Atom above(?f2, ?f1) to Neg-effs: move-up-slow>

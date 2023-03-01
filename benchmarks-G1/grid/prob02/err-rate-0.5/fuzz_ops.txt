@@ -1,0 +1,3 @@
+<Add Atom key-shape(?key, ?key) to Prec: unlock>
+<Add Atom at(?key, ?key) to Prec: putdown>
+<Add Atom =(?key, ?curpos) to Prec: pickup>

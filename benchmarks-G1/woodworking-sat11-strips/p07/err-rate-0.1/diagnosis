@@ -1,0 +1,4 @@
+<Component: Remove Atom boardsize-successor(?s2, ?s1) from Precondition: do-saw-large | Condition: False>
+<Component: Add Atom grind-treatment-change(untreated, glazed) to Effects: do-glaze | Condition: False>
+0.014413896000000002
+memory: 11.95703125

@@ -1,0 +1,7 @@
+<Add Atom next_worker(?wmax, ?w1) to Neg-effs: collect_resource>
+<Add Atom current_worker(?wmax) to Effs: build_room>
+<Add Atom next_round(?r, ?r) to Effs: build_fences>
+<Add Atom plowed_fields() to Neg-effs: ag__finish_stage>
+<Add Atom next_num(?i2, ?i2) to Neg-effs: ag__harvest_breeding_animal>
+<Add Atom current_round(?r) to Effs: ag__finish_round_renew>
+<Remove NegatedAtom hold_round(?r1, roundend) from Effs: ag__advance_round_normal>

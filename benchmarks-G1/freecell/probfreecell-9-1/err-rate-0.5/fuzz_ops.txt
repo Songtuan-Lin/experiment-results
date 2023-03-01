@@ -1,0 +1,5 @@
+<Remove Atom clear(?oldcard) from Pos-effs: sendtohome>
+<Remove Atom bottomcol(?card) from Pos-effs: sendtonewcol>
+<Remove Atom colspace(?ncols) from Pos-effs: move-b>
+<Remove Atom incell(?card) from Pos-effs: sendtofree-b>
+<Remove Atom clear(?oldcard) from Pos-effs: move>

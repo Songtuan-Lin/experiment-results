@@ -1,0 +1,6 @@
+<Component: Add Atom store_of(?y, ?x) to Effects: drop | Condition: False>
+<Component: Remove NegatedAtom at(?r, ?w) from Effects: calibrate | Condition: False>
+<Component: Add Atom equipped_for_imaging(?r) to Effects: take_image | Condition: False>
+<Component: Add Atom available(?x) to Effects: sample_rock | Condition: False>
+0.011256238999999994
+memory: 14.53125

@@ -1,0 +1,138 @@
+INFO     planner time limit: 300s
+INFO     planner memory limit: None
+
+INFO     Running translator.
+INFO     translator stdin: None
+INFO     translator time limit: 299.99s
+INFO     translator memory limit: None
+INFO     translator command line string: /home/users/u6162630/Packages/anaconda3/bin/python /home/users/u6162630/Codes/downward/builds/release/bin/translate/translate.py /home/users/u6162630/Datasets/downward-benchmarks/ged-opt14-strips/domain.pddl /home/users/u6162630/Datasets/downward-benchmarks/ged-opt14-strips/d-1-2.pddl --sas-file /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/ged-opt14-strips/d-1-2/output.sas
+Parsing...
+Parsing: [0.000s CPU, 0.002s wall-clock]
+Normalizing task... [0.000s CPU, 0.000s wall-clock]
+Instantiating...
+Generating Datalog program... [0.000s CPU, 0.000s wall-clock]
+Normalizing Datalog program...
+Duplicate arguments: Adding equality conditions.
+Normalizing Datalog program: [0.010s CPU, 0.002s wall-clock]
+Preparing model... [0.000s CPU, 0.001s wall-clock]
+Generated 129 rules.
+Computing model... [0.000s CPU, 0.002s wall-clock]
+234 relevant atoms
+267 auxiliary atoms
+501 final queue length
+905 total queue pushes
+Completing instantiation... [0.000s CPU, 0.003s wall-clock]
+Instantiating: [0.010s CPU, 0.009s wall-clock]
+Computing fact groups...
+Finding invariants...
+36 initial candidates
+Finding invariants: [0.090s CPU, 0.090s wall-clock]
+Checking invariant weight... [0.000s CPU, 0.000s wall-clock]
+Instantiating groups... [0.000s CPU, 0.000s wall-clock]
+Collecting mutex groups... [0.000s CPU, 0.000s wall-clock]
+Choosing groups...
+0 uncovered facts
+Choosing groups: [0.000s CPU, 0.000s wall-clock]
+Building translation key... [0.000s CPU, 0.000s wall-clock]
+Computing fact groups: [0.090s CPU, 0.091s wall-clock]
+Building STRIPS to SAS dictionary... [0.000s CPU, 0.000s wall-clock]
+Building dictionary for full mutex groups... [0.000s CPU, 0.000s wall-clock]
+Building mutex information...
+Building mutex information: [0.000s CPU, 0.000s wall-clock]
+Translating task...
+Processing axioms...
+Simplifying axioms... [0.000s CPU, 0.000s wall-clock]
+Translator axioms removed by simplifying: 0
+Computing negative axioms... [0.000s CPU, 0.000s wall-clock]
+Processing axioms: [0.000s CPU, 0.000s wall-clock]
+Translating task: [0.010s CPU, 0.004s wall-clock]
+0 effect conditions simplified
+0 implied preconditions added
+Detecting unreachable propositions...
+0 operators removed
+0 axioms removed
+7 propositions removed
+Detecting unreachable propositions: [0.000s CPU, 0.002s wall-clock]
+Reordering and filtering variables...
+10 of 10 variables necessary.
+14 of 18 mutex groups necessary.
+138 of 138 operators necessary.
+0 of 0 axiom rules necessary.
+Reordering and filtering variables: [0.000s CPU, 0.001s wall-clock]
+Translator variables: 10
+Translator derived variables: 0
+Translator facts: 62
+Translator goal facts: 6
+Translator mutex groups: 14
+Translator total mutex groups size: 124
+Translator operators: 138
+Translator axioms: 0
+Translator task size: 1201
+Translator peak memory: 29632 KB
+Writing output... [0.000s CPU, 0.001s wall-clock]
+Done! [0.110s CPU, 0.110s wall-clock]
+translate exit code: 0
+
+INFO     Running search (release).
+INFO     search stdin: /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/ged-opt14-strips/d-1-2/output.sas
+INFO     search time limit: 299.86s
+INFO     search memory limit: None
+INFO     search command line string: /home/users/u6162630/Codes/downward/builds/release/bin/downward --evaluator 'hlm=lmcount(lm_factory=lm_reasonable_orders_hps(lm_rhw()),transform=adapt_costs(one),pref=false)' --evaluator 'hff=ff(transform=adapt_costs(one))' --search 'lazy_greedy([hff,hlm],preferred=[hff,hlm],cost_type=one,reopen_closed=false)' --internal-plan-file /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/ged-opt14-strips/d-1-2/sas_plan < /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/ged-opt14-strips/d-1-2/output.sas
+[t=0s, 9880 KB] reading input...
+[t=0s, 9880 KB] done reading input!
+[t=0s, 10268 KB] Initializing landmark count heuristic...
+[t=0s, 10268 KB] Generating landmark graph...
+[t=0s, 10268 KB] Building a landmark graph with reasonable orders.
+[t=0s, 10268 KB] Initializing Exploration...
+[t=0s, 10268 KB] Generating landmarks using the RPG/SAS+ approach
+[t=0s, 10400 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0s, 10400 KB] Landmarks generation time: 0s
+[t=0s, 10400 KB] Discovered 7 landmarks, of which 0 are disjunctive and 0 are conjunctive.
+[t=0s, 10400 KB] 1 edges
+[t=0s, 10400 KB] approx. reasonable orders
+[t=0s, 10400 KB] approx. obedient reasonable orders
+[t=0s, 10400 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0s, 10400 KB] Landmarks generation time: 0s
+[t=0s, 10400 KB] Discovered 7 landmarks, of which 0 are disjunctive and 0 are conjunctive.
+[t=0s, 10400 KB] 1 edges
+[t=0s, 10400 KB] Landmark graph generation time: 0s
+[t=0s, 10400 KB] Landmark graph contains 7 landmarks, of which 0 are disjunctive and 0 are conjunctive.
+[t=0s, 10400 KB] Landmark graph contains 1 orderings.
+[t=0s, 10400 KB] Simplifying 435 unary operators... done! [405 unary operators]
+[t=0s, 10400 KB] time to simplify: 0s
+[t=0s, 10400 KB] Initializing additive heuristic...
+[t=0s, 10400 KB] Initializing FF heuristic...
+[t=0s, 10400 KB] Building successor generator...done!
+[t=0s, 10400 KB] peak memory difference for successor generator creation: 0 KB
+[t=0s, 10400 KB] time for successor generation creation: 0s
+[t=0s, 10400 KB] Variables: 10
+[t=0s, 10400 KB] FactPairs: 62
+[t=0s, 10400 KB] Bytes per state: 4
+[t=0s, 10400 KB] Conducting lazy best first search, (real) bound = 2147483647
+[t=0s, 10400 KB] 6 initial landmarks, 6 goal landmarks
+[t=0s, 10400 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 1
+[t=0s, 10400 KB] New best heuristic value for ff(transform = adapt_costs(one)): 1
+[t=0s, 10400 KB] g=0, 1 evaluated, 0 expanded
+[t=0s, 10400 KB] Initial heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 1
+[t=0s, 10400 KB] Initial heuristic value for ff(transform = adapt_costs(one)): 1
+[t=0s, 10400 KB] Solution found!
+[t=0s, 10400 KB] Actual search time: 0s
+invert-single-gene-a sub3 (1)
+[t=0s, 10400 KB] Plan length: 1 step(s).
+[t=0s, 10400 KB] Plan cost: 1
+[t=0s, 10400 KB] Expanded 2 state(s).
+[t=0s, 10400 KB] Reopened 0 state(s).
+[t=0s, 10400 KB] Evaluated 3 state(s).
+[t=0s, 10400 KB] Evaluations: 6
+[t=0s, 10400 KB] Generated 12 state(s).
+[t=0s, 10400 KB] Dead ends: 0 state(s).
+[t=0s, 10400 KB] Number of registered states: 3
+[t=0s, 10400 KB] Int hash set load factor: 3/4 = 0.75
+[t=0s, 10400 KB] Int hash set resizes: 2
+[t=0s, 10400 KB] Search time: 0s
+[t=0s, 10400 KB] Total time: 0s
+Solution found.
+Peak memory: 10400 KB
+search exit code: 0
+
+INFO     Planner time: 0.14s

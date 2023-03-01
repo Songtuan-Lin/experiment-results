@@ -1,0 +1,2 @@
+<Add Atom next(?l1, ?l4) to Prec: buy>
+<Add Atom connected(?to, ?from) to Prec: drive>

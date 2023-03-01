@@ -1,0 +1,5 @@
+<Component: Add Atom at(?p, ?c) to Effects: debark | Condition: False>
+<Component: Add Atom at(?a, ?c2) to Effects: fly | Condition: False>
+<Component: Add Atom in(?p, ?a) to Effects: board | Condition: False>
+0.013090795000000002
+memory: 14.5390625

@@ -1,0 +1,3 @@
+<Add Atom can_traverse(?x, ?p, ?p) to Neg-effs: sample_rock>
+<Add Atom can_traverse(?r, ?x, ?x) to Neg-effs: communicate_soil_data>
+<Add Atom store_of(?y, ?x) to Neg-effs: drop>

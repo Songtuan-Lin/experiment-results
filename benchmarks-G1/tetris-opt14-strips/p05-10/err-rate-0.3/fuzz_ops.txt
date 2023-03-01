@@ -1,0 +1,2 @@
+<Add Atom at_right_l(?element, ?xy_final2, ?xy_final2, ?xy_initial1) to Prec: move_l_left>
+<Add Atom at_right_l(?element, ?xy_final, ?xy_initial1, ?xy_initial2) to Effs: move_l_up>

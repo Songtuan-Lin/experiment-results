@@ -1,0 +1,2 @@
+<Remove Atom at-robot(?nextpos) from Pos-effs: move>
+<Add Atom lock-shape(?key, ?curpos) to Prec: putdown>

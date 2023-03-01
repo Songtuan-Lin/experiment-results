@@ -1,0 +1,2 @@
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: cut-board-medium>
+<Remove Atom wood(?p, ?w) from Pos-effs: do-saw-medium>

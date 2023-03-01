@@ -1,0 +1,2 @@
+<Add Atom eats(?l12, ?l21) to Effs: drink>
+<Add Atom locale(?v, ?n) to Effs: overcome>

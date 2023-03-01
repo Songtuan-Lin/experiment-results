@@ -1,0 +1,2 @@
+<Add Atom locale(?s2, ?c) to Neg-effs: overcome>
+<Add Atom attacks(?n1, ?l1) to Effs: feast>

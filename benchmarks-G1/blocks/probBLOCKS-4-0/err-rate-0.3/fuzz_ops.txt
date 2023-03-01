@@ -1,0 +1,2 @@
+<Add Atom on(?y, ?x) to Neg-effs: stack>
+<Add Atom holding(?x) to Neg-effs: pick-up>

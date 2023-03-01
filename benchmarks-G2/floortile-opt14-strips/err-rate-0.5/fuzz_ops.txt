@@ -1,0 +1,4 @@
+<Add Atom left(?x, ?x) to Neg-effs: right>
+<Add Atom free-color(?r) to Prec: change-color>
+<Add Atom left(?x, ?x) to Prec: left>
+<Remove Atom clear(?x) from Pos-effs: up>

@@ -1,0 +1,3 @@
+<Add Atom height(?rpos, ?hafter) to Prec: remove-block>
+<Remove Atom at(?to) from Pos-effs: move>
+<Add Atom is-depot(?p) to Prec: create-block>

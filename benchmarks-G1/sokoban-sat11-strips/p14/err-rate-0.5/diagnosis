@@ -1,0 +1,4 @@
+<Component: Remove Atom clear(?from) from Precondition: push-to-goal | Condition: False>
+<Component: Remove Atom move-dir(?to, ?from, ?dir) from Precondition: move | Condition: False>
+0.023510929
+memory: 14.5390625

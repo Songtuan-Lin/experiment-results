@@ -1,0 +1,2 @@
+<Add Atom normal(?pipe) to Neg-effs: pop-end>
+<Add Atom connect(?to-area, ?to-area, ?pipe) to Neg-effs: push-start>

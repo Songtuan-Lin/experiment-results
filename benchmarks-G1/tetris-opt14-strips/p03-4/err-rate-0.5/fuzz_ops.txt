@@ -1,0 +1,3 @@
+<Add Atom at_right_l(?element, ?xy_final, ?xy_initial1, ?xy_final2) to Effs: move_l_down>
+<Add Atom at_right_l(?element, ?xy_final, ?xy_final, ?xy_final2) to Effs: move_l_left>
+<Add Atom connected(?xy_final, ?xy_initial2) to Effs: move_two>

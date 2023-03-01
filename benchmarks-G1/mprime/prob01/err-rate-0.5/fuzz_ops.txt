@@ -1,0 +1,2 @@
+<Add Atom locale(?n1, ?l11) to Effs: drink>
+<Add Atom attacks(?c, ?n) to Neg-effs: overcome>

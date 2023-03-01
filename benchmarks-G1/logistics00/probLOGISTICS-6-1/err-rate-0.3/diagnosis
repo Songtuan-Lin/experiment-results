@@ -1,0 +1,4 @@
+<Component: Remove Atom airport(?truck) from Precondition: load-truck | Condition: False>
+<Component: Remove Atom at(?loc, ?airplane) from Precondition: load-airplane | Condition: False>
+0.0037665140000000055
+memory: 13.171875

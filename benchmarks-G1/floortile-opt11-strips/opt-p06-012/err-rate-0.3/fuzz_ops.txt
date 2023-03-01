@@ -1,0 +1,3 @@
+<Add Atom left(?y, ?x) to Prec: down>
+<Add Atom available-color(?c) to Prec: change-color>
+<Add Atom robot-at(?r, ?x) to Prec: paint-down>

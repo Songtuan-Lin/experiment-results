@@ -1,0 +1,1 @@
+<Remove Atom move-ended() from Pos-effs: end-move>

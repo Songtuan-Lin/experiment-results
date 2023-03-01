@@ -1,0 +1,4 @@
+<Add Atom colour(?x, ?newcolour) to Prec: do-glaze>
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Prec: do-plane>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: load-highspeed-saw>
+<Add Atom colour(?x, ?newcolour) to Prec: do-immersion-varnish>

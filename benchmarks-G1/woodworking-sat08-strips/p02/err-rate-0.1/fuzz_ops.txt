@@ -1,0 +1,2 @@
+<Add Atom is-smooth(?oldsurface) to Prec: do-plane>
+<Add Atom unused(?x) to Prec: do-spray-varnish>

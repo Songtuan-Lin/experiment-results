@@ -1,0 +1,7 @@
+<Add Atom boardsize-successor(?s1, ?s2) to Prec: do-saw-large>
+<Add Atom unused(?x) to Prec: do-plane>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: unload-highspeed-saw>
+<Add Atom boardsize(?b, ?size_before) to Prec: do-saw-small>
+<Add Atom boardsize-successor(?size_after, ?size_after) to Prec: do-saw-medium>
+<Add Atom unused(?x) to Prec: do-glaze>
+<Add Atom contains-part(?b, ?p) to Prec: cut-board-large>

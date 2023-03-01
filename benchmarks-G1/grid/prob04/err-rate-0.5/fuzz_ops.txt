@@ -1,0 +1,3 @@
+<Remove Atom at-robot(?nextpos) from Pos-effs: move>
+<Remove Atom open(?lockpos) from Pos-effs: unlock>
+<Remove Atom holding(?key) from Pos-effs: pickup>

@@ -1,0 +1,4 @@
+<Component: Remove Atom have_image(?r, ?o, ?m) from Precondition: take_image | Condition: False>
+<Component: Remove Atom have_soil_analysis(?r, ?p) from Precondition: communicate_rock_data | Condition: False>
+0.091475178
+memory: 14.7421875

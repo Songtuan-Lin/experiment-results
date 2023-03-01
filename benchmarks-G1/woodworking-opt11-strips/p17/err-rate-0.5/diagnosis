@@ -1,0 +1,5 @@
+<Component: Add Atom surface-condition(?x, smooth) to Effects: do-plane | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-glaze | Condition: False>
+<Component: Remove NegatedAtom colour(?x, natural) from Effects: do-immersion-varnish | Condition: False>
+0.019717857
+memory: 14.5390625

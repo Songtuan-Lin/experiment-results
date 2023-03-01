@@ -1,0 +1,2 @@
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: do-saw-small>
+<Remove Atom surface-condition(?p, ?surface) from Pos-effs: cut-board-small>

@@ -1,0 +1,1 @@
+<Add Atom equipped_for_soil_analysis(?r) to Neg-effs: take_image>

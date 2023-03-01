@@ -1,0 +1,3 @@
+<Add Atom max_worker(?w1) to Neg-effs: take_grain>
+<Add Atom next_stage(?s, ?s) to Neg-effs: ag__harvest_collect_end>
+<Add Atom num_substract(?i3, ?i3, ?i3) to Neg-effs: ag__harvest_collecting_veg>

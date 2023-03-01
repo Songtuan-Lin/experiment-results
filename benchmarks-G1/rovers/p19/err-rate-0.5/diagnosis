@@ -1,0 +1,6 @@
+<Component: Add Atom have_rock_analysis(?x, ?y) to Effects: navigate | Condition: False>
+<Component: Add Atom calibration_target(?i, ?o) to Effects: take_image | Condition: False>
+<Component: Remove Atom equipped_for_soil_analysis(?x) from Precondition: sample_soil | Condition: False>
+<Component: Add Atom at_lander(?l, ?y) to Effects: communicate_rock_data | Condition: False>
+0.022338366
+memory: 14.53125

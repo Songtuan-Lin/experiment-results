@@ -1,0 +1,3 @@
+<Add Atom num_food(?ifeed) to Neg-effs: ag__harvest_feed>
+<Add Atom plowed_fields() to Neg-effs: ag__finish_round_backhome>
+<Add Atom next2_num(?i1, ?i1) to Neg-effs: ag__harvest_collecting_veg>

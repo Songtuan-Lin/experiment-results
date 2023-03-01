@@ -1,0 +1,2 @@
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-immersion-varnish>
+<Remove Atom colour(?x, natural) from Pos-effs: do-grind>

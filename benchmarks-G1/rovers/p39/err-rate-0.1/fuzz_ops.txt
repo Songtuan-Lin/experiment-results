@@ -1,0 +1,1 @@
+<Add Atom available(?r) to Neg-effs: take_image>

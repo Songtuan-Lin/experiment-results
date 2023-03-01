@@ -1,0 +1,2 @@
+<Add Atom waiting(?c, ?p) to Prec: serve_sandwich_no_gluten>
+<Add Atom at_kitchen_content(?c) to Prec: make_sandwich_no_gluten>

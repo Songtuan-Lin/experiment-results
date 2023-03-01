@@ -1,0 +1,2 @@
+<Remove NegatedAtom headsnake(?head) from Effs: move-and-eat-no-spawn>
+<Add Atom isadjacent(?newtail, ?tail) to Neg-effs: move>

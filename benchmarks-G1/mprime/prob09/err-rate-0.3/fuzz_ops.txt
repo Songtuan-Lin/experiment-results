@@ -1,0 +1,2 @@
+<Add Atom eats(?l2, ?l2) to Effs: feast>
+<Add Atom craves(?l22, ?l12) to Effs: drink>

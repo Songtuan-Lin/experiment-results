@@ -1,0 +1,3 @@
+<Add Atom has-block() to Effs: move-down>
+<Remove NegatedAtom has-block() from Effs: destroy-block>
+<Remove Atom has-block() from Pos-effs: create-block>

@@ -1,0 +1,2 @@
+<Add Atom nextsnake(?newhead, ?newhead) to Effs: move-and-eat-spawn>
+<Add Atom blocked(?newhead) to Prec: move-and-eat-no-spawn>

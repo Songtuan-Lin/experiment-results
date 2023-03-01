@@ -1,0 +1,8 @@
+<Add Atom gripper-empty(?r) to Effs: base-left>
+<Add Atom gripper-empty(?r) to Effs: park>
+<Remove Atom pushing(?r, ?c) from Pos-effs: grasp-cart-left>
+<Add Atom above(?cy, ?dy) to Prec: base-down>
+<Add Atom zerox-rel(?gxrel) to Effs: gripper-up>
+<Remove NegatedAtom holding(?r, ?o) from Effs: put-left>
+<Remove Atom gripper-empty(?r) from Pos-effs: put-up>
+<Add Atom base-pos(?r, ?cx, ?cy2) to Effs: base-cart-down>

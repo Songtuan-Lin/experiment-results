@@ -1,0 +1,5 @@
+<Component: Remove Atom surface(?dx, ?y) from Precondition: base-right | Condition: False>
+<Component: Add Atom gripper-empty(?r) to Effects: park | Condition: False>
+<Component: Add Atom gripper-rel(?r, ?dgxrel, ?gyrel) to Effects: gripper-left | Condition: False>
+0.020193310000000006
+memory: 14.53125

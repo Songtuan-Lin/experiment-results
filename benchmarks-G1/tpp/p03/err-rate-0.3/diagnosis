@@ -1,0 +1,4 @@
+<Component: Remove Atom loaded(?g, ?t, ?l2) from Precondition: unload | Condition: False>
+<Component: Add Atom ready-to-load(?g, ?m, ?l2) to Effects: buy | Condition: False>
+0.0041917529999999995
+memory: 13.17578125

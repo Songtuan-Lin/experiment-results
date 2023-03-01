@@ -1,0 +1,4 @@
+<Remove Atom wood(?p, ?w) from Pos-effs: do-saw-medium>
+<Remove Atom surface-condition(?x, verysmooth) from Pos-effs: do-grind>
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-immersion-varnish>
+<Remove Atom wood(?p, ?w) from Pos-effs: do-saw-large>

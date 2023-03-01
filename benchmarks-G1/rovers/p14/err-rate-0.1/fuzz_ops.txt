@@ -1,0 +1,1 @@
+<Remove Atom have_rock_analysis(?x, ?p) from Pos-effs: sample_rock>

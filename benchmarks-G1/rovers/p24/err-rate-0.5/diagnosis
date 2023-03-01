@@ -1,0 +1,6 @@
+<Component: Remove Atom full(?y) from Precondition: drop | Condition: False>
+<Component: Remove Atom have_image(?r, ?o, ?m) from Precondition: communicate_image_data | Condition: False>
+<Component: Add Atom communicated_soil_data(?y) to Effects: navigate | Condition: False>
+<Component: Add Atom at(?x, ?z) to Effects: navigate | Condition: False>
+0.039941643000000006
+memory: 14.53125

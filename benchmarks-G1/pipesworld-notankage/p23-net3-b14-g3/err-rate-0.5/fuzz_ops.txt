@@ -1,0 +1,3 @@
+<Add Atom on(?batch-atom-in, ?from-area) to Neg-effs: pop-start>
+<Add Atom follow(?next-last-batch-atom, ?last-batch-atom) to Neg-effs: push-end>
+<Add Atom is-product(?first-batch-atom, ?product-batch-atom-in) to Neg-effs: push-start>

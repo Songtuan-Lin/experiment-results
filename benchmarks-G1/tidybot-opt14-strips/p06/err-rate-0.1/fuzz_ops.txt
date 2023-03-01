@@ -1,0 +1,3 @@
+<Add Atom above(?cy, ?dy) to Neg-effs: base-up>
+<Add Atom parked(?r) to Neg-effs: park>
+<Add Atom above(?y, ?y) to Neg-effs: finish-object>

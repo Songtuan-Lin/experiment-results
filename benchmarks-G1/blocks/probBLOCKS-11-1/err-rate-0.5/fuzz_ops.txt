@@ -1,0 +1,2 @@
+<Add Atom holding(?x) to Prec: stack>
+<Add Atom on(?x, ?x) to Prec: put-down>

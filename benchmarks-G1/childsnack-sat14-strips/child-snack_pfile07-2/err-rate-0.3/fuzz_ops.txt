@@ -1,0 +1,2 @@
+<Add Atom ontray(?s, ?t) to Prec: put_on_tray>
+<Add Atom at_kitchen_sandwich(?s) to Prec: make_sandwich>

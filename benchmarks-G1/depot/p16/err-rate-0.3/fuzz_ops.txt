@@ -1,0 +1,2 @@
+<Add Atom =(?y, ?y) to Neg-effs: drop>
+<Add Atom lifting(?x, ?z) to Neg-effs: lift>

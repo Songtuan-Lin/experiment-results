@@ -1,0 +1,4 @@
+<Component: Add Atom plowed_fields() to Effects: take_grain | Condition: False>
+<Component: Remove Atom newborn() from Precondition: ag__finish_round_backhome_withchild | Condition: False>
+0.032027572
+memory: 12.48828125

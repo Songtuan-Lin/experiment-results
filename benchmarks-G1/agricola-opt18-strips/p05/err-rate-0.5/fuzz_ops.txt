@@ -1,0 +1,11 @@
+<Add Atom next_worker(?w1, ?w1) to Effs: improve_home>
+<Add Atom plowed_fields() to Effs: ag__finish_round_backhome>
+<Add Atom ok() to Effs: ag__finish_stage>
+<Remove NegatedAtom current_worker(?w1) from Effs: collect_resource>
+<Remove Atom num_food(?i2) from Pos-effs: ag__harvest_breeding_animal>
+<Add Atom num_substract(?i2, ?i2, ?i2) to Neg-effs: ag__harvest_collecting_fromoven>
+<Add Atom ok() to Prec: ag__advance_round_normal>
+<Add Atom next_worker(?wmax, ?wnewmax) to Prec: family_growth>
+<Add Atom num_substract(?i2, ?i1, ?i1) to Effs: collect_cook_animal>
+<Add Atom current_worker(?newmax) to Neg-effs: ag__finish_round_backhome_withchild>
+<Add Atom next_worker(?wmax, ?wmax) to Effs: collect_animal>

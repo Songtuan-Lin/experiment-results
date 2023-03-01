@@ -1,0 +1,3 @@
+<Add Atom supports(?i, ?d) to Prec: calibrate>
+<Add Atom on_board(?s, ?d_prev) to Prec: turn_to>
+<Add Atom power_on(?m) to Prec: take_image>

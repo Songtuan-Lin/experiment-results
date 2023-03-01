@@ -1,0 +1,5 @@
+<Component: Add Atom current_worker(?w1) to Effects: build_fences | Condition: False>
+<Component: Remove NegatedAtom plowed_fields() from Precondition: plow_field | Condition: False>
+<Component: Add Atom current_round(?r2) to Effects: ag__advance_round_normal | Condition: False>
+0.028509821000000005
+memory: 14.5390625

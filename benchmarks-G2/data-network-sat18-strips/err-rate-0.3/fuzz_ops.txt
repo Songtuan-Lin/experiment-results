@@ -1,0 +1,2 @@
+<Add Atom sum(?limit, ?before, ?size) to Effs: load>
+<Remove Atom cached(?d, ?to) from Pos-effs: send>

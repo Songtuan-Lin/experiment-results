@@ -1,0 +1,4 @@
+<Component: Remove Atom down(?y, ?y) from Precondition: right | Condition: False>
+<Component: Remove Atom right(?x, ?y) from Precondition: paint-up | Condition: False>
+0.011623699000000001
+memory: 13.17578125

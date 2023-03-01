@@ -1,0 +1,5 @@
+<Add Atom on(?oldcard, ?ncols) to Prec: sendtonewcol>
+<Add Atom suit(?vhomecard, ?suit) to Prec: sendtohome-b>
+<Add Atom =(?vcard, ?suit) to Prec: homefromfreecell>
+<Add Atom cellspace(?newcard) to Prec: move-b>
+<Add Atom clear(?cols) to Prec: newcolfromfreecell>

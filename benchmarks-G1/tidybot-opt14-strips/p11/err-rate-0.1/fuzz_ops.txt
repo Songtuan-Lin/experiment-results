@@ -1,0 +1,3 @@
+<Add Atom base-pos(?r, ?dx, ?y) to Neg-effs: base-right>
+<Add Atom zeroy-rel(?gyrel) to Neg-effs: get-up>
+<Add Atom surface(?x, ?cy1) to Neg-effs: base-cart-up>

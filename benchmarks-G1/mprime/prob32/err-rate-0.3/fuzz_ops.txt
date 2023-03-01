@@ -1,0 +1,2 @@
+<Add Atom eats(?s2, ?v) to Neg-effs: succumb>
+<Add Atom craves(?l1, ?n1) to Effs: feast>

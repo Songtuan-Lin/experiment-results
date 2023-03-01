@@ -1,0 +1,3 @@
+<Remove Atom splice-point-1(?x) from Pos-effs: begin-inverse-splice-special-case>
+<Remove Atom last-cut-point(?x) from Pos-effs: begin-cut>
+<Remove Atom cut-point-2(?y) from Pos-effs: end-cut-1>

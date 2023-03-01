@@ -1,0 +1,2 @@
+<Remove Atom on(?c2, ?s1) from Pos-effs: rotate-2>
+<Add Atom cycle-4(?s4, ?s2, ?s4, ?s3) to Neg-effs: analyze-4>

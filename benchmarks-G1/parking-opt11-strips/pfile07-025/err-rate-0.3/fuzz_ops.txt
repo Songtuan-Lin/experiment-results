@@ -1,0 +1,2 @@
+<Remove Atom at-curb(?car) from Pos-effs: move-car-to-curb>
+<Remove Atom curb-clear(?curbsrc) from Pos-effs: move-curb-to-car>

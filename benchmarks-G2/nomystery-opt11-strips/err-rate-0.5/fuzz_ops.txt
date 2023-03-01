@@ -1,0 +1,2 @@
+<Add Atom in(?p, ?t) to Prec: load>
+<Add Atom fuelcost(?fueldelta, ?l2, ?l1) to Neg-effs: drive>

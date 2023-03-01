@@ -1,0 +1,7 @@
+<Add Atom on(?card, ?newcard) to Neg-effs: move-col-to-col>
+<Add Atom successor(?vhomecard, ?vhomecard) to Neg-effs: col-to-home-b>
+<Add Atom talonplayable(?oldcard) to Neg-effs: tal-to-col-g>
+<Add Atom ontalon(?newcard, ?newcard) to Neg-effs: tal-to-col-d>
+<Add Atom on(?card, ?cardabove) to Neg-effs: tal-to-col-b>
+<Add Atom colsuccessor(?cols, ?cols) to Neg-effs: tal-to-col-f>
+<Add Atom canstack(?oldcard, ?oldcard) to Neg-effs: tal-to-col-e>

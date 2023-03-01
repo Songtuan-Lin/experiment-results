@@ -1,0 +1,3 @@
+<Remove NegatedAtom base-obstacle(?x1, ?y) from Effs: base-cart-left>
+<Remove NegatedAtom base-obstacle(?x, ?cy) from Effs: base-down>
+<Remove NegatedAtom base-pos(?r, ?x1, ?y) from Effs: base-cart-right>

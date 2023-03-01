@@ -1,0 +1,4 @@
+<Add Atom neighbor(?from, ?to) to Effs: move-down>
+<Add Atom is-depot(?from) to Prec: move>
+<Add Atom is-depot(?p) to Effs: destroy-block>
+<Add Atom at(?rpos) to Prec: remove-block>

@@ -1,0 +1,5 @@
+<Component: Remove Atom link(?driver, ?driver) from Precondition: disembark-truck | Condition: False>
+<Component: Add Atom at(?loc-to, ?loc-to) to Effects: drive-truck | Condition: False>
+<Component: Remove Atom driving(?driver, ?driver) from Precondition: board-truck | Condition: False>
+0.006235431999999992
+memory: 14.5390625

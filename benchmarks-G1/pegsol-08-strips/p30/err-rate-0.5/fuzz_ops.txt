@@ -1,0 +1,2 @@
+<Add Atom in-line(?from, ?over, ?from) to Prec: jump-new-move>
+<Add Atom in-line(?over, ?from, ?over) to Prec: jump-continue-move>

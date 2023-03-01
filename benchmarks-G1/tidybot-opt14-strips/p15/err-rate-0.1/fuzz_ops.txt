@@ -1,0 +1,3 @@
+<Add Atom surface(?x, ?y) to Effs: grasp-cart-above>
+<Add Atom pushing(?r, ?c) to Effs: ungrasp-cart>
+<Add Atom cart-pos(?c, ?cx, ?y) to Effs: grasp-cart-left>

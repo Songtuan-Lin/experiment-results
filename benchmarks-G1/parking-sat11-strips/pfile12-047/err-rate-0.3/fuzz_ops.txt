@@ -1,0 +1,2 @@
+<Add Atom car-clear(?car) to Prec: move-car-to-curb>
+<Add Atom curb-clear(?curbdest) to Prec: move-curb-to-curb>

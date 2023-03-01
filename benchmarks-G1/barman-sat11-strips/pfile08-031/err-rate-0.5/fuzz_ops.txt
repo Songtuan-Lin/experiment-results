@@ -1,0 +1,6 @@
+<Add Atom handempty(?h) to Prec: empty-shot>
+<Add Atom empty(?c) to Prec: leave>
+<Add Atom dispenses(?d, ?i) to Prec: fill-shot>
+<Add Atom handempty(?h2) to Prec: clean-shot>
+<Add Atom handempty(?h) to Prec: grasp>
+<Add Atom shaker-empty-level(?s, ?l1) to Prec: pour-shaker-to-shot>

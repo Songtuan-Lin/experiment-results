@@ -1,0 +1,4 @@
+<Component: Add Atom first(?next-first-batch-atom, ?pipe) to Effects: pop-end | Condition: False>
+<Component: Add Atom push-updating(?pipe) to Effects: push-start | Condition: False>
+0.017217589999999998
+memory: 14.53125

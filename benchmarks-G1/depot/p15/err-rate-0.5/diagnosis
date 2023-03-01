@@ -1,0 +1,5 @@
+<Component: Add Atom clear(?z) to Effects: lift | Condition: False>
+<Component: Add Atom clear(?y) to Effects: drop | Condition: False>
+<Component: Add Atom at(?x, ?z) to Effects: drive | Condition: False>
+0.019390917
+memory: 14.5390625

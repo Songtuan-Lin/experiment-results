@@ -1,0 +1,4 @@
+<Component: Add Atom pop-updating(?pipe) to Effects: pop-start | Condition: False>
+<Component: Add Atom follow(?first-batch-atom, ?batch-atom-in) to Effects: push-start | Condition: False>
+0.011668688999999996
+memory: 14.53125

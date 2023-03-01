@@ -1,0 +1,1 @@
+<Remove Atom in(?p, ?v) from Pos-effs: pick-up>

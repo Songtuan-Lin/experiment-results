@@ -1,0 +1,2 @@
+<Remove Atom in(?p, ?a) from Pos-effs: board>
+<Remove Atom fuel-level(?a, ?l3) from Pos-effs: zoom>

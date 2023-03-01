@@ -1,0 +1,2 @@
+<Add Atom behind-car(?cardest, ?car) to Prec: move-car-to-car>
+<Add Atom at-curb-num(?carsrc, ?curbdest) to Prec: move-car-to-curb>

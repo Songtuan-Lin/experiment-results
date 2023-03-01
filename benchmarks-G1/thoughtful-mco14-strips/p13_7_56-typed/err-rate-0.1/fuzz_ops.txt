@@ -1,0 +1,3 @@
+<Add Atom home(?card) to Neg-effs: tal-to-col>
+<Add Atom on(?oldcard, ?card) to Neg-effs: tal-to-col-e>
+<Add Atom on(?homecard, ?oldcard) to Neg-effs: col-to-home>

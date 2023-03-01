@@ -1,0 +1,3 @@
+<Add Atom connected(?xy_initial, ?xy_final) to Neg-effs: move_square>
+<Remove Atom at_two(?element, ?xy_initial2, ?xy_final) from Pos-effs: move_two>
+<Remove Atom clear(?xy_initial1) from Pos-effs: move_l_down>

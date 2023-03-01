@@ -1,0 +1,2 @@
+<Add Atom unshaked(?s) to Prec: empty-shaker>
+<Add Atom dispenses(?d, ?i) to Prec: fill-shot>

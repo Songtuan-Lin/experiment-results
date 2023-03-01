@@ -1,0 +1,5 @@
+<Component: Remove Atom communicated_rock_data(?z) from Precondition: navigate | Condition: False>
+<Component: Remove Atom visible(?w, ?w) from Precondition: calibrate | Condition: False>
+<Component: Add Atom have_rock_analysis(?x, ?z) to Effects: navigate | Condition: False>
+0.024795322999999994
+memory: 14.5390625

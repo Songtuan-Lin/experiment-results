@@ -1,0 +1,7 @@
+<Add Atom swappable(?x, ?y) to Effs: end-cut-1>
+<Remove NegatedAtom cw(?x, ?y) from Effs: continue-cut>
+<Add Atom cw(?x, ?x) to Effs: end-inverse-splice-2>
+<Add Atom s-last(?x) to Effs: end-splice-2>
+<Remove NegatedAtom splice-point-1(?y) from Effs: continue-splice-2>
+<Add Atom normal(?x) to Prec: end-inverse-splice-1b>
+<Add Atom finished() to Neg-effs: invert-single-gene-b>

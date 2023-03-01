@@ -1,0 +1,4 @@
+<Component: Remove Atom num_substract(?inow, ?inow, ?inow) from Precondition: ag__harvest_feed | Condition: False>
+<Component: Add Atom next_worker(?wmax, ?w1) to Effects: take_food | Condition: False>
+0.028213371
+memory: 12.2734375

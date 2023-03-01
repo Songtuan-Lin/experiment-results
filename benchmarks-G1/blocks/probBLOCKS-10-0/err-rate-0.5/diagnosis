@@ -1,0 +1,4 @@
+<Component: Remove Atom ontable(?x) from Precondition: pick-up | Condition: False>
+<Component: Add Atom holding(?x) to Effects: pick-up | Condition: False>
+0.005323401999999998
+memory: 14.5390625

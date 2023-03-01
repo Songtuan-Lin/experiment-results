@@ -1,0 +1,5 @@
+<Component: Remove Atom next_worker(?w1, ?w1) from Precondition: build_fences | Condition: False>
+<Component: Remove Atom current_worker(?wmax) from Precondition: collect_resource | Condition: False>
+<Component: Add Atom current_worker(?w1) to Effects: collect_resource | Condition: False>
+0.04067765200000001
+memory: 13.17578125

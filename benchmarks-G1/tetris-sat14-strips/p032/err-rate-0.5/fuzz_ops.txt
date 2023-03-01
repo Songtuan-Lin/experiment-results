@@ -1,0 +1,3 @@
+<Add Atom clear(?xy_final) to Effs: move_square>
+<Remove Atom clear(?xy_initial3) from Pos-effs: move_l_up>
+<Add Atom connected(?xy_initial1, ?xy_initial1) to Effs: move_two>

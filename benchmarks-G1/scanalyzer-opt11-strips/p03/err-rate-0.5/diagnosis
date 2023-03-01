@@ -1,0 +1,3 @@
+<Component: Remove Atom cycle-4(?s1, ?s2, ?s1, ?s2) from Precondition: analyze-2 | Condition: False>
+0.003999175000000008
+memory: 14.53125

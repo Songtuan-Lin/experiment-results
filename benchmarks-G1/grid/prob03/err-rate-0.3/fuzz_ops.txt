@@ -1,0 +1,2 @@
+<Add Atom at(?curpos, ?curpos) to Neg-effs: putdown>
+<Add Atom open(?curpos) to Neg-effs: pickup-and-loose>

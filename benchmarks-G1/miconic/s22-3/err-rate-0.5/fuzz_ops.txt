@@ -1,0 +1,2 @@
+<Add Atom boarded(?f2) to Neg-effs: down>
+<Add Atom floor(?p) to Neg-effs: board>

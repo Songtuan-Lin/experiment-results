@@ -1,0 +1,2 @@
+<Remove Atom empty(?p) from Pos-effs: empty-shot>
+<Remove Atom holding(?h, ?c) from Pos-effs: grasp>

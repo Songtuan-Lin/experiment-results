@@ -1,0 +1,3 @@
+<Add Atom object-pos(?o, ?ox, ?basey) to Prec: get-left>
+<Add Atom above(?y, ?cy) to Prec: base-cart-right>
+<Add Atom not-pushed(?c) to Prec: ungrasp-cart>

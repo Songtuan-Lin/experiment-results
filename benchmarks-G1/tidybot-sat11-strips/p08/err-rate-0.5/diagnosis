@@ -1,0 +1,4 @@
+<Component: Add Atom gripper-empty(?r) to Effects: put-right | Condition: False>
+<Component: Add Atom gripper-rel(?r, ?gxrel, ?dgyrel) to Effects: gripper-down | Condition: False>
+0.018125046000000006
+memory: 14.53125

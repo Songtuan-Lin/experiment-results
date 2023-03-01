@@ -1,0 +1,4 @@
+<Component: Add Atom shaker-level(?s, ?l1) to Effects: pour-shaker-to-shot | Condition: False>
+<Component: Remove NegatedAtom clean(?s) from Effects: fill-shot | Condition: False>
+0.015441970999999999
+memory: 11.65625

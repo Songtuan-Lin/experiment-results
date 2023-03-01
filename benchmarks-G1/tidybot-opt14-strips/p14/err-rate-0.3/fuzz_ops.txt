@@ -1,0 +1,9 @@
+<Add Atom surface(?dgxabs, ?basey) to Prec: gripper-right>
+<Add Atom base-obstacle(?gxabs, ?basey) to Prec: get-up>
+<Add Atom object-done(?o) to Neg-effs: put-up>
+<Remove Atom gripper-empty(?r) from Pos-effs: put-right>
+<Add Atom not-pushing(?r) to Effs: get-left>
+<Remove Atom base-obstacle(?cx, ?cy2) from Pos-effs: base-cart-up>
+<Add Atom parked(?r) to Effs: grasp-cart-left>
+<Add Atom parked(?r) to Effs: base-left>
+<Add Atom gripper-obstacle(?dgxabs, ?basey) to Effs: gripper-left>

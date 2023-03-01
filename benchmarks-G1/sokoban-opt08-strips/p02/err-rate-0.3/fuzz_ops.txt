@@ -1,0 +1,1 @@
+<Add Atom is-goal(?from) to Neg-effs: move>

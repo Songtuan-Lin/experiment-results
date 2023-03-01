@@ -1,0 +1,7 @@
+<Add Atom empty(?m) to Neg-effs: cut-board-medium>
+<Add Atom grind-treatment-change(?oldtreatment, ?newtreatment) to Neg-effs: do-grind>
+<Add Atom empty(?m) to Neg-effs: unload-highspeed-saw>
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Neg-effs: do-plane>
+<Add Atom contains-part(?b, ?p) to Neg-effs: cut-board-large>
+<Add Atom is-smooth(?surface) to Neg-effs: do-immersion-varnish>
+<Add Atom is-smooth(?surface) to Neg-effs: do-spray-varnish>

@@ -1,0 +1,6 @@
+<Component: Remove Atom empty(?s) from Precondition: refill-shot | Condition: False>
+<Component: Remove Atom shaker-level(?d, ?l) from Precondition: pour-shot-to-used-shaker | Condition: False>
+<Component: Add Atom holding(?h, ?c) to Effects: grasp | Condition: False>
+<Component: Remove Atom ontable(?c) from Precondition: grasp | Condition: False>
+0.016573738000000005
+memory: 13.16796875

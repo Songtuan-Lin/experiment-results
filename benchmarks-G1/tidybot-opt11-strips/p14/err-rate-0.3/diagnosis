@@ -1,0 +1,4 @@
+<Component: Add Atom gripper-empty(?r) to Effects: put-right | Condition: False>
+<Component: Remove NegatedAtom not-pushing(?r) from Effects: park | Condition: False>
+0.011518537000000002
+memory: 13.17578125

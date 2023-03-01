@@ -1,0 +1,1 @@
+<Remove Atom carry(?obj, ?gripper) from Pos-effs: pick>

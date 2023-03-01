@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom not-unitary(?pipe) from Effects: pop-end | Condition: False>
+<Component: Remove NegatedAtom is-product(?batch-atom-in, ?product-batch-atom-in) from Effects: push-start | Condition: False>
+0.016245891
+memory: 14.5390625

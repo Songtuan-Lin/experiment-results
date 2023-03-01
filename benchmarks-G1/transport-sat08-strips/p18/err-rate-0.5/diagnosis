@@ -1,0 +1,4 @@
+<Component: Add Atom road(?l2, ?l2) to Effects: drive | Condition: False>
+<Component: Remove Atom capacity-predecessor(?s1, ?s1) from Precondition: drop | Condition: False>
+0.022935329999999997
+memory: 14.53125

@@ -1,0 +1,4 @@
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Add Atom boardsize-successor(?size_before, ?size_before) to Neg-effs: do-saw-medium>
+<Add Atom boardsize-successor(?size_after, ?size_after) to Neg-effs: do-saw-small>
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Neg-effs: do-plane>

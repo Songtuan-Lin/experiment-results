@@ -1,0 +1,1 @@
+<Add Atom blocked(?head) to Prec: move-and-eat-no-spawn>

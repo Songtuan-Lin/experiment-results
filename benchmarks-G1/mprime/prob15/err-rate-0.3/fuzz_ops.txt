@@ -1,0 +1,2 @@
+<Add Atom eats(?s1, ?c) to Effs: overcome>
+<Add Atom fears(?n2, ?l2) to Effs: feast>

@@ -1,0 +1,2 @@
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-immersion-varnish>
+<Remove Atom colour(?p, natural) from Pos-effs: cut-board-medium>

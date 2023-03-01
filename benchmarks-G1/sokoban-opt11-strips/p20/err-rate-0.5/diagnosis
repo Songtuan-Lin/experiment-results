@@ -1,0 +1,4 @@
+<Component: Add Atom move-dir(?from, ?to, ?dir) to Effects: move | Condition: False>
+<Component: Remove NegatedAtom move-dir(?ppos, ?from, ?dir) from Effects: push-to-goal | Condition: False>
+0.016531913999999995
+memory: 14.5390625

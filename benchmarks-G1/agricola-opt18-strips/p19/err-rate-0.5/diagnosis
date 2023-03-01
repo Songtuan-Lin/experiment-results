@@ -1,0 +1,8 @@
+<Component: Remove NegatedAtom current_stage(?s) from Effects: ag__harvest_breed_end | Condition: False>
+<Component: Add Atom open_action(?act) to Effects: ag__finish_stage | Condition: False>
+<Component: Remove Atom home_improvement(fireplace) from Precondition: collect_cook_animal | Condition: False>
+<Component: Remove Atom newborn() from Effects: ag__advance_round_normal | Condition: False>
+<Component: Add Atom fences_for(boar) to Effects: ag__harvest_feed | Condition: False>
+<Component: Remove Atom num_food(?i1) from Precondition: collect_cook_animal | Condition: False>
+8.113544619
+memory: 617.4765625

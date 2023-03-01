@@ -1,0 +1,4 @@
+<Component: Remove Atom passenger(?f1) from Precondition: up | Condition: False>
+<Component: Add Atom floor(?p) to Effects: board | Condition: False>
+0.033245107999999995
+memory: 13.171875

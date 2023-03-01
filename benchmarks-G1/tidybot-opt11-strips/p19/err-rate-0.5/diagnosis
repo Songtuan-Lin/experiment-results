@@ -1,0 +1,5 @@
+<Component: Add Atom leftof(?gxabs, ?gxabs) to Effects: gripper-down | Condition: False>
+<Component: Add Atom holding(?r, ?o) to Effects: get-down | Condition: False>
+<Component: Remove NegatedAtom gripper-obstacle(?dgxabs, ?gyabs) from Precondition: gripper-left | Condition: False>
+0.027420560000000004
+memory: 14.53125

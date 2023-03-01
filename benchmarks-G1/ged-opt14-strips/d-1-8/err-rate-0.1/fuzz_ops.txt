@@ -1,0 +1,3 @@
+<Remove NegatedAtom last-cut-point(?x) from Effs: reset-1>
+<Remove NegatedAtom splice-point-1(?y) from Effs: continue-splice-2>
+<Remove NegatedAtom inverted(?x) from Effs: invert-single-gene-b>

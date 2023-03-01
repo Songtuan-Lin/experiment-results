@@ -1,0 +1,4 @@
+<Remove NegatedAtom has-block() from Effs: destroy-block>
+<Add Atom succ(?hafter, ?hafter) to Effs: place-block>
+<Add Atom has-block() to Prec: move-down>
+<Add Atom neighbor(?bpos, ?bpos) to Effs: remove-block>

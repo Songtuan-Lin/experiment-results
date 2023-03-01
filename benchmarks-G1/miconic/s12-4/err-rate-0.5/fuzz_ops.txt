@@ -1,0 +1,2 @@
+<Add Atom destin(?f2, ?f2) to Prec: down>
+<Add Atom passenger(?f) to Prec: depart>

@@ -1,0 +1,3 @@
+<Add Atom value(?homecard, ?vhomecard) to Prec: tal-to-home-d>
+<Add Atom on(?card, ?cardabove) to Prec: tal-to-col-b>
+<Add Atom successor(?vhomecard, ?vcard) to Prec: col-to-home>

@@ -1,0 +1,3 @@
+<Add Atom sum(?after, ?size, ?limit) to Effs: send>
+<Add Atom less-equal(?limit, ?before) to Effs: process>
+<Add Atom connected(?s, ?s) to Effs: save>

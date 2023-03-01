@@ -1,0 +1,2 @@
+<Remove Atom ispoint(?spawnpoint) from Pos-effs: move-and-eat-spawn>
+<Add Atom isadjacent(?newtail, ?head) to Effs: move>

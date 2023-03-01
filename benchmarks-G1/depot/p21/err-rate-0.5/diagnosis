@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom available(?x) from Effects: unload | Condition: False>
+<Component: Remove NegatedAtom available(?x) from Effects: lift | Condition: False>
+<Component: Add Atom lifting(?x, ?y) to Effects: lift | Condition: False>
+0.013880135000000002
+memory: 14.5390625

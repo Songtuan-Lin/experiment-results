@@ -1,0 +1,6 @@
+<Component: Remove NegatedAtom handempty(?h) from Effects: grasp | Condition: False>
+<Component: Add Atom holding(?h, ?c) to Effects: grasp | Condition: False>
+<Component: Add Atom contains(?s, ?b) to Effects: shake | Condition: False>
+<Component: Remove NegatedAtom contains(?s, ?i) from Effects: pour-shot-to-clean-shaker | Condition: False>
+0.023754002999999996
+memory: 13.17578125

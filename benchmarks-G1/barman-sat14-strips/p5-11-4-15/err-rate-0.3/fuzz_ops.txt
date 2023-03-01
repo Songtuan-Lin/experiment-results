@@ -1,0 +1,4 @@
+<Add Atom handempty(?h) to Prec: empty-shot>
+<Add Atom unshaked(?s) to Prec: empty-shaker>
+<Add Atom ontable(?c) to Prec: leave>
+<Add Atom handempty(?h) to Prec: grasp>

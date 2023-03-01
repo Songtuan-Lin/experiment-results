@@ -1,0 +1,2 @@
+<Add Atom lift-at(?lift, ?f) to Prec: board>
+<Add Atom above(?f1, ?f1) to Prec: move-down-fast>

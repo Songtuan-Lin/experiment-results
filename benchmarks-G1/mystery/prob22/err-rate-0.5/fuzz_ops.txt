@@ -1,0 +1,2 @@
+<Remove Atom locale(?n1, ?l1) from Pos-effs: feast>
+<Remove Atom craves(?c, ?n) from Pos-effs: succumb>

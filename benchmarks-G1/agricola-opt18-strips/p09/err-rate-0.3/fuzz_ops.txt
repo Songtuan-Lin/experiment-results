@@ -1,0 +1,7 @@
+<Add Atom ok() to Effs: ag__finish_round_renew>
+<Add Atom current_worker(?maxw) to Neg-effs: ag__finish_round_backhome_withchild>
+<Remove Atom current_worker(?w2) from Pos-effs: take_grain>
+<Add Atom next_round(?r, ?r) to Effs: collect_animal>
+<Add Atom next_round(?r2, ?r1) to Effs: ag__advance_round_normal>
+<Add Atom plowed_fields() to Effs: family_growth>
+<Add Atom next_stage(?s2, ?s2) to Effs: ag__finish_stage>

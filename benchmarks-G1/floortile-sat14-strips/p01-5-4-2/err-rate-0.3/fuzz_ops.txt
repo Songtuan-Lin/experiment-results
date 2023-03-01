@@ -1,0 +1,3 @@
+<Remove Atom painted(?y, ?c) from Pos-effs: paint-up>
+<Remove Atom clear(?x) from Pos-effs: right>
+<Remove Atom clear(?x) from Pos-effs: left>

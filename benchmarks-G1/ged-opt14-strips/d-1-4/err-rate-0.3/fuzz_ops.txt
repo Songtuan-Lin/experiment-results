@@ -1,0 +1,7 @@
+<Add Atom cut-point-2(?x) to Effs: invert-single-gene-a>
+<Remove Atom cw(?x, ?y) from Pos-effs: end-splice-2>
+<Add Atom cutting() to Effs: continue-splice-1>
+<Remove NegatedAtom cw(?x, ?x) from Effs: begin-inverse-splice-special-case>
+<Remove Atom have-cut() from Pos-effs: end-cut-2>
+<Add Atom cw(?y, ?y) to Effs: end-inverse-splice-1a>
+<Add Atom present(?x) to Effs: begin-inverse-splice>

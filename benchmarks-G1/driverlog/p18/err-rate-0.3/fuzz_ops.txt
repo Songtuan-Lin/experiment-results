@@ -1,0 +1,2 @@
+<Add Atom location(?loc) to Neg-effs: load-truck>
+<Add Atom truck(?truck) to Neg-effs: disembark-truck>

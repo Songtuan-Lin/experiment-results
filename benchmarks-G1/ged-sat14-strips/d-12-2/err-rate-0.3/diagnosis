@@ -1,0 +1,5 @@
+<Component: Add Atom splice-point-1(?x) to Effects: continue-cut | Condition: False>
+<Component: Add Atom cw(?x, ?y) to Effects: end-splice-2 | Condition: False>
+<Component: Add Atom inverted(?x) to Effects: invert-single-gene-a | Condition: False>
+0.05444276000000001
+memory: 13.16796875

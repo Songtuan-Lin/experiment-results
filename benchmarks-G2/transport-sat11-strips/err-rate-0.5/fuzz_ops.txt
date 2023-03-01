@@ -1,0 +1,2 @@
+<Remove Atom at(?v, ?l2) from Pos-effs: drive>
+<Add Atom capacity-predecessor(?s1, ?s1) to Prec: pick-up>

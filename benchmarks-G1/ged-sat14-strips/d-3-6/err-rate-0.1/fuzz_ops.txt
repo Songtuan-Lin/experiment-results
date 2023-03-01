@@ -1,0 +1,3 @@
+<Remove NegatedAtom inverse-splicing() from Effs: continue-inverse-splice-1b>
+<Remove NegatedAtom cw(?x, ?y) from Effs: begin-transverse-splice>
+<Remove NegatedAtom cw(?x, ?x) from Effs: begin-inverse-splice-special-case>

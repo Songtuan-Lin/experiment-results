@@ -1,0 +1,2 @@
+<Add Atom behind-car(?carsrc, ?car) to Neg-effs: move-car-to-curb>
+<Add Atom car-clear(?carsrc) to Neg-effs: move-car-to-car>

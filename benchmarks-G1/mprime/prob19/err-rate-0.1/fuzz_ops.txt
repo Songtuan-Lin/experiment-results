@@ -1,0 +1,1 @@
+<Add Atom eats(?n, ?c) to Neg-effs: overcome>

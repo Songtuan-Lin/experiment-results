@@ -1,0 +1,2 @@
+<Add Atom locale(?n, ?s1) to Effs: overcome>
+<Add Atom orbits(?l22, ?l21) to Neg-effs: drink>

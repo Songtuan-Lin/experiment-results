@@ -1,0 +1,7 @@
+<Remove Atom num_food(?i2) from Pos-effs: collect_cook_animal>
+<Add Atom current_worker(?wnewmax) to Effs: build_room>
+<Remove Atom open_action(?act) from Pos-effs: ag__finish_stage>
+<Remove NegatedAtom current_round(?r) from Effs: ag__finish_round_backhome>
+<Add Atom next_num(?i2, ?i2) to Neg-effs: ag__harvest_breeding_animal>
+<Add Atom newborn() to Effs: ag__finish_round_renew>
+<Remove NegatedAtom max_worker(?maxw) from Effs: ag__finish_round_backhome_withchild>

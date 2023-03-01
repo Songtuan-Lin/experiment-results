@@ -1,0 +1,5 @@
+<Component: Remove Atom pallet(?x) from Precondition: drive | Condition: False>
+<Component: Remove Atom surface(?x) from Precondition: lift | Condition: False>
+<Component: Remove Atom in(?y, ?x) from Precondition: drop | Condition: False>
+0.009843154
+memory: 14.5390625

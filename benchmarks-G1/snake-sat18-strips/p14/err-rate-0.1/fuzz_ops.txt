@@ -1,0 +1,1 @@
+<Add Atom isadjacent(?head, ?newhead) to Neg-effs: move-and-eat-no-spawn>

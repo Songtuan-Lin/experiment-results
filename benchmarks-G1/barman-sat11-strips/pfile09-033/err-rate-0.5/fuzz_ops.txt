@@ -1,0 +1,6 @@
+<Add Atom shaker-empty-level(?s, ?l) to Prec: empty-shaker>
+<Add Atom handempty(?h2) to Prec: shake>
+<Add Atom handempty(?h2) to Prec: clean-shot>
+<Add Atom handempty(?h2) to Prec: fill-shot>
+<Add Atom handempty(?h) to Prec: leave>
+<Add Atom next(?l1, ?l) to Prec: pour-shaker-to-shot>

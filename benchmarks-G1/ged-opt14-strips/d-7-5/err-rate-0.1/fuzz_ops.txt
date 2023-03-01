@@ -1,0 +1,3 @@
+<Add Atom gone(?y) to Effs: begin-cut>
+<Add Atom cut-point-2(?y) to Effs: begin-transpose-splice>
+<Add Atom have-cut() to Effs: continue-inverse-splice-2>

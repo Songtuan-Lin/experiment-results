@@ -1,0 +1,7 @@
+(do-grind p2 grinder0 verysmooth mauve colourfragments untreated)
+(do-glaze p2 glazer0 natural)
+(do-plane p0 planer0 verysmooth blue colourfragments)
+(do-grind p1 grinder0 smooth natural colourfragments untreated)
+(do-plane p1 planer0 verysmooth natural untreated)
+(do-glaze p1 glazer0 natural)
+; cost = 70 (general cost)

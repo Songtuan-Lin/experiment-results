@@ -1,0 +1,5 @@
+<Component: Add Atom served(?c) to Effects: serve_sandwich | Condition: False>
+<Component: Add Atom at_kitchen_sandwich(?s) to Effects: make_sandwich_no_gluten | Condition: False>
+<Component: Add Atom at(?t, ?p2) to Effects: move_tray | Condition: False>
+0.009176917999999992
+memory: 14.5390625

@@ -1,0 +1,2 @@
+<Add Atom cycle-4(?s1, ?s1, ?s2, ?s1) to Neg-effs: rotate-2>
+<Add Atom cycle-4(?s1, ?s3, ?s2, ?s3) to Neg-effs: rotate-4>

@@ -1,0 +1,2 @@
+<Add Atom grind-treatment-change(?newtreatment, ?oldtreatment) to Prec: do-grind>
+<Add Atom boardsize-successor(?s2, ?s1) to Prec: do-saw-large>

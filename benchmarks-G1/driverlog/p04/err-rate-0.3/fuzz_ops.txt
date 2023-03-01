@@ -1,0 +1,2 @@
+<Remove Atom at(?obj, ?loc) from Pos-effs: unload-truck>
+<Remove Atom driving(?driver, ?truck) from Pos-effs: board-truck>

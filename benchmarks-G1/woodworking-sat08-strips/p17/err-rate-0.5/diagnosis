@@ -1,0 +1,7 @@
+<Component: Remove Atom grind-treatment-change(?oldtreatment, ?oldtreatment) from Precondition: do-plane | Condition: False>
+<Component: Remove Atom colour(?x, ?newcolour) from Precondition: do-glaze | Condition: False>
+<Component: Remove Atom colour(?x, ?newcolour) from Precondition: do-immersion-varnish | Condition: False>
+<Component: Remove Atom grind-treatment-change(?oldtreatment, ?oldtreatment) from Precondition: do-grind | Condition: False>
+<Component: Remove Atom boardsize(?b, ?size_after) from Precondition: do-saw-small | Condition: False>
+0.019429524999999996
+memory: 14.53125

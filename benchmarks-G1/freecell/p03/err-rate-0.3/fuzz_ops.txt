@@ -1,0 +1,3 @@
+<Add Atom on(?ncells, ?cells) to Neg-effs: colfromfreecell>
+<Add Atom home(?vhomecard) to Neg-effs: sendtohome>
+<Add Atom successor(?ncols, ?suit) to Neg-effs: sendtohome-b>

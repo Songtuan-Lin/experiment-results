@@ -1,0 +1,3 @@
+<Add Atom supports(?s, ?s) to Neg-effs: switch_off>
+<Add Atom =(?s, ?d_prev) to Neg-effs: turn_to>
+<Add Atom have_image(?s, ?i) to Neg-effs: switch_on>

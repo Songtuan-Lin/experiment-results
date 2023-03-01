@@ -1,0 +1,3 @@
+<Remove Atom clear(?card) from Pos-effs: colfromfreecell>
+<Remove Atom cellspace(?ncells) from Pos-effs: sendtofree>
+<Remove Atom cellspace(?ncells) from Pos-effs: newcolfromfreecell>

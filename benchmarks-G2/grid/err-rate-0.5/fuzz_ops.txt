@@ -1,0 +1,3 @@
+<Add Atom arm-empty() to Neg-effs: pickup-and-loose>
+<Add Atom key(?nextpos) to Prec: move>
+<Remove Atom open(?lockpos) from Pos-effs: unlock>

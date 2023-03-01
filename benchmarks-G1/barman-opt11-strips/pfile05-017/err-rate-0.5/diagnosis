@@ -1,0 +1,5 @@
+<Component: Remove Atom empty(?c) from Precondition: grasp | Condition: False>
+<Component: Add Atom handempty(?h) to Effects: grasp | Condition: False>
+<Component: Remove Atom next(?l1, ?l) from Precondition: pour-shot-to-used-shaker | Condition: False>
+0.014080734000000004
+memory: 14.53125

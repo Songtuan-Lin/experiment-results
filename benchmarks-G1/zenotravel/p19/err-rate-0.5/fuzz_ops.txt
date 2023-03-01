@@ -1,0 +1,3 @@
+<Add Atom next(?a, ?l2) to Neg-effs: zoom>
+<Add Atom fuel-level(?p, ?a) to Neg-effs: debark>
+<Add Atom in(?a, ?c) to Neg-effs: board>

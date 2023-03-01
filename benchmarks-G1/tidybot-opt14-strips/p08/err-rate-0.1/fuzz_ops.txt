@@ -1,0 +1,3 @@
+<Add Atom not-pushed(?c) to Prec: grasp-cart-above>
+<Add Atom leftof(?x, ?x) to Prec: grasp-cart-below>
+<Add Atom above(?y2, ?y1) to Prec: base-cart-up>

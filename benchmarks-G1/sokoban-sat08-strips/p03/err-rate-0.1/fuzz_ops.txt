@@ -1,0 +1,1 @@
+<Add Atom is-goal(?to) to Prec: push-to-nongoal>

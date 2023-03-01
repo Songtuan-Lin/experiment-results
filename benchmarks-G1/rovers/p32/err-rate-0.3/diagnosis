@@ -1,0 +1,4 @@
+<Component: Remove Atom equipped_for_imaging(?x) from Precondition: sample_rock | Condition: False>
+<Component: Remove Atom at_rock_sample(?y) from Precondition: communicate_rock_data | Condition: False>
+0.03774381300000001
+memory: 13.39453125

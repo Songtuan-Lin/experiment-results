@@ -1,0 +1,4 @@
+<Component: Add Atom lift-at(?lift, ?f2) to Effects: move-up-fast | Condition: False>
+<Component: Add Atom boarded(?p, ?lift) to Effects: board | Condition: False>
+0.007295020999999999
+memory: 13.17578125

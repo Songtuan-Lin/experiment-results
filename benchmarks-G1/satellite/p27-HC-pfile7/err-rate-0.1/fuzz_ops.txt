@@ -1,0 +1,1 @@
+<Add Atom have_image(?s, ?s) to Prec: switch_off>

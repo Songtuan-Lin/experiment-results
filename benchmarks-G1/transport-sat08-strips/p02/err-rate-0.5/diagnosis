@@ -1,0 +1,4 @@
+<Component: Add Atom at(?v, ?l2) to Effects: drive | Condition: False>
+<Component: Remove NegatedAtom capacity(?v, ?s2) from Effects: pick-up | Condition: False>
+0.00599334
+memory: 14.5390625

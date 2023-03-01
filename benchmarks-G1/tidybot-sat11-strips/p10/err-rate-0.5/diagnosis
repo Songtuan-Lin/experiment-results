@@ -1,0 +1,9 @@
+<Component: Remove NegatedAtom object-done(?o) from Precondition: finish-object | Condition: False>
+<Component: Add Atom gripper-empty(?r) to Effects: unpark | Condition: False>
+<Component: Add Atom base-pos(?r, ?dx, ?y) to Effects: base-right | Condition: False>
+<Component: Remove NegatedAtom object-done(?o) from Precondition: get-right | Condition: False>
+<Component: Add Atom gripper-rel(?r, ?gxrel, ?dgyrel) to Effects: gripper-up | Condition: False>
+<Component: Remove NegatedAtom object-done(?o) from Precondition: get-left | Condition: False>
+<Component: Add Atom base-pos(?r, ?x, ?cy) to Effects: base-down | Condition: False>
+0.252914376
+memory: 22.875

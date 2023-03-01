@@ -1,0 +1,7 @@
+<Remove Atom current_worker(?w2) from Pos-effs: collect_animal>
+<Add Atom newborn() to Effs: ag__finish_round_backhome_withchild>
+<Add Atom next_stage(?s, ?s) to Neg-effs: ag__harvest_breed_end>
+<Add Atom next_worker(?w1, ?w1) to Prec: build_fences>
+<Add Atom current_worker(?wnewmax) to Effs: family_growth>
+<Add Atom current_worker(?wmax) to Prec: collect_resource>
+<Add Atom next_worker(?w2, ?w1) to Effs: improve_home>

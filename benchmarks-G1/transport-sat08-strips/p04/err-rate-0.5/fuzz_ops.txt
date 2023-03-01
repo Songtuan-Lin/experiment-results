@@ -1,0 +1,2 @@
+<Add Atom road(?l2, ?l2) to Neg-effs: drive>
+<Add Atom capacity-predecessor(?s2, ?s1) to Neg-effs: drop>

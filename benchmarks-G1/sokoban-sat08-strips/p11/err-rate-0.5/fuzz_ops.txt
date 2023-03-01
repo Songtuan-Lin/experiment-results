@@ -1,0 +1,2 @@
+<Add Atom is-goal(?from) to Prec: move>
+<Add Atom is-goal(?ppos) to Prec: push-to-goal>

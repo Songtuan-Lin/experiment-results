@@ -1,0 +1,2 @@
+<Add Atom next(?a, ?c) to Neg-effs: board>
+<Add Atom flevel(?l) to Neg-effs: refuel>

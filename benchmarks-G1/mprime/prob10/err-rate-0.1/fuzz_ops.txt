@@ -1,0 +1,1 @@
+<Remove NegatedAtom craves(?v, ?n1) from Effs: feast>

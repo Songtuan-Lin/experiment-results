@@ -1,0 +1,2 @@
+<Add Atom on_board(?i, ?d) to Neg-effs: take_image>
+<Add Atom direction(?s) to Neg-effs: switch_off>

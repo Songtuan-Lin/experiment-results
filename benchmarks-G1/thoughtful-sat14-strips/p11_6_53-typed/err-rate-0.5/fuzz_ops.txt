@@ -1,0 +1,11 @@
+<Add Atom colspace(?ncols) to Neg-effs: move-col-to-col-b>
+<Add Atom value(?card, ?vhomecard) to Neg-effs: tal-to-home>
+<Add Atom ontalon(?cardabove, ?newcard) to Neg-effs: tal-to-col-b>
+<Add Atom ace(?oldcard) to Neg-effs: tal-to-col-g>
+<Add Atom canstack(?card, ?c1) to Neg-effs: turn-deck-a>
+<Add Atom ontalon(?cardbelow, ?homecard) to Neg-effs: tal-to-home-c>
+<Add Atom on(?card, ?newcard) to Neg-effs: tal-to-col-d>
+<Add Atom clear(?oldcard) to Neg-effs: move-col-to-col>
+<Add Atom talonplayable(?card) to Neg-effs: move-col-to-col-c>
+<Add Atom suit(?cardbelow, ?cardsuit) to Neg-effs: home-to-col>
+<Add Atom successor(?vhomecard, ?vcard) to Neg-effs: tal-to-home-b>

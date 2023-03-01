@@ -1,0 +1,11 @@
+<Add Atom duplicate(?x, ?y) to Effs: begin-inverse-splice>
+<Add Atom inverse-splice-next(?y) to Prec: begin-cut>
+<Add Atom duplicate(?x, ?x) to Effs: end-splice-1>
+<Add Atom cw(?x, ?y) to Effs: begin-transpose-splice>
+<Add Atom cw(?y, ?y) to Effs: continue-inverse-splice-1b>
+<Remove Atom splice-point-2(?y) from Pos-effs: begin-transverse-splice>
+<Add Atom gone(?x) to Effs: end-splice-2>
+<Add Atom inverse-splicing-last() to Neg-effs: end-inverse-splice-1a>
+<Add Atom s-last(?x) to Effs: begin-inverse-splice-special-case>
+<Add Atom normal(?x) to Effs: reset-1>
+<Add Atom cw(?y, ?y) to Effs: continue-splice-1>

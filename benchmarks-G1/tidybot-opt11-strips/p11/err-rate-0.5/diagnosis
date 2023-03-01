@@ -1,0 +1,5 @@
+<Component: Add Atom surface(?x, ?dy) to Effects: base-down | Condition: False>
+<Component: Add Atom leftof(?dx, ?dx) to Effects: base-right | Condition: False>
+<Component: Add Atom parked(?r) to Effects: park | Condition: False>
+0.022900571999999994
+memory: 14.53125

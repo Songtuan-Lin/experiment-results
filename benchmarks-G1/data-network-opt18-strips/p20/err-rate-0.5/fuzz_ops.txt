@@ -1,0 +1,3 @@
+<Remove Atom usage(?s, ?after) from Pos-effs: process>
+<Add Atom connected(?s, ?s) to Effs: save>
+<Add Atom sum(?before, ?size, ?after) to Effs: send>

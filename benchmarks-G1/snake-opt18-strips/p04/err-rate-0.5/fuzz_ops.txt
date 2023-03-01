@@ -1,0 +1,2 @@
+<Add Atom headsnake(?head) to Effs: move>
+<Add Atom blocked(?head) to Effs: move-and-eat-spawn>

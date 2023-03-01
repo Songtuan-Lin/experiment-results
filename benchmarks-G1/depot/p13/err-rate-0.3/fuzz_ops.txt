@@ -1,0 +1,2 @@
+<Add Atom =(?x, ?x) to Prec: drive>
+<Add Atom in(?z, ?z) to Prec: load>

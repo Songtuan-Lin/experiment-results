@@ -1,0 +1,5 @@
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-glaze | Condition: False>
+<Component: Add Atom surface-condition(?p, rough) to Effects: do-saw-large | Condition: False>
+<Component: Remove Atom treatment(?x, untreated) from Precondition: do-glaze | Condition: False>
+0.015628847999999994
+memory: 14.53125

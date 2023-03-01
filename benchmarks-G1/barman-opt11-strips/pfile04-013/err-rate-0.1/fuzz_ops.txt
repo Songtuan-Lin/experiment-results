@@ -1,0 +1,2 @@
+<Remove Atom clean(?s) from Pos-effs: clean-shot>
+<Remove Atom empty(?p) from Pos-effs: empty-shot>

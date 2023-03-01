@@ -1,0 +1,2 @@
+<Remove Atom at-robby(?to) from Pos-effs: move>
+<Remove Atom carry(?obj, ?gripper) from Pos-effs: pick>

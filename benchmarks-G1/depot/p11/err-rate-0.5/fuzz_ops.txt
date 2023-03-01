@@ -1,0 +1,3 @@
+<Add Atom =(?y, ?p) to Prec: drop>
+<Add Atom pallet(?x) to Prec: unload>
+<Add Atom truck(?x) to Prec: drive>

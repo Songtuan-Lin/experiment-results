@@ -1,0 +1,4 @@
+<Component: Remove Atom at_tent(?x5, ?x2) from Precondition: drive_tent | Condition: False>
+<Component: Add Atom at_person(?x1, ?x3) to Effects: drive_tent | Condition: False>
+0.004377473
+memory: 14.53515625

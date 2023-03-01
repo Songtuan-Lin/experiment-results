@@ -1,0 +1,11 @@
+<Add Atom free(?x) to Effs: continue-splice-1>
+<Remove NegatedAtom inverted(?x) from Effs: end-inverse-splice-1b>
+<Remove NegatedAtom cw(?x, ?y) from Effs: begin-transpose-splice>
+<Remove Atom splice-point-1(?x) from Pos-effs: begin-inverse-splice>
+<Add Atom splice-next(?x) to Effs: continue-inverse-splice-1b>
+<Add Atom swappable(?y, ?x) to Prec: end-splice-1>
+<Add Atom splice-point-2(?y) to Effs: end-inverse-splice-2>
+<Add Atom s-first(?y) to Prec: begin-cut>
+<Add Atom gone(?y) to Prec: continue-inverse-splice-1a>
+<Add Atom =(?y, ?y) to Effs: end-splice-2>
+<Remove Atom idle() from Pos-effs: reset-1>

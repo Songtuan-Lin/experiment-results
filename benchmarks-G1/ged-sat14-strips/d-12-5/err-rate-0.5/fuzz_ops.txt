@@ -1,0 +1,11 @@
+<Remove NegatedAtom cw(?x, ?y) from Effs: begin-transverse-splice>
+<Add Atom present(?x) to Effs: continue-splice-1>
+<Add Atom =(?x, ?y) to Prec: begin-transpose-splice>
+<Remove Atom splice-point-1(?x) from Pos-effs: begin-inverse-splice-special-case>
+<Remove Atom splice-point-1(?x) from Pos-effs: continue-splice-2>
+<Add Atom cut-point-2(?y) to Effs: continue-cut>
+<Add Atom gone(?y) to Neg-effs: begin-inverse-splice>
+<Add Atom =(?y, ?y) to Prec: begin-cut>
+<Add Atom present(?y) to Effs: end-cut-1>
+<Add Atom gone(?y) to Effs: end-splice-1>
+<Add Atom splice-point-2(?y) to Effs: end-cut-2>

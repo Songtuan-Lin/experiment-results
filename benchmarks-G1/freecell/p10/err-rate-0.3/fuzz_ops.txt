@@ -1,0 +1,3 @@
+<Add Atom =(?oldcard, ?newcard) to Prec: move>
+<Add Atom successor(?cells, ?card) to Prec: newcolfromfreecell>
+<Add Atom successor(?homecard, ?homecard) to Prec: sendtohome>

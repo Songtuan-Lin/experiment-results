@@ -1,0 +1,2 @@
+<Remove Atom ready-to-load(?g, ?m, ?l1) from Pos-effs: load>
+<Remove Atom stored(?g, ?l4) from Pos-effs: unload>

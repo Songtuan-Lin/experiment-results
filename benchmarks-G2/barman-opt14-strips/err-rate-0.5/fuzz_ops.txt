@@ -1,0 +1,6 @@
+<Add Atom handempty(?h2) to Neg-effs: fill-shot>
+<Add Atom holding(?h, ?c) to Prec: leave>
+<Add Atom clean(?c) to Neg-effs: grasp>
+<Remove Atom shaker-level(?s, ?l1) from Pos-effs: empty-shaker>
+<Add Atom cocktail-part2(?b, ?d2) to Neg-effs: shake>
+<Add Atom shaked(?d) to Neg-effs: pour-shot-to-clean-shaker>

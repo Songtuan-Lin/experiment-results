@@ -1,0 +1,2 @@
+<Remove Atom at(?s, ?to) from Pos-effs: push-to-nongoal>
+<Remove Atom at(?p, ?from) from Pos-effs: push-to-goal>

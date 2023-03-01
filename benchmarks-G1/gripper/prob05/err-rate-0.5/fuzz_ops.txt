@@ -1,0 +1,2 @@
+<Add Atom at-robby(?obj) to Prec: pick>
+<Add Atom at-robby(?to) to Prec: move>

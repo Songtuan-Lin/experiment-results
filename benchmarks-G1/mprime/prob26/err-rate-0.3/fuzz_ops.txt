@@ -1,0 +1,2 @@
+<Remove Atom fears(?c, ?v) from Pos-effs: overcome>
+<Add Atom orbits(?l13, ?l22) to Effs: drink>

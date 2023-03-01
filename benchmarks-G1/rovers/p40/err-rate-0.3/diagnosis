@@ -1,0 +1,4 @@
+<Component: Remove Atom communicated_soil_data(?x) from Precondition: communicate_rock_data | Condition: False>
+<Component: Remove Atom can_traverse(?x, ?p, ?p) from Precondition: sample_rock | Condition: False>
+0.08261423600000001
+memory: 14.62109375

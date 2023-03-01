@@ -1,0 +1,5 @@
+<Component: Add Atom contains(?s, ?i) to Effects: fill-shot | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: refill-shot | Condition: False>
+<Component: Add Atom clean(?s) to Effects: clean-shot | Condition: False>
+0.021814371
+memory: 13.16796875

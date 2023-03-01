@@ -1,0 +1,9 @@
+<Add Atom leftof(?ox, ?ox) to Effs: get-right>
+<Remove Atom pushing(?r, ?c) from Pos-effs: grasp-cart-above>
+<Add Atom leftof-rel(?gxrel, ?gxrel) to Effs: put-on-cart>
+<Add Atom base-pos(?r, ?gxabs, ?basey) to Effs: get-up>
+<Add Atom above-rel(?y, ?y) to Effs: unpark>
+<Remove Atom object-pos(?o, ?gxabs, ?oy) from Pos-effs: put-up>
+<Add Atom above(?y, ?y) to Effs: finish-object>
+<Add Atom not-pushing(?r) to Effs: gripper-down>
+<Add Atom above(?cy, ?cy) to Prec: grasp-cart-below>

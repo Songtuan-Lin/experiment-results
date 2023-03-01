@@ -1,0 +1,2 @@
+<Add Atom locale(?c, ?s2) to Prec: overcome>
+<Add Atom eats(?v, ?l1) to Prec: feast>

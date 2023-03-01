@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom road(?l1, ?l2) from Effects: drive | Condition: False>
+<Component: Remove NegatedAtom capacity-predecessor(?s1, ?s2) from Effects: drop | Condition: False>
+0.019311172999999994
+memory: 14.53515625

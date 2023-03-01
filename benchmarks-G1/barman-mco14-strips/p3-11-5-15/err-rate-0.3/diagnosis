@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom handempty(?h) from Effects: grasp | Condition: False>
+<Component: Remove Atom ontable(?c) from Precondition: leave | Condition: False>
+0.011341947999999998
+memory: 13.17578125

@@ -1,0 +1,8 @@
+<Component: Add Atom contains(?s, ?b) to Effects: shake | Condition: False>
+<Component: Remove Atom empty(?s) from Precondition: refill-shot | Condition: False>
+<Component: Add Atom shaker-level(?s, ?l1) to Effects: empty-shaker | Condition: False>
+<Component: Add Atom handempty(?h) to Effects: grasp | Condition: False>
+<Component: Add Atom contains(?d, ?b) to Effects: pour-shaker-to-shot | Condition: False>
+<Component: Add Atom shaker-level(?d, ?l1) to Effects: pour-shot-to-used-shaker | Condition: False>
+0.066843906
+memory: 14.53515625

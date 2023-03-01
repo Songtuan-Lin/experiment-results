@@ -1,0 +1,2 @@
+<Remove Atom on(?c2, ?s1) from Pos-effs: rotate-2>
+<Remove Atom on(?c1, ?s4) from Pos-effs: rotate-4>

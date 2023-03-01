@@ -1,0 +1,2 @@
+<Add Atom not_allergic_gluten(?c) to Neg-effs: serve_sandwich>
+<Add Atom waiting(?c, ?p) to Neg-effs: serve_sandwich_no_gluten>

@@ -1,0 +1,2 @@
+<Add Atom on_board(?d, ?d) to Prec: calibrate>
+<Add Atom satellite(?s) to Prec: switch_off>

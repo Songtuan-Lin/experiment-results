@@ -1,0 +1,5 @@
+<Component: Remove Atom left(?x, ?x) from Precondition: left | Condition: False>
+<Component: Remove Atom free-color(?r) from Precondition: change-color | Condition: False>
+<Component: Add Atom clear(?x) to Effects: up | Condition: False>
+0.039450823
+memory: 13.0546875

@@ -1,0 +1,4 @@
+<Add Atom handempty(?h2) to Prec: refill-shot>
+<Add Atom clean(?c) to Prec: leave>
+<Add Atom shaked(?d) to Prec: pour-shot-to-used-shaker>
+<Add Atom handempty(?h) to Prec: empty-shot>

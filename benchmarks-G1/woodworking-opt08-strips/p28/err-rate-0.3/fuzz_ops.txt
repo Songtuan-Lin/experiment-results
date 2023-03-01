@@ -1,0 +1,4 @@
+<Remove Atom colour(?x, ?newcolour) from Pos-effs: do-spray-varnish>
+<Remove Atom available(?p) from Pos-effs: cut-board-large>
+<Remove Atom boardsize(?b, ?size_after) from Pos-effs: do-saw-medium>
+<Remove Atom surface-condition(?x, verysmooth) from Pos-effs: do-grind>

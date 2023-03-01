@@ -1,0 +1,5 @@
+<Component: Add Atom base-pos(?r, ?x, ?dy) to Effects: base-up | Condition: False>
+<Component: Remove Atom parked(?r) from Effects: base-down | Condition: False>
+<Component: Remove Atom parked(?r) from Effects: base-right | Condition: False>
+0.022987775000000002
+memory: 14.53125

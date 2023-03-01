@@ -1,0 +1,2 @@
+<Remove Atom pop-updating(?pipe) from Pos-effs: pop-start>
+<Remove Atom on(?last-batch-atom, ?to-area) from Pos-effs: push-end>

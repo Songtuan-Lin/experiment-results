@@ -1,0 +1,4 @@
+<Remove Atom used(?s, ?i) from Pos-effs: fill-shot>
+<Remove Atom holding(?h, ?c) from Pos-effs: grasp>
+<Remove Atom empty(?p) from Pos-effs: empty-shot>
+<Add Atom handempty(?h1) to Neg-effs: refill-shot>

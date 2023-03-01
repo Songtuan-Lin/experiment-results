@@ -1,0 +1,3 @@
+<Add Atom surface(?x, ?y) to Effs: grasp-cart-left>
+<Remove Atom gripper-obstacle(?ox, ?gyabs) from Pos-effs: put-left>
+<Add Atom leftof(?x, ?cx) to Effs: grasp-cart-right>

@@ -1,0 +1,7 @@
+<Component: Remove Atom ontable(?c) from Precondition: grasp | Condition: False>
+<Component: Add Atom contains(?d, ?i) to Effects: pour-shot-to-clean-shaker | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: refill-shot | Condition: False>
+<Component: Add Atom holding(?h, ?c) to Effects: grasp | Condition: False>
+<Component: Add Atom shaker-level(?d, ?l1) to Effects: pour-shot-to-used-shaker | Condition: False>
+0.016156836
+memory: 14.5390625

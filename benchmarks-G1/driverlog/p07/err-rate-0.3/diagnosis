@@ -1,0 +1,4 @@
+<Component: Remove Atom location(?obj) from Precondition: unload-truck | Condition: False>
+<Component: Remove Atom driver(?loc) from Precondition: disembark-truck | Condition: False>
+0.0037178169999999983
+memory: 13.16796875

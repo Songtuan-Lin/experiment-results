@@ -1,0 +1,2 @@
+<Add Atom next(?f1, ?f1) to Prec: move-up-slow>
+<Add Atom next(?f1, ?f2) to Prec: move-down-fast>

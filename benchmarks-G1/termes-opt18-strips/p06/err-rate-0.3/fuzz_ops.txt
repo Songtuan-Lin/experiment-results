@@ -1,0 +1,3 @@
+<Add Atom is-depot(?bpos) to Effs: remove-block>
+<Remove Atom height(?bpos, ?hafter) from Pos-effs: place-block>
+<Add Atom is-depot(?to) to Effs: move>

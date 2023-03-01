@@ -1,0 +1,4 @@
+<Component: Add Atom communicated_rock_data(?p) to Effects: communicate_rock_data | Condition: False>
+<Component: Remove Atom full(?y) from Precondition: drop | Condition: False>
+0.009357665000000001
+memory: 13.16796875

@@ -1,0 +1,4 @@
+<Component: Remove Atom in(?p, ?t) from Precondition: unload | Condition: False>
+<Component: Remove Atom fuel(?t, ?fuelpre) from Precondition: drive | Condition: False>
+0.45635251099999996
+memory: 32.48828125

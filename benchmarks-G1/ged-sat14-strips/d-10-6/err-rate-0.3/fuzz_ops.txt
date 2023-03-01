@@ -1,0 +1,7 @@
+<Remove Atom splice-point-1(?x) from Pos-effs: begin-transverse-splice>
+<Remove NegatedAtom finished() from Effs: reset-1>
+<Remove NegatedAtom splice-point-2(?y) from Effs: end-splice-2>
+<Add Atom normal(?x) to Neg-effs: end-inverse-splice-1b>
+<Add Atom =(?x, ?x) to Effs: begin-inverse-splice-special-case>
+<Add Atom gone(?x) to Effs: continue-cut>
+<Remove Atom splice-point-1(?x) from Pos-effs: continue-inverse-splice-2>

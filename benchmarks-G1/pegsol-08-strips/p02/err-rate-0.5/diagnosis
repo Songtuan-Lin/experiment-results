@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom move-ended() from Effects: jump-new-move | Condition: False>
+<Component: Remove Atom last-visited(?loc) from Precondition: end-move | Condition: False>
+0.004929942000000007
+memory: 14.53125

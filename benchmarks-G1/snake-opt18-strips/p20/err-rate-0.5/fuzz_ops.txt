@@ -1,0 +1,2 @@
+<Add Atom nextspawn(?newhead, ?newhead) to Effs: move>
+<Add Atom tailsnake(?newhead) to Prec: move-and-eat-no-spawn>

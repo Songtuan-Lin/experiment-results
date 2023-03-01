@@ -1,0 +1,2 @@
+<Add Atom =(?p, ?f) to Prec: depart>
+<Add Atom above(?f1, ?f1) to Prec: down>

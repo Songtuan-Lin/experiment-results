@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom max_worker(?wmax) from Effects: collect_animal | Condition: False>
+<Component: Remove NegatedAtom current_round(?r) from Effects: improve_home | Condition: False>
+<Component: Remove Atom stored_resource(?res) from Precondition: collect_resource | Condition: False>
+0.027775300000000003
+memory: 14.53125

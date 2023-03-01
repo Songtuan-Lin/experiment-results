@@ -1,0 +1,2 @@
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Neg-effs: do-plane>
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-glaze>

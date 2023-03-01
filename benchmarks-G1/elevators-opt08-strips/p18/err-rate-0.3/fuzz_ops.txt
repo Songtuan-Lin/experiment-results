@@ -1,0 +1,2 @@
+<Add Atom reachable-floor(?lift, ?n1) to Neg-effs: leave>
+<Add Atom above(?f1, ?f2) to Neg-effs: move-up-slow>

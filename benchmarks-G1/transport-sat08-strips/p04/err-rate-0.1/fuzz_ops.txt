@@ -1,0 +1,1 @@
+<Add Atom capacity-predecessor(?s1, ?s1) to Neg-effs: drop>

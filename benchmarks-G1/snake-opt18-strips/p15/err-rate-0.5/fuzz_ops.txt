@@ -1,0 +1,2 @@
+<Add Atom blocked(?head) to Effs: move-and-eat-spawn>
+<Add Atom ispoint(?newhead) to Prec: move>

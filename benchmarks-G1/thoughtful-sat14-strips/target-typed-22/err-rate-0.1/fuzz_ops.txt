@@ -1,0 +1,3 @@
+<Add Atom canstack(?card, ?c1) to Neg-effs: turn-deck-a>
+<Add Atom on(?homecard, ?cardabove) to Neg-effs: tal-to-home-b>
+<Add Atom king(?oldcard) to Neg-effs: move-col-to-col-c>

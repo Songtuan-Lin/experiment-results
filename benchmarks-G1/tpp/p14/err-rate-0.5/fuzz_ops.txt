@@ -1,0 +1,2 @@
+<Add Atom on-sale(?g, ?m, ?l3) to Neg-effs: buy>
+<Add Atom ready-to-load(?g, ?m, ?l1) to Neg-effs: load>

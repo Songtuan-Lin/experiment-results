@@ -1,0 +1,1 @@
+<Remove NegatedAtom at_square(?element, ?xy_initial) from Effs: move_square>

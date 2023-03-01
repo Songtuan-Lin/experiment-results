@@ -1,0 +1,2 @@
+<Remove Atom craves(?v, ?n2) from Pos-effs: feast>
+<Add Atom attacks(?n2, ?l22) to Effs: drink>

@@ -1,0 +1,4 @@
+<Add Atom neighbor(?to, ?to) to Neg-effs: move-down>
+<Remove Atom has-block() from Pos-effs: create-block>
+<Add Atom succ(?hafter, ?hbefore) to Effs: remove-block>
+<Add Atom height(?from, ?h) to Effs: move>

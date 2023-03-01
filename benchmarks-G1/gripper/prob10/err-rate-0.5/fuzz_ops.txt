@@ -1,0 +1,2 @@
+<Add Atom carry(?room, ?obj) to Prec: pick>
+<Add Atom =(?from, ?from) to Prec: move>

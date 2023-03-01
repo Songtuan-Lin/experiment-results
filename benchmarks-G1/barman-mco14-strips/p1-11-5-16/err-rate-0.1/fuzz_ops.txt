@@ -1,0 +1,2 @@
+<Remove Atom holding(?h, ?c) from Pos-effs: grasp>
+<Remove Atom shaker-level(?s, ?l1) from Pos-effs: empty-shaker>

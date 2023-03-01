@@ -1,0 +1,4 @@
+<Component: Remove Atom driving(?truck, ?truck) from Precondition: drive-truck | Condition: False>
+<Component: Remove Atom in(?loc-to, ?loc-from) from Precondition: walk | Condition: False>
+0.0062900140000000035
+memory: 13.171875

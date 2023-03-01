@@ -1,0 +1,4 @@
+<Component: Add Atom gripper-rel(?r, ?dgxrel, ?gyrel) to Effects: gripper-left | Condition: False>
+<Component: Remove Atom object-done(?o) from Precondition: finish-object | Condition: False>
+0.015991432
+memory: 14.5390625

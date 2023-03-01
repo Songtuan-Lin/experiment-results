@@ -1,0 +1,3 @@
+<Add Atom driving(?loc-from, ?loc-to) to Neg-effs: drive-truck>
+<Add Atom empty(?truck) to Neg-effs: load-truck>
+<Add Atom in(?loc-from, ?loc-from) to Neg-effs: walk>

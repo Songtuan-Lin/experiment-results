@@ -1,0 +1,3 @@
+<Add Atom instack(?card) to Prec: home-to-col-a>
+<Remove Atom on(?card, ?newcard) from Pos-effs: move-col-to-col>
+<Add Atom faceup(?newcard) to Prec: move-col-to-col-b>

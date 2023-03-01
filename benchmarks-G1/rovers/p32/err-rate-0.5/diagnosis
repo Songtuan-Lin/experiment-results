@@ -1,0 +1,5 @@
+<Component: Add Atom at(?x, ?p) to Effects: sample_soil | Condition: False>
+<Component: Add Atom supports(?i, ?m) to Effects: take_image | Condition: False>
+<Component: Add Atom at_rock_sample(?y) to Effects: navigate | Condition: False>
+0.057759192
+memory: 14.5390625

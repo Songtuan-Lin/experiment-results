@@ -1,0 +1,4 @@
+<Add Atom neighbor(?p, ?p) to Neg-effs: destroy-block>
+<Add Atom neighbor(?to, ?from) to Prec: move-up>
+<Add Atom succ(?hafter, ?hafter) to Effs: place-block>
+<Add Atom is-depot(?p) to Neg-effs: create-block>

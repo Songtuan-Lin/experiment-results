@@ -1,0 +1,3 @@
+<Add Atom connect(?from-area, ?from-area, ?pipe) to Prec: push-end>
+<Add Atom unitary(?pipe) to Prec: pop-unitarypipe>
+<Add Atom is-product(?batch-atom-in, ?product-last-batch) to Prec: pop-start>

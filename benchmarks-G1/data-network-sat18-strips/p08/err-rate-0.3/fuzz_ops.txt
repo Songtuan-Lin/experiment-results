@@ -1,0 +1,2 @@
+<Add Atom sum(?size, ?size, ?after) to Effs: send>
+<Add Atom less-equal(?size, ?size) to Effs: save>

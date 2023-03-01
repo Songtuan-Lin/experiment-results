@@ -1,0 +1,2 @@
+<Add Atom passenger(?f) to Prec: board>
+<Add Atom =(?f1, ?f1) to Prec: up>

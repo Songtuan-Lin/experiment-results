@@ -1,0 +1,3 @@
+<Add Atom neighbor(?rpos, ?bpos) to Effs: remove-block>
+<Add Atom neighbor(?to, ?from) to Effs: move-up>
+<Add Atom neighbor(?to, ?to) to Effs: move>

@@ -1,0 +1,4 @@
+<Component: Remove Atom left(?y, ?x) from Precondition: up | Condition: False>
+<Component: Remove Atom robot-has(?r, ?c2) from Precondition: change-color | Condition: False>
+0.005066558999999998
+memory: 13.17578125

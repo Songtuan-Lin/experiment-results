@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom holding(?r, ?o) from Effects: put-right | Condition: False>
+<Component: Remove Atom base-obstacle(?ox, ?basey) from Precondition: put-left | Condition: False>
+<Component: Remove Atom parked(?r) from Effects: base-left | Condition: False>
+0.018268154999999994
+memory: 14.5390625

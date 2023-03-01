@@ -1,0 +1,4 @@
+<Add Atom down(?y, ?y) to Neg-effs: up>
+<Remove Atom clear(?x) from Pos-effs: left>
+<Remove Atom painted(?y, ?c) from Pos-effs: paint-up>
+<Add Atom left(?x, ?x) to Prec: down>

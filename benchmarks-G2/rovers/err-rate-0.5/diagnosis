@@ -1,0 +1,5 @@
+<Component: Add Atom at_soil_sample(?y) to Effects: communicate_rock_data | Condition: False>
+<Component: Add Atom communicated_rock_data(?p) to Effects: sample_soil | Condition: False>
+<Component: Add Atom equipped_for_soil_analysis(?x) to Effects: sample_rock | Condition: False>
+0.955708008
+memory: 47.29296875

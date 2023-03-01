@@ -1,0 +1,2 @@
+<Add Atom empty(?c) to Neg-effs: leave>
+<Add Atom shaked(?d) to Neg-effs: pour-shot-to-clean-shaker>

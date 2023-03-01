@@ -1,0 +1,686 @@
+INFO     planner time limit: 300s
+INFO     planner memory limit: None
+
+INFO     Running translator.
+INFO     translator stdin: None
+INFO     translator time limit: 299.98s
+INFO     translator memory limit: None
+INFO     translator command line string: /home/users/u6162630/Packages/anaconda3/bin/python /home/users/u6162630/Codes/downward/builds/release/bin/translate/translate.py /home/users/u6162630/Datasets/downward-benchmarks/termes-sat18-strips/domain.pddl /home/users/u6162630/Datasets/downward-benchmarks/termes-sat18-strips/p03.pddl --sas-file /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/termes-sat18-strips/p03/output.sas
+Parsing...
+Parsing: [0.000s CPU, 0.001s wall-clock]
+Normalizing task... [0.000s CPU, 0.000s wall-clock]
+Instantiating...
+Generating Datalog program... [0.000s CPU, 0.000s wall-clock]
+Normalizing Datalog program...
+Normalizing Datalog program: [0.000s CPU, 0.001s wall-clock]
+Preparing model... [0.000s CPU, 0.001s wall-clock]
+Generated 52 rules.
+Computing model... [0.030s CPU, 0.023s wall-clock]
+1484 relevant atoms
+4647 auxiliary atoms
+6131 final queue length
+7524 total queue pushes
+Completing instantiation... [0.020s CPU, 0.019s wall-clock]
+Instantiating: [0.050s CPU, 0.045s wall-clock]
+Computing fact groups...
+Finding invariants...
+6 initial candidates
+Finding invariants: [0.000s CPU, 0.001s wall-clock]
+Checking invariant weight... [0.000s CPU, 0.000s wall-clock]
+Instantiating groups... [0.000s CPU, 0.000s wall-clock]
+Collecting mutex groups... [0.000s CPU, 0.000s wall-clock]
+Choosing groups...
+1 uncovered facts
+Choosing groups: [0.000s CPU, 0.000s wall-clock]
+Building translation key... [0.000s CPU, 0.000s wall-clock]
+Computing fact groups: [0.000s CPU, 0.002s wall-clock]
+Building STRIPS to SAS dictionary... [0.000s CPU, 0.000s wall-clock]
+Building dictionary for full mutex groups... [0.000s CPU, 0.000s wall-clock]
+Building mutex information...
+Building mutex information: [0.000s CPU, 0.000s wall-clock]
+Translating task...
+Processing axioms...
+Simplifying axioms... [0.000s CPU, 0.000s wall-clock]
+Translator axioms removed by simplifying: 0
+Computing negative axioms... [0.000s CPU, 0.000s wall-clock]
+Processing axioms: [0.000s CPU, 0.001s wall-clock]
+Translating task: [0.020s CPU, 0.022s wall-clock]
+226 effect conditions simplified
+0 implied preconditions added
+Detecting unreachable propositions...
+123 operators removed
+0 axioms removed
+23 propositions removed
+Detecting unreachable propositions: [0.010s CPU, 0.009s wall-clock]
+Reordering and filtering variables...
+17 of 17 variables necessary.
+0 of 16 mutex groups necessary.
+1112 of 1112 operators necessary.
+0 of 0 axiom rules necessary.
+Reordering and filtering variables: [0.000s CPU, 0.003s wall-clock]
+Translator variables: 17
+Translator derived variables: 0
+Translator facts: 108
+Translator goal facts: 16
+Translator mutex groups: 0
+Translator total mutex groups size: 0
+Translator operators: 1112
+Translator axioms: 0
+Translator task size: 6533
+Translator peak memory: 33204 KB
+Writing output... [0.010s CPU, 0.004s wall-clock]
+Done! [0.090s CPU, 0.087s wall-clock]
+translate exit code: 0
+
+INFO     Running search (release).
+INFO     search stdin: /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/termes-sat18-strips/p03/output.sas
+INFO     search time limit: 299.87s
+INFO     search memory limit: None
+INFO     search command line string: /home/users/u6162630/Codes/downward/builds/release/bin/downward --evaluator 'hlm=lmcount(lm_factory=lm_reasonable_orders_hps(lm_rhw()),transform=adapt_costs(one),pref=false)' --evaluator 'hff=ff(transform=adapt_costs(one))' --search 'lazy_greedy([hff,hlm],preferred=[hff,hlm],cost_type=one,reopen_closed=false)' --internal-plan-file /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/termes-sat18-strips/p03/sas_plan < /home/users/u6162630/Datasets/fuzzy-neg-prec-domains/termes-sat18-strips/p03/output.sas
+[t=0s, 9880 KB] reading input...
+[t=0s, 10136 KB] done reading input!
+[t=0s, 10532 KB] Initializing landmark count heuristic...
+[t=0s, 10532 KB] Generating landmark graph...
+[t=0s, 10532 KB] Building a landmark graph with reasonable orders.
+[t=0s, 10532 KB] Initializing Exploration...
+[t=0s, 10820 KB] Generating landmarks using the RPG/SAS+ approach
+[t=0.00399916s, 10820 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0.00399916s, 10820 KB] Landmarks generation time: 0.00399916s
+[t=0.00399916s, 10820 KB] Discovered 36 landmarks, of which 7 are disjunctive and 0 are conjunctive.
+[t=0.00399916s, 10820 KB] 72 edges
+[t=0.00399916s, 10820 KB] approx. reasonable orders
+[t=0.00399916s, 10820 KB] approx. obedient reasonable orders
+[t=0.00399916s, 10820 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0.00399916s, 10820 KB] Landmarks generation time: 0.00399916s
+[t=0.00399916s, 10820 KB] Discovered 36 landmarks, of which 7 are disjunctive and 0 are conjunctive.
+[t=0.00399916s, 10820 KB] 72 edges
+[t=0.00399916s, 10820 KB] Landmark graph generation time: 0.00399916s
+[t=0.00399916s, 10820 KB] Landmark graph contains 36 landmarks, of which 7 are disjunctive and 0 are conjunctive.
+[t=0.00399916s, 10820 KB] Landmark graph contains 72 orderings.
+[t=0.00399916s, 10820 KB] Simplifying 1538 unary operators... done! [1532 unary operators]
+[t=0.00399916s, 10820 KB] time to simplify: 0s
+[t=0.00399916s, 10820 KB] Initializing additive heuristic...
+[t=0.00399916s, 10820 KB] Initializing FF heuristic...
+[t=0.00399916s, 10820 KB] Building successor generator...done!
+[t=0.00799862s, 10968 KB] peak memory difference for successor generator creation: 148 KB
+[t=0.00799862s, 10968 KB] time for successor generation creation: 0.00399946s
+[t=0.00799862s, 10968 KB] Variables: 17
+[t=0.00799862s, 10968 KB] FactPairs: 108
+[t=0.00799862s, 10968 KB] Bytes per state: 8
+[t=0.00799862s, 10968 KB] Conducting lazy best first search, (real) bound = 2147483647
+[t=0.00799862s, 10968 KB] 17 initial landmarks, 16 goal landmarks
+[t=0.00799862s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 19
+[t=0.00799862s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 23
+[t=0.00799862s, 10968 KB] g=0, 1 evaluated, 0 expanded
+[t=0.00799862s, 10968 KB] Initial heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 19
+[t=0.00799862s, 10968 KB] Initial heuristic value for ff(transform = adapt_costs(one)): 23
+[t=0.00799862s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 21
+[t=0.00799862s, 10968 KB] g=1, 3 evaluated, 2 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 20
+[t=0.00799862s, 10968 KB] g=1, 7 evaluated, 6 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 18
+[t=0.00799862s, 10968 KB] g=2, 8 evaluated, 7 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 17
+[t=0.00799862s, 10968 KB] g=3, 9 evaluated, 8 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 19
+[t=0.00799862s, 10968 KB] g=4, 23 evaluated, 22 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 18
+[t=0.00799862s, 10968 KB] g=6, 29 evaluated, 28 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 16
+[t=0.00799862s, 10968 KB] g=7, 30 evaluated, 29 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 17
+[t=0.00799862s, 10968 KB] g=11, 69 evaluated, 68 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 15
+[t=0.00799862s, 10968 KB] g=11, 71 evaluated, 70 expanded
+[t=0.00799862s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 14
+[t=0.00799862s, 10968 KB] g=13, 76 evaluated, 75 expanded
+[t=0.0119986s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 13
+[t=0.0119986s, 10968 KB] g=20, 231 evaluated, 230 expanded
+[t=0.0119986s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 16
+[t=0.0119986s, 10968 KB] g=24, 256 evaluated, 255 expanded
+[t=0.0279981s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 12
+[t=0.0279981s, 10968 KB] g=32, 1135 evaluated, 1134 expanded
+[t=0.0279981s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 11
+[t=0.0279981s, 10968 KB] g=33, 1145 evaluated, 1144 expanded
+[t=0.0399981s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 10
+[t=0.0399981s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 14
+[t=0.0399981s, 10968 KB] g=47, 1762 evaluated, 1761 expanded
+[t=0.0399981s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 9
+[t=0.0399981s, 10968 KB] g=49, 1766 evaluated, 1765 expanded
+[t=0.0479981s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 13
+[t=0.0479981s, 10968 KB] g=49, 2043 evaluated, 2042 expanded
+[t=0.0479981s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 11
+[t=0.0479981s, 10968 KB] g=56, 2074 evaluated, 2073 expanded
+[t=0.0479981s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 8
+[t=0.0479981s, 10968 KB] g=59, 2080 evaluated, 2079 expanded
+[t=0.0519983s, 10968 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 7
+[t=0.0519983s, 10968 KB] g=67, 2237 evaluated, 2236 expanded
+[t=0.0519983s, 10968 KB] New best heuristic value for ff(transform = adapt_costs(one)): 10
+[t=0.0519983s, 10968 KB] g=60, 2399 evaluated, 2398 expanded
+[t=0.0559983s, 11068 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 6
+[t=0.0559983s, 11068 KB] g=72, 2624 evaluated, 2623 expanded
+[t=0.311998s, 13048 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 5
+[t=0.311998s, 13048 KB] g=94, 15722 evaluated, 15721 expanded
+[t=0.323998s, 13048 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 4
+[t=0.323998s, 13048 KB] New best heuristic value for ff(transform = adapt_costs(one)): 9
+[t=0.323998s, 13048 KB] g=122, 16316 evaluated, 16315 expanded
+[t=16.4597s, 115444 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 3
+[t=16.4597s, 115444 KB] g=220, 817347 evaluated, 817346 expanded
+[t=19.4637s, 139708 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 2
+[t=19.4637s, 139708 KB] g=272, 962656 evaluated, 962655 expanded
+[t=19.9117s, 143008 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 1
+[t=19.9117s, 143008 KB] g=276, 989075 evaluated, 989074 expanded
+[t=20.1277s, 144748 KB] New best heuristic value for ff(transform = adapt_costs(one)): 8
+[t=20.1277s, 144748 KB] g=429, 1001882 evaluated, 1001881 expanded
+[t=20.1437s, 144884 KB] New best heuristic value for ff(transform = adapt_costs(one)): 7
+[t=20.1437s, 144884 KB] g=431, 1002720 evaluated, 1002719 expanded
+[t=20.1437s, 144884 KB] New best heuristic value for ff(transform = adapt_costs(one)): 6
+[t=20.1437s, 144884 KB] g=435, 1002821 evaluated, 1002820 expanded
+[t=20.1517s, 144884 KB] New best heuristic value for ff(transform = adapt_costs(one)): 5
+[t=20.1517s, 144884 KB] g=457, 1003281 evaluated, 1003280 expanded
+[t=20.1517s, 144884 KB] New best heuristic value for ff(transform = adapt_costs(one)): 4
+[t=20.1517s, 144884 KB] g=458, 1003282 evaluated, 1003281 expanded
+[t=20.1517s, 144884 KB] New best heuristic value for ff(transform = adapt_costs(one)): 3
+[t=20.1517s, 144884 KB] g=459, 1003291 evaluated, 1003290 expanded
+[t=20.1517s, 144884 KB] New best heuristic value for ff(transform = adapt_costs(one)): 2
+[t=20.1517s, 144884 KB] g=461, 1003295 evaluated, 1003294 expanded
+[t=20.1517s, 145016 KB] New best heuristic value for ff(transform = adapt_costs(one)): 1
+[t=20.1517s, 145016 KB] g=465, 1003332 evaluated, 1003331 expanded
+[t=20.1597s, 145016 KB] Solution found!
+[t=20.1637s, 145016 KB] Actual search time: 20.1557s
+create-block pos-2-0 (1)
+move pos-2-0 pos-1-0 n0 (1)
+place-block pos-1-0 pos-0-0 n0 n1 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-3-0 n0 n1 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-1-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+place-block pos-1-0 pos-0-0 n1 n2 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+place-block pos-2-1 pos-3-1 n0 n1 (1)
+move pos-2-1 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+move pos-1-1 pos-2-1 n0 (1)
+move-up pos-2-1 n0 pos-3-1 n1 (1)
+place-block pos-3-1 pos-3-0 n1 n2 (1)
+move-down pos-3-1 n1 pos-2-1 n0 (1)
+move pos-2-1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-1-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-2-1 n0 n1 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+move-up pos-1-1 n0 pos-2-1 n1 (1)
+place-block pos-2-1 pos-3-1 n1 n2 (1)
+move-down pos-2-1 n1 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-2-1 n1 n0 (1)
+move pos-1-1 pos-2-1 n0 (1)
+move pos-2-1 pos-2-0 n0 (1)
+place-block pos-2-0 pos-1-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-2-1 n0 n1 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+move-up pos-1-1 n0 pos-2-1 n1 (1)
+move-up pos-2-1 n1 pos-3-1 n2 (1)
+place-block pos-3-1 pos-3-0 n2 n3 (1)
+move-down pos-3-1 n2 pos-2-1 n1 (1)
+remove-block pos-2-1 pos-3-1 n2 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+move pos-2-0 pos-1-0 n0 (1)
+move pos-1-0 pos-1-1 n0 (1)
+place-block pos-1-1 pos-1-0 n0 n1 (1)
+remove-block pos-1-1 pos-2-1 n1 n0 (1)
+move pos-1-1 pos-2-1 n0 (1)
+place-block pos-2-1 pos-1-1 n0 n1 (1)
+remove-block pos-2-1 pos-3-1 n1 n0 (1)
+move-up pos-2-1 n0 pos-1-1 n1 (1)
+place-block pos-1-1 pos-1-0 n1 n2 (1)
+move-down pos-1-1 n1 pos-2-1 n0 (1)
+move pos-2-1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move-up pos-2-1 n0 pos-1-1 n1 (1)
+move-up pos-1-1 n1 pos-1-0 n2 (1)
+place-block pos-1-0 pos-0-0 n2 n3 (1)
+move-down pos-1-0 n2 pos-1-1 n1 (1)
+move-down pos-1-1 n1 pos-2-1 n0 (1)
+move pos-2-1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+place-block pos-2-0 pos-2-1 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-2-1 n1 (1)
+place-block pos-2-1 pos-1-1 n1 n2 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-2-1 n1 (1)
+move-up pos-2-1 n1 pos-1-1 n2 (1)
+place-block pos-1-1 pos-1-0 n2 n3 (1)
+move-down pos-1-1 n2 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-2-1 n1 (1)
+move-up pos-2-1 n1 pos-1-1 n2 (1)
+move-up pos-1-1 n2 pos-1-0 n3 (1)
+place-block pos-1-0 pos-0-0 n3 n4 (1)
+move-down pos-1-0 n3 pos-1-1 n2 (1)
+remove-block pos-1-1 pos-1-0 n3 n2 (1)
+move-down pos-1-1 n2 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-1-2 n0 n1 (1)
+move-up pos-2-2 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+remove-block pos-2-0 pos-2-1 n1 n0 (1)
+destroy-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-2-2 n0 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+remove-block pos-1-2 pos-1-1 n2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-2-1 n0 n1 (1)
+remove-block pos-2-2 pos-1-2 n1 n0 (1)
+move pos-2-2 pos-1-2 n0 (1)
+move-up pos-1-2 n0 pos-1-1 n1 (1)
+place-block pos-1-1 pos-2-1 n1 n2 (1)
+remove-block pos-1-1 pos-1-0 n2 n1 (1)
+move-down pos-1-1 n1 pos-0-1 n0 (1)
+place-block pos-0-1 pos-0-2 n0 n1 (1)
+remove-block pos-0-1 pos-1-1 n1 n0 (1)
+move pos-0-1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-1-2 n0 n1 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+place-block pos-1-1 pos-0-1 n0 n1 (1)
+remove-block pos-1-1 pos-1-2 n1 n0 (1)
+move-up pos-1-1 n0 pos-0-1 n1 (1)
+place-block pos-0-1 pos-0-2 n1 n2 (1)
+move-down pos-0-1 n1 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-0-1 n1 n0 (1)
+move pos-1-1 pos-1-0 n0 (1)
+move pos-1-0 pos-2-0 n0 (1)
+place-block pos-2-0 pos-1-0 n0 n1 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-0-1 n0 n1 (1)
+move-up pos-1-1 n0 pos-0-1 n1 (1)
+remove-block pos-0-1 pos-0-2 n2 n1 (1)
+move pos-0-1 pos-0-2 n1 (1)
+move-down pos-0-2 n1 pos-1-2 n0 (1)
+place-block pos-1-2 pos-1-1 n0 n1 (1)
+move-up pos-1-2 n0 pos-1-1 n1 (1)
+move pos-1-1 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+move pos-1-0 pos-1-1 n1 (1)
+place-block pos-1-1 pos-0-1 n1 n2 (1)
+move-down pos-1-1 n1 pos-1-2 n0 (1)
+remove-block pos-1-2 pos-0-2 n1 n0 (1)
+move-up pos-1-2 n0 pos-1-1 n1 (1)
+move pos-1-1 pos-1-0 n1 (1)
+place-block pos-1-0 pos-1-1 n1 n2 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+move-up pos-1-0 n1 pos-1-1 n2 (1)
+place-block pos-1-1 pos-0-1 n2 n3 (1)
+move-down pos-1-1 n2 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+move-up pos-1-0 n1 pos-1-1 n2 (1)
+move pos-1-1 pos-2-1 n2 (1)
+place-block pos-2-1 pos-1-1 n2 n3 (1)
+move-up pos-2-1 n2 pos-1-1 n3 (1)
+move pos-1-1 pos-0-1 n3 (1)
+remove-block pos-0-1 pos-0-0 n4 n3 (1)
+move pos-0-1 pos-1-1 n3 (1)
+place-block pos-1-1 pos-0-1 n3 n4 (1)
+move-down pos-1-1 n3 pos-2-1 n2 (1)
+remove-block pos-2-1 pos-1-1 n3 n2 (1)
+move pos-2-1 pos-1-1 n2 (1)
+move-down pos-1-1 n2 pos-1-0 n1 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+destroy-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-1-0 n1 (1)
+remove-block pos-1-0 pos-1-1 n2 n1 (1)
+move pos-1-0 pos-1-1 n1 (1)
+place-block pos-1-1 pos-1-0 n1 n2 (1)
+remove-block pos-1-1 pos-2-1 n2 n1 (1)
+move pos-1-1 pos-2-1 n1 (1)
+place-block pos-2-1 pos-1-1 n1 n2 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-2-1 n1 (1)
+move-up pos-2-1 n1 pos-1-1 n2 (1)
+place-block pos-1-1 pos-1-0 n2 n3 (1)
+move-down pos-1-1 n2 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-2-1 n1 (1)
+move-up pos-2-1 n1 pos-1-1 n2 (1)
+move-up pos-1-1 n2 pos-1-0 n3 (1)
+place-block pos-1-0 pos-0-0 n3 n4 (1)
+move-down pos-1-0 n3 pos-1-1 n2 (1)
+remove-block pos-1-1 pos-1-0 n3 n2 (1)
+move-down pos-1-1 n2 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+destroy-block pos-2-0 (1)
+remove-block pos-2-0 pos-2-1 n1 n0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-1-2 n0 n1 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+remove-block pos-1-2 pos-1-1 n2 n1 (1)
+move pos-1-2 pos-1-1 n1 (1)
+place-block pos-1-1 pos-1-2 n1 n2 (1)
+remove-block pos-1-1 pos-1-0 n2 n1 (1)
+move pos-1-1 pos-1-0 n1 (1)
+place-block pos-1-0 pos-1-1 n1 n2 (1)
+move-down pos-1-0 n1 pos-2-0 n0 (1)
+remove-block pos-2-0 pos-1-0 n1 n0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-3-1 n0 (1)
+move pos-3-1 pos-3-2 n0 (1)
+place-block pos-3-2 pos-2-2 n0 n1 (1)
+move-up pos-3-2 n0 pos-2-2 n1 (1)
+remove-block pos-2-2 pos-1-2 n2 n1 (1)
+move pos-2-2 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-0-2 n0 (1)
+place-block pos-0-2 pos-0-3 n0 n1 (1)
+remove-block pos-0-2 pos-1-2 n1 n0 (1)
+move pos-0-2 pos-1-2 n0 (1)
+place-block pos-1-2 pos-0-2 n0 n1 (1)
+remove-block pos-1-2 pos-2-2 n1 n0 (1)
+move-up pos-1-2 n0 pos-0-2 n1 (1)
+move pos-0-2 pos-0-3 n1 (1)
+place-block pos-0-3 pos-0-2 n1 n2 (1)
+move-down pos-0-3 n1 pos-1-3 n0 (1)
+remove-block pos-1-3 pos-0-3 n1 n0 (1)
+place-block pos-1-3 pos-1-2 n0 n1 (1)
+move-up pos-1-3 n0 pos-1-2 n1 (1)
+remove-block pos-1-2 pos-1-1 n2 n1 (1)
+move pos-1-2 pos-1-1 n1 (1)
+place-block pos-1-1 pos-1-2 n1 n2 (1)
+move-down pos-1-1 n1 pos-1-0 n0 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move-up pos-2-1 n0 pos-1-1 n1 (1)
+move-up pos-1-1 n1 pos-1-2 n2 (1)
+place-block pos-1-2 pos-0-2 n2 n3 (1)
+move-down pos-1-2 n2 pos-1-1 n1 (1)
+move-down pos-1-1 n1 pos-1-0 n0 (1)
+move pos-1-0 pos-2-0 n0 (1)
+create-block pos-2-0 (1)
+move pos-2-0 pos-1-0 n0 (1)
+move-up pos-1-0 n0 pos-1-1 n1 (1)
+move-up pos-1-1 n1 pos-1-2 n2 (1)
+move-up pos-1-2 n2 pos-0-2 n3 (1)
+move-up pos-0-2 n3 pos-0-1 n4 (1)
+place-block pos-0-1 pos-0-0 n4 n5 (1)
+move-down pos-0-1 n4 pos-0-2 n3 (1)
+move-down pos-0-2 n3 pos-1-2 n2 (1)
+move-down pos-1-2 n2 pos-1-1 n1 (1)
+remove-block pos-1-1 pos-1-2 n2 n1 (1)
+move pos-1-1 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-1-3 n0 (1)
+place-block pos-1-3 pos-0-3 n0 n1 (1)
+remove-block pos-1-3 pos-1-2 n1 n0 (1)
+move pos-1-3 pos-1-2 n0 (1)
+place-block pos-1-2 pos-1-3 n0 n1 (1)
+remove-block pos-1-2 pos-1-1 n1 n0 (1)
+move-up pos-1-2 n0 pos-1-3 n1 (1)
+place-block pos-1-3 pos-0-3 n1 n2 (1)
+move-up pos-1-3 n1 pos-0-3 n2 (1)
+move-up pos-0-3 n2 pos-0-2 n3 (1)
+remove-block pos-0-2 pos-0-1 n4 n3 (1)
+move-down pos-0-2 n3 pos-0-3 n2 (1)
+move-down pos-0-3 n2 pos-1-3 n1 (1)
+move-down pos-1-3 n1 pos-1-2 n0 (1)
+place-block pos-1-2 pos-1-1 n0 n1 (1)
+move-up pos-1-2 n0 pos-1-3 n1 (1)
+move-up pos-1-3 n1 pos-0-3 n2 (1)
+remove-block pos-0-3 pos-0-2 n3 n2 (1)
+move-down pos-0-3 n2 pos-1-3 n1 (1)
+move-down pos-1-3 n1 pos-1-2 n0 (1)
+place-block pos-1-2 pos-2-2 n0 n1 (1)
+remove-block pos-1-2 pos-1-3 n1 n0 (1)
+move pos-1-2 pos-1-3 n0 (1)
+place-block pos-1-3 pos-2-3 n0 n1 (1)
+move pos-1-3 pos-1-2 n0 (1)
+remove-block pos-1-2 pos-1-1 n1 n0 (1)
+move pos-1-2 pos-1-3 n0 (1)
+place-block pos-1-3 pos-1-2 n0 n1 (1)
+move-up pos-1-3 n0 pos-1-2 n1 (1)
+move-up pos-1-2 n1 pos-0-2 n2 (1)
+remove-block pos-0-2 pos-0-1 n3 n2 (1)
+move-down pos-0-2 n2 pos-1-2 n1 (1)
+place-block pos-1-2 pos-2-2 n1 n2 (1)
+remove-block pos-1-2 pos-0-2 n2 n1 (1)
+move-down pos-1-2 n1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-1-0 n0 n1 (1)
+move-up pos-1-1 n0 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-1-3 n0 (1)
+remove-block pos-1-3 pos-2-3 n1 n0 (1)
+move pos-1-3 pos-2-3 n0 (1)
+place-block pos-2-3 pos-1-3 n0 n1 (1)
+move-up pos-2-3 n0 pos-1-3 n1 (1)
+move pos-1-3 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+place-block pos-1-1 pos-2-1 n0 n1 (1)
+remove-block pos-1-1 pos-1-2 n1 n0 (1)
+place-block pos-1-1 pos-1-0 n0 n1 (1)
+move pos-1-1 pos-1-2 n0 (1)
+move-up pos-1-2 n0 pos-0-2 n1 (1)
+remove-block pos-0-2 pos-0-3 n2 n1 (1)
+move-down pos-0-2 n1 pos-1-2 n0 (1)
+move pos-1-2 pos-1-1 n0 (1)
+place-block pos-1-1 pos-1-2 n0 n1 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+move-up pos-1-1 n0 pos-1-2 n1 (1)
+place-block pos-1-2 pos-1-3 n1 n2 (1)
+remove-block pos-1-2 pos-2-2 n2 n1 (1)
+move-down pos-1-2 n1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-1-0 n0 n1 (1)
+remove-block pos-1-1 pos-1-2 n1 n0 (1)
+move pos-1-1 pos-1-2 n0 (1)
+move-up pos-1-2 n0 pos-0-2 n1 (1)
+place-block pos-0-2 pos-0-3 n1 n2 (1)
+move-down pos-0-2 n1 pos-1-2 n0 (1)
+move pos-1-2 pos-1-1 n0 (1)
+remove-block pos-1-1 pos-1-0 n1 n0 (1)
+move pos-1-1 pos-1-2 n0 (1)
+place-block pos-1-2 pos-1-1 n0 n1 (1)
+remove-block pos-1-2 pos-2-2 n1 n0 (1)
+move pos-1-2 pos-2-2 n0 (1)
+place-block pos-2-2 pos-2-3 n0 n1 (1)
+move pos-2-2 pos-1-2 n0 (1)
+move-up pos-1-2 n0 pos-0-2 n1 (1)
+remove-block pos-0-2 pos-0-3 n2 n1 (1)
+move-down pos-0-2 n1 pos-1-2 n0 (1)
+move pos-1-2 pos-2-2 n0 (1)
+place-block pos-2-2 pos-1-2 n0 n1 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+remove-block pos-1-2 pos-1-3 n2 n1 (1)
+place-block pos-1-2 pos-1-1 n1 n2 (1)
+move pos-1-2 pos-0-2 n1 (1)
+remove-block pos-0-2 pos-0-1 n2 n1 (1)
+move pos-0-2 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-3-2 n0 n1 (1)
+remove-block pos-2-2 pos-1-2 n1 n0 (1)
+move pos-2-2 pos-1-2 n0 (1)
+move-up pos-1-2 n0 pos-0-2 n1 (1)
+place-block pos-0-2 pos-0-1 n1 n2 (1)
+move-down pos-0-2 n1 pos-1-2 n0 (1)
+remove-block pos-1-2 pos-0-2 n1 n0 (1)
+move pos-1-2 pos-0-2 n0 (1)
+place-block pos-0-2 pos-1-2 n0 n1 (1)
+move-up pos-0-2 n0 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+remove-block pos-2-2 pos-3-2 n1 n0 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+place-block pos-1-2 pos-1-3 n1 n2 (1)
+move-down pos-1-2 n1 pos-0-2 n0 (1)
+remove-block pos-0-2 pos-0-3 n1 n0 (1)
+move pos-0-2 pos-0-3 n0 (1)
+place-block pos-0-3 pos-0-2 n0 n1 (1)
+move-up pos-0-3 n0 pos-0-2 n1 (1)
+move pos-0-2 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+remove-block pos-2-2 pos-2-3 n1 n0 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+place-block pos-1-2 pos-0-2 n1 n2 (1)
+remove-block pos-1-2 pos-1-1 n2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-2-3 n0 n1 (1)
+remove-block pos-2-2 pos-2-1 n1 n0 (1)
+move pos-2-2 pos-2-1 n0 (1)
+move pos-2-1 pos-2-0 n0 (1)
+destroy-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move-up pos-2-1 n0 pos-1-1 n1 (1)
+remove-block pos-1-1 pos-0-1 n2 n1 (1)
+move pos-1-1 pos-1-2 n1 (1)
+place-block pos-1-2 pos-1-1 n1 n2 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+remove-block pos-2-2 pos-2-3 n1 n0 (1)
+place-block pos-2-2 pos-2-1 n0 n1 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+remove-block pos-1-2 pos-0-2 n2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-3-2 n0 n1 (1)
+remove-block pos-2-2 pos-1-2 n1 n0 (1)
+place-block pos-2-2 pos-2-3 n0 n1 (1)
+move pos-2-2 pos-1-2 n0 (1)
+remove-block pos-1-2 pos-0-2 n1 n0 (1)
+move pos-1-2 pos-2-2 n0 (1)
+place-block pos-2-2 pos-1-2 n0 n1 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-0-2 n0 (1)
+remove-block pos-0-2 pos-0-1 n1 n0 (1)
+move pos-0-2 pos-0-1 n0 (1)
+place-block pos-0-1 pos-0-2 n0 n1 (1)
+move-up pos-0-1 n0 pos-0-2 n1 (1)
+move pos-0-2 pos-1-2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+remove-block pos-2-2 pos-3-2 n1 n0 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+place-block pos-1-2 pos-0-2 n1 n2 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+remove-block pos-2-2 pos-2-1 n1 n0 (1)
+move pos-2-2 pos-2-1 n0 (1)
+place-block pos-2-1 pos-3-1 n0 n1 (1)
+move pos-2-1 pos-2-2 n0 (1)
+remove-block pos-2-2 pos-2-3 n1 n0 (1)
+place-block pos-2-2 pos-2-1 n0 n1 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+remove-block pos-1-2 pos-1-3 n2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-3-2 n0 n1 (1)
+remove-block pos-2-2 pos-2-1 n1 n0 (1)
+place-block pos-2-2 pos-2-3 n0 n1 (1)
+move-up pos-2-2 n0 pos-1-2 n1 (1)
+remove-block pos-1-2 pos-0-2 n2 n1 (1)
+move-down pos-1-2 n1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-2-1 n0 n1 (1)
+remove-block pos-2-2 pos-1-2 n1 n0 (1)
+move-up pos-2-2 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+destroy-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-2 n0 (1)
+move pos-2-2 pos-1-2 n0 (1)
+remove-block pos-1-2 pos-0-2 n1 n0 (1)
+move pos-1-2 pos-2-2 n0 (1)
+move-up pos-2-2 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+destroy-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-2 n0 (1)
+move pos-2-2 pos-1-2 n0 (1)
+remove-block pos-1-2 pos-1-3 n1 n0 (1)
+move pos-1-2 pos-2-2 n0 (1)
+move-up pos-2-2 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+destroy-block pos-2-0 (1)
+move-up pos-2-0 n0 pos-2-1 n1 (1)
+remove-block pos-2-1 pos-1-1 n2 n1 (1)
+move-down pos-2-1 n1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-1-2 n0 n1 (1)
+move-up pos-2-2 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+remove-block pos-2-0 pos-2-1 n1 n0 (1)
+destroy-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+remove-block pos-2-1 pos-1-1 n1 n0 (1)
+move pos-2-1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-2-1 n0 n1 (1)
+remove-block pos-2-2 pos-2-3 n1 n0 (1)
+move-up pos-2-2 n0 pos-3-2 n1 (1)
+place-block pos-3-2 pos-3-1 n1 n2 (1)
+move-down pos-3-2 n1 pos-2-2 n0 (1)
+remove-block pos-2-2 pos-3-2 n1 n0 (1)
+move-up pos-2-2 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-0-1 n0 n1 (1)
+move-up pos-1-1 n0 pos-2-1 n1 (1)
+remove-block pos-2-1 pos-3-1 n2 n1 (1)
+move-down pos-2-1 n1 pos-1-1 n0 (1)
+place-block pos-1-1 pos-1-0 n0 n1 (1)
+remove-block pos-1-1 pos-0-1 n1 n0 (1)
+move-up pos-1-1 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+destroy-block pos-2-0 (1)
+remove-block pos-2-0 pos-2-1 n1 n0 (1)
+destroy-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+remove-block pos-2-1 pos-3-1 n1 n0 (1)
+move pos-2-1 pos-2-2 n0 (1)
+place-block pos-2-2 pos-2-1 n0 n1 (1)
+remove-block pos-2-2 pos-1-2 n1 n0 (1)
+move-up pos-2-2 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-3-1 n0 (1)
+place-block pos-3-1 pos-3-2 n0 n1 (1)
+move-up pos-3-1 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+remove-block pos-2-0 pos-2-1 n1 n0 (1)
+destroy-block pos-2-0 (1)
+move pos-2-0 pos-2-1 n0 (1)
+move pos-2-1 pos-3-1 n0 (1)
+remove-block pos-3-1 pos-3-2 n1 n0 (1)
+place-block pos-3-1 pos-2-1 n0 n1 (1)
+move-up pos-3-1 n0 pos-2-1 n1 (1)
+move-down pos-2-1 n1 pos-2-0 n0 (1)
+remove-block pos-2-0 pos-1-0 n1 n0 (1)
+destroy-block pos-2-0 (1)
+remove-block pos-2-0 pos-2-1 n1 n0 (1)
+destroy-block pos-2-0 (1)
+[t=20.1637s, 145016 KB] Plan length: 478 step(s).
+[t=20.1637s, 145016 KB] Plan cost: 478
+[t=20.1637s, 145016 KB] Expanded 1004255 state(s).
+[t=20.1637s, 145016 KB] Reopened 0 state(s).
+[t=20.1637s, 145016 KB] Evaluated 1004256 state(s).
+[t=20.1637s, 145016 KB] Evaluations: 2008512
+[t=20.1637s, 145016 KB] Generated 3758612 state(s).
+[t=20.1637s, 145016 KB] Dead ends: 0 state(s).
+[t=20.1637s, 145016 KB] Number of registered states: 1004256
+[t=20.1637s, 145016 KB] Int hash set load factor: 1004256/2097152 = 0.478867
+[t=20.1637s, 145016 KB] Int hash set resizes: 21
+[t=20.1637s, 145016 KB] Search time: 20.1557s
+[t=20.1637s, 145016 KB] Total time: 20.1637s
+Solution found.
+Peak memory: 145016 KB
+search exit code: 0
+
+INFO     Planner time: 2e+01s

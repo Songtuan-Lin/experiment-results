@@ -1,0 +1,2 @@
+<Remove Atom harmony(?v, ?s2) from Pos-effs: succumb>
+<Remove Atom fears(?c, ?v) from Pos-effs: overcome>

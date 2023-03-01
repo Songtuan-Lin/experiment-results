@@ -1,0 +1,5 @@
+<Component: Add Atom at(?x, ?z) to Effects: drive | Condition: False>
+<Component: Add Atom lifting(?x, ?y) to Effects: lift | Condition: False>
+<Component: Add Atom available(?x) to Effects: load | Condition: False>
+0.025061799999999995
+memory: 14.53125

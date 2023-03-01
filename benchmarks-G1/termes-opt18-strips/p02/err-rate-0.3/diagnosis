@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom is-depot(?bpos) from Precondition: place-block | Condition: False>
+<Component: Add Atom has-block() to Effects: remove-block | Condition: False>
+0.008135788000000005
+memory: 13.17578125

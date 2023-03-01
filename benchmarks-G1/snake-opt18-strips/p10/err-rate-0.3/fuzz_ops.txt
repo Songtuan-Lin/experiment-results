@@ -1,0 +1,1 @@
+<Add Atom nextspawn(?spawnpoint, ?nextspawnpoint) to Neg-effs: move-and-eat-spawn>

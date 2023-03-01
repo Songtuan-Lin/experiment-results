@@ -1,0 +1,2 @@
+<Remove Atom treatment(?x, glazed) from Pos-effs: do-glaze>
+<Remove Atom available(?b) from Pos-effs: unload-highspeed-saw>

@@ -1,0 +1,2 @@
+<Remove Atom at(?p, ?to) from Pos-effs: move>
+<Remove Atom clear(?ppos) from Pos-effs: push-to-nongoal>

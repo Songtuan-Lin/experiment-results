@@ -1,0 +1,1 @@
+<Add Atom ispoint(?head) to Effs: move-and-eat-no-spawn>

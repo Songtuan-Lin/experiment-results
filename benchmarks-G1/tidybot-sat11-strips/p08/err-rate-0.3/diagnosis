@@ -1,0 +1,5 @@
+<Component: Add Atom sum-x(?dgxabs, ?dgxrel, ?dgxabs) to Effects: gripper-left | Condition: False>
+<Component: Remove Atom base-pos(?r, ?gxabs, ?dgyabs) from Precondition: gripper-down | Condition: False>
+<Component: Remove Atom leftof(?gxabs, ?ox) from Precondition: put-right | Condition: False>
+0.014063105999999999
+memory: 13.16796875

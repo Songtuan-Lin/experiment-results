@@ -1,0 +1,4 @@
+<Component: Add Atom base-pos(?r, ?dx, ?y) to Effects: base-right | Condition: False>
+<Component: Remove NegatedAtom surface(?dx, ?y) from Effects: base-left | Condition: False>
+0.026879869
+memory: 14.53125

@@ -1,0 +1,6 @@
+<Add Atom next(?l, ?l) to Prec: pour-shaker-to-shot>
+<Add Atom unshaked(?s) to Prec: shake>
+<Add Atom handempty(?h1) to Prec: refill-shot>
+<Add Atom unshaked(?s) to Prec: clean-shaker>
+<Add Atom next(?l, ?l1) to Prec: empty-shaker>
+<Add Atom ontable(?c) to Prec: leave>

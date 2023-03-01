@@ -1,0 +1,9 @@
+<Add Atom surface(?basex, ?gyabs) to Effs: put-left>
+<Add Atom surface(?gxabs, ?basey) to Effs: get-up>
+<Add Atom =(?o, ?o) to Effs: finish-object>
+<Add Atom above(?y, ?cy) to Effs: get-from-cart>
+<Remove Atom base-pos(?r, ?x, ?dy) from Pos-effs: base-down>
+<Remove Atom gripper-obstacle(?gxabs, ?dgyabs) from Pos-effs: gripper-up>
+<Add Atom leftof(?cx2, ?cx2) to Effs: base-cart-right>
+<Add Atom above(?cy, ?dy) to Neg-effs: base-up>
+<Add Atom sum-x(?gxabs, ?gxrel, ?basex) to Effs: gripper-down>

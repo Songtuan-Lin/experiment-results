@@ -1,0 +1,3 @@
+<Remove NegatedAtom usage(?s, ?before) from Effs: process>
+<Remove Atom usage(?s, ?after) from Pos-effs: release>
+<Add Atom sum(?size, ?size, ?size) to Effs: save>

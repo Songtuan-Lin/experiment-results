@@ -1,0 +1,4 @@
+<Component: Add NegatedAtom parked(?r) to Effects: unpark | Condition: False>
+<Component: Add NegatedAtom gripper-obstacle(?ox, ?basey) to Effects: get-right | Condition: False>
+0.01575658099999999
+memory: 13.171875

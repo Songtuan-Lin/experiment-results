@@ -1,0 +1,1 @@
+<Remove Atom at-curb-num(?car, ?curbdest) from Pos-effs: move-curb-to-curb>

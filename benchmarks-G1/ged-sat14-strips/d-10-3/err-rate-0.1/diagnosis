@@ -1,0 +1,5 @@
+<Component: Add Atom splicing-last() to Effects: begin-cut | Condition: False>
+<Component: Remove Atom duplicate(?x, ?x) from Precondition: end-cut-1 | Condition: False>
+<Component: Add Atom idle() to Effects: begin-transpose-splice | Condition: False>
+0.015277324999999994
+memory: 11.76171875

@@ -1,0 +1,6 @@
+<Add Atom unshaked(?d) to Neg-effs: pour-shot-to-clean-shaker>
+<Add Atom cocktail-part2(?b, ?d1) to Neg-effs: shake>
+<Add Atom next(?l1, ?l) to Neg-effs: pour-shot-to-used-shaker>
+<Add Atom holding(?h, ?c) to Neg-effs: grasp>
+<Add Atom next(?l, ?l1) to Neg-effs: empty-shaker>
+<Add Atom handempty(?h1) to Neg-effs: refill-shot>

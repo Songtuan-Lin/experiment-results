@@ -1,0 +1,2 @@
+<Add Atom boardsize-successor(?size_before, ?size_before) to Prec: do-saw-small>
+<Add Atom colour(?x, ?newcolour) to Prec: do-immersion-varnish>

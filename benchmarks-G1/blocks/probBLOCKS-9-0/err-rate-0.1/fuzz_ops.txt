@@ -1,0 +1,1 @@
+<Remove Atom on(?x, ?y) from Pos-effs: stack>

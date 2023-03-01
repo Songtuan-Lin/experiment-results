@@ -1,0 +1,3 @@
+<Add Atom full(?s) to Prec: sample_rock>
+<Add Atom have_rock_analysis(?r, ?y) to Prec: communicate_soil_data>
+<Add Atom can_traverse(?x, ?p, ?p) to Prec: sample_soil>

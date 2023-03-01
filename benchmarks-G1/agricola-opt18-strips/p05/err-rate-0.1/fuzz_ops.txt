@@ -1,0 +1,3 @@
+<Add Atom newborn() to Neg-effs: ag__finish_round_backhome>
+<Add Atom num_substract(?i, ?i, ?i) to Neg-effs: ag__harvest_breeding_animal>
+<Add Atom current_worker(?w2) to Neg-effs: family_growth>

@@ -1,0 +1,1 @@
+<Add Atom canstack(?ncells, ?card) to Neg-effs: sendtofree>

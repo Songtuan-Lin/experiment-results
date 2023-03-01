@@ -1,0 +1,4 @@
+<Component: Remove Atom loaded(?g, ?t, ?l2) from Precondition: unload | Condition: False>
+<Component: Add Atom on-sale(?g, ?m, ?l4) to Effects: buy | Condition: False>
+0.044617239
+memory: 14.53125

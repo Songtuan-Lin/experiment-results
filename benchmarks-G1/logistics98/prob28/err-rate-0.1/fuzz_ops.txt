@@ -1,0 +1,1 @@
+<Remove Atom in(?obj, ?airplane) from Pos-effs: load-airplane>

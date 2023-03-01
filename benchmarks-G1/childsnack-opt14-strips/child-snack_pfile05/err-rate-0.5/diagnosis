@@ -1,0 +1,4 @@
+<Component: Remove Atom no_gluten_content(?c) from Precondition: make_sandwich | Condition: False>
+<Component: Remove NegatedAtom notexist(?s) from Effects: make_sandwich_no_gluten | Condition: False>
+0.006430530999999996
+memory: 14.5390625

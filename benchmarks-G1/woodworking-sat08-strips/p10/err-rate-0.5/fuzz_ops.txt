@@ -1,0 +1,7 @@
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-spray-varnish>
+<Add Atom boardsize-successor(?size_before, ?size_before) to Neg-effs: do-saw-small>
+<Add Atom unused(?x) to Neg-effs: do-plane>
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-immersion-varnish>
+<Add Atom empty(?m) to Neg-effs: unload-highspeed-saw>
+<Add Atom contains-part(?b, ?p) to Neg-effs: cut-board-large>
+<Add Atom unused(?x) to Neg-effs: do-glaze>

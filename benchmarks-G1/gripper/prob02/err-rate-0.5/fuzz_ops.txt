@@ -1,0 +1,2 @@
+<Add Atom free(?from) to Prec: move>
+<Add Atom carry(?gripper, ?room) to Prec: drop>

@@ -1,0 +1,5 @@
+<Component: Add Atom colspace(?ncols) to Effects: sendtohome-b | Condition: False>
+<Component: Add Atom clear(?oldcard) to Effects: move | Condition: False>
+<Component: Add Atom home(?card) to Effects: sendtofree | Condition: False>
+0.01549183500000001
+memory: 14.53515625

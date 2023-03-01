@@ -1,0 +1,2 @@
+<Add Atom in-line(?loc, ?loc, ?loc) to Neg-effs: end-move>
+<Remove Atom occupied(?to) from Pos-effs: jump-continue-move>

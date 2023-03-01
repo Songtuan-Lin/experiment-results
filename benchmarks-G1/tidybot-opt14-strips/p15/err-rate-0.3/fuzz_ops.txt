@@ -1,0 +1,9 @@
+<Add Atom parked(?r) to Effs: ungrasp-cart>
+<Add Atom parked(?r) to Effs: unpark>
+<Add Atom above(?gyabs, ?basey) to Effs: get-right>
+<Add Atom surface(?ox, ?gyabs) to Neg-effs: get-left>
+<Add Atom leftof(?cx, ?x) to Effs: grasp-cart-left>
+<Add Atom surface(?x2, ?y) to Effs: base-cart-right>
+<Add Atom base-obstacle(?gxabs, ?basey) to Neg-effs: put-down>
+<Add Atom base-pos(?r, ?ox, ?gyabs) to Effs: put-right>
+<Add Atom above(?y1, ?cy2) to Effs: base-cart-up>

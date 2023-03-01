@@ -1,0 +1,4 @@
+<Component: Remove Atom lock-shape(?key, ?curpos) from Precondition: putdown | Condition: False>
+<Component: Add Atom at-robot(?nextpos) to Effects: move | Condition: False>
+0.047071727
+memory: 13.1328125

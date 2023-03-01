@@ -1,0 +1,5 @@
+<Add Atom successor(?cols, ?ncells) to Prec: sendtofree-b>
+<Add Atom =(?oldcard, ?oldcard) to Prec: move>
+<Add Atom on(?newcard, ?newcard) to Prec: colfromfreecell>
+<Add Atom on(?vhomecard, ?vhomecard) to Prec: homefromfreecell>
+<Add Atom colspace(?oldcard) to Prec: sendtonewcol>

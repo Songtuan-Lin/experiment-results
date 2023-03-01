@@ -1,0 +1,4 @@
+<Add Atom is-smooth(?oldsurface) to Neg-effs: do-grind>
+<Add Atom empty(?m) to Neg-effs: cut-board-small>
+<Add Atom boardsize-successor(?s1, ?s2) to Neg-effs: do-saw-large>
+<Add Atom boardsize(?b, ?size_before) to Neg-effs: do-saw-small>

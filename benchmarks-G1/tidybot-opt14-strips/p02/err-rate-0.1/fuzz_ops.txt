@@ -1,0 +1,3 @@
+<Add Atom leftof(?x, ?x) to Prec: base-cart-up>
+<Add Atom base-obstacle(?basex, ?basey) to Prec: gripper-left>
+<Add Atom leftof(?basex, ?gxabs) to Prec: get-up>

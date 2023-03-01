@@ -1,0 +1,4 @@
+<Component: Remove Atom boarded(?p) from Precondition: depart | Condition: False>
+<Component: Add Atom lift-at(?f2) to Effects: up | Condition: False>
+0.003179074000000004
+memory: 14.5390625

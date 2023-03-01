@@ -1,0 +1,7 @@
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Prec: do-grind>
+<Add Atom empty(?m) to Prec: load-highspeed-saw>
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Prec: do-plane>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: unload-highspeed-saw>
+<Add Atom boardsize-successor(?s1, ?s1) to Prec: cut-board-large>
+<Add Atom empty(?m) to Prec: cut-board-small>
+<Add Atom is-smooth(?surface) to Prec: do-immersion-varnish>

@@ -1,0 +1,4 @@
+<Add Atom unused(?x) to Neg-effs: do-spray-varnish>
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Add Atom boardsize-successor(?size_before, ?size_before) to Neg-effs: do-saw-small>
+<Add Atom unused(?x) to Neg-effs: do-glaze>

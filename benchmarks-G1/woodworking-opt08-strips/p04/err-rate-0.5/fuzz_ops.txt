@@ -1,0 +1,7 @@
+<Add Atom is-smooth(?surface) to Neg-effs: do-immersion-varnish>
+<Add Atom empty(?m) to Neg-effs: unload-highspeed-saw>
+<Add Atom treatment(?x, ?newtreatment) to Neg-effs: do-grind>
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Add Atom unused(?x) to Neg-effs: do-spray-varnish>
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-glaze>
+<Add Atom boardsize-successor(?s2, ?s2) to Neg-effs: do-saw-large>

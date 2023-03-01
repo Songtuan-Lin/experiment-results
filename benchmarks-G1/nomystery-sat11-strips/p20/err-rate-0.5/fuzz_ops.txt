@@ -1,0 +1,2 @@
+<Add Atom sum(?fuelpre, ?fueldelta, ?fueldelta) to Neg-effs: drive>
+<Add Atom in(?p, ?t) to Neg-effs: load>

@@ -1,0 +1,2 @@
+<Remove NegatedAtom locale(?n1, ?l11) from Effs: drink>
+<Add Atom craves(?v, ?l1) to Neg-effs: feast>

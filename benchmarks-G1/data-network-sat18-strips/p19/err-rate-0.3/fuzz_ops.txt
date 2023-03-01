@@ -1,0 +1,2 @@
+<Remove NegatedAtom usage(?to, ?before) from Effs: send>
+<Add Atom data-size(?d, ?size) to Neg-effs: save>

@@ -1,0 +1,1 @@
+<Remove NegatedAtom at_two(?element, ?xy_initial1, ?xy_initial2) from Effs: move_two>

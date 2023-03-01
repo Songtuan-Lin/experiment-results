@@ -1,0 +1,2 @@
+<Add Atom on(?x, ?x) to Prec: put-down>
+<Add Atom clear(?x) to Prec: pick-up>

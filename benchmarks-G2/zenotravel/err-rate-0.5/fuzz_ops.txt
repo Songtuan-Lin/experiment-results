@@ -1,0 +1,3 @@
+<Remove Atom at(?p, ?c) from Pos-effs: debark>
+<Add Atom flevel(?a) to Prec: board>
+<Remove Atom at(?a, ?c2) from Pos-effs: zoom>

@@ -1,0 +1,4 @@
+<Component: Add Atom contains(?s, ?i) to Effects: pour-shot-to-used-shaker | Condition: False>
+<Component: Add Atom shaked(?s) to Effects: shake | Condition: False>
+0.007899429
+memory: 11.7578125

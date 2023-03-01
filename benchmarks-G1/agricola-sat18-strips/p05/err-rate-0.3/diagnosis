@@ -1,0 +1,6 @@
+<Component: Add NegatedAtom newborn() to Effects: ag__finish_stage | Condition: False>
+<Component: Add Atom current_round(?r2) to Effects: ag__finish_stage | Condition: False>
+<Component: Add Atom stored_resource(?res) to Effects: collect_resource | Condition: False>
+<Component: Remove NegatedAtom plowed_fields() from Precondition: plow_field | Condition: False>
+0.08946071600000001
+memory: 14.20703125

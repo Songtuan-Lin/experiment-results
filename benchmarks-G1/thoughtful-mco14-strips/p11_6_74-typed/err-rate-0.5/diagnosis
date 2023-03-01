@@ -1,0 +1,7 @@
+<Component: Remove Atom king(?card) from Precondition: col-to-home | Condition: False>
+<Component: Remove NegatedAtom talonplayable(?card) from Effects: tal-to-home-c | Condition: False>
+<Component: Add Atom ace(?card) to Effects: turn-deck | Condition: False>
+<Component: Remove Atom ontalon(?homecard, ?homecard) from Precondition: col-to-home-b | Condition: False>
+<Component: Remove Atom bottomtalon(?c1) from Precondition: turn-deck | Condition: False>
+0.060784975
+memory: 14.5390625

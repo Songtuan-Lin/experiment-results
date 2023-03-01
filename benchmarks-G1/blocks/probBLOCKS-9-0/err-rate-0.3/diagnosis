@@ -1,0 +1,4 @@
+<Component: Remove Atom on(?x, ?x) from Precondition: unstack | Condition: False>
+<Component: Remove Atom =(?x, ?y) from Precondition: stack | Condition: False>
+0.007332961999999998
+memory: 13.16796875

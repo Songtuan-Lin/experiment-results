@@ -1,0 +1,3 @@
+<Add Atom suit(?ncells, ?vhomecard) to Prec: homefromfreecell>
+<Add Atom value(?newcard, ?newcard) to Prec: move>
+<Add Atom successor(?vhomecard, ?vhomecard) to Prec: sendtohome-b>

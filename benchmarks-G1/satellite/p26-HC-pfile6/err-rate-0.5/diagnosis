@@ -1,0 +1,4 @@
+<Component: Remove Atom on_board(?s, ?i) from Precondition: switch_on | Condition: False>
+<Component: Remove Atom on_board(?s, ?s) from Precondition: take_image | Condition: False>
+0.014563677000000004
+memory: 14.5390625

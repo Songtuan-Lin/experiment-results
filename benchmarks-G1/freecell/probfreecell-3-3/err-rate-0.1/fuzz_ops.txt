@@ -1,0 +1,1 @@
+<Add Atom canstack(?suit, ?vhomecard) to Neg-effs: sendtohome>

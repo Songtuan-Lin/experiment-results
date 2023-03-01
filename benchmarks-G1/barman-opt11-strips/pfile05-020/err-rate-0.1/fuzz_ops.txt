@@ -1,0 +1,2 @@
+<Add Atom holding(?h, ?c) to Neg-effs: grasp>
+<Add Atom handempty(?h1) to Neg-effs: clean-shaker>

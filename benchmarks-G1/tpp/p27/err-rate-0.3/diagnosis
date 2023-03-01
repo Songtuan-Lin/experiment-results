@@ -1,0 +1,4 @@
+<Component: Remove Atom stored(?g, ?l4) from Precondition: buy | Condition: False>
+<Component: Remove Atom connected(?from, ?from) from Precondition: drive | Condition: False>
+0.017414260000000008
+memory: 13.171875

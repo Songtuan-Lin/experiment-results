@@ -1,0 +1,2 @@
+<Remove Atom object-pos(?o, ?gxabs, ?oy) from Pos-effs: put-up>
+<Remove Atom base-pos(?r, ?x, ?dy) from Pos-effs: base-up>

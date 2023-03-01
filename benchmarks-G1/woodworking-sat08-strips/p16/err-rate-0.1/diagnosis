@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom colour(?x, ?oldcolour) from Effects: do-plane | Condition: False>
+<Component: Add Atom treatment(?x, glazed) to Effects: do-glaze | Condition: False>
+0.019612965000000003
+memory: 12.03515625

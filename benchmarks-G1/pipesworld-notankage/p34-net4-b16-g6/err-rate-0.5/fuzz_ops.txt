@@ -1,0 +1,3 @@
+<Add Atom is-product(?last-batch-atom, ?product-last-batch) to Prec: pop-unitarypipe>
+<Add Atom on(?last-batch-atom, ?to-area) to Prec: push-end>
+<Add Atom is-product(?batch-atom-in, ?product-batch-atom-in) to Prec: push-unitarypipe>

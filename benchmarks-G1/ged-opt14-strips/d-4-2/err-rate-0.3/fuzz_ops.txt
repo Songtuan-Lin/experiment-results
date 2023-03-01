@@ -1,0 +1,7 @@
+<Add Atom =(?y, ?y) to Effs: continue-splice-1>
+<Add Atom inverted(?x) to Effs: continue-inverse-splice-2>
+<Add Atom inverse-splicing() to Effs: end-inverse-splice-2>
+<Remove Atom idle() from Pos-effs: reset-1>
+<Add Atom idle() to Effs: begin-inverse-splice-special-case>
+<Remove NegatedAtom inverted(?x) from Effs: invert-single-gene-b>
+<Remove NegatedAtom have-cut() from Effs: begin-transverse-splice>

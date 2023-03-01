@@ -1,0 +1,1 @@
+<Remove NegatedAtom at_car(?x4, ?x2) from Effs: drive_tent_passenger>

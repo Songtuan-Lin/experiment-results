@@ -1,0 +1,4 @@
+<Component: Remove Atom above(?n1, ?n1) from Precondition: board | Condition: False>
+<Component: Add Atom above(?n2, ?n1) to Effects: board | Condition: False>
+0.0061511510000000005
+memory: 14.5390625

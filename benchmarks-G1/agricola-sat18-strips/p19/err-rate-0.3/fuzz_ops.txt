@@ -1,0 +1,7 @@
+<Add Atom max_worker(?wmax) to Neg-effs: build_room>
+<Add Atom max_worker(?w1) to Effs: take_grain>
+<Add Atom next_worker(?w1, ?w1) to Prec: family_growth>
+<Remove Atom current_worker(?w2) from Pos-effs: improve_home>
+<Add Atom next2_num(?i1, ?i2) to Effs: collect_cook_animal>
+<Add Atom next_stage(?s1, ?s2) to Neg-effs: ag__finish_stage>
+<Add Atom max_worker(?w2) to Effs: build_fences>

@@ -1,0 +1,7 @@
+<Add Atom num_substract(?i2, ?i2, ?i2) to Effs: ag__harvest_collecting_veg>
+<Add Atom next_stage(?s, ?s) to Prec: ag__harvest_collect_end>
+<Add Atom next_worker(?w1, ?w2) to Neg-effs: take_grain>
+<Remove Atom can_breed(sheep) from Pos-effs: ag__harvest_feed>
+<Remove Atom num_food(?i3) from Pos-effs: ag__harvest_collecting_fromoven>
+<Add Atom built_rooms(?room, ?wnewmax) to Effs: family_growth>
+<Add Atom newborn() to Effs: build_room>

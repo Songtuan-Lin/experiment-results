@@ -1,0 +1,3 @@
+<Add Atom calibrated(?s) to Prec: turn_to>
+<Add Atom calibration_target(?s, ?i) to Prec: switch_off>
+<Add Atom supports(?d, ?i) to Prec: calibrate>

@@ -1,0 +1,2 @@
+<Add Atom sum(?fueldelta, ?fuelpre, ?fuelpost) to Prec: drive>
+<Add Atom connected(?l, ?l) to Prec: unload>

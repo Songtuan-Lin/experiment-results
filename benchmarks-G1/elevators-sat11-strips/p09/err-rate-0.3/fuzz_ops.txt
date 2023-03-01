@@ -1,0 +1,2 @@
+<Add Atom reachable-floor(?lift, ?n1) to Prec: board>
+<Add Atom above(?f1, ?f1) to Prec: move-up-slow>

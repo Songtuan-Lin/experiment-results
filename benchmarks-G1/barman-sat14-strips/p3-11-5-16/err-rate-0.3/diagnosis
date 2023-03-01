@@ -1,0 +1,5 @@
+<Component: Add Atom empty(?c) to Effects: grasp | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: fill-shot | Condition: False>
+<Component: Remove Atom clean(?d) from Precondition: pour-shot-to-clean-shaker | Condition: False>
+0.019653457
+memory: 13.171875

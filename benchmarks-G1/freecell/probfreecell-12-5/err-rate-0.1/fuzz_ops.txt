@@ -1,0 +1,1 @@
+<Add Atom suit(?card, ?ncells) to Neg-effs: colfromfreecell>

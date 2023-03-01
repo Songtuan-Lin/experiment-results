@@ -1,0 +1,2 @@
+<Remove NegatedAtom harmony(?v, ?s1) from Effs: succumb>
+<Add Atom orbits(?n1, ?l2) to Effs: feast>

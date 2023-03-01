@@ -1,0 +1,1 @@
+<Add Atom blocked(?nextspawnpoint) to Effs: move-and-eat-spawn>

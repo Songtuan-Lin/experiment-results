@@ -1,0 +1,2 @@
+<Remove Atom fuel(?t, ?fuelpost) from Pos-effs: drive>
+<Remove Atom in(?p, ?t) from Pos-effs: load>

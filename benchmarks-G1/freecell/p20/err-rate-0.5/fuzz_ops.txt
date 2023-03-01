@@ -1,0 +1,5 @@
+<Add Atom canstack(?ncells, ?ncells) to Neg-effs: sendtofree>
+<Add Atom canstack(?ncells, ?card) to Neg-effs: colfromfreecell>
+<Add Atom successor(?suit, ?suit) to Neg-effs: sendtohome-b>
+<Add Atom on(?ncols, ?ncells) to Neg-effs: sendtofree-b>
+<Add Atom clear(?homecard) to Neg-effs: homefromfreecell>

@@ -1,0 +1,2 @@
+<Add Atom =(?i, ?i) to Neg-effs: switch_off>
+<Add Atom supports(?s, ?i) to Neg-effs: take_image>

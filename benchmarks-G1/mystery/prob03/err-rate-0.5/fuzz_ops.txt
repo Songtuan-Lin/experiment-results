@@ -1,0 +1,2 @@
+<Add Atom attacks(?s2, ?s1) to Prec: overcome>
+<Add Atom pleasure(?n2) to Prec: feast>

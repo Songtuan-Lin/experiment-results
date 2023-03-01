@@ -1,0 +1,2 @@
+<Remove Atom at(?airplane, ?loc-to) from Pos-effs: fly-airplane>
+<Add Atom =(?obj, ?loc) to Neg-effs: unload-truck>

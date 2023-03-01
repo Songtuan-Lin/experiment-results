@@ -1,0 +1,4 @@
+<Component: Add Atom home(?card) to Effects: sendtohome | Condition: False>
+<Component: Add Atom cellspace(?ncells) to Effects: colfromfreecell | Condition: False>
+0.018709814999999998
+memory: 13.16796875

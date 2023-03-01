@@ -1,0 +1,2 @@
+<Add Atom next(?l1, ?l2) to Neg-effs: buy>
+<Add Atom connected(?to, ?from) to Neg-effs: drive>

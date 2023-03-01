@@ -1,0 +1,3 @@
+<Add Atom =(?ncols, ?card) to Prec: sendtofree-b>
+<Add Atom value(?cols, ?ncols) to Prec: sendtonewcol>
+<Add Atom on(?oldcard, ?suit) to Prec: sendtohome>

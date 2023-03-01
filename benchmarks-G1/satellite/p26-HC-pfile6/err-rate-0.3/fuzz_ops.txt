@@ -1,0 +1,2 @@
+<Add Atom satellite(?i) to Neg-effs: switch_on>
+<Add Atom calibration_target(?i, ?d) to Neg-effs: calibrate>

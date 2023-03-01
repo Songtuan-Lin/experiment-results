@@ -1,0 +1,3 @@
+<Add Atom zeroy-rel(?gyrel) to Effs: gripper-left>
+<Add Atom surface(?x1, ?cy) to Effs: base-cart-left>
+<Add Atom leftof(?ox, ?basex) to Effs: put-left>

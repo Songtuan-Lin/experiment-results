@@ -1,0 +1,2 @@
+<Add Atom on_board(?i, ?i) to Neg-effs: switch_on>
+<Add Atom have_image(?s, ?d_new) to Neg-effs: turn_to>

@@ -1,0 +1,2 @@
+<Add Atom obj(?loc-to) to Neg-effs: fly-airplane>
+<Add Atom truck(?loc-from) to Neg-effs: drive-truck>

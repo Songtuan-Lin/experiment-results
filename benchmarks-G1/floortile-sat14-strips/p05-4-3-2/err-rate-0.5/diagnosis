@@ -1,0 +1,5 @@
+<Component: Add Atom clear(?x) to Effects: right | Condition: False>
+<Component: Add Atom painted(?y, ?c) to Effects: paint-up | Condition: False>
+<Component: Add Atom clear(?y) to Effects: right | Condition: False>
+0.011118497999999997
+memory: 14.5390625

@@ -1,0 +1,3 @@
+<Add Atom mode(?s) to Neg-effs: switch_off>
+<Add Atom on_board(?m, ?i) to Neg-effs: take_image>
+<Add Atom on_board(?i, ?s) to Neg-effs: calibrate>

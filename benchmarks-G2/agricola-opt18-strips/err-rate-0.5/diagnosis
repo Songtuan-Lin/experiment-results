@@ -1,0 +1,8 @@
+<Component: Remove Atom current_worker(noworker) from Precondition: ag__finish_round_backhome | Condition: False>
+<Component: Remove Atom plowed_fields() from Precondition: sow | Condition: False>
+<Component: Remove Atom newborn() from Effects: ag__finish_round_renew | Condition: False>
+<Component: Remove Atom harvest_phase(?s, harvest_feeding) from Precondition: ag__harvest_feed | Condition: False>
+<Component: Remove Atom num_food(?inow) from Precondition: ag__harvest_feed | Condition: False>
+<Component: Add Atom current_worker(?w2) to Effects: build_fences | Condition: False>
+0.7186519090000001
+memory: 28.91015625

@@ -1,0 +1,3 @@
+<Add Atom sum(?before, ?size, ?size) to Neg-effs: load>
+<Remove NegatedAtom usage(?s, ?before) from Effs: process>
+<Remove Atom saved(?d, ?s) from Pos-effs: save>

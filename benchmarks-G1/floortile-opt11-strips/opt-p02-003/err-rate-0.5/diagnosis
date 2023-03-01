@@ -1,0 +1,6 @@
+<Component: Remove Atom down(?y, ?x) from Precondition: right | Condition: False>
+<Component: Remove Atom robot-at(?r, ?y) from Precondition: up | Condition: False>
+<Component: Remove Atom free-color(?r) from Precondition: change-color | Condition: False>
+<Component: Remove Atom down(?y, ?x) from Precondition: left | Condition: False>
+0.006505925999999995
+memory: 14.5390625

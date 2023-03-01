@@ -1,0 +1,2 @@
+<Add Atom shaker-empty-level(?d, ?l1) to Neg-effs: pour-shot-to-used-shaker>
+<Add Atom dispenses(?d, ?i) to Neg-effs: fill-shot>

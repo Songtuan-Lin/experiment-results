@@ -1,0 +1,4 @@
+<Component: Remove Atom parked(?r) from Effects: base-right | Condition: False>
+<Component: Add Atom holding(?r, ?o) to Effects: get-left | Condition: False>
+0.014811691000000002
+memory: 13.17578125

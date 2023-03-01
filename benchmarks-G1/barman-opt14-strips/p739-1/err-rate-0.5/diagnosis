@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom next(?l, ?l1) from Effects: pour-shot-to-used-shaker | Condition: False>
+<Component: Remove NegatedAtom dispenses(?d, ?i) from Effects: fill-shot | Condition: False>
+<Component: Remove NegatedAtom next(?l1, ?l) from Effects: pour-shaker-to-shot | Condition: False>
+0.016903076999999996
+memory: 14.53515625

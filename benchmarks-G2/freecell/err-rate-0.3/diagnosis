@@ -1,0 +1,4 @@
+<Component: Add Atom clear(?oldcard) to Effects: move | Condition: False>
+<Component: Add Atom value(?cols, ?cols) to Effects: sendtonewcol | Condition: False>
+0.82466626
+memory: 32.91796875

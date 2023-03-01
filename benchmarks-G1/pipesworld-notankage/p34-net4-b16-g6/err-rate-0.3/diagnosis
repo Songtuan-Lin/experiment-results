@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom unitary(?pipe) from Effects: pop-unitarypipe | Condition: False>
+<Component: Remove NegatedAtom may-interface(?product-first-batch, ?product-first-batch) from Effects: push-start | Condition: False>
+0.014783658000000005
+memory: 13.16796875

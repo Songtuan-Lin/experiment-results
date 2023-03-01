@@ -1,0 +1,2 @@
+<Add Atom locale(?n1, ?l2) to Effs: feast>
+<Add Atom locale(?s2, ?s1) to Neg-effs: succumb>

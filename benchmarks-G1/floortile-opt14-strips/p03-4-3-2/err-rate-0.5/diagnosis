@@ -1,0 +1,5 @@
+<Component: Remove Atom down(?x, ?y) from Precondition: left | Condition: False>
+<Component: Remove Atom right(?x, ?y) from Precondition: right | Condition: False>
+<Component: Remove Atom right(?x, ?x) from Precondition: down | Condition: False>
+0.007928068000000003
+memory: 14.53125

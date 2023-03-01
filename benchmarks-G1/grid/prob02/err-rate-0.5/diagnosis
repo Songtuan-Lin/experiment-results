@@ -1,0 +1,5 @@
+<Component: Add Atom key-shape(?key, ?key) to Effects: pickup | Condition: False>
+<Component: Remove Atom =(?key, ?curpos) from Precondition: pickup | Condition: False>
+<Component: Remove Atom at(?key, ?key) from Precondition: putdown | Condition: False>
+0.006127185
+memory: 14.53125

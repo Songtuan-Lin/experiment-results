@@ -1,0 +1,2 @@
+<Remove Atom ontable(?c) from Pos-effs: leave>
+<Remove Atom empty(?p) from Pos-effs: empty-shot>

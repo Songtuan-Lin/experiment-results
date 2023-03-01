@@ -1,0 +1,1 @@
+<Add Atom home(?cells) to Neg-effs: homefromfreecell>

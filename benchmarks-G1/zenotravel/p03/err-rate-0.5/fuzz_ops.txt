@@ -1,0 +1,3 @@
+<Add Atom in(?a, ?a) to Prec: refuel>
+<Add Atom in(?l2, ?a) to Prec: fly>
+<Add Atom next(?c, ?a) to Prec: debark>

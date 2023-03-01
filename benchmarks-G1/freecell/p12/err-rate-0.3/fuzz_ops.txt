@@ -1,0 +1,3 @@
+<Add Atom on(?cells, ?newcard) to Neg-effs: colfromfreecell>
+<Add Atom on(?ncols, ?ncols) to Neg-effs: sendtofree-b>
+<Add Atom value(?oldcard, ?ncols) to Neg-effs: sendtonewcol>

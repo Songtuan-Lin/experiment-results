@@ -1,0 +1,5 @@
+<Component: Add Atom surface-condition(?p, ?surface) to Effects: do-saw-small | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-glaze | Condition: False>
+<Component: Add Atom available(?p) to Effects: do-saw-large | Condition: False>
+0.023137236000000005
+memory: 14.5390625

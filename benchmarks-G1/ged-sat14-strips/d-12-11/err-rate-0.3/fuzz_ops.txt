@@ -1,0 +1,7 @@
+<Add Atom s-next(?y, ?y) to Effs: begin-transpose-splice>
+<Add Atom splicing() to Neg-effs: reset-1>
+<Add Atom splice-point-1(?x) to Effs: invert-single-gene-b>
+<Add Atom duplicate(?x, ?y) to Effs: continue-splice-2>
+<Remove NegatedAtom idle() from Effs: begin-cut>
+<Add Atom duplicate(?y, ?y) to Effs: end-inverse-splice-2>
+<Add Atom normal(?x) to Effs: end-splice-2>

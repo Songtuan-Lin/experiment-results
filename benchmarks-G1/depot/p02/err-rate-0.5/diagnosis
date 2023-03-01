@@ -1,0 +1,4 @@
+<Component: Remove Atom lifting(?x, ?y) from Precondition: drop | Condition: False>
+<Component: Remove Atom in(?y, ?z) from Precondition: unload | Condition: False>
+0.005377709000000001
+memory: 14.53125

@@ -1,0 +1,2 @@
+<Remove Atom last-visited(?to) from Pos-effs: jump-continue-move>
+<Remove Atom free(?over) from Pos-effs: jump-new-move>

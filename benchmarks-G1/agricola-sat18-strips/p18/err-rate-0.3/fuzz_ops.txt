@@ -1,0 +1,7 @@
+<Add Atom current_stage(?s) to Effs: ag__harvest_collect_end>
+<Remove Atom num_food(?i2) from Pos-effs: ag__harvest_breeding_animal>
+<Remove Atom stored_resource(?res) from Pos-effs: collect_resource>
+<Add Atom max_worker(?maxw) to Effs: ag__finish_round_renew>
+<Remove NegatedAtom current_worker(?w1) from Effs: family_growth>
+<Add Atom ok() to Effs: ag__harvest_breed_end>
+<Remove NegatedAtom available_action(act_grain) from Effs: take_grain>

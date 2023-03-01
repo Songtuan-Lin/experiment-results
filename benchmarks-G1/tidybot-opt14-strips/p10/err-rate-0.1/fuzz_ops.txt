@@ -1,0 +1,3 @@
+<Remove NegatedAtom cart-pos(?c, ?cx, ?cy1) from Effs: base-cart-up>
+<Remove NegatedAtom parked(?r) from Effs: unpark>
+<Remove NegatedAtom not-pushed(?c) from Effs: grasp-cart-left>

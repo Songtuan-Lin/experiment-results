@@ -1,0 +1,4 @@
+<Add Atom shaker-level(?s, ?l) to Prec: pour-shaker-to-shot>
+<Add Atom ontable(?c) to Prec: leave>
+<Add Atom handempty(?h1) to Prec: pour-shot-to-used-shaker>
+<Add Atom ontable(?c) to Prec: grasp>

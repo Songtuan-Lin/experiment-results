@@ -1,0 +1,4 @@
+<Component: Remove Atom communicated_soil_data(?x) from Precondition: communicate_image_data | Condition: False>
+<Component: Remove Atom have_soil_analysis(?x, ?p) from Precondition: sample_soil | Condition: False>
+0.032616150000000003
+memory: 14.53125

@@ -1,0 +1,2 @@
+<Remove Atom served(?c) from Pos-effs: serve_sandwich>
+<Remove Atom ontray(?s, ?t) from Pos-effs: put_on_tray>

@@ -1,0 +1,7 @@
+<Component: Remove Atom newborn() from Precondition: ag__finish_stage | Condition: False>
+<Component: Add Atom harvest_phase(?s, harvest_end) to Effects: ag__harvest_collect_end | Condition: False>
+<Component: Add Atom owned_animals(boar) to Effects: build_fences | Condition: False>
+<Component: Remove Atom fences_for(?a) from Precondition: collect_animal | Condition: False>
+<Component: Add Atom current_worker(?w2) to Effects: collect_resource | Condition: False>
+0.198701993
+memory: 27.3125

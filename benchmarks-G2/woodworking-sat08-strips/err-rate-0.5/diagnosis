@@ -1,0 +1,5 @@
+<Component: Add Atom colour(?p, natural) to Effects: do-saw-large | Condition: False>
+<Component: Add Atom treatment(?p, untreated) to Effects: do-saw-medium | Condition: False>
+<Component: Remove Atom grind-treatment-change(?oldtreatment, ?newtreatment) from Precondition: do-grind | Condition: False>
+0.374399114
+memory: 23.671875

@@ -1,0 +1,9 @@
+<Add Atom above(?y, ?cy) to Effs: base-cart-right>
+<Add Atom gripper-obstacle(?x, ?y) to Effs: finish-object>
+<Add Atom gripper-obstacle(?x2, ?y) to Effs: base-cart-left>
+<Remove Atom base-pos(?r, ?x, ?y2) from Pos-effs: base-cart-down>
+<Remove Atom gripper-empty(?r) from Pos-effs: put-down>
+<Remove NegatedAtom gripper-empty(?r) from Effs: get-from-cart>
+<Add Atom not-pushing(?r) to Effs: park>
+<Add Atom base-obstacle(?basex, ?oy) to Effs: get-down>
+<Add Atom base-pos(?r, ?x, ?y) to Effs: grasp-cart-above>

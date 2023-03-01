@@ -1,0 +1,5 @@
+<Component: Remove Atom empty(?c) from Precondition: grasp | Condition: False>
+<Component: Add Atom handempty(?h) to Effects: grasp | Condition: False>
+<Component: Add Atom shaked(?c) to Effects: grasp | Condition: False>
+0.011870628999999994
+memory: 13.17578125

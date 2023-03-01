@@ -1,0 +1,7 @@
+<Add Atom unused(?x) to Prec: do-spray-varnish>
+<Add Atom in-highspeed-saw(?b, ?m) to Prec: unload-highspeed-saw>
+<Add Atom grind-treatment-change(?oldtreatment, ?oldtreatment) to Prec: do-grind>
+<Add Atom boardsize-successor(?size_before, ?s2) to Prec: cut-board-large>
+<Add Atom boardsize-successor(?s1, ?size_after) to Prec: cut-board-medium>
+<Add Atom boardsize-successor(?size_before, ?s1) to Prec: do-saw-medium>
+<Add Atom empty(?m) to Prec: load-highspeed-saw>

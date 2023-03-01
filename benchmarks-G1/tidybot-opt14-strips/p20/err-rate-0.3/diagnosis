@@ -1,0 +1,4 @@
+<Component: Remove Atom object-pos(?o, ?x, ?y) from Precondition: finish-object | Condition: False>
+<Component: Remove NegatedAtom not-pushing(?r) from Effects: park | Condition: False>
+0.025103662
+memory: 13.16796875

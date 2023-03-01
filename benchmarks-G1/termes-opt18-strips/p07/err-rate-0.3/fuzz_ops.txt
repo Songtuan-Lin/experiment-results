@@ -1,0 +1,3 @@
+<Add Atom at(?to) to Neg-effs: move-up>
+<Add Atom height(?to, ?hfrom) to Prec: move-down>
+<Remove NegatedAtom height(?bpos, ?hbefore) from Effs: remove-block>

@@ -1,0 +1,7 @@
+<Add Atom finished() to Effs: continue-inverse-splice-1a>
+<Add Atom s-next(?x, ?x) to Neg-effs: end-splice-1>
+<Add Atom =(?x, ?y) to Prec: end-inverse-splice-1b>
+<Add Atom have-cut() to Effs: begin-cut>
+<Add Atom last-cut-point(?y) to Effs: continue-splice-1>
+<Add Atom normal(?x) to Effs: begin-transpose-splice>
+<Add Atom inverse-splicing-last() to Neg-effs: reset-1>

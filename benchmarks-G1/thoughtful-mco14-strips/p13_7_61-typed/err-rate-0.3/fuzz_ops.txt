@@ -1,0 +1,7 @@
+<Add Atom bottomcol(?newcard) to Prec: tal-to-col-d>
+<Add Atom toptalon(?newcard) to Prec: move-col-to-col-b>
+<Add Atom faceup(?cardabove) to Prec: tal-to-col-b>
+<Add Atom on(?card, ?card) to Prec: tal-to-col-g>
+<Add Atom bottomcol(?card) to Prec: tal-to-home-d>
+<Add Atom instack(?card) to Prec: turn-deck-a>
+<Add Atom ontalon(?oldcard, ?card) to Prec: tal-to-col>

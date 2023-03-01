@@ -1,0 +1,7 @@
+<Add Atom next_round(?r, ?r) to Effs: take_grain>
+<Remove Atom open_action(?act) from Pos-effs: ag__advance_round_normal>
+<Add Atom current_stage(?s) to Effs: ag__harvest_collecting_veg>
+<Add Atom next_worker(?wmax, ?wmax) to Effs: sow>
+<Add Atom ok() to Effs: ag__finish_round_renew>
+<Remove Atom current_worker(?newmax) from Pos-effs: ag__finish_round_backhome_withchild>
+<Remove NegatedAtom current_worker(?w1) from Effs: take_food>

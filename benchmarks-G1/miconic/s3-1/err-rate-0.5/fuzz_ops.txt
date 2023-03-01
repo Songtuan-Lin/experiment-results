@@ -1,0 +1,2 @@
+<Add Atom passenger(?p) to Neg-effs: board>
+<Add Atom =(?f, ?p) to Neg-effs: depart>

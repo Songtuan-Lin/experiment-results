@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom equipped_for_soil_analysis(?x) from Effects: navigate | Condition: False>
+<Component: Add Atom communicated_rock_data(?p) to Effects: communicate_soil_data | Condition: False>
+0.037732444000000004
+memory: 14.53515625

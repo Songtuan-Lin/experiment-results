@@ -1,0 +1,3 @@
+<Remove Atom at(?key, ?curpos) from Pos-effs: putdown>
+<Remove Atom open(?lockpos) from Pos-effs: unlock>
+<Remove Atom at-robot(?nextpos) from Pos-effs: move>

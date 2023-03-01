@@ -1,0 +1,4 @@
+<Component: Add Atom served(?f) to Effects: board | Condition: False>
+<Component: Remove Atom origin(?p, ?f) from Precondition: depart | Condition: False>
+0.002293354999999997
+memory: 13.16796875

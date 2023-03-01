@@ -1,0 +1,3 @@
+<Remove NegatedAtom usage(?s, ?before) from Effs: process>
+<Add Atom data-size(?d, ?size) to Prec: save>
+<Add Atom sum(?after, ?after, ?size) to Effs: load>

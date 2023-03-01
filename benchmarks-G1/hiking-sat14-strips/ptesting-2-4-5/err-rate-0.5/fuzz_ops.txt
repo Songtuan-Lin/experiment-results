@@ -1,0 +1,4 @@
+<Add Atom at_person(?x3, ?x4) to Effs: walk_together>
+<Remove NegatedAtom up(?x3) from Effs: put_down>
+<Add Atom next(?x3, ?x2) to Prec: drive_passenger>
+<Add Atom next(?x3, ?x2) to Effs: drive_tent>

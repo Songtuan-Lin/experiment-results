@@ -1,0 +1,2 @@
+<Remove Atom at_square(?element, ?xy_final) from Pos-effs: move_square>
+<Remove Atom clear(?xy_initial2) from Pos-effs: move_l_up>

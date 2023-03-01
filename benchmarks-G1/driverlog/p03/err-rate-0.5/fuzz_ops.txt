@@ -1,0 +1,3 @@
+<Add Atom path(?truck, ?truck) to Prec: board-truck>
+<Add Atom obj(?obj) to Prec: load-truck>
+<Add Atom path(?truck, ?loc) to Prec: disembark-truck>

@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom move-dir(?from, ?to, ?dir) from Effects: move | Condition: False>
+<Component: Remove NegatedAtom is-nongoal(?ppos) from Effects: push-to-nongoal | Condition: False>
+0.022909463000000005
+memory: 14.53515625

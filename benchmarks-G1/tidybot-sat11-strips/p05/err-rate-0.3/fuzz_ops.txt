@@ -1,0 +1,9 @@
+<Add Atom above(?dy, ?dy) to Neg-effs: base-up>
+<Add Atom sum-x(?basex, ?cgxrel, ?dgxabs) to Prec: gripper-right>
+<Add Atom leftof-rel(?x, ?x) to Effs: unpark>
+<Add Atom surface(?cx, ?y) to Effs: grasp-cart-right>
+<Add Atom sum-x(?cx, ?gxrel, ?cx) to Effs: put-on-cart>
+<Add Atom leftof(?dx, ?dx) to Effs: base-left>
+<Add Atom leftof(?basex, ?basex) to Effs: put-left>
+<Remove Atom base-obstacle(?x, ?y2) from Pos-effs: base-cart-up>
+<Add Atom leftof(?basex, ?gxabs) to Effs: put-right>

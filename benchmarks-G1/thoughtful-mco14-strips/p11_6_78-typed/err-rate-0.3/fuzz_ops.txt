@@ -1,0 +1,7 @@
+<Add Atom canstack(?card, ?cardbelow) to Prec: home-to-col>
+<Add Atom toptalon(?homecard) to Prec: tal-to-home-d>
+<Add Atom colsuccessor(?ncols, ?ncols) to Prec: home-to-col-a>
+<Add Atom value(?card, ?vhomecard) to Prec: col-to-home-b>
+<Add Atom canstack(?card, ?oldcard) to Prec: move-col-to-col-c>
+<Add Atom ontalon(?card, ?c1) to Prec: turn-deck>
+<Add Atom ace(?newcard) to Prec: move-col-to-col-b>

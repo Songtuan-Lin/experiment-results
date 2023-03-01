@@ -1,0 +1,2 @@
+<Add Atom package(?loc-to) to Prec: fly-airplane>
+<Add Atom =(?obj, ?loc) to Prec: load-truck>

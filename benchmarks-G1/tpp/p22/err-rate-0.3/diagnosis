@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom next(?l2, ?l1) from Effects: unload | Condition: False>
+<Component: Remove NegatedAtom stored(?g, ?l3) from Effects: load | Condition: False>
+0.017270739999999993
+memory: 13.17578125

@@ -1,0 +1,6 @@
+<Component: Add Atom communicated_image_data(?o, ?m) to Effects: communicate_image_data | Condition: False>
+<Component: Remove Atom have_image(?r, ?o, ?m) from Precondition: communicate_image_data | Condition: False>
+<Component: Add Atom communicated_rock_data(?p) to Effects: communicate_rock_data | Condition: False>
+<Component: Remove Atom calibrated(?i, ?r) from Precondition: take_image | Condition: False>
+0.142542379
+memory: 14.5390625

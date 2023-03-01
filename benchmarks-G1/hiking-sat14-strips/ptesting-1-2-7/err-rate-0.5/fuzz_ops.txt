@@ -1,0 +1,4 @@
+<Add Atom next(?x2, ?x3) to Effs: drive_tent>
+<Add Atom partners(?x6, ?x5, ?x3) to Neg-effs: walk_together>
+<Add Atom next(?x2, ?x2) to Neg-effs: put_up>
+<Add Atom next(?x2, ?x2) to Effs: put_down>

@@ -1,0 +1,4 @@
+<Add Atom treatment(?x, ?newtreatment) to Neg-effs: do-grind>
+<Add Atom colour(?x, ?newcolour) to Neg-effs: do-glaze>
+<Add Atom in-highspeed-saw(?b, ?m) to Neg-effs: load-highspeed-saw>
+<Add Atom is-smooth(?surface) to Neg-effs: cut-board-large>

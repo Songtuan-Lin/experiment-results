@@ -1,0 +1,5 @@
+<Component: Remove NegatedAtom newborn() from Precondition: ag__finish_round_backhome | Condition: False>
+<Component: Add Atom current_worker(?w2) to Effects: collect_cook_animal | Condition: False>
+<Component: Add Atom hold_round(?r, backhome) to Effects: ag__finish_round_backhome | Condition: False>
+0.037740987
+memory: 14.5390625

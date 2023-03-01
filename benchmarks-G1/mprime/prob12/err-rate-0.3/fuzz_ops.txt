@@ -1,0 +1,2 @@
+<Add Atom craves(?n, ?c) to Neg-effs: succumb>
+<Remove Atom locale(?n1, ?l1) from Pos-effs: feast>

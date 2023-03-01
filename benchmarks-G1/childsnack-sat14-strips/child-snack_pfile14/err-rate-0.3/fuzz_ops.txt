@@ -1,0 +1,2 @@
+<Add Atom no_gluten_bread(?b) to Neg-effs: make_sandwich>
+<Add Atom not_allergic_gluten(?c) to Neg-effs: serve_sandwich_no_gluten>

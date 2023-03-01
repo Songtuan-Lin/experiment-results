@@ -1,0 +1,1 @@
+<Remove Atom power_on(?i) from Pos-effs: switch_on>

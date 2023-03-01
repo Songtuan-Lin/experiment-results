@@ -1,0 +1,5 @@
+<Component: Add Atom calibrated(?i, ?r) to Effects: calibrate | Condition: False>
+<Component: Add Atom have_soil_analysis(?x, ?p) to Effects: sample_soil | Condition: False>
+<Component: Remove Atom have_image(?r, ?o, ?m) from Precondition: communicate_image_data | Condition: False>
+0.006674740999999998
+memory: 13.16796875

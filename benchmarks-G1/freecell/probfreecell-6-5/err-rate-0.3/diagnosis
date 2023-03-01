@@ -1,0 +1,4 @@
+<Component: Add Atom incell(?card) to Effects: sendtofree | Condition: False>
+<Component: Remove Atom on(?card, ?oldcard) from Precondition: sendtohome | Condition: False>
+0.008878047
+memory: 13.16796875

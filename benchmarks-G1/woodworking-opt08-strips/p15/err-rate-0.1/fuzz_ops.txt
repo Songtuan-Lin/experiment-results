@@ -1,0 +1,2 @@
+<Add Atom boardsize(?b, ?size_after) to Neg-effs: do-saw-medium>
+<Add Atom empty(?m) to Neg-effs: cut-board-small>

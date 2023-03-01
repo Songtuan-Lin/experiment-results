@@ -1,0 +1,4 @@
+<Remove Atom at_person(?x1, ?x3) from Pos-effs: drive_passenger>
+<Add Atom next(?x2, ?x3) to Effs: drive_tent>
+<Add Atom down(?x3) to Effs: put_up>
+<Add Atom at_tent(?x1, ?x4) to Effs: walk_together>

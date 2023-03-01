@@ -1,0 +1,5 @@
+<Component: Add Atom contains(?d, ?i) to Effects: pour-shot-to-used-shaker | Condition: False>
+<Component: Add Atom contains(?s, ?i) to Effects: fill-shot | Condition: False>
+<Component: Add Atom clean(?s) to Effects: clean-shot | Condition: False>
+0.022957975000000005
+memory: 13.171875

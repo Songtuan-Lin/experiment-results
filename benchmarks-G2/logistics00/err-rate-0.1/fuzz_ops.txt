@@ -1,0 +1,1 @@
+<Add Atom in-city(?obj, ?obj) to Neg-effs: load-truck>

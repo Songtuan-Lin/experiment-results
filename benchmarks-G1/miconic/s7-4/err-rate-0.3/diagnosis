@@ -1,0 +1,4 @@
+<Component: Remove NegatedAtom lift-at(?f1) from Effects: up | Condition: False>
+<Component: Add Atom served(?p) to Effects: depart | Condition: False>
+0.006391939999999999
+memory: 13.171875

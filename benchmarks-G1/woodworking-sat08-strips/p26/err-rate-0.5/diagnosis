@@ -1,0 +1,5 @@
+<Component: Add Atom treatment(?x, varnished) to Effects: do-immersion-varnish | Condition: False>
+<Component: Add Atom treatment(?x, ?newtreatment) to Effects: do-grind | Condition: False>
+<Component: Add Atom colour(?x, ?newcolour) to Effects: do-glaze | Condition: False>
+0.052384486
+memory: 14.5390625

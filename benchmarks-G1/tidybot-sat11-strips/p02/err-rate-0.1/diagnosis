@@ -1,0 +1,4 @@
+<Component: Add Atom base-obstacle(?basex, ?dgyabs) to Effects: gripper-down | Condition: False>
+<Component: Remove Atom leftof(?x, ?x) from Precondition: base-down | Condition: False>
+0.01603661
+memory: 11.953125

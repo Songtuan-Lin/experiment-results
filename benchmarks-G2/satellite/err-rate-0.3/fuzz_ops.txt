@@ -1,0 +1,2 @@
+<Add Atom pointing(?s, ?i) to Prec: switch_on>
+<Remove Atom have_image(?d, ?m) from Pos-effs: take_image>

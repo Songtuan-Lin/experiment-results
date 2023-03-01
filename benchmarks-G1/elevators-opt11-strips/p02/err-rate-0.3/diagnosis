@@ -1,0 +1,4 @@
+<Component: Remove Atom next(?f1, ?f2) from Precondition: move-down-slow | Condition: False>
+<Component: Add Atom above(?f, ?n2) to Effects: leave | Condition: False>
+0.006862453999999997
+memory: 13.17578125

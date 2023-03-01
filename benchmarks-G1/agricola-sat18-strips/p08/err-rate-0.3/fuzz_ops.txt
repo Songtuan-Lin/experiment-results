@@ -1,0 +1,7 @@
+<Add Atom current_round(?r) to Effs: ag__finish_round_backhome_withchild>
+<Add Atom food_required(?wmax, ?i2) to Effs: take_food>
+<Add Atom max_worker(?w2) to Effs: sow>
+<Remove NegatedAtom current_worker(?w1) from Effs: collect_resource>
+<Add Atom space_rooms(?room) to Effs: build_room>
+<Add Atom current_worker(?maxw) to Effs: ag__finish_round_renew>
+<Add Atom next_worker(?wmax, ?wmax) to Effs: take_grain>

@@ -1,0 +1,3 @@
+<Remove Atom at(?to) from Pos-effs: move>
+<Remove NegatedAtom at(?from) from Effs: move-up>
+<Add Atom has-block() to Effs: destroy-block>

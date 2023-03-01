@@ -1,0 +1,2 @@
+<Add Atom path(?driver, ?loc-from) to Neg-effs: walk>
+<Add Atom link(?truck, ?driver) to Neg-effs: board-truck>

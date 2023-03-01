@@ -1,0 +1,2 @@
+<Add Atom obj(?airplane) to Neg-effs: fly-airplane>
+<Add Atom truck(?obj) to Neg-effs: unload-airplane>

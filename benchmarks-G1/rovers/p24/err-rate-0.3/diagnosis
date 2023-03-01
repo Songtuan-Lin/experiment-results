@@ -1,0 +1,5 @@
+<Component: Add Atom communicated_soil_data(?p) to Effects: communicate_soil_data | Condition: False>
+<Component: Add Atom empty(?y) to Effects: drop | Condition: False>
+<Component: Add Atom communicated_image_data(?o, ?m) to Effects: communicate_image_data | Condition: False>
+0.044403069999999996
+memory: 13.16796875

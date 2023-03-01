@@ -1,0 +1,2 @@
+<Add Atom boardsize(?b, ?size_before) to Prec: do-saw-large>
+<Add Atom boardsize-successor(?size_after, ?size_before) to Prec: cut-board-small>

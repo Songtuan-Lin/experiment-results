@@ -1,0 +1,3 @@
+<Add Atom bottomcol(?newcard) to Prec: move-col-to-col-b>
+<Add Atom ontalon(?newcard, ?cardabove) to Prec: tal-to-col>
+<Add Atom ontalon(?homecard, ?card) to Prec: col-to-home>

@@ -1,0 +1,4 @@
+<Remove NegatedAtom has-block() from Effs: destroy-block>
+<Add Atom succ(?hto, ?hto) to Effs: move-down>
+<Add Atom at(?rpos) to Effs: place-block>
+<Add Atom succ(?hfrom, ?hto) to Neg-effs: move-up>

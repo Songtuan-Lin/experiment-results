@@ -1,0 +1,3 @@
+<Remove Atom lifting(?x, ?y) from Pos-effs: unload>
+<Remove Atom available(?x) from Pos-effs: load>
+<Remove Atom lifting(?x, ?y) from Pos-effs: lift>

@@ -1,0 +1,5 @@
+<Component: Add Atom holding(?r, ?o) to Effects: get-down | Condition: False>
+<Component: Remove Atom sum-x(?cgxabs, ?cgxrel, ?cgxabs) from Precondition: gripper-left | Condition: False>
+<Component: Remove Atom gripper-obstacle(?cx, ?y) from Precondition: base-left | Condition: False>
+0.20407334500000002
+memory: 19.7265625

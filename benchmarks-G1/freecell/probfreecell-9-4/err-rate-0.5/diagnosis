@@ -1,0 +1,5 @@
+<Component: Add Atom clear(?ncols) to Effects: sendtohome-b | Condition: False>
+<Component: Remove Atom incell(?card) from Precondition: sendtonewcol | Condition: False>
+<Component: Remove Atom colspace(?homecard) from Precondition: sendtohome | Condition: False>
+0.016724771
+memory: 14.53515625

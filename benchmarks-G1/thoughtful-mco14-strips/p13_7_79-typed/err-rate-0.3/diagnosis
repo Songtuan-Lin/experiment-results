@@ -1,0 +1,7 @@
+<Component: Remove Atom faceup(?card) from Precondition: move-col-to-col | Condition: False>
+<Component: Remove NegatedAtom talonplayable(?card) from Effects: turn-deck | Condition: False>
+<Component: Add Atom on(?card, ?newcard) to Effects: move-col-to-col | Condition: False>
+<Component: Add Atom talonplayable(?c1) to Effects: turn-deck-a | Condition: False>
+<Component: Add Atom talonplayable(?c1) to Effects: turn-deck | Condition: False>
+0.046273263999999995
+memory: 13.17578125

@@ -1,0 +1,4 @@
+<Component: Remove Atom boardsize(?b, ?s1) from Precondition: do-saw-large | Condition: False>
+<Component: Remove Atom boardsize-successor(?size_after, ?size_before) from Precondition: do-saw-medium | Condition: False>
+0.313812816
+memory: 22.03125

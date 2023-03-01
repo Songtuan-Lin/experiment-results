@@ -1,0 +1,2 @@
+<Add Atom is-smooth(?surface) to Prec: cut-board-small>
+<Add Atom boardsize-successor(?size_before, ?s1) to Prec: cut-board-medium>

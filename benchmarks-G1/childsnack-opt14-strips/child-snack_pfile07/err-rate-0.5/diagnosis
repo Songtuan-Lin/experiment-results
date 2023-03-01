@@ -1,0 +1,5 @@
+<Component: Remove Atom not_allergic_gluten(?c) from Precondition: serve_sandwich_no_gluten | Condition: False>
+<Component: Remove Atom at_kitchen_sandwich(?s) from Precondition: make_sandwich | Condition: False>
+<Component: Remove Atom no_gluten_sandwich(?s) from Precondition: make_sandwich_no_gluten | Condition: False>
+0.007801022000000005
+memory: 14.53515625

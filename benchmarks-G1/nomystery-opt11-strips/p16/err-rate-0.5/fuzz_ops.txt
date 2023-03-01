@@ -1,0 +1,2 @@
+<Add Atom connected(?l, ?l) to Prec: load>
+<Add Atom connected(?l1, ?l2) to Prec: drive>

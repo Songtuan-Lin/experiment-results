@@ -1,0 +1,4 @@
+<Remove NegatedAtom at_person(?x1, ?x2) from Effs: drive>
+<Add Atom next(?x2, ?x2) to Effs: drive_tent>
+<Add Atom at_tent(?x3, ?x2) to Effs: put_up>
+<Remove NegatedAtom at_car(?x4, ?x2) from Effs: drive_passenger>

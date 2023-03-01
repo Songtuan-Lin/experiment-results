@@ -1,0 +1,5 @@
+<Add Atom communicated_soil_data(?y) to Neg-effs: communicate_rock_data>
+<Add Atom supports(?i, ?m) to Neg-effs: take_image>
+<Add Atom have_rock_analysis(?x, ?p) to Neg-effs: sample_soil>
+<Add Atom visible_from(?o, ?x) to Neg-effs: communicate_image_data>
+<Add Atom store_of(?y, ?x) to Neg-effs: drop>

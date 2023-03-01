@@ -1,0 +1,4 @@
+<Component: Add Atom sum-y(?basey, ?dgyrel, ?basey) to Effects: gripper-up | Condition: False>
+<Component: Add NegatedAtom gripper-obstacle(?gxabs, ?basey) to Effects: put-down | Condition: False>
+0.012213381999999995
+memory: 13.16796875

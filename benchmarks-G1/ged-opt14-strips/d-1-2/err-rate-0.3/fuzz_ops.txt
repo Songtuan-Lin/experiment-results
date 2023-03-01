@@ -1,0 +1,7 @@
+<Add Atom cut-point-1(?x) to Prec: end-cut-2>
+<Remove Atom idle() from Pos-effs: reset-1>
+<Remove NegatedAtom s-first(?x) from Effs: continue-splice-1>
+<Add Atom s-last(?x) to Effs: continue-splice-2>
+<Remove NegatedAtom cw(?x, ?y) from Effs: begin-inverse-splice>
+<Add Atom gone(?y) to Effs: end-inverse-splice-1b>
+<Add Atom s-first(?y) to Effs: continue-inverse-splice-1b>

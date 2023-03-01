@@ -1,0 +1,4 @@
+<Component: Remove Atom is-product(?batch-atom-in, ?product-last-batch) from Precondition: pop-start | Condition: False>
+<Component: Remove Atom connect(?from-area, ?from-area, ?pipe) from Precondition: push-end | Condition: False>
+0.006670974999999996
+memory: 14.53125

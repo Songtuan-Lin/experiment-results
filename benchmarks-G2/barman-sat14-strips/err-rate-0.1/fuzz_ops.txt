@@ -1,0 +1,2 @@
+<Remove Atom shaked(?s) from Pos-effs: shake>
+<Add Atom next(?l1, ?l1) to Neg-effs: pour-shot-to-clean-shaker>

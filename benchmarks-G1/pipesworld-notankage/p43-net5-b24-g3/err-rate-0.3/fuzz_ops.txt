@@ -1,0 +1,2 @@
+<Remove Atom normal(?pipe) from Pos-effs: push-end>
+<Remove Atom pop-updating(?pipe) from Pos-effs: pop-start>

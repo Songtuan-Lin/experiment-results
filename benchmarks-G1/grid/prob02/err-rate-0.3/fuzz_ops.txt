@@ -1,0 +1,2 @@
+<Add Atom at(?curpos, ?nextpos) to Neg-effs: move>
+<Add Atom at-robot(?curpos) to Neg-effs: pickup>

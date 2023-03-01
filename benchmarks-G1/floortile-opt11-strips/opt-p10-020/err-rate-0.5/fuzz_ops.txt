@@ -1,0 +1,4 @@
+<Add Atom up(?y, ?x) to Prec: right>
+<Add Atom robot-at(?r, ?y) to Prec: left>
+<Add Atom robot-has(?r, ?c2) to Prec: change-color>
+<Add Atom free-color(?r) to Prec: paint-up>

@@ -1,0 +1,3 @@
+<Add Atom connected(?from, ?to) to Effs: send>
+<Add Atom saved(?d, ?s) to Prec: save>
+<Add Atom usage(?s, ?size) to Effs: release>

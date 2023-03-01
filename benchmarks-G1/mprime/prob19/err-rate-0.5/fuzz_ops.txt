@@ -1,0 +1,2 @@
+<Add Atom craves(?l21, ?n1) to Effs: drink>
+<Remove Atom harmony(?v, ?s1) from Pos-effs: overcome>

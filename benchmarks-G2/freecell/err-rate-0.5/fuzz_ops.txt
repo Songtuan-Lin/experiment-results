@@ -1,0 +1,5 @@
+<Remove Atom colspace(?ncols) from Pos-effs: sendtohome-b>
+<Add Atom successor(?card, ?newcard) to Prec: colfromfreecell>
+<Add Atom canstack(?card, ?cols) to Neg-effs: move-b>
+<Add Atom canstack(?oldcard, ?ncols) to Prec: sendtonewcol>
+<Add Atom on(?oldcard, ?card) to Prec: sendtofree>

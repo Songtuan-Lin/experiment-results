@@ -1,0 +1,4 @@
+<Component: Add Atom current_worker(?wnewmax) to Effects: family_growth | Condition: False>
+<Component: Add Atom open_action(?act) to Effects: ag__advance_round_normal | Condition: False>
+0.044772977000000005
+memory: 13.16796875

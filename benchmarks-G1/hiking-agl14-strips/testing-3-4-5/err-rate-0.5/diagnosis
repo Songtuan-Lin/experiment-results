@@ -1,0 +1,4 @@
+<Component: Add Atom down(?x3) to Effects: put_down | Condition: False>
+<Component: Add Atom at_person(?x1, ?x3) to Effects: drive_tent | Condition: False>
+0.004810116000000003
+memory: 14.53125

@@ -1,0 +1,2 @@
+<Remove NegatedAtom headsnake(?head) from Effs: move-and-eat-spawn>
+<Add Atom nextspawn(?newhead, ?head) to Neg-effs: move-and-eat-no-spawn>

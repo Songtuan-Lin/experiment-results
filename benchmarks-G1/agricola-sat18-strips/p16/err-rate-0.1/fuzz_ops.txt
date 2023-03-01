@@ -1,0 +1,3 @@
+<Remove Atom sown_veg(?v) from Pos-effs: sow>
+<Remove Atom can_breed(cattle) from Pos-effs: ag__harvest_feed>
+<Remove Atom current_worker(?w2) from Pos-effs: build_fences>

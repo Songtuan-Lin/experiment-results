@@ -1,0 +1,4 @@
+<Component: Remove Atom lifting(?p, ?x) from Precondition: unload | Condition: False>
+<Component: Add Atom clear(?z) to Effects: lift | Condition: False>
+0.149548487
+memory: 14.58984375

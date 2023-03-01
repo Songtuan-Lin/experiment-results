@@ -1,0 +1,4 @@
+<Component: Remove Atom passenger(?f) from Precondition: board | Condition: False>
+<Component: Remove Atom destin(?f2, ?f1) from Precondition: up | Condition: False>
+0.002609501
+memory: 13.16796875
